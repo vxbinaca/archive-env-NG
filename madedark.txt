@@ -1,4 +1,4 @@
-##YTPMV##
+## YTPMV
 youtube-VzTBhEKsaF0
 youtube-_ECdRRWLuKQ
 youtube-kUFTSS-gkOs
@@ -7,10 +7,14 @@ youtube-mE2dW4YEWUs
 youtube-r0j_ZNfqhDo
 youtube-vAz16471RDg
 
-##Kig##
+## Kig
 youtube-mrIi1Wja5mY
 
-##Riz##
+# Requested
+
+creator:"Summoning Salt"
+
+## Riz - TO BE UNDARKED IN SEPTEMBER 2018 PER RIZ
 youtube-XNkXaN-aGaA
 youtube-vz28Yd5mRlQ
 youtube-CXJek7CydM0
