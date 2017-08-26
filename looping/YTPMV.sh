@@ -431,4 +431,5 @@ tubeup --metadata=collection:ytpmv-mad youtube.com/user/VanFather
 tubeup --metadata=collection:ytpmv-mad youtube.com/xlethxleth
 tubeup --metadata=collection:ytpmv-mad youtube.com/user/oskari14/videos
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCB0HgUlDmyQJHDbdYI5kZB
+tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC_8TtUCe4moQYJej25mWuDg
 ./YTPMV.sh
