@@ -1,0 +1,12 @@
+creator:"★iteachvader★" ## http://www.youtube.com/user/iteachvader
+creator:"蓮奈理緒" ## http://www.youtube.com/channel/UCl_OKuPrL_5RR1gML6ce9Fg
+creator:"SparkeyJinJin자막" ## http://www.youtube.com/user/heymotherfuck
+creator:"FocusSight" ## http://www.youtube.com/user/FocusSight64
+creator:"スライム愛好家"` ## http://www.youtube.com/channel/UCR1YPkqVafBlRxaBhxv3AIA
+creator:"MajorMilk" ## http://www.youtube.com/channel/UC-v9d2zDU1Bjshz3r3CDhUA
+creator:"Gachimuchimaster" ## http://www.youtube.com/user/Gachimuchimaster
+creator:"msp" ## http://www.youtube.com/channel/UCGdLE95tWniUyIl1_BBjh1w
+creator:"1986makaroni" ## http://www.youtube.com/user/1986makaroni
+
+##Requested##
+creator:"Summoning Salt"
