@@ -160,4 +160,4 @@ tubeup --metadata=collection:kigvideos youtube.com/user/wtxyama/videos
 tubeup --metadata=collection:kigvideos youtube.com/user/xyzbid/videos
 tubeup --metadata=collection:kigvideos youtube.com/user/zact199x/videos
 tubeup --metadata=collection:kigvideos youtube.com/user/zerosikigami/videos
-./doller.sh
+./looping/doller.sh
