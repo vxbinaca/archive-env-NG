@@ -26,4 +26,4 @@
 ./targets/var.sh ;
 youtube-dl --rm-cache-dir ;
 pip3 install -U --user youtube-dl tubeup pip ;
-./targets/all.sh
+./all.sh
