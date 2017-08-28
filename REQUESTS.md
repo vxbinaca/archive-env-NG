@@ -3,7 +3,7 @@
 PMs on Discord and other places are getting out of hand. I need to funnel requests to a central point and make them uniform.
 
 ## Regular requests
-- Create an [Issue](https://github.com/vxbinaca/archive-env-NG/issues)
+- Create an [Issue](https://github.com/vxbinaca/archive-env-NG/issues/new)
 - Title it `Archival request`
 
 ### It should inclde these three things in this order:
