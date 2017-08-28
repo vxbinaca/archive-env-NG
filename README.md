@@ -1,5 +1,5 @@
 # archive-env-NG
-The archival environment, scripts, and video archive file I use to automate ingestion (and maintance) of targets
+The archival environment, scripts, and video archive file I use to fully automate ingestion (and maintance) of targets
 
 ### Requirements
 
@@ -33,8 +33,11 @@ Software:
 
 ### Starting the main script
 
-- `./all.sh` will all unlooped batch files
-- Be sure to peek inside of all to see which scripts are commented out, anything commented out is looped and designed to be run in a different virtual shell.
+- `./all.sh` will execute all unlooped batch files, this file is it's self looped and will run over and over again.
+- At the end of `all.sh` is a series of commands to generally tidy up the machine, and sync progress to and from this repo.
+
+
+Be sure to peek inside of all to see which scripts are commented out, anything commented out is looped and designed to be run in a different virtual shell. TODO: Shift scripts on `looping/` to another server to decrease load and increase resiliance to potenttial blocking from Youtube.
 
 
 The main script (all.sh) will handle many tasks that might cause snags automatically:
@@ -42,3 +45,8 @@ The main script (all.sh) will handle many tasks that might cause snags automatic
 - Keep the python instance up to date, so site compatability is at a maximum because fixes are quickly gotten.
 - Clear youtube-dls cache to prevent problems.
 - Push/pull new changes to the archive file to this repo automativally, which will then be pulled by any other new servers.
+
+
+### TODO
+
+- Re-factor URLS in scripts to reduce load time and have unifromity.
