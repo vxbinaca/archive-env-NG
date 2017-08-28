@@ -13,7 +13,7 @@ Software:
 - `python3-pip`
 - `ffmpeg`
 - `vim`
-- A terminal multiplexer (`screen` or `byobu`)
+- A terminal multiplexer (`screen` + `byobu` or `tmux`)
 
 ### Optional software (nice to have and my prefered setup)
 
