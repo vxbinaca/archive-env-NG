@@ -24,6 +24,9 @@
 ./targets/spoony.sh ;
 ./targets/var-jap.sh ;
 ./targets/var.sh ;
-youtube-dl --rm-cache-dir ;
-pip3 install -U --user youtube-dl tubeup pip ;
+youtube-dl --rm-cache-dir ; ## Cleanse youtube-dl cache
+pip3 install -U --user youtube-dl tubeup pip ; ## Update python envionment
+git pull ; ## Refresh from Git repo
+./extract.sh ; ## Pull newest video progress
+git pugh origin master ; ## Push to git repo
 ./all.sh
