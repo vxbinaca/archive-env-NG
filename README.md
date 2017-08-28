@@ -24,9 +24,21 @@ Software:
 ### Getting started
 
 - Configure Tubeup [per it's instructions](https://github.com/bibanon/tubeup)
+- Add new macchines public SSH key to this account or an account with write access to this repo.
+- If you have write access, clone this repository using:
+
+  `git clone git+ssh://git@github.com/vxbinaca/archive-env-NG.git`
+  
 - Inject the freshly pulled video archive file by running `./inject-stomp.sh`
 
 ### Starting the main script
 
 - `./all.sh` will all unlooped batch files
-- Be sure to peek inside of all to see which scripts are commented out, anything commented out is looped and designed to be run in a different shell.
+- Be sure to peek inside of all to see which scripts are commented out, anything commented out is looped and designed to be run in a different virtual shell.
+
+
+The main script (all.sh) will handle many tasks that might cause snags automatically:
+
+- Keep the python instance up to date, so site compatability is at a maximum because fixes are quickly gotten.
+- Clear youtube-dls cache to prevent problems.
+- Push/pull new changes to the archive file to this repo automativally, which will then be pulled by any other new servers.
