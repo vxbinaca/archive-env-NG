@@ -8,16 +8,16 @@ Hardware:
 - Multiple VPS' are ideal, as many machines on different connections as you can get.
 
 Software:
-- Linux/Unix
-- git (obviously)
-- python3-pip
-- ffmpeg
-- vim
-- GNU Screen / byobu (to allow deatchment without stopping a rip)
+- Linux/FreeBSD
+- `git` (obviously)
+- `python3-pip`
+- `ffmpeg`
+- `vim`
+- A terminal multiplexer (`screen` or `byobu`)
 
-### Optional software (nice to have but not bare minimum)
+### Optional software (nice to have and my prefered setup)
 
-- nvim
+- NeoVIM/nvim aliased over vim.
 - zsh / [OhMyZSH](https://github.com/robbyrussell/oh-my-zsh) / [powerlevel9k theme](https://github.com/bhilburn/powerlevel9k)
 - *On your own machine*: `fonts-powerline` or powerline fonts to properly render powerlevel9k theme.
 
@@ -25,7 +25,7 @@ Software:
 
 - Configure Tubeup [per it's instructions](https://github.com/bibanon/tubeup)
 - Add new macchines public SSH key to this account or an account with write access to this repo.
-- If you have write access, clone this repository using:
+- If you have write access to this repo, clone this repository using:
 
   `git clone git+ssh://git@github.com/vxbinaca/archive-env-NG.git`
   
@@ -36,8 +36,7 @@ Software:
 - `./all.sh` will execute all unlooped batch files, this file is it's self looped and will run over and over again.
 - At the end of `all.sh` is a series of commands to generally tidy up the machine, and sync progress to and from this repo.
 
-
-Be sure to peek inside of all to see which scripts are commented out, anything commented out is looped and designed to be run in a different virtual shell. TODO: Shift scripts on `looping/` to another server to decrease load and increase resiliance to potenttial blocking from Youtube.
+Be sure to peek inside of all to see which scripts are commented out, anything commented out is looped and designed to be run in a different virtual shell.
 
 
 The main script (all.sh) will handle many tasks that might cause snags automatically:
@@ -50,3 +49,4 @@ The main script (all.sh) will handle many tasks that might cause snags automatic
 ### TODO
 
 - Re-factor URLS in scripts to reduce load time and have unifromity.
+- Shift scripts on `looping/` to another server to decrease load and increase resiliance to potential blocking from Youtube.
