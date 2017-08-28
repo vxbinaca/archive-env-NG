@@ -21,7 +21,7 @@ tubeup --metadata=collection:weedtubers https://www.periscope.tv/SilencedHippie
 figlet PositiveSmash
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/PositiveSmash
 figlet LittleFae
-tubeup --metadata=collection:weedtubers https://www.periscope.tv/StonerKitty/
+tubeup --metadata=collection:weedtubers https://www.periscope.tv/thelittlefae/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/KushNKurls/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/bby_serena/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/ladyabigale/
