@@ -3,7 +3,7 @@
 #./targets/speedpainting.sh ;
 #./targets/YTPMV.sh ;
 #./targets/doller.sh ;
-./targets/stoners.sh ; 
+#./targets/stoners.sh ; 
 ./targets/kraut.sh ; 
 ./targets/izumi.sh ; 
 ./targets/lrh-pp4l.sh ; 
