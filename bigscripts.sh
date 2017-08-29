@@ -1,8 +1,8 @@
-./looping/doller.sh ;     
-./looping/speedpainting.sh ; 
-./looping/YTPMV.sh ;
-./looping/periscope.sh ;   
-./looping/stoners.sh ;
+./targets/doller.sh ;     
+./targets/speedpainting.sh ; 
+./targets/YTPMV.sh ;
+./targets/periscope.sh ;   
+./targets/stoners.sh ;
 youtube-dl --rm-cache-dir ; ## Cleanse youtube-dl cache
 pip3 install -U --user youtube-dl tubeup pip ; ## Update python
  envionment
