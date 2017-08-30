@@ -436,4 +436,6 @@ tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCH8QruKx3Qw577yO4U0S
 tubeup --metadata=collection:ytpmv-mad https://www.youtube.com/channel/UCU5WMNYkbQdQFNME6KlxVcA
 tubeup --metadata=collection:ytpmv-mad https://www.youtube.com/user/MrSteroids1
 tubeup --metadata=collection:ytpmv-mad https://www.youtube.com/user/StarWarsXM
+tubeup --metadata=collection:ytpmv-mad https://www.youtube.com/channel/UCkhe7Dn2wAJAz5j0CT7SC-Q
+tubeup --metadata=collection:ytpmv-mad https://www.youtube.com/channel/UCEKAJZpuBv2n4ENsRCi9R4w
 ./looping/YTPMV.sh
