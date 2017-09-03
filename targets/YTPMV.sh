@@ -433,10 +433,11 @@ tubeup --metadata=collection:ytpmv-mad youtube.com/user/oskari14/videos
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCB0HgUlDmyQJHDbdYI5kZB
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC_8TtUCe4moQYJej25mWuDg
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCH8QruKx3Qw577yO4U0SmZw
-tubeup --metadata=collection:ytpmv-mad https://www.youtube.com/channel/UCU5WMNYkbQdQFNME6KlxVcA
-tubeup --metadata=collection:ytpmv-mad https://www.youtube.com/user/MrSteroids1
-tubeup --metadata=collection:ytpmv-mad https://www.youtube.com/user/StarWarsXM
-tubeup --metadata=collection:ytpmv-mad https://www.youtube.com/channel/UCkhe7Dn2wAJAz5j0CT7SC-Q
-tubeup --metadata=collection:ytpmv-mad https://www.youtube.com/channel/UCEKAJZpuBv2n4ENsRCi9R4w
-tubeup --metadata=collection:ytpmv-mad https://www.youtube.com/channel/UC-BgXSM1WyyObbx1M69aBRA/videos
+tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCU5WMNYkbQdQFNME6KlxVcA
+tubeup --metadata=collection:ytpmv-mad youtube.com/user/MrSteroids1
+tubeup --metadata=collection:ytpmv-mad youtube.com/user/StarWarsXM
+tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCkhe7Dn2wAJAz5j0CT7SC-Q
+tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCEKAJZpuBv2n4ENsRCi9R4w
+tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC-BgXSM1WyyObbx1M69aBRA/videos
+tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC-SJ4RoLRldJdAz9m6fGdDw
 ./looping/YTPMV.sh
