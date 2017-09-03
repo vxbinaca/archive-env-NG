@@ -1,4 +1,3 @@
-./looping/YTPMV.sh
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/GL1CTH3R
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/SanekShadow234
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC05TLpiuzqvXOWPTa4h8HLw
@@ -84,7 +83,7 @@ tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCazlZp9gy2pL8rB5O1-z
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCB0HgUlDmyQJHDbdYI5kZB
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCb2ETVgaIBihitw7jZj7dew
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCBdCaezoJipdjufwKz-l2ZA
-tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC-BgXSM1WyyObbx1M69aBRA/videos
+tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC-BgXSM1WyyObbx1M69aBRA
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCbPd-O1MawOXpIIcqAzDmUA
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCBRl4XoNQ_zuhIEmuxd7wSQ
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC-BsK5dZu6E1ZnFk6d06_tg
@@ -440,3 +439,4 @@ tubeup --metadata=collection:ytpmv-mad youtube.com/user/thepowerofdiarrhea
 tubeup --metadata=collection:ytpmv-mad youtube.com/user/UltraRemixer
 tubeup --metadata=collection:ytpmv-mad youtube.com/user/VanFather
 tubeup --metadata=collection:ytpmv-mad youtube.com/xlethxleth
+./looping/YTPMV.sh
