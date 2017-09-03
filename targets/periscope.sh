@@ -87,5 +87,5 @@ tubeup https://www.periscope.tv/KaashButter/
 tubeup https://www.periscope.tv/dankkcoffee/
 tubeup https://www.periscope.tv/KinoYoga
 tubeup https://www.periscope.tv/AverageSwingers/
-./targets/periscope.sh
+
 

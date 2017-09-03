@@ -47,4 +47,4 @@ tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/U
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCuhaKQkA7aTGj4WxmGYhOZQ
 tubeup --metadata=collection:speedpaintingvids https:://www.youtube.com/user/Onisasu/videos
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/Mad1Artist/videos
-./targets/speedpainting.sh
+
