@@ -23,6 +23,7 @@
 ./targets/vee.sh ;
 ./targets/spoony.sh ;
 ./targets/kanadajin3.sh ;
+./targets/jbpeterson.sh ; 
 ./targets/var-jap.sh ;
 ./targets/var.sh ;
 youtube-dl --rm-cache-dir ; ## Cleanse youtube-dl cache
