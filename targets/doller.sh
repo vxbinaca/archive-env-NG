@@ -57,7 +57,6 @@ tubeup --metadata=collection:kigvideos youtube.com/channel/UCYIye-0ZPNeJH3Av7MzZ
 tubeup --metadata=collection:kigvideos youtube.com/channel/UCyxYrrAi6RUykNzNr6HjQ-g/videos
 tubeup --metadata=collection:kigvideos youtube.com/channel/UCZAUWc1RSXghZ_yVoqpMjww/videos
 tubeup --metadata=collection:kigvideos youtube.com/channel/UCzBdopbS7QhWNSpU1eVRJcw/videos
-tubeup --metadata=collection:kigvideos youtube.com/channel/UCZNNBtFlBmFyU7RQ1ufnKHQ/videos
 tubeup --metadata=collection:kigvideos youtube.com/channel/UCZ-wfY8YgU_sGxMCTHFzQtQ/videos
 tubeup --metadata=collection:kigvideos youtube.com/user/0000001230/videos
 tubeup --metadata=collection:kigvideos youtube.com/user/0411HIBIKI/videos
