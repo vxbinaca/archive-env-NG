@@ -72,7 +72,7 @@ Jump to the bottom of the file:
 
 
 
-## Failed download or not-ownerd item killed a channel rip
+## Failed download or not-owned item killed a channel rip
 
 Easy to fix. First stop all other rips and wipe your youtube-dl downloads folder.:
 
