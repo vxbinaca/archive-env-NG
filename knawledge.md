@@ -17,6 +17,13 @@ Same thing with the file name of a video:
 Me_at_the_zoo-jNQXAC9IVRw.mp4
 ```
 
+Similarly the original URL to the video:
+
+```
+           [siteID]             [ video ID ]
+https://www.youtube.com/watch?v=jNQXAC9IVRw
+```
+
 Youtube-dl stores the entry for the video in the video archive in a similar fashion:
 
 ```
