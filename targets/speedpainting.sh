@@ -89,6 +89,7 @@ tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/rizk
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/RokkiChan44
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/shounore
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/Soupdraws/videos
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/StudioCelestium
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/TheAssholesWind
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/TheJabbym
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/TwistedMyztic
