@@ -27,6 +27,7 @@ tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/U
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCc8C91EE_psRksX1rAD1gYA
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCCgTSs6rFOOVMjzNNUnkStw
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCegdieCUka-YxQT6f0LhCxQ
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCep2EyviCGmeQDY11xOYYWA
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCFHVZsQ67yF7z7IuB3V5FFw
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCfVZfHs9EXH6_bpwbvpRL_g
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCGn-rPKkKlL0Mm3yrpjO4Pg
