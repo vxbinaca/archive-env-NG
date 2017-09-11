@@ -63,11 +63,35 @@ tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/U
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/bokumand 
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/licoriceskittles
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/Mad1Artist
-tubeup --metadata=collection:speedpaintingvids https:://www.youtube.com/user/Onisasu
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/Onisasu
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/platybara
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/RokkiChan44
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/TheAssholesWind
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/TheJabbym
 tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/TwistedMyztic
-tubeup --metadata=collection:speedpaintingvids http://www.youtube.com/channel/UCgXU79Fg-zyPGMvjEB4pOlA
-tubeup --metadata=collection:speedpaintingvids http://www.youtube.com/user/rizkitsuneki
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCgXU79Fg-zyPGMvjEB4pOlA
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/rizkitsuneki
+
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCaPWANo31xGCBNc6EUSFcjg
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCfVZfHs9EXH6_bpwbvpRL_g
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCCgTSs6rFOOVMjzNNUnkStw
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCSAftyhcsFemqBgAtP8KsUg
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/Marienkafer04
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/Emberwish33
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/DevilSuzumiya
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/shounore
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/McTeamYaoi
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCRQ8cgNWDyuecJcrGc2tytw
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCSCYnnyVoA-S7aj-gjBZKnw
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCm4XydWWbwLcsJG-sPzP6pw
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/Soupdraws/videos
+
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCKNd1w-ngPDYvCPGo2Cwqgw
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCSzz9Xa-LDeZTDbxF0M22og
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/channel/UCBARESDB1dvUXUHZwIVHUdw
+tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/NeruhxRenarde
+## tubeup --metadata=collection:speedpaintingvids https://www.youtube.com/user/drawingwiffwaffle ## Too much non-SP content but still a good channel, will have to sleep on ripping this one.
+
+
+
+
