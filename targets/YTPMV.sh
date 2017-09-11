@@ -1,3 +1,4 @@
+tubeup --metadata=collection:ytpmv-mad youtube.com/user/raphaelgoulart
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/GL1CTH3R
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/SanekShadow234
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC05TLpiuzqvXOWPTa4h8HLw
