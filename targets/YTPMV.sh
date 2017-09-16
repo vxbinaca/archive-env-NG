@@ -440,3 +440,4 @@ tubeup --metadata=collection:ytpmv-mad youtube.com/user/thepowerofdiarrhea
 tubeup --metadata=collection:ytpmv-mad youtube.com/user/UltraRemixer
 tubeup --metadata=collection:ytpmv-mad youtube.com/user/VanFather
 tubeup --metadata=collection:ytpmv-mad youtube.com/xlethxleth
+tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCHpFaVlNZ4A_8y6NoMEVq6A
