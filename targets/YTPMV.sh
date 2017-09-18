@@ -15,7 +15,6 @@ tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC1MpYejJJSOdvY15ohR3
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC1Ytn_XPUqWyC4LbAnqD5tw
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC2ajfUDw-moOndCqPilteWg
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC2AZNmRdUiZwVaomY2LE_xg
-tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC2QpWLctrs1RDsdMTl7qbqw
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC2s1cvVh7qGd07GzPnqrj5A
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC2ZHGIqpXL_YXV_RZF1h5KQ
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC3_7p6IfdgTVnpjNvAZr9qg
