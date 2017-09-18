@@ -17,7 +17,7 @@ Software:
 Optional software (nice to have and my prefered setup):
 
 - NeoVIM/nvim aliased over vim.
-- zsh / [OhMyZSH](https://github.com/robbyrussell/oh-my-zsh) / [powerlevel9k theme](https://github.com/bhilburn/powerlevel9k)
+- zsh + [OhMyZSH](https://github.com/robbyrussell/oh-my-zsh) + [powerlevel9k theme](https://github.com/bhilburn/powerlevel9k)
 - *On your own machine*: `fonts-powerline` or powerline fonts to properly render powerlevel9k theme.
 
 ### Getting started
