@@ -121,5 +121,5 @@ tubeup --metadata=collection:weedtubers https://www.youtube.com/user/GrowAce/vid
 tubeup --metadata=collection:weedtubers https://www.youtube.com/user/myviviandme/videos
 tubeup --metadata=collection:weedtubers https://www.youtube.com/channel/UCmV3i02gAyJPOE0-tTTJWwA/videos
 tubeup --metadata=collection:weedtubers https://www.youtube.com/channel/UCuIJqlyXu5LCWYyOqYt_A-g/videos
-
+tubeup --metadata=collection:weedtubers https://www.youtube.com/channel/UCy9duPykT_sGyORI4Mwj4Jg/videos
 
