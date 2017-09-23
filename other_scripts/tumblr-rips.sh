@@ -102,3 +102,4 @@ figlet littlefae
 ./tumblr_backup.py --no-reblog --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/paradisiak paradisiak
 ./tumblr_backup.py --no-reblog --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/purple6rainbow9 purple6rainbow9
 ./tumblr_backup.py --no-reblog --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/cute-blue cute-blue
+./tumblr_backup.py --no-reblog --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/kaitexel kaitexel
