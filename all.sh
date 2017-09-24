@@ -23,13 +23,14 @@
 ./targets/vee.sh ;
 ./targets/spoony.sh ;
 ./targets/kanadajin3.sh ;
-#./targets/jbpeterson.sh ; 
+#./targets/jbpeterson.sh ;
+#./targets/sfm.sh ;
 ./targets/var-jap.sh ;
 ./targets/var.sh ;
 youtube-dl --rm-cache-dir ; ## Cleanse youtube-dl cache
 pip3 install -U --user youtube-dl tubeup pip ; ## Update python envionment
 git pull ; ## Pull new progress from remote server
 ./inject-merge.sh ; ## Merge new remote changes into local archive
-./extract.sh ; ## Extract netest entries from local .ytdlarchive
+./extract.sh ; ## Extract newest entries from local .ytdlarchive
 git push origin master ; ## Push back to github
 ./all.sh ## start over again in an infinite loop
