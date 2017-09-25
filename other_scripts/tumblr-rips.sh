@@ -73,4 +73,5 @@
 ./tumblr_backup.py  --no-reblog --save-video -I o -t roarie -O /media/vxbinaca/Storage/tumblr-blogs/roarieyum roarieyum
 ./tumblr_backup.py   --no-reblog --save-video -I o -t selfie,fishnets -O /media/vxbinaca/Storage/tumblr-blogs/igetwetwhen igetwetwhen
 ./tumblr_backup.py  --no-reblog --save-video -I o -t thebrutalviking -O /media/vxbinaca/Storage/tumblr-blogs/thebrutalviking thebrutalviking
+./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/bre-is-stoned bre-is-stoned
 ./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/foxytail11vids foxytail11vids
