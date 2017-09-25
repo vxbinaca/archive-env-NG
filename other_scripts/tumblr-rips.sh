@@ -113,3 +113,5 @@ inaca/Storage/tumblr-blogs/indicasprincess indicasprincess
 inaca/Storage/tumblr-blogs/bezoaring bezoaring
 ./tumblr_backup.py  --no-reblog --save-video -I o -O /media/vxb
 inaca/Storage/tumblr-blogs/centexcpl38 centexcpl38
+./tumblr_backup.py  --no-reblog --save-video -I o -O /media/vxb
+inaca/Storage/tumblr-blogs/zombieswileatyourfuckingfaceoff zombieswileatyourfuckingfaceoff
