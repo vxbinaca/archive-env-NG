@@ -12,7 +12,6 @@
 ./tumblr_backup.py  --no-reblog --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/the420sushiroll the420sushiroll
 ./tumblr_backup.py  --no-reblog --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/zombieswileatyourfuckingfaceoff zombieswileatyourfuckingfaceoff
 rootsub rootsub
-./tumblr_backup.py  --no-reblog --save-video -I o -O /media/vxb
 ./tumblr_backup.py  --no-reblog --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/aellagirl aellagirl
 ./tumblr_backup.py  --no-reblog --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/ali3nchildr3n ali3nchildr3n 
 ./tumblr_backup.py  --no-reblog --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/babybaked babybaked
