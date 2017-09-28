@@ -135,3 +135,11 @@ Similar to the above process, you just move one line ABOVE the target line, and 
 and it will wipe everything above the despired line.
 
 Save and quit.
+
+### Delete entries for a given site
+
+`:g/TEXT/d`
+
+Example:
+
+`:g/periscope/d`
