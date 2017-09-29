@@ -65,6 +65,7 @@
 ./tumblr_backup.py  --no-reblog --save-video -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/jsselwood jsselwood
 ./tumblr_backup.py  --no-reblog --save-video -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/livingshattered livingshattered
 ./tumblr_backup.py  --no-reblog --save-video -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/msmarvolo  msmarvolo
+./tumblr_backup.py  --no-reblog --save-video -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/rootsub rootsub
 ./tumblr_backup.py  --no-reblog --save-video -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/weedstop weedstop
 ./tumblr_backup.py  --no-reblog --save-video -I o -t ME,SELF,US -O /media/vxbinaca/Storage/tumblr-blogs/seattle255 seattle255
 ./tumblr_backup.py  --no-reblog --save-video -I o -t penelopemachine -O /media/vxbinaca/Storage/tumblr-blogs/penelopemachine p-e-n-e-l-o-p-e-m-a-c-h-i-n-e
@@ -73,5 +74,8 @@
 ./tumblr_backup.py  --no-reblog --save-video -I o -t roarie -O /media/vxbinaca/Storage/tumblr-blogs/roarieyum roarieyum
 ./tumblr_backup.py   --no-reblog --save-video -I o -t selfie,fishnets -O /media/vxbinaca/Storage/tumblr-blogs/igetwetwhen igetwetwhen
 ./tumblr_backup.py  --no-reblog --save-video -I o -t thebrutalviking -O /media/vxbinaca/Storage/tumblr-blogs/thebrutalviking thebrutalviking
+./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/bb-kitten bb-kitten
 ./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/bre-is-stoned bre-is-stoned
+./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/chinkogirl chinkogirl
 ./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/foxytail11vids foxytail11vids
+./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/s8697a s8697a
