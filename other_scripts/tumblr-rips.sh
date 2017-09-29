@@ -1,3 +1,4 @@
+torage/tumblr-blogs/cumslut-heaven cumslut-heaven
 ./tumblr_backup.py  --no-reblog --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/aellagirl aellagirl
 ./tumblr_backup.py  --no-reblog --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/ali3nchildr3n ali3nchildr3n 
 ./tumblr_backup.py  --no-reblog --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/a-slutty-naughty-hotwife a-slutty-naughty-hotwife
@@ -74,6 +75,7 @@
 ./tumblr_backup.py  --no-reblog --save-video -I o -t roarie -O /media/vxbinaca/Storage/tumblr-blogs/roarieyum roarieyum
 ./tumblr_backup.py   --no-reblog --save-video -I o -t selfie,fishnets -O /media/vxbinaca/Storage/tumblr-blogs/igetwetwhen igetwetwhen
 ./tumblr_backup.py  --no-reblog --save-video -I o -t thebrutalviking -O /media/vxbinaca/Storage/tumblr-blogs/thebrutalviking thebrutalviking
+./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/S
 ./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/bb-kitten bb-kitten
 ./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/bre-is-stoned bre-is-stoned
 ./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/chinkogirl chinkogirl
