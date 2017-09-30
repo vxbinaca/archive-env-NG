@@ -38,7 +38,7 @@ tubeup https://www.youtube.com/channel/UCkfqhn4lyofss8PM1IubDgA
 tubeup https://www.youtube.com/user/0dutch/videos
 tubeup https://www.youtube.com/channel/UCTlQFIx8RUus4R3zYAUHHYA 
 tubeup https://www.youtube.com/user/flippingpages1014/videos
-tubeup http://www.youtube.com/user/debuglive
+tubeup https://www.youtube.com/user/debuglive
 tubeup https://www.youtube.com/user/lonelygirl15
 tubeup https://www.youtube.com/channel/UC5hie5xBr7qENWVD_kfsiew
 tubeup https://www.youtube.com/channel/UC7yPuRdd4ZKhJQueiVnjd2A
@@ -47,7 +47,8 @@ tubeup https://www.youtube.com/channel/UCdpkbiiCFHVPZrSYEEWyDdw
 tubeup https://www.youtube.com/channel/UCT5y7BAocgM-PeXpVCvyG4g
 tubeup https://www.youtube.com/user/dsscdse/
 tubeup https://www.youtube.com/channel/UCuimpDKCmUaW6qnMMp7XE7Q
-tuneup http://www.youtube.com/channel/UCmyiBfu_idd4fdSQuA6yjew
+tuneup https://www.youtube.com/channel/UCmyiBfu_idd4fdSQuA6yjew
 tubeup https://www.youtube.com/watch?v=xTJC2RkcLEs&list=PLD0NeEbRY7VTkw1GBrnsZAUIrOTOjyzaw
 tubeup https://www.youtube.com/channel/UCkDXV1ELQBVV4BuLR-FyfkA
-tubeup http://www.youtube.com/user/BraveTheWorldChannel
+tubeup https://www.youtube.com/user/BraveTheWorldChannel
+tubeup https://www.youtube.com/channel/UCAo6nC6I9yk2X4xqQThhhew
