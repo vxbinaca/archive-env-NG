@@ -3,7 +3,9 @@ The archival environment, scripts, and video archive file I use to fully automat
 
 ### Design logic and goals
 
-I want to have a completly modular environment that allows me to archive various video sites, or split up the larger scripts onto other servers, and have the servers communicate progress (new additions to the `.ytdlarchive` file) to a centeral server (this repostiroy), and then have each server pull down new changes and intregrate them into their archive files so that all the servers stay on the same amount of progress. I've set it up to do this automatically without my input.
+I want to have a completly modular environment that allows me to archive various video sites, or split up the larger scripts onto other servers, and have the servers communicate progress (new additions to the `.ytdlarchive` file) to a central server (this repo), and then have each server pull down new changes and intregrate them into their archive files so that all the servers stay on the same amount of progress. 
+
+I've set it up to do this automatically without my input.
 
 The servers self-manage as well. Number of servers can be scaled up or down depending on level of access and after brief initial setup can join the pool of work.
 
@@ -22,7 +24,7 @@ Software:
 
 Optional software (nice to have and my prefered setup):
 
-- NeoVIM/nvim aliased over vim.
+- NeoVIM/nvim aliased over vim/nano etc.
 - zsh + [OhMyZSH](https://github.com/robbyrussell/oh-my-zsh) + [powerlevel9k theme](https://github.com/bhilburn/powerlevel9k)
 - *On your own machine*: `fonts-powerline` or powerline fonts to properly render powerlevel9k theme.
 
