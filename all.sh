@@ -13,7 +13,7 @@
 ./targets/rose.sh ;
 ./targets/naomi.sh ;
 ./targets/sydsnap.sh ;
-./targets/icze4r.sh ;
+#./targets/icze4r.sh ; ## Probably should delete these items
 ./targets/sargon.sh ;
 ./targets/anita.sh ;
 ./targets/graywolf.sh ;
@@ -23,8 +23,8 @@
 ./targets/vee.sh ;
 ./targets/spoony.sh ;
 ./targets/kanadajin3.sh ;
-#./targets/jbpeterson.sh ;
-#./targets/sfm.sh ;
+#./targets/jbpeterson.sh ; # Needs resolution on collection creation
+#./targets/sfm.sh ; # Neeeds solution on target gathering
 ./targets/var-jap.sh ;
 ./targets/var.sh ;
 youtube-dl --rm-cache-dir ; ## Cleanse youtube-dl cache
