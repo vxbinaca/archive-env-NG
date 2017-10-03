@@ -1,6 +1,6 @@
-tubeup --metadata=collection:ytpmv-mad https://www.youtube.com/channel/UC0D3gekwOD6zz05Gs0B_ngA
-tubeup --metadata=collection:ytpmv-mad https://www.youtube.com/channel/UCCjfUXE45ige09sjt1AsQ7A/videos
-tubeup --metadata=collection:ytpmv-mad https://www.youtube.com/channel/UCvTbhTpDODnqkDLJmBh0DcA 
+tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC0D3gekwOD6zz05Gs0B_ngA
+tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCCjfUXE45ige09sjt1AsQ7A/videos
+tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCvTbhTpDODnqkDLJmBh0DcA 
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/GL1CTH3R
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/SanekShadow234
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC-0nEIC-FugrulWEeAvufHw
