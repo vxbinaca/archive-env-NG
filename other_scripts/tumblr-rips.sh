@@ -4,7 +4,7 @@
 ##./tumblr_backup.py  --no-reblog --save-video -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/eyeball eyeball
 ##./tumblr_backup.py  --no-reblog --save-video -I o -t me,Me,ME -P prettyplease -O /media/vxbinaca/Storage/tumblr-blogs/pandaslittleone pandaslittleone
 #./tumblr_backup.py  --no-reblog --save-video -I o -O mememolly mememolly
-./tumblr_backup.py   --no-reblog --save-video -I o -t selfie,fishnets -O /media/vxbinaca/Storage/tumblr-blogs/igetwetwhen igetwetwhen
+./tumblr_backup.py   --no-reblog --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/igetwetwhen igetwetwhen
 ./tumblr_backup.py  --no-reblog --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/a-slutty-naughty-hotwife a-slutty-naughty-hotwife
 ./tumblr_backup.py  --no-reblog --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/aellagirl aellagirl
 ./tumblr_backup.py  --no-reblog --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/ali3nchildr3n ali3nchildr3n 
