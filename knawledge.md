@@ -143,3 +143,7 @@ Save and quit.
 Example:
 
 `:g/periscope/d`
+
+### Sort files alphabetically, delete duplicate lines
+
+`:%sort u`
