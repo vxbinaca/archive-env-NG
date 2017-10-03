@@ -74,12 +74,10 @@
 ./tumblr_backup.py  --no-reblog --save-video -I o -t porn -O /media/vxbinaca/Storage/tumblr-blogs/rachelgetsravaged rachelgetsravaged 
 ./tumblr_backup.py  --no-reblog --save-video -I o -t roarie -O /media/vxbinaca/Storage/tumblr-blogs/roarieyum roarieyum
 ./tumblr_backup.py  --no-reblog --save-video -I o -t thebrutalviking -O /media/vxbinaca/Storage/tumblr-blogs/thebrutalviking thebrutalviking
-./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/S
-./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blo
+./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/cumslut-heaven cumslut-heaven
+./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/peepshow-whore-nyxia peepshow-whore-nyxia
 ./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/bb-kitten bb-kitten
 ./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/bre-is-stoned bre-is-stoned
 ./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/chinkogirl chinkogirl
 ./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/foxytail11vids foxytail11vids
 ./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/s8697a s8697a
-gs/peepshow-whore-nyxia peepshow-whore-nyxia
-torage/tumblr-blogs/cumslut-heaven cumslut-heaven
