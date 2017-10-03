@@ -81,4 +81,5 @@
 ./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/foxytail11vids foxytail11vids
 ./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/peepshow-whore-nyxia peepshow-whore-nyxia
 ./tumblr_backup.py  --save-video -I o -O /media/vxbinaca/Storage/tumblr-blogs/s8697a s8697a
+./tumblr_backup.py  --save-video -I o -t 2-grams -O /media/vxbinaca/Storage/tumblr-blogs/2-grams 2-grams
 ./tumblr_backup.py  --save-video -I o -t sillylilpixel,myself -O /media/vxbinaca/Storage/tumblr-blogs/sillylilpixel sillylilpixel
