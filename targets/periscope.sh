@@ -82,6 +82,7 @@ tubeup https://www.periscope.tv/StephyScopes/
 tubeup https://www.periscope.tv/SwingerMexico_/
 tubeup https://www.periscope.tv/YoungLiving87/
 tubeup https://www.periscope.tv/YourOasisRadio/
+tubeup https://www.periscope.tv/ariesqueen_/
 tubeup https://www.periscope.tv/dankkcoffee/
 tubeup https://www.periscope.tv/harper_cox_
 tubeup https://www.periscope.tv/kaylorsaurus
