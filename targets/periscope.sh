@@ -84,6 +84,7 @@ tubeup https://www.periscope.tv/YoungLiving87/
 tubeup https://www.periscope.tv/YourOasisRadio/
 tubeup https://www.periscope.tv/dankkcoffee/
 tubeup https://www.periscope.tv/harper_cox_
+tubeup https://www.periscope.tv/kaylorsaurus
 tubeup https://www.periscope.tv/konmann702/
 tubeup https://www.periscope.tv/ready2jam1/
 tubeup https://www.periscope.tv/sammisacavage/
