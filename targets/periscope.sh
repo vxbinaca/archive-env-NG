@@ -91,3 +91,4 @@ tubeup https://www.periscope.tv/ready2jam1/
 tubeup https://www.periscope.tv/sammisacavage/
 tubeup https://www.periscope.tv/sheslulu/
 tubeup https://www.periscope.tv/veradevera/
+tubeup https://www.periscope.tv/arabellamascari
