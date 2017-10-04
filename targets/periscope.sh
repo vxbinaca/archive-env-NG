@@ -1,5 +1,6 @@
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/2high4lifeTv/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/3tokes/
+tubeup --metadata=collection:weedtubers https://www.periscope.tv/6Chel6sea6/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/AlondraBravoo/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/ArtsAndKush/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/Blazingit365/
