@@ -147,3 +147,47 @@ Example:
 ### Sort files alphabetically, delete duplicate lines
 
 `:%sort u`
+
+
+### Picking up on a channel rip someone else started but stopped
+
+Go to a item containing the target channe, click the creators name to see everything that creator made. Sort by 'Upload Date'. This is a good indicator of the latest video you'd need to end at with your rip.
+`
+                           [ Item Identifier ]
+[   The rest of the URL   ] [site ID][video ID]
+https://archive.org/details/youtube-jNQXAC9IVRw
+`
+
+Print out all the video IDs from the channel:
+
+`youtube-dl --ignore-config --get-id [CHANNEL_URL] > TARGET-IDs.txt`
+
+Now for the real magic. In command mode. find the latest video uploaded
+
+`/jNQXAC9IVRw`
+
+Move one line up, while still in command mode type
+
+`ddg`
+
+Prepend side ID `youtube `to the start of each line containing a video ID:
+
+`:%s!^!youtube !`
+
+Save and quit:
+
+`:wq`
+
+Now mix this file into your downliad archive:
+
+`cat TARGET-IDs.txt >> ~/.tubeup/.ytdlarchive`
+
+Now just rip the channel as normal and it will skip that persons progress and add only new videos.
+
+If you want to compare the number of videos on archive.org with the numebr the use uploaded to Youtube:
+
+Look at the number on archive.org after you uploaded the rest of the videos, now get the result from Youtube:
+
+`youtube-dl --ignore-config --flat-playlist [CHANNEL_URL] | tail`
+
+That will give you the channels video count. Just compare these two numbers.
