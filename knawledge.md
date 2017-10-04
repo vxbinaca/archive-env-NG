@@ -152,11 +152,6 @@ Example:
 ### Picking up on a channel rip someone else started but stopped
 
 Go to a item containing the target channe, click the creators name to see everything that creator made. Sort by 'Upload Date'. This is a good indicator of the latest video you'd need to end at with your rip.
-`
-                           [ Item Identifier ]
-[   The rest of the URL   ] [site ID][video ID]
-https://archive.org/details/youtube-jNQXAC9IVRw
-`
 
 Print out all the video IDs from the channel:
 
