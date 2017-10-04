@@ -15,6 +15,7 @@ tubeup --metadata=collection:weedtubers https://www.periscope.tv/HighFromPiper/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/IAmStella420/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/JoJosmiles/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/KushNKurls/
+tubeup --metadata=collection:weedtubers https://www.periscope.tv/Lilmissmj
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/LindaDMuzzey/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/Macdizzle420/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/MarMarkila/
