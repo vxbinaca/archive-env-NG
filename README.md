@@ -46,7 +46,7 @@ Optional software (nice to have and my prefered setup):
   
 - Inject the freshly pulled video archive file by running 
 
-`./inject-stomp.sh`
+  `./inject-stomp.sh`
 
 ### Starting the main script
 
