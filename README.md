@@ -36,7 +36,13 @@ Optional software (nice to have and my prefered setup):
 
   `git clone git+ssh://git@github.com/vxbinaca/archive-env-NG.git`
   
-- Inject the freshly pulled video archive file by running `./inject-stomp.sh`
+- Create a directory for Tubeup:
+  
+  `mkdir ~/.tubeup`
+  
+- Inject the freshly pulled video archive file by running 
+
+`./inject-stomp.sh`
 
 ### Starting the main script
 
