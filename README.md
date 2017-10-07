@@ -35,14 +35,18 @@ Optional software (nice to have and my prefered setup):
 - If you have write access to this repo, clone this repository using:
 
   `git clone git+ssh://git@github.com/vxbinaca/archive-env-NG.git`
-  
+
+  Also don't forget to set your default editor to nvim or vim
+
+  `git config --global core.editor "nvim"`
+
 - Create a directory for Tubeup:
   
   `mkdir ~/.tubeup`
   
 - Inject the freshly pulled video archive file by running 
 
-`./inject-stomp.sh`
+  `./inject-stomp.sh`
 
 ### Starting the main script
 
