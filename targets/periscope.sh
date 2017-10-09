@@ -93,4 +93,5 @@ tubeup https://www.periscope.tv/sammisacavage/
 tubeup https://www.periscope.tv/sheslulu/
 tubeup https://www.periscope.tv/veradevera/
 tubeup https://www.periscope.tv/arabellamascari
+tubeup https://www.pscp.tv/thereallisaann/
 
