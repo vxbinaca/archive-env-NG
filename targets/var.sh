@@ -48,4 +48,4 @@ tubeup https://www.youtube.com/user/lonelygirl15/videos
 tubeup https://www.youtube.com/user/shachiNT/videos
 tubeup https://www.youtube.com/user/stevieryan/videos
 tubeup https://www.youtube.com/watch?v=xTJC2RkcLEs&list=PLD0NeEbRY7VTkw1GBrnsZAUIrOTOjyzaw
-tuneup https://www.youtube.com/channel/UCmyiBfu_idd4fdSQuA6yjew/videos
+tubeup https://www.youtube.com/channel/UCmyiBfu_idd4fdSQuA6yjew/videos
