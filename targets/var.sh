@@ -4,8 +4,8 @@
 #tubeup https://www.youtube.com/user/ejmillennium/videos ##NJ nerds
 #tubeup https://www.youtube.com/user/gotenks6/videos ##NJ nerds
 #tubeup https://www.youtube.com/user/katTcritic/videos ##NJ nerds
-tubeup http://www.youtube.com/channel/UCp4oMaqaY0hIoT9jafj1g8g/videos
-tubeup http://www.youtube.com/user/RareNargacuga/videos
+tubeup https://www.youtube.com/channel/UCp4oMaqaY0hIoT9jafj1g8g/videos
+tubeup https://www.youtube.com/user/RareNargacuga/videos
 tubeup https://www.youtube.com/channel/UC1fSp9Qpp8tT982OumLS5Hg/videos
 tubeup https://www.youtube.com/channel/UC4QFrwuzxJ2eC7Q2iDrlJFg/videos
 tubeup https://www.youtube.com/channel/UC5hie5xBr7qENWVD_kfsiew/videos
@@ -49,3 +49,4 @@ tubeup https://www.youtube.com/user/shachiNT/videos
 tubeup https://www.youtube.com/user/stevieryan/videos
 tubeup https://www.youtube.com/watch?v=xTJC2RkcLEs&list=PLD0NeEbRY7VTkw1GBrnsZAUIrOTOjyzaw
 tubeup https://www.youtube.com/channel/UCmyiBfu_idd4fdSQuA6yjew/videos
+tubeup https://www.youtube.com/channel/UCECs2QPEUC-3fNsDYJM1BjQ/videos
