@@ -269,6 +269,7 @@ tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCcFoMCwZJmCq-KvsHEg-
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCcJLomX3Zg3njnC8Y8zf8eg
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCcgM-arpHg3MO4jJarPlbIg
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCcim0mFybMB9sSzvd5W9NDQ
+tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCcppu46V6sWfNzwL_mo0PgA
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCd9ubz4JQ-ZkL07QI_mHIKw
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCdCGgpm7a1LbaZHiQbrg2Dw
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCdQmufCn2qUDCXL-dZstmNw
