@@ -43,6 +43,7 @@ tubeup --metadata=collection:weedtubers https://www.youtube.com/channel/UC_rHTsI
 tubeup --metadata=collection:weedtubers https://www.youtube.com/channel/UCa1QqXIe4AghQKzDteBGH9w/videos
 tubeup --metadata=collection:weedtubers https://www.youtube.com/channel/UCc29blL_kVDBD06JCi_eRKA/videos
 tubeup --metadata=collection:weedtubers https://www.youtube.com/channel/UCc7u0oBuITsrhMPY86mRR_A/videos
+tubeup --metadata=collection:weedtubers https://www.youtube.com/channel/UCcSLHWYxKECf8nBqWxMRjzg/videos
 tubeup --metadata=collection:weedtubers https://www.youtube.com/channel/UCdJxwrY4dxYYvTPtvU5aZvQ/videos
 tubeup --metadata=collection:weedtubers https://www.youtube.com/channel/UCd_PycHQU1t8Q2fnuL8v61Q/videos
 tubeup --metadata=collection:weedtubers https://www.youtube.com/channel/UCgSWDqPI9-4YfY_s4v9btXA/videos
