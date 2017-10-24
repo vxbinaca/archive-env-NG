@@ -1,9 +1,4 @@
-#./targets/periscope.sh ; 
-#./targets/social-media.sh ; ##disabled for now until problems can be debugged
-#./targets/speedpainting.sh ;
-#./targets/YTPMV.sh ;
-#./targets/doller.sh ;
-#./targets/stoners.sh ; 
+#./targets/social-media.sh ; ##disabled for now until problems can be debugged 
 ./targets/kraut.sh ; 
 ./targets/izumi.sh ; 
 ./targets/lrh-pp4l.sh ; 
@@ -23,8 +18,8 @@
 ./targets/vee.sh ;
 ./targets/spoony.sh ;
 ./targets/kanadajin3.sh ;
-#./targets/jbpeterson.sh ; # Needs resolution on collection creation
-#./targets/sfm.sh ; # Neeeds solution on target gathering
+./targets/jbpeterson.sh ;
+#./targets/sfm.sh ; # Needs solution on target gathering
 ./targets/var-jap.sh ;
 ./targets/var.sh ;
 youtube-dl --rm-cache-dir ; ## Cleanse youtube-dl cache
