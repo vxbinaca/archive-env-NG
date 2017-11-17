@@ -17,7 +17,7 @@
 ./targets/skeptfem.sh ;
 ./targets/vee.sh ;
 ./targets/spoony.sh ;
-./targets/kanadajin3.sh ;
+#./targets/kanadajin3.sh ;
 ./targets/jbpeterson.sh ;
 #./targets/sfm.sh ; # Needs solution on target gathering
 ./targets/var-jap.sh ;
