@@ -165,6 +165,7 @@ tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCMIRYngQyH5j1P3m8nW1
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCMRGLDwMCL1M31pv2oBuRhQ
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCMZX0sWMHUOrT2u6KI4CNkA
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCMcBuuoc91V0GhXE2ujfrXQ
+tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCMoHS7CqALrSIeMZITW0oRQ
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCMrxeoBuvZpskz03MWs7gIg
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCN6O_bVSlyZI51_5cxI8xgw
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCN91ZeOvrfcAqkG0vffP73g
