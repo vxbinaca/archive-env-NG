@@ -1,5 +1,8 @@
 ##./tumblr_backup.py --no-reblog --save-video -i -I o -t cum,titties,facial,fuck,gethigh-n-fuck,naked,bong,boobies,get-high-and-fuck,self-shot,pregnant -O gethigh-n-fuck gethigh-n-fuck
 ##./tumblr_backup.py --no-reblog --save-video -i -I o -t me,Me,ME -P prettyplease -O /media/vxbinaca/Storage/tumblr-blogs/pandaslittleone pandaslittleone
+#./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/mememolly mememolly
+#./tumblr_backup.py --no-reblog --save-video -i -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/daintylungs daintylungs
+./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/"madame--ette" "madame--ette"
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/a-slutty-naughty-hotwife a-slutty-naughty-hotwife
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/aellagirl aellagirl
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/ali3nchildr3n ali3nchildr3n 
@@ -34,8 +37,7 @@
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/kaitexel kaitexel
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/koreanstudentsspeak koreanstudentsspeak
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/lesalpines lesalpines
-./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/"madame--ette" "madame--ette"
-#./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/mememolly mememolly
+./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/madelinebug madelinebug
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/mistakesdontjudgeyou mistakesdontjudgeyou
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/nice-is-different-than-good nice-is-different-than-good
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/pandamonster33 pandamonster33
@@ -60,7 +62,6 @@
 ./tumblr_backup.py --no-reblog --save-video -i -I o -t ME,SELF,US -O /media/vxbinaca/Storage/tumblr-blogs/seattle255 seattle255
 ./tumblr_backup.py --no-reblog --save-video -i -I o -t behindthecamera -O /media/vxbinaca/Storage/tumblr-blogs/eccedentesiastfoxx eccedentesiastfox 
 ./tumblr_backup.py --no-reblog --save-video -i -I o -t cam-damage,camdamage,camille-damage -O /media/vxbinaca/Storage/tumblr-blogs/camdamage camdamage
-#./tumblr_backup.py --no-reblog --save-video -i -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/daintylungs daintylungs
 ./tumblr_backup.py --no-reblog --save-video -i -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/eyeball eyeball
 ./tumblr_backup.py --no-reblog --save-video -i -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/jsselwood jsselwood
 ./tumblr_backup.py --no-reblog --save-video -i -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/livingshattered livingshattered
