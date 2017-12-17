@@ -29,10 +29,13 @@
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/hotcumslutcouple hotcumslutcouple
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/igetwetwhen igetwetwhen
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/indicasprincess indicasprincess
+./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/iska-ithil iska-ithil
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/jokoss jokoss
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/kaitexel kaitexel
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/koreanstudentsspeak koreanstudentsspeak
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/lesalpines lesalpines
+./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/madame--ette madame--ette
+./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/mememolly mememolly
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/mistakesdontjudgeyou mistakesdontjudgeyou
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/nice-is-different-than-good nice-is-different-than-good
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/pandamonster33 pandamonster33
@@ -43,6 +46,7 @@
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/slippystuff slippystuff
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/sookie-m sookie-m
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/studiofow studiofow
+./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/taintedkayla taintedkayla
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/tallncurvy29 tallncurvy29
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/tanyadakin tanyadakin
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/the420sushiroll the420sushiroll
@@ -53,11 +57,8 @@
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/wepackedthebowlfortwo wepackedthebowlfortwo
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/xxxsouthernwifeslut xxxsouthernwifeslut
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/zombieswileatyourfuckingfaceoff zombieswileatyourfuckingfaceoff
-./tumblr_backup.py --no-reblog --save-video -i -I o -O mememolly mememolly
-./tumblr_backup.py --no-reblog --save-video -i -I o -O taintedkayla taintedkayla
-./tumblr_backup.py --no-reblog --save-video -i -I o -t  behindthecamera -O /media/vxbinaca/Storage/tumblr-blogs/eccedentesiastfoxx eccedentesiastfox 
-./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/madame--ette madame--ette
 ./tumblr_backup.py --no-reblog --save-video -i -I o -t ME,SELF,US -O /media/vxbinaca/Storage/tumblr-blogs/seattle255 seattle255
+./tumblr_backup.py --no-reblog --save-video -i -I o -t behindthecamera -O /media/vxbinaca/Storage/tumblr-blogs/eccedentesiastfoxx eccedentesiastfox 
 ./tumblr_backup.py --no-reblog --save-video -i -I o -t cam-damage,camdamage,camille-damage -O /media/vxbinaca/Storage/tumblr-blogs/camdamage camdamage
 ./tumblr_backup.py --no-reblog --save-video -i -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/daintylungs daintylungs
 ./tumblr_backup.py --no-reblog --save-video -i -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/eyeball eyeball
