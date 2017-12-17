@@ -1,9 +1,9 @@
-##./tumblr_backup.py --no-reblog --save-video -i -I o -O taintedkayla taintedkayla
-##./tumblr_backup.py --no-reblog --save-video -i -I o -t "madame--ette" -O /media/vxbinaca/Storage/tumblr-blogs/"madame--ette" "madame--ette"
+./tumblr_backup.py --no-reblog --save-video -i -I o -O taintedkayla taintedkayla
+./tumblr_backup.py --no-reblog --save-video -i -I o -t "madame--ette" -O /media/vxbinaca/Storage/tumblr-blogs/"madame--ette" "madame--ette"
 ##./tumblr_backup.py --no-reblog --save-video -i -I o -t cum,titties,facial,fuck,gethigh-n-fuck,naked,bong,boobies,get-high-and-fuck,self-shot,pregnant -O gethigh-n-fuck gethigh-n-fuck
-##./tumblr_backup.py --no-reblog --save-video -i -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/eyeball eyeball
+./tumblr_backup.py --no-reblog --save-video -i -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/eyeball eyeball
 ##./tumblr_backup.py --no-reblog --save-video -i -I o -t me,Me,ME -P prettyplease -O /media/vxbinaca/Storage/tumblr-blogs/pandaslittleone pandaslittleone
-#./tumblr_backup.py --no-reblog --save-video -i -I o -O mememolly mememolly
+./tumblr_backup.py --no-reblog --save-video -i -I o -O mememolly mememolly
 ./tumblr_backup.py --no-reblog --save-video -i -I o -t selfie,fishnets -O /media/vxbinaca/Storage/tumblr-blogs/igetwetwhen igetwetwhen
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/a-slutty-naughty-hotwife a-slutty-naughty-hotwife
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/aellagirl aellagirl
