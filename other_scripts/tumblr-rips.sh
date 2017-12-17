@@ -60,7 +60,7 @@
 ./tumblr_backup.py --no-reblog --save-video -i -I o -t ME,SELF,US -O /media/vxbinaca/Storage/tumblr-blogs/seattle255 seattle255
 ./tumblr_backup.py --no-reblog --save-video -i -I o -t behindthecamera -O /media/vxbinaca/Storage/tumblr-blogs/eccedentesiastfoxx eccedentesiastfox 
 ./tumblr_backup.py --no-reblog --save-video -i -I o -t cam-damage,camdamage,camille-damage -O /media/vxbinaca/Storage/tumblr-blogs/camdamage camdamage
-./tumblr_backup.py --no-reblog --save-video -i -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/daintylungs daintylungs
+#./tumblr_backup.py --no-reblog --save-video -i -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/daintylungs daintylungs
 ./tumblr_backup.py --no-reblog --save-video -i -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/eyeball eyeball
 ./tumblr_backup.py --no-reblog --save-video -i -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/jsselwood jsselwood
 ./tumblr_backup.py --no-reblog --save-video -i -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/livingshattered livingshattered
