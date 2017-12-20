@@ -447,6 +447,7 @@ tubeup --metadata=collection:ytpmv-mad youtube.com/user/Prolyfic8
 tubeup --metadata=collection:ytpmv-mad youtube.com/user/RP1234BITCH
 tubeup --metadata=collection:ytpmv-mad youtube.com/user/Rlcemaster3
 tubeup --metadata=collection:ytpmv-mad youtube.com/user/RobGBA
+tubeup --metadata=collection:ytpmv-mad youtube.com/user/SafariBros115
 tubeup --metadata=collection:ytpmv-mad youtube.com/user/StarWarsXM
 tubeup --metadata=collection:ytpmv-mad youtube.com/user/SuperBocky
 tubeup --metadata=collection:ytpmv-mad youtube.com/user/TeamNearTree
