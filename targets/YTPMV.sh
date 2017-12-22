@@ -1,4 +1,3 @@
-
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/GL1CTH3R
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/SanekShadow234
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC-0nEIC-FugrulWEeAvufHw
@@ -72,6 +71,7 @@ tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC8d50sg_nVJx6x7d9AWD
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC8gMZQNdm3DhGdx_Qo3u3uw
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC8oZtp8ay0Omfl7VYOqOJFw
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC8tBGyn-ByzfdhS82vdwcfg
+tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC8uq6E-Fim1JqTY2ge5RaeQ
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC8v9oAqXhVKZl_4TCEuqzsg
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC8wwHFNk8mNzc9VQ70rqLtA
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UC95J5EfYY705J40RWMpLiOQ
@@ -142,6 +142,8 @@ tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCIvssBh2DefxhXCq6Dtu
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCJCNU2VMN4tbBPLnICH5pqw
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCJMFJLbFXlx-jbGswJiRV8g
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCJPI39PkS82XRjavadVHZbw
+tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCJWuloSTxzT2gXLa3h-5pWg
+tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCJWuloSTxzT2gXLa3h-5pWgt
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCJag28OFn69OZiY0LgtIdsg
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCJgQ0lZVL7uf2PqTPbz4eoA
 tubeup --metadata=collection:ytpmv-mad youtube.com/channel/UCJoWq85rCNoFTG97N2K88hg
@@ -473,4 +475,4 @@ tubeup --metadata=collection:ytpmv-mad youtube.com/user/shikitashi
 tubeup --metadata=collection:ytpmv-mad youtube.com/user/soulstrike2205
 tubeup --metadata=collection:ytpmv-mad youtube.com/user/thepowerofdiarrhea
 tubeup --metadata=collection:ytpmv-mad youtube.com/user/yibbonmusic/videos
-tubeup --metadata=collection:ytpmv-mad youtube.com/xlethxlet
+tubeup --metadata=collection:ytpmv-mad youtube.com/xlethxle
