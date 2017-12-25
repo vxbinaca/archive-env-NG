@@ -1,7 +1,7 @@
 ##./tumblr_backup.py --no-reblog --save-video -i -I o -t cum,titties,facial,fuck,gethigh-n-fuck,naked,bong,boobies,get-high-and-fuck,self-shot,pregnant -O gethigh-n-fuck gethigh-n-fuck
 ##./tumblr_backup.py --no-reblog --save-video -i -I o -t me,Me,ME -P prettyplease -O /media/vxbinaca/Storage/tumblr-blogs/pandaslittleone pandaslittleone
-#./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/mememolly mememolly
-#./tumblr_backup.py --no-reblog --save-video -i -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/daintylungs daintylungs
+./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/mememolly mememolly
+./tumblr_backup.py --no-reblog --save-video -i -I o -t me -O /media/vxbinaca/Storage/tumblr-blogs/daintylungs daintylungs
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/"madame--ette" "madame--ette"
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/a-slutty-naughty-hotwife a-slutty-naughty-hotwife
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/aellagirl aellagirl
@@ -26,7 +26,6 @@
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/goingdown64 goingdown64
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/gryphon-and-jade gryphon-and-jade
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/h0e-bl0g h0e-bl0g
-./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/hakusfm hakusfm
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/hammer23400 hammer23400
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/hash-420 hash-420
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/hotcumslutcouple hotcumslutcouple
