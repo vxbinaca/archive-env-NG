@@ -111,4 +111,3 @@
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/yourbigjohnson yourbigjohnson
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/zalivstok zalivstok
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/zalsfm zalsfm
-~                                                                                                        xxi. 
