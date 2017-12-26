@@ -67,11 +67,6 @@ Jump to the bottom of the file:
 `Shift-G`
 
 
-
-
-
-
-
 ## Failed download or not-owned item killed a channel rip
 
 Easy to fix. First stop all other rips and wipe your youtube-dl downloads folder.:
@@ -186,3 +181,14 @@ Look at the number on archive.org after you uploaded the rest of the videos, now
 `youtube-dl --ignore-config --flat-playlist [CHANNEL_URL] | tail`
 
 That will give you the channels video count. Just compare these two numbers.
+
+
+### Remove duplicate words on same line throughout file###
+
+Example:
+
+`WORD WORD`
+
+To fix:
+
+`:%s/\([#@&]\=\<\w\+\>\).\{-}\zs \+[#@&]\@<!\1\>//g`
