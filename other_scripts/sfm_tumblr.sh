@@ -78,6 +78,7 @@
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/pewposterous pewposterous
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/pino-stuff pino-stuff
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/planet-mojo planet-mojo
+./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/pockyang pockyang
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/pokedudesfm pokedudesfm
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/premlandio premlandio
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/proverty proverty
