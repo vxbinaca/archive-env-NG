@@ -53,6 +53,7 @@
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/leisurelystudio leisurelystudio
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/lil-potion-shop lil-potion-shop
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/logo365 logo365
+./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/m1llcake m1llcake
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/m805-sfm m805-sfm
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/marmsfm marmsfm
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/mattdarey91sfm mattdarey91sfm
