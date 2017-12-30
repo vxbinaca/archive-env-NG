@@ -26,8 +26,7 @@ tubeup https://www.youtube.com/channel/UCWH4JkQWioU3vTAritHDnAA/videos
 tubeup https://www.youtube.com/channel/UCWMPmKJ8GmmUvI5ZC0V2VsA/videos
 tubeup https://www.youtube.com/channel/UCZZFrPKyH-Le2uoPGnn5jyg/videos
 tubeup https://www.youtube.com/channel/UCdpkbiiCFHVPZrSYEEWyDdw/videos
-tubeup https://www.youtube.com/channel/UCe6CpThL4G2RRHfaIv0b-1w/videos
-tubeup https://www.youtube.com/channel/UCecsVoeJcsXbAra7Sl4mOPw/videos
+
 tubeup https://www.youtube.com/channel/UCgHUzh9T2DHvSDZcnILqH8g/videos
 tubeup https://www.youtube.com/channel/UCkDXV1ELQBVV4BuLR-FyfkA/videos
 tubeup https://www.youtube.com/channel/UCkfqhn4lyofss8PM1IubDgA/videos
