@@ -90,6 +90,7 @@
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/premlandio premlandio
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/proverty proverty
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/quick-esfm quick-esfm
+./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/rafaknight-rk rafaknight-rk
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/redmenacekun redmenacekun
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/redmoa redmoa
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/redsamsstuff redsamsstuff
@@ -131,6 +132,7 @@
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/twitchyanimation twitchyanimation
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/unidentifiedsfm unidentifiedsfm
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/urbanatorsfm urbanatorsfm
+./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/uwotinfokm8 uwotinfokm8
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/vgerotica vgerotica
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/vogolsart vogolsart
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/wanksysfm wanksysfm
