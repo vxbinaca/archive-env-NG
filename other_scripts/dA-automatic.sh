@@ -1,6 +1,3 @@
-
-ruby ~/git/deviantart-gallery-downloader/fetch.rb -n <Paste>https://shalaraan.deviantart.com/gallery/
-ruby ~/git/deviantart-gallery-downloader/fetch.rb -n <Paste>https://thedeathhourxp.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://ajdudebro.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://alexandrab24.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://apgaga1pegasister.deviantart.com/gallery
@@ -18,9 +15,11 @@ ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://jynos.deviantart.co
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://kaitexel.deviantart.com/gallery
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://kuvshinov-ilya.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://kyleray1.deviantart.com/gallery/
+ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://lollermaz.deviantart.comgallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://louiskey13.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://lunachi139.deviantart.com/gallery
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://marlomarquise.deviantart.com/gallery/
+ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://mrshlapa.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://natethebrony.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://nathylove5.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://nekoloveletter.deviantart.com/gallery/
@@ -29,15 +28,16 @@ ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://pablocomics.deviant
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://rizzyda.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://s-c.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://salmoneatjo0.deviantart.com/gallery/
+ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://shalaraan.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://shiniez.deviantart.com/gallery
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://snowthewinterkitsune.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://sourcefilmmaker.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://splashbrush.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://tainted-kayla.deviantart.com/gallery/
+ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://thedeathhourxp.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://thesourkraut.deviantart.com/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://trahtenberg.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://urbanator.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://vest.deviantart.com/gallery
-ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://www.lollermaz.deviantart.comgallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://xenolsvectors.deviantart.com/gallery/
 ruby ~/git/deviantart-gallery-downloader/fetch.rb -n https://yanhost.deviantart.com/gallery/
