@@ -1,10 +1,10 @@
-
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/1kmspaint 1kmspaint
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/aardvarkianparadise aardvarkianparadise
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/afrometalmizu afrometalmizu
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/amgitzytrid amgitzytrid
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/aregeecs aregeecs
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/barbellsfm barbellsfm
+./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/batyastudio batyastudio
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/bayernsfm bayernsfm
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/beastlyj0e beastlyj0e
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/beowulf1117 beowulf1117
