@@ -24,6 +24,7 @@
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/desiresfm desiresfm
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/devilbluedragon devilbluedragon
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/devilscry devilscry
+./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/dmt-arts dmt-arts
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/dotacouch dotacouch
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/dpmaker dpmaker
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/SFM_blogs/elbatmansfm elbatmansfm
