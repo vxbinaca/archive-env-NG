@@ -1,5 +1,5 @@
 #./targets/social-media.sh ; ##disabled for now until problems can be debugged 
-./targets/kraut.sh ; 
+#./targets/kraut.sh ; 
 ./targets/izumi.sh ; 
 ./targets/lrh-pp4l.sh ; 
 ./targets/fox.sh ; 
