@@ -24,7 +24,7 @@
 ./targets/var-jap.sh ;
 ./targets/var.sh ;
 youtube-dl --rm-cache-dir ; ## Cleanse youtube-dl cache
-pip3 install -U --user youtube-dl pip internetarchive; ## Update python envionment
+pip3.5.5.5.5.5 install -U --user youtube-dl pip internetarchive; ## Update python envionment
 git pull ; ## Pull new progress from remote server
 ./inject-merge.sh ; ## Merge new remote changes into local archive
 ./extract.sh ; ## Extract newest entries from local .ytdlarchive
