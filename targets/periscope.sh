@@ -35,6 +35,7 @@ tubeup --metadata=collection:weedtubers https://www.periscope.tv/StoneySpike/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/TheDabSpot/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/TwitchyBlaze/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/TwoStonesGirls/
+tubeup --metadata=collection:weedtubers https://www.periscope.tv/WhynterP
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/_kassidymae/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/batgirlbrit/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/bby_serena/
@@ -70,19 +71,21 @@ tubeup --metadata=collection:weedtubers https://www.periscope.tv/thehashcorner/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/thelittlefae/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/themisslw/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/theweedqueen/
+tubeup --metadata=collection:weedtubers https://www.periscope.tv/vnoriegaaa/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/weedbreath/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/weedgoddess/
-tubeup --metadata=collection:weedtubers https://www.periscope.tv/vnoriegaaa/
 tubeup https://www.periscope.tv/AngelMarie/
 tubeup https://www.periscope.tv/AverageSwingers/
 tubeup https://www.periscope.tv/FetishDollEmily/
 tubeup https://www.periscope.tv/FunLG/
 tubeup https://www.periscope.tv/KaashButter/
 tubeup https://www.periscope.tv/KinoYoga/
+tubeup https://www.periscope.tv/LanieLynnXXX
 tubeup https://www.periscope.tv/StephyScopes/
 tubeup https://www.periscope.tv/SwingerMexico_/
 tubeup https://www.periscope.tv/YoungLiving87/
 tubeup https://www.periscope.tv/YourOasisRadio/
+tubeup https://www.periscope.tv/arabellamascari
 tubeup https://www.periscope.tv/ariesqueen_/
 tubeup https://www.periscope.tv/dankkcoffee/
 tubeup https://www.periscope.tv/harper_cox_
@@ -92,6 +95,4 @@ tubeup https://www.periscope.tv/ready2jam1/
 tubeup https://www.periscope.tv/sammisacavage/
 tubeup https://www.periscope.tv/sheslulu/
 tubeup https://www.periscope.tv/veradevera/
-tubeup https://www.periscope.tv/arabellamascari
 tubeup https://www.pscp.tv/thereallisaann/
-tubeup https://www.periscope.tv/LanieLynnXXX
