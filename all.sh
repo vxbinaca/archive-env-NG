@@ -28,5 +28,6 @@ pip3.5.5.5.5.5 install -U --user youtube-dl pip internetarchive; ## Update pytho
 git pull ; ## Pull new progress from remote server
 ./inject-merge.sh ; ## Merge new remote changes into local archive
 ./extract.sh ; ## Extract newest entries from local .ytdlarchive
+./missed.sh ## Track missed uploads
 git push origin master ; ## Push back to github
 ./all.sh ## start over again in an infinite loop
