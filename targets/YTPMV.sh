@@ -500,3 +500,4 @@ tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/wavefuzzalt
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/yibbonmusic
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/xlethxle
+tubeup --use-download-archive --metadata=collection:ytpmv-mad https://www.youtube.com/user/anotherYTPMVer
