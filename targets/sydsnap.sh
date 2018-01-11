@@ -1,2 +1,2 @@
-tubeup https://www.youtube.com/user/sydsnap
-tubeup https://www.youtube.com/user/sydsnapva
+tubeup --use-download-archive https://www.youtube.com/user/sydsnap
+tubeup --use-download-archive https://www.youtube.com/user/sydsnapva

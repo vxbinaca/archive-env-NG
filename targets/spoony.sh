@@ -1,12 +1,12 @@
-tubeup --metadata=collection:thespoonyonevids https://www.youtube.com/user/SpoonyOne
-tubeup --metadata=collection:thespoonyonevids https://www.youtube.com/user/countermonkeybard
-tubeup --metadata=collection:thespoonyonevids https://www.youtube.com/user/TheSpoonyRUS/videos
-tubeup --metadata=collection:thespoonyonevids https://www.youtube.com/user/MrManray5
-tubeup --metadata=collection:thespoonyonevids https://www.youtube.com/watch?v=D2CR2HaPq24
-tubeup --metadata=collection:thespoonyonevids https://www.youtube.com/channel/UCbep0UAeTy6AwJxYmkU3VIw/videos
-tubeup --metadata=collection:thespoonyonevids https://www.youtube.com/user/AkiZilch
-tubeup --metadata=collection:thespoonyonevids https://www.youtube.com/channel/UCKaUYrXEDTieQWyuOvIIzxQ/videos
-tubeup --metadata=collection:thespoonyonevids https://www.youtube.com/channel/UCoZ-uXX30br0bDHKYxXB6iw
-tubeup --metadata=collection:thespoonyonevids https://www.youtube.com/channel/UCFM_WGhcPWMe_T1Eoc-paPw/videos
-tubeup --metadata=collection:thespoonyonevids https://www.youtube.com/channel/UC5dezjmAQki463TI6J7CbuQ
-tubeup --metadata=collection:thespoonyonevids https://www.youtube.com/playlist?list=PL2Bpv6tQDotlf9C9youAfXNsawHosThDD
+tubeup --use-download-archive  --metadata=collection:thespoonyonevids https://www.youtube.com/user/SpoonyOne
+tubeup --use-download-archive  --metadata=collection:thespoonyonevids https://www.youtube.com/user/countermonkeybard
+tubeup --use-download-archive  --metadata=collection:thespoonyonevids https://www.youtube.com/user/TheSpoonyRUS/videos
+tubeup --use-download-archive  --metadata=collection:thespoonyonevids https://www.youtube.com/user/MrManray5
+tubeup --use-download-archive  --metadata=collection:thespoonyonevids https://www.youtube.com/watch?v=D2CR2HaPq24
+tubeup --use-download-archive  --metadata=collection:thespoonyonevids https://www.youtube.com/channel/UCbep0UAeTy6AwJxYmkU3VIw/videos
+tubeup --use-download-archive  --metadata=collection:thespoonyonevids https://www.youtube.com/user/AkiZilch
+tubeup --use-download-archive  --metadata=collection:thespoonyonevids https://www.youtube.com/channel/UCKaUYrXEDTieQWyuOvIIzxQ/videos
+tubeup --use-download-archive  --metadata=collection:thespoonyonevids https://www.youtube.com/channel/UCoZ-uXX30br0bDHKYxXB6iw
+tubeup --use-download-archive  --metadata=collection:thespoonyonevids https://www.youtube.com/channel/UCFM_WGhcPWMe_T1Eoc-paPw/videos
+tubeup --use-download-archive  --metadata=collection:thespoonyonevids https://www.youtube.com/channel/UC5dezjmAQki463TI6J7CbuQ
+tubeup --use-download-archive  --metadata=collection:thespoonyonevids https://www.youtube.com/playlist?list=PL2Bpv6tQDotlf9C9youAfXNsawHosThDD
