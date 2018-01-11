@@ -37,6 +37,8 @@ tubeup --metadata=collection:weedtubers https://www.periscope.tv/TwitchyBlaze/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/TwoStonesGirls/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/WhynterP
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/_kassidymae/
+tubeup --metadata=collection:weedtubers https://www.periscope.tv/acidsouul
+tubeup --metadata=collection:weedtubers https://www.periscope.tv/amandalacyxo/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/batgirlbrit/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/bby_serena/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/brigittah91/
@@ -51,6 +53,7 @@ tubeup --metadata=collection:weedtubers https://www.periscope.tv/godshideouscrea
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/haley420/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/highfelisha/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/hiiighhprincessss/
+tubeup --metadata=collection:weedtubers https://www.periscope.tv/honeynuggs
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/jaylikejordans/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/joyyyyag/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/juliadabs/
@@ -75,8 +78,6 @@ tubeup --metadata=collection:weedtubers https://www.periscope.tv/theweedqueen/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/vnoriegaaa/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/weedbreath/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/weedgoddess/
-tubeup --metadata=collection:weedtubers https://www.periscope.tv/amandalacyxo/
-tubeup --metadata=collection:weedtubers https://www.periscope.tv/honeynuggs
 tubeup https://www.periscope.tv/AngelMarie/
 tubeup https://www.periscope.tv/AverageSwingers/
 tubeup https://www.periscope.tv/FetishDollEmily/
