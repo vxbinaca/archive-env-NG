@@ -75,6 +75,7 @@ tubeup --metadata=collection:weedtubers https://www.periscope.tv/theweedqueen/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/vnoriegaaa/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/weedbreath/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/weedgoddess/
+tubeup --metadata=collection:weedtubers https://www.periscope.tv/amandalacyxo/
 tubeup https://www.periscope.tv/AngelMarie/
 tubeup https://www.periscope.tv/AverageSwingers/
 tubeup https://www.periscope.tv/FetishDollEmily/
