@@ -64,6 +64,7 @@ tubeup --metadata=collection:weedtubers https://www.periscope.tv/mskushton420/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/paperseatbelttt/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/richie_v09/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/royalcannabis/
+tubeup --metadata=collection:weedtubers https://www.periscope.tv/sofaseahorses/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/sweetsunriseX
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/theHazelverse/
 tubeup --metadata=collection:weedtubers https://www.periscope.tv/thedanksideofthemoon/
