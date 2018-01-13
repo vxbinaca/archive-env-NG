@@ -131,13 +131,15 @@ and it will wipe everything above the despired line.
 
 Save and quit.
 
-### Delete entries for a given site
+### Delete all entries for a given site
 
 `:g/TEXT/d`
 
 Example:
 
 `:g/periscope/d`
+
+This also works for zapping a line by videoID, just delete the unique video ID string using this method.
 
 ### Sort files alphabetically, delete duplicate lines
 
@@ -155,6 +157,9 @@ Which means:
  A*      = append '*' to the end of current line
  ```
 
+### Prepend a string to each line
+
+```:%s!^!STRING!```
 
 ### Picking up on a channel rip someone else started but stopped
 
