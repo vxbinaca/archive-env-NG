@@ -143,6 +143,18 @@ Example:
 
 `:%sort u`
 
+### Append string to end of each line
+
+```:%norm A*```
+
+Which means:
+
+```
+ %       = for every line
+ norm    = type the following commands
+ A*      = append '*' to the end of current line
+ ```
+
 
 ### Picking up on a channel rip someone else started but stopped
 
@@ -183,7 +195,7 @@ Look at the number on archive.org after you uploaded the rest of the videos, now
 That will give you the channels video count. Just compare these two numbers.
 
 
-### Remove duplicate words on same line throughout file###
+### Remove duplicate words on same line throughout file
 
 Example:
 
@@ -192,3 +204,4 @@ Example:
 To fix:
 
 `:%s/\([#@&]\=\<\w\+\>\).\{-}\zs \+[#@&]\@<!\1\>//g`
+
