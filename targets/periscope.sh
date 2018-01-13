@@ -74,6 +74,7 @@ tubeup --use-download-archive  --metadata=collection:weedtubers https://www.peri
 tubeup --use-download-archive  --metadata=collection:weedtubers https://www.periscope.tv/thehashcorner/
 tubeup --use-download-archive  --metadata=collection:weedtubers https://www.periscope.tv/thelittlefae/
 tubeup --use-download-archive  --metadata=collection:weedtubers https://www.periscope.tv/themisslw/
+tubeup --use-download-archive  --metadata=collection:weedtubers https://www.periscope.tv/therealemeliee/
 tubeup --use-download-archive  --metadata=collection:weedtubers https://www.periscope.tv/theweedqueen/
 tubeup --use-download-archive  --metadata=collection:weedtubers https://www.periscope.tv/vnoriegaaa/
 tubeup --use-download-archive  --metadata=collection:weedtubers https://www.periscope.tv/weedbreath/
