@@ -79,6 +79,7 @@ tubeup --use-download-archive  --metadata=collection:weedtubers https://www.peri
 tubeup --use-download-archive  --metadata=collection:weedtubers https://www.periscope.tv/vnoriegaaa/
 tubeup --use-download-archive  --metadata=collection:weedtubers https://www.periscope.tv/weedbreath/
 tubeup --use-download-archive  --metadata=collection:weedtubers https://www.periscope.tv/weedgoddess/
+tubeup --use-download-archive  --metadata=collection:weedtubers https://www.periscope.tv/rachelhiiiii
 tubeup --use-download-archive  https://www.periscope.tv/AngelMarie/
 tubeup --use-download-archive  https://www.periscope.tv/AverageSwingers/
 tubeup --use-download-archive  https://www.periscope.tv/FetishDollEmily/
