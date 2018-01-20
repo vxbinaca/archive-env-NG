@@ -1,4 +1,3 @@
-
 tubeup --use-download-archive --metadata=collection:ytpmv-mad https://youtube.com/channel/GL1CTH3R
 tubeup --use-download-archive --metadata=collection:ytpmv-mad https://youtube.com/channel/SanekShadow234
 tubeup --use-download-archive --metadata=collection:ytpmv-mad https://youtube.com/channel/UC-0nEIC-FugrulWEeAvufHw
