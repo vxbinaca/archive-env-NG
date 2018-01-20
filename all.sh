@@ -1,5 +1,4 @@
-#./targets/social-media.sh ; ##disabled for now until problems can be debugged 
-#./targets/kraut.sh ; 
+#./targets/kraut.sh ## He removed all his content so collection is disabled for now ; 
 ./targets/izumi.sh ; 
 ./targets/lrh-pp4l.sh ; 
 ./targets/fox.sh ; 
@@ -8,7 +7,7 @@
 ./targets/rose.sh ;
 ./targets/naomi.sh ;
 ./targets/sydsnap.sh ;
-#./targets/icze4r.sh ; ## Probably should delete these items
+#./targets/icze4r.sh ## Probably should delete these items ;
 ./targets/sargon.sh ;
 ./targets/anita.sh ;
 ./targets/graywolf.sh ;
@@ -19,7 +18,7 @@
 ./targets/spoony.sh ;
 #./targets/kanadajin3.sh ;
 ./targets/jbpeterson.sh ;
-#./targets/sfm.sh ; # Needs solution on target gathering
+#./targets/sfm.sh # Needs solution on target gathering ;
 ./targets/twitch.sh;
 ./targets/var-jap.sh ;
 ./targets/var.sh ;
