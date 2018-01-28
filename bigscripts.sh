@@ -10,6 +10,6 @@ ent
 git pull ; ## Pull new progress from remote server
 ./inject-merge.sh ; ## Merge new remote changes into local archive
 ./extract.sh ; ## Extract netest entries from local .ytdlarchive
-./missed.sh ## Track missed uploads
+#./missed.sh ## Track missed uploads
 git push origin master ; ## Push back to github
 ./bigscripts.sh ## start over again in an infinite loo
