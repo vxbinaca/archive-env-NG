@@ -20,6 +20,7 @@
 ./targets/jbpeterson.sh ;
 #./targets/sfm.sh # Needs solution on target gathering ;
 ./targets/twitch.sh;
+./targes/news-scopes.sh
 ./targets/var-jap.sh ;
 ./targets/var.sh ;
 youtube-dl --rm-cache-dir ; ## Cleanse youtube-dl cache
