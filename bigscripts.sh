@@ -1,7 +1,7 @@
 ./targets/doller.sh ;
 ./targets/speedpainting.sh ;
 ./targets/YTPMV.sh ;
-./targets/periscope.sh ;
+#./targets/periscope.sh ;
 ./targets/stoners.sh ;
 #./targets/social-media.sh ; ##disabled for now until problems can be debugged
 youtube-dl --rm-cache-dir ; ## Cleanse youtube-dl cache
