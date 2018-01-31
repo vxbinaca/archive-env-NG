@@ -10,9 +10,9 @@
 #./targets/icze4r.sh ## Probably should delete these items ;
 ./targets/sargon.sh ;
 ./targets/anita.sh ;
-./targets/graywolf.sh ;
+#./targets/graywolf.sh ;
 ./targets/blackhitler.sh ;
-./targets/lilmissanon.sh ;
+#./targets/lilmissanon.sh ;
 ./targets/skeptfem.sh ;
 ./targets/vee.sh ;
 ./targets/spoony.sh ;
