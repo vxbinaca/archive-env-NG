@@ -131,7 +131,7 @@ and it will wipe everything above the despired line.
 
 Save and quit.
 
-### Delete all entries for a given site
+### Delete all entries/lines for a given site
 
 `:g/TEXT/d`
 
@@ -160,6 +160,11 @@ Which means:
 ### Prepend a string to each line
 
 ```:%s!^!STRING!```
+
+### Delete everything before a certain characcter on each line, in this case -
+
+`:%s/^.*\(-\)/\1/`
+
 
 ### Picking up on a channel rip someone else started but stopped
 
