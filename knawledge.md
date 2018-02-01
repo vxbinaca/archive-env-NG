@@ -157,6 +157,10 @@ Which means:
  A*      = append '*' to the end of current line
  ```
 
+### Delete the first character of each line
+
+`:%normal 1x`
+
 ### Prepend a string to each line
 
 ```:%s!^!STRING!```
