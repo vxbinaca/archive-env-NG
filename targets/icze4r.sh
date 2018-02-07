@@ -1,1 +1,1 @@
-tubeup --use-download-archive --metadata=collection:icze4rvideos http://www.youtube.com/user/icze4r/videos/
+tubeup --use-download-archive --metadata=collection:tubeup http://www.youtube.com/user/icze4r/videos/
