@@ -53,3 +53,4 @@ tubeup --use-download-archive --metadata=collection:tubeup https://vimeo.com/jun
 tubeup --use-download-archive --metadata=collection:tubeup https://vimeo.com/user26842840
 tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/user/HiMyNameIsRoxi/videos
 tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/channel/UCjPao-PMHoC1IBurivhfGFQ/videos
+tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/channel/UCnzq0TEm7vMLUe4wEumA39A
