@@ -1,4 +1,5 @@
 tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/c/KSGLIFESTYLE
+tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/channel/UCTpw-675Yyhx2D9FkAwtuuQ
 tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/channel/UCrER-8CXXlKC7CzbaD28myg
 tubeup --use-download-archive --metadata=collection:weedtubers https://youtube.com/channel/UC-AJcHTjclNm7wM3RHYt3QQ 
 tubeup --use-download-archive --metadata=collection:weedtubers https://youtube.com/channel/UC-j0wSx5QfgXuKXyaroo8cg
@@ -114,4 +115,4 @@ tubeup --use-download-archive --metadata=collection:weedtubers https://youtube.c
 tubeup --use-download-archive --metadata=collection:weedtubers https://youtube.com/user/sk8tergurl020908
 tubeup --use-download-archive --metadata=collection:weedtubers https://youtube.com/user/stonercouple1 
 tubeup --use-download-archive --metadata=collection:weedtubers https://youtube.com/user/thedabspot 
-tubeup --use-download-archive --metadata=collection:weedtubers https://youtube.com/user/tigerlilly06 
+tubeup --use-download-archive --metadata=collection:weedtubers https://youtube.com/user/tigerlilly06
