@@ -1,8 +1,13 @@
+
 tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/c/KSGLIFESTYLE
+tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/channel/UCOhd4mgDwECrx2GgwTQSjGQ
+tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/channel/UCRNg0KsljY1Ghzg-1madP4A 
 tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/channel/UCRzMA0FHUCtKshBp4OJ2bEA
 tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/channel/UCTpw-675Yyhx2D9FkAwtuuQ
 tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/channel/UCZoN9-QffhxtGv0rL3kQYlA
+tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/channel/UChXrAdn94u8XoBX8U52459A
 tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/channel/UCrER-8CXXlKC7CzbaD28myg
+tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/user/StrainCentral
 tubeup --use-download-archive --metadata=collection:weedtubers https://youtube.com/channel/UC-AJcHTjclNm7wM3RHYt3QQ 
 tubeup --use-download-archive --metadata=collection:weedtubers https://youtube.com/channel/UC-j0wSx5QfgXuKXyaroo8cg
 tubeup --use-download-archive --metadata=collection:weedtubers https://youtube.com/channel/UC0oTSlrC4BrNoOim9omIyUw
