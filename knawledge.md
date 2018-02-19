@@ -125,7 +125,7 @@ Stop all other rips and wipe your youtube-dl downloads folder.
 
 Similar to the above process, you just move one line ABOVE the target line, and press:
 
-`ddg` (keep the G lower case)
+`dgg` (keep the G lower case)
 
 and it will wipe everything above the despired line.
 
