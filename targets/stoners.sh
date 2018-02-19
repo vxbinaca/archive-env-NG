@@ -1,5 +1,6 @@
 tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/c/KSGLIFESTYLE
 tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/channel/UCTpw-675Yyhx2D9FkAwtuuQ
+tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/channel/UCZoN9-QffhxtGv0rL3kQYlA
 tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/channel/UCrER-8CXXlKC7CzbaD28myg
 tubeup --use-download-archive --metadata=collection:weedtubers https://youtube.com/channel/UC-AJcHTjclNm7wM3RHYt3QQ 
 tubeup --use-download-archive --metadata=collection:weedtubers https://youtube.com/channel/UC-j0wSx5QfgXuKXyaroo8cg
