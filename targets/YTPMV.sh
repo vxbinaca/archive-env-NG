@@ -1,3 +1,5 @@
+
+tubeup --use-download-archive --metadata=collection:ytpmv-mad https://www.youtube.com/channel/UC6FQ1CCsTVdr5DrE4JXOVUA
 tubeup --use-download-archive --metadata=collection:ytpmv-mad https://www.youtube.com/channel/UCOC2RxhlaSUcDbFXk-17D1g
 tubeup --use-download-archive --metadata=collection:ytpmv-mad https://www.youtube.com/channel/UCUUi1yyN1jz9mujF6Ksk98w
 tubeup --use-download-archive --metadata=collection:ytpmv-mad https://www.youtube.com/channel/UCaZU3Nba71jSyPcgxbdXQXA
