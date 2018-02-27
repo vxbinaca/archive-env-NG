@@ -25,12 +25,12 @@ Software:
 Optional software (nice to have and my prefered setup):
 
 - NeoVIM/nvim aliased over vim/nano etc.
-- zsh + [OhMyZSH](https://github.com/robbyrussell/oh-my-zsh) + [powerlevel9k theme](https://github.com/bhilburn/powerlevel9k)
+- zsh + [OhMyZSH](http://github.com/robbyrussell/oh-my-zsh) + [powerlevel9k theme](http://github.com/bhilburn/powerlevel9k)
 - *On your own machine*: `fonts-powerline` or powerline fonts to properly render powerlevel9k theme.
 
 ### Getting started
 
-- Configure Tubeup [per it's instructions](https://github.com/bibanon/tubeup)
+- Configure Tubeup [per it's instructions](http://github.com/bibanon/tubeup)
 - Add new machines public SSH key to this account or an account with write access to this repo.
 - If you have write access to this repo, clone this repository using:
 

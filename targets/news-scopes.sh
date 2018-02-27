@@ -1,1 +1,1 @@
-tubeup --use-download-archive https://www.periscope.tv/reneesnews
+tubeup --use-download-archive http://www.periscope.tv/reneesnews

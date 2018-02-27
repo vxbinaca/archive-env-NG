@@ -113,4 +113,4 @@ youtube-dl --ignore-config --get-id http://youtube.com/user/sk8tergurl020908 >> 
 youtube-dl --ignore-config --get-id http://youtube.com/user/stonercouple1  >> WEEDTUBERS-IDS.txt
 youtube-dl --ignore-config --get-id http://youtube.com/user/thedabspot  >> WEEDTUBERS-IDS.txt
 youtube-dl --ignore-config --get-id http://youtube.com/user/tigerlilly06  >> WEEDTUBERS-IDS.txt
-youtube-dl --ignore-config --get-id https://www.youtube.com/channel/UCrER-8CXXlKC7CzbaD28myg >> WEEDTUBERS-IDS.txt
+youtube-dl --ignore-config --get-id http://www.youtube.com/channel/UCrER-8CXXlKC7CzbaD28myg >> WEEDTUBERS-IDS.txt

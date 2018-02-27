@@ -4,11 +4,11 @@
 
 Okay some key things you need to know are how to quickly find video IDs, and extrapolate that to item names on Internet Archive.
 
-We'll be working with [this item](https://archive.org/details/youtube-jNQXAC9IVRw), the first ever video uploaded to Youtube.
+We'll be working with [this item](http://archive.org/details/youtube-jNQXAC9IVRw), the first ever video uploaded to Youtube.
 
 ```
 [   The rest of the URL   ] [ Item Identifier ]
-https://archive.org/details/youtube-jNQXAC9IVRw
+http://archive.org/details/youtube-jNQXAC9IVRw
 ```
  
 Same thing with the file name of a video:
@@ -21,7 +21,7 @@ Similarly the original URL to the video:
 
 ```
            [siteID]             [ video ID ]
-https://www.youtube.com/watch?v=jNQXAC9IVRw
+http://www.youtube.com/watch?v=jNQXAC9IVRw
 ```
 
 Youtube-dl stores the entry for the video in the video archive in a similar fashion:
