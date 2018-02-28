@@ -43,4 +43,4 @@ git pull ; ## Pull new progress from remote server
 ./extract.sh ; ## Extract netest entries from local .ytdlarchive
 #./missed.sh ## Track missed uploads
 git push origin master ; ## Push back to github
-./bigscripts.sh ## start over again in an infinite loo
+./all.sh
