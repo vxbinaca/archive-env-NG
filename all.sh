@@ -18,10 +18,9 @@
 ./targets/spoony.sh ;
 #./targets/kanadajin3.sh ;
 ./targets/jbpeterson.sh ;
-#./targets/sfm.sh # Needs solution on target gathering ;
-./targets/twitch.sh;
+#./targets/sfm.sh ; # Needs solution on target gathering
 #./targes/news-scopes.sh
-./targets/batfe.sh
+./targets/batfe.sh ;
 ./targets/var-jap.sh ;
 ./targets/var.sh ;
 
@@ -35,6 +34,7 @@
 #./targets/periscope.sh ;
 ./targets/stoners.sh ;
 #./targets/social-media.sh ; ##disabled for now until problems can be debugged
+./targets/twitch.sh ;
 youtube-dl --rm-cache-dir ; ## Cleanse youtube-dl cache
 pip3 install -U --user youtube-dl pip internetarchive; ## Update python envionm
 ent
