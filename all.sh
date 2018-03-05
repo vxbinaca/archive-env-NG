@@ -12,7 +12,7 @@
 ./targets/anita.sh ;
 ./targets/graywolf.sh ;
 ./targets/blackhitler.sh ;
-./targets/lilmissanon.sh ;
+#./targets/lilmissanon.sh ;
 ./targets/skeptfem.sh ;
 ./targets/vee.sh ;
 ./targets/spoony.sh ;
@@ -28,6 +28,7 @@
 ####### Big scripts below ########
 ##################################
 
+#./targets/vimeo.sh ;
 ./targets/doller.sh ;
 ./targets/speedpainting.sh ;
 ./targets/YTPMV.sh ;

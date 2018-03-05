@@ -49,8 +49,6 @@ tubeup --use-download-archive --metadata=collection:tubeup http://www.youtube.co
 tubeup --use-download-archive --metadata=collection:tubeup http://www.youtube.com/watch?v=xTJC2RkcLEs&list=PLD0NeEbRY7VTkw1GBrnsZAUIrOTOjyzaw
 tubeup --use-download-archive --metadata=collection:tubeup http://www.youtube.com/channel/UCmyiBfu_idd4fdSQuA6yjew/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://www.youtube.com/channel/UCECs2QPEUC-3fNsDYJM1BjQ/videos
-tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/junnnktank
-tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/user26842840
 tubeup --use-download-archive --metadata=collection:tubeup http://www.youtube.com/user/HiMyNameIsRoxi/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://www.youtube.com/channel/UCjPao-PMHoC1IBurivhfGFQ/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://www.youtube.com/channel/UCnzq0TEm7vMLUe4wEumA39A
