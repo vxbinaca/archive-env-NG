@@ -50,7 +50,7 @@ youtube-aMcjxSThD54 ## BBC4 debate
 youtube-jhm4X3a2_kg ## BBC5 interview
 youtube-zBs_rrxgTGk ## Fox interview
 
-##Topless Topics (Vimeo)
+##Topless Topics 
 vimeo-258905900
 vimeo-258899988
 vimeo-257396126
@@ -138,3 +138,11 @@ vimeo-124155687
 vimeo-123322861
 vimeo-120543010
 vimeo-119908544
+youtube-kz6zwD8hD_Q
+youtube-jX21cNqC8FY
+youtube-dD4pL_7hSV0
+youtube-Pzpnajii_dw
+youtube-JnpGVN-LHKI
+youtube-Gd1ovC8wkeA
+youtube-2fS4mqw1U2w
+
