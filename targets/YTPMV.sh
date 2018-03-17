@@ -487,6 +487,7 @@ tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/RobGBA
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/SafariBros115
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/StarWarsXM
+tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Strikerzkman
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/SuperBocky
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TeamNearTree
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheFirippu
