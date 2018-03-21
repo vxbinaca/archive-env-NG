@@ -35,7 +35,7 @@
 #./targets/periscope.sh ;
 ./targets/stoners.sh ;
 #./targets/social-media.sh ; ##disabled for now until problems can be debugged
-./targets/twitch.sh ;
+#./targets/twitch.sh ; Switching to crontab
 youtube-dl --rm-cache-dir ; ## Cleanse youtube-dl cache
 pip3 install -U --user youtube-dl pip internetarchive; ## Update python envionm
 ent
