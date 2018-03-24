@@ -23,6 +23,7 @@
 ./targets/batfe.sh ;
 ./targets/var-jap.sh ;
 ./targets/var.sh ;
+./targets/gunz.sh ; 
 
 ##################################
 ####### Big scripts below ########
