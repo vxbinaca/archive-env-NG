@@ -2,6 +2,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCCdeHKahyMAlPV6SQGx8psg
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCW0V8XgHkmT5nsWdw1Z0LFw
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCci79_hMFw1CahtThZJ53yA
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCi5PGj0TV3wkwKmRACb5tHA
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCwFQw-t3fzE6tdd6-KeDMfA
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/BritishTang
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/HaleyStrategic
