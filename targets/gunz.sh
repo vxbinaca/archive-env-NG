@@ -16,3 +16,5 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/nsz85
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/saunixcomp
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/tnoutdoors9
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/50CalVal
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/royalnonesuchshow
