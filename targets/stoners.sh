@@ -1,4 +1,4 @@
-tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/c/KSGLIFESTYLE
+tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/KSGLIFESTYLE
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UC-AJcHTjclNm7wM3RHYt3QQ 
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UC-j0wSx5QfgXuKXyaroo8cg
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UC0oTSlrC4BrNoOim9omIyUw
