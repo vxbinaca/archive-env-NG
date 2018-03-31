@@ -1,3 +1,4 @@
+
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/GL1CTH3R
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/SanekShadow234
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-0nEIC-FugrulWEeAvufHw
@@ -175,6 +176,7 @@ tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLmZeoLfIWF5BKFWRpcPfJg
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLp828lp1qqeTWSuA1doCiA
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLyZGOMZwvX7pZ1-nHQTY4A
+tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCM-Gzpgx9_bp_-FlDugWfFw
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMIRYngQyH5j1P3m8nW1pUA
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMRGLDwMCL1M31pv2oBuRhQ
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMZX0sWMHUOrT2u6KI4CNkA
@@ -295,6 +297,7 @@ tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCbxcvmmFw0C8pwxlBxCuz7Q
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCbzKGMuP9_9mJxmCOgIF7aA
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCc9BHZhD4tbsg5Np_P9NUsg
+tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCc9OzIdPsj2oDAeX1VYjo3Q
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCcFoMCwZJmCq-KvsHEg-BOw
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCcJLomX3Zg3njnC8Y8zf8eg
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCcZd_yqTtCw3WILWq2SWIiw
