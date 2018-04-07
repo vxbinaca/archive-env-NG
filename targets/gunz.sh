@@ -17,7 +17,6 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/britishmuzzleloaders
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/capandball
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/cyrusjj
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/nick97ftGun
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/nsz85
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/royalnonesuchshow
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/saunixcomp
