@@ -35,6 +35,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCkfqhn4lyofss8PM1IubDgA/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCmyiBfu_idd4fdSQuA6yjew/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCnzq0TEm7vMLUe4wEumA39A
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCox0RC7bP_wafzpRmlnD9EQ
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCp4oMaqaY0hIoT9jafj1g8g/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCp8tB7kfhjvmgY2wUDBlaMA/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCpMMcYVSnqOIJA11vBnFngQ/videos
