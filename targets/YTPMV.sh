@@ -482,6 +482,7 @@ tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/CreepahWeegie
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/DooLovesAniki
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/EKCraftMC
+tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Ekyugata
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/FinnishBro
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/GLaDOS996
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Gianneko
