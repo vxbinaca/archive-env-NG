@@ -59,3 +59,4 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/shachiNT/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/stevieryan/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/watch?v=xTJC2RkcLEs&list=PLD0NeEbRY7VTkw1GBrnsZAUIrOTOjyzaw
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCvNsW_rz1kj2KiM1TJU6E5Q
