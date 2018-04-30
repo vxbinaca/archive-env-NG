@@ -1,3 +1,4 @@
+tubeup --use-download-archive --metadata=collection:weedtubers http://vimeo.com/growpotcheaply
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/KSGLIFESTYLE
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UC-AJcHTjclNm7wM3RHYt3QQ 
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UC-j0wSx5QfgXuKXyaroo8cg
