@@ -58,6 +58,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/lonelygirl15/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/shachiNT/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/stevieryan/videos
-tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/playlist?list=PLD0NeEbRY7VTkw1GBrnsZAUIrOTOjyzaw
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/playlist?list=PLD0NeEbRY7VTkw1GBrnsZAUIrOTOjyzaw
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCvNsW_rz1kj2KiM1TJU6E5Q
-tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/channel/UCG5ZWGfgDXk40t9Og02F5yA/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCG5ZWGfgDXk40t9Og02F5yA/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCmOVEae8Tl7XmdjdxLbJHkw
