@@ -130,3 +130,4 @@ tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.co
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/stonercouple1 
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/thedabspot 
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/tigerlilly06
+tubeup --use-download-archive --metadata=collection:weedtubers http://vimeo.com/TheDabSpot
