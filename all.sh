@@ -29,7 +29,7 @@
 ####### Big scripts below ########
 ##################################
 
-#./targets/vimeo.sh ;
+./targets/vimeo.sh ;
 ./targets/doller.sh ;
 ./targets/speedpainting.sh ;
 ./targets/YTPMV.sh ;
