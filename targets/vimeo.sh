@@ -7,4 +7,5 @@ tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/suka
 tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/user1944739
 tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/user24127837
 tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/user26842840
+tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/user8923725
 tubeup --use-download-archive --metadata=collection:weedtubers http://vimeo.com/TheDabSpot
