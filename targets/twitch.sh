@@ -7,4 +7,5 @@ tubeup --use-download-archive http://twitch.tv/sydsnap/videos/all
 tubeup --use-download-archive http://twitch.tv/zonesama/videos/all
 tubeup --use-download-archive http://twitch.tv/thedanklank/videos/all
 tubeup --use-download-archive http://twitch.tv/SashaHippie/videos/all
+tubeup --use-download-archive http://twitch.tv/charlscarroll/videos/all
 ## tubeup --use-download-archive http://twitch.tv/brittanyventi/videos/all
