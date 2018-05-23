@@ -18,7 +18,7 @@
 ./targets/spoony.sh ;
 #./targets/kanadajin3.sh ;
 ./targets/jbpeterson.sh ;
-#./targets/sfm.sh ; # Needs solution on target gathering
+./targets/sfm.sh ; # Needs more targets
 #./targes/news-scopes.sh
 ./targets/batfe.sh ;
 ./targets/var-jap.sh ;
