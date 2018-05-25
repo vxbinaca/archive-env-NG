@@ -63,3 +63,4 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCG5ZWGfgDXk40t9Og02F5yA/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCmOVEae8Tl7XmdjdxLbJHkw
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCB5Yw6r20bTrkZZDS_EnNvg
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w
