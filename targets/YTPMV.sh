@@ -413,6 +413,7 @@ tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UConHV3bogSwNmfWx6GZmhBQ
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCoqCyc91UnN363zodoHMJ6g
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCow566rUxbZXLBP_-E1VoSw
+tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCp1zb5wG3ANSVAg3Yl2qpGA
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpCTOtPvRNUBq1c5PJsStPA
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpGmIMAzHMdONFV7i59KQGw
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpIzDup6yUZhwaHjEgm2dEg
