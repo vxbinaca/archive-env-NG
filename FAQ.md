@@ -42,6 +42,9 @@ Related material for your consideration:
 
 [Digital Amnesia](https://www.youtube.com/watch?v=NdZxI3nFVJs) - A VPRO documentary about Internet Archive, Archive Team, The Long Now
  and others (English).
+
 [Cold Storage](https://vimeo.com/116603551) - A documentary about the Harvard book depository.
+
 [Internet Archive](https://vimeo.com/59207751) - A short film about the titular Archive in San Francisco.
+
 [DC19 talk by Jason Scott](https://www.youtube.com/watch?v=-2ZTmuX3cog) - This was the talk that got me into this, that and the frsutration with large video platforms wiping out culture.
