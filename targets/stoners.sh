@@ -1,4 +1,3 @@
-tubeup --use-download-archive --metadata=collection:weedtubers http://vimeo.com/growpotcheaply
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/KSGLIFESTYLE
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UC-AJcHTjclNm7wM3RHYt3QQ 
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UC-j0wSx5QfgXuKXyaroo8cg
@@ -77,6 +76,7 @@ tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.co
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCoRij7p3xrPzIT0oi4aSk2g
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCpXZ4mSerU7ZKQJHsLatRXw
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCpap5HFCgO4J_SWWr3WHrqw
+tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCqd6bvEuQIxZzEdGNww38nQ
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCrER-8CXXlKC7CzbaD28myg
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCrsPvWIEZ4x6Qv9dL6ErXNQ
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCrsPvWIEZ4x6Qv9dL6ErXNQ 
@@ -130,4 +130,3 @@ tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.co
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/stonercouple1 
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/thedabspot 
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/tigerlilly06
-tubeup --use-download-archive --metadata=collection:weedtubers http://vimeo.com/TheDabSpot
