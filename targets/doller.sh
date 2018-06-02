@@ -62,7 +62,6 @@ tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.co
 tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/user/0000001230/videos
 tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/user/0411HIBIKI/videos
 tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/user/114pass/videos
-tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/user/1975zet/videos
 tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/user/2008rin1/videos
 tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/user/AlondraHaruhi/videos
 tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/user/Andrew53670/videos
