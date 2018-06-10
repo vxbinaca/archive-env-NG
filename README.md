@@ -25,7 +25,9 @@ Software:
 Optional software (nice to have and my prefered setup):
 
 - NeoVIM/nvim aliased over vim/nano etc.
-- zsh + [OhMyZSH](http://github.com/robbyrussell/oh-my-zsh) + [powerlevel9k theme](http://github.com/bhilburn/powerlevel9k)
+- zsh + [OhMyZSH](http://github.com/robbyrussell/oh-my-zsh) + [powerlevel9k theme](http://github.com/bhilburn/powerlevel9k) since it's just more powerful, has key-press saving features like fantastic tab completion and pl9k has git integration.
+- "most" for dealing with long output from ls or the like. It's in most distros
+ accept centOS (ahem, centos repo people).
 - *On your own machine*: `fonts-powerline` or powerline fonts to properly render powerlevel9k theme.
 
 ### Getting started
