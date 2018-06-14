@@ -7,7 +7,6 @@
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC1fSp9Qpp8tT982OumLS5Hg/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC4QFrwuzxJ2eC7Q2iDrlJFg/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5hie5xBr7qENWVD_kfsiew/videos
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC7yPuRdd4ZKhJQueiVnjd2A/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC8EvY5Cky6LM9tTE07kk2kQ/video ## Vaporwave
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC8aG3LDTDwNR1UQhSn9uVrw/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCAo6nC6I9yk2X4xqQThhhew/videos
