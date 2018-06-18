@@ -2,6 +2,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC9k2WzcJ1kUMl4KIwNQwrFA
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCCdeHKahyMAlPV6SQGx8psg
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCClIfWXtn4rA-1jDHAVPYmg
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCEC4sjDdhve0jBey4lL_RKg
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCW0V8XgHkmT5nsWdw1Z0LFw
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCci79_hMFw1CahtThZJ53yA
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCduPsSVIdaVTRSbCa3Dz78g
