@@ -13,3 +13,7 @@ tubeup --use-download-archive http://twitch.tv/sydsnap/videos/all
 tubeup --use-download-archive http://twitch.tv/textfilesdotcom/videos/all
 tubeup --use-download-archive http://twitch.tv/thedanklank/videos/all
 tubeup --use-download-archive http://twitch.tv/zonesama/videos/all
+##tubeup --use-download-archive http://twitch.tv/zeldacw/videos/all
+##tubeup --use-download-archive http://twitch.tv/hydeart/videos/all
+##tubeup --use-download-archive http://twitch.tv/jellykin/videos/all
+
