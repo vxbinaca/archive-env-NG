@@ -2,7 +2,7 @@
 tubeup --use-download-archive http://twitch.tv/SashaHippie/videos/all
 tubeup --use-download-archive http://twitch.tv/afoxinspaceshow/videos/all
 tubeup --use-download-archive http://twitch.tv/charlscarroll/videos/all
-tubeup --use-download-archive http://twitch.tv/chubbykittenreviews/all
+tubeup --use-download-archive http://twitch.tv/chubbykittenreviews/videos/all
 tubeup --use-download-archive http://twitch.tv/gamecatt/videos/all
 tubeup --use-download-archive http://twitch.tv/gunsarefun911/videos/all
 tubeup --use-download-archive http://twitch.tv/hydeart/videos/all
