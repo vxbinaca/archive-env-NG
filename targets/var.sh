@@ -65,3 +65,4 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/ZimoNitrome
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCdjLHBxJIJmJ4srj0NYFl8g
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCnQogRWNwH-m8W0NQMYI3Ig
