@@ -2,7 +2,7 @@
 20 */1 * * * sh ~/git/archive-env-NG/targets/louis.sh
 30 */1 * * * sh ~/git/archive-env-NG/targets/sargon.sh
 20 */4 * * * sh ~/git/archive-env-NG/targets/stoners.sh
-50 */1 * * * sh ~/git/archive-env-NG/targets/var.sh
+0 */1 * * * sh ~/git/archive-env-NG/targets/var.sh
 25 */1 * * * sh ~/git/archive-env-NG/targets/vee.sh
 5 */24 * * * sh ~/git/archive-env-NG/targets/batfe.sh
 6 */24 * * * sh ~/git/archive-env-NG/targets/fox.sh
