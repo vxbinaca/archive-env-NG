@@ -12,6 +12,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/50CalVal
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/BritishTang
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/HaleyStrategic
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/KnightsArmCo
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/Magpul
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/Silencerco
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/StealthArms
