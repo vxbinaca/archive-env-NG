@@ -1,5 +1,5 @@
 ## DEAD CHANNEL ## tubeup --use-download-archive http://twitch.tv/brittanyventi/videos/all
-## tubeup --use-download-archive http://twitch.tv/fakegamergirl/videos/all
+##  tubeup --use-download-archive  --metadata=collection:healthyaddictvideos http://twitch.tv/fakegamergirl/videos/all 
 tubeup --use-download-archive http://twitch.tv/SashaHippie/videos/all
 tubeup --use-download-archive http://twitch.tv/afoxinspaceshow/videos/all
 tubeup --use-download-archive http://twitch.tv/charlscarroll/videos/all
