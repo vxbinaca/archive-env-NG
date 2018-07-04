@@ -7,7 +7,6 @@
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC1fSp9Qpp8tT982OumLS5Hg
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC4QFrwuzxJ2eC7Q2iDrlJFg
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5hie5xBr7qENWVD_kfsiew
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC8EvY5Cky6LM9tTE07kk2kQ ## Vaporwave
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC8aG3LDTDwNR1UQhSn9uVrw
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCAo6nC6I9yk2X4xqQThhhew
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCEAqHbeIpPERhniNjQyR7EQ
@@ -66,3 +65,4 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/ZimoNitrome
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCdjLHBxJIJmJ4srj0NYFl8g
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCnQogRWNwH-m8W0NQMYI3Ig
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC_CKL5F9i7e9sPnZcxXP3HQ
