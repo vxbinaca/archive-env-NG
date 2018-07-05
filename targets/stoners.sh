@@ -19,6 +19,7 @@ tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.co
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCDiEADruDzNceKlLqBtYYcQ
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCGMBnU-22whLthV56DxyJlQ 
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCIe33lwff9WGTvKM3r5PTsw
+tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCJoevwt_BlGrHZfq5NSPMKA
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCKdWSG-BvO_0CFj6rHeCWYQ
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCL5KPDWXiTsPHyDx3OLL9XQ
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCLE6HyxNnxMyZNi8jtp8JNw
