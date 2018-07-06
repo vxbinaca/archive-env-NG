@@ -1,4 +1,5 @@
 cd ~/.tubeup/downloads/
+cat ~/dev/null > ~/git/archive-env-NG/.missed ## Zero out file
 ls *.mp4 >> ~/git/archive-env-NG/.missed ## Append MP4 files to list
 ls *.mkv >> ~/git/archive-env-NG/.missed ## Append MKV files to list
 ls *.part* >> ~/git/archive-env-NG/.missed ## Append PART files to list
