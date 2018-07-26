@@ -2,10 +2,10 @@
 
 __Who are you?__
 
-My name Paul Henning, I'm volunteer/amateur archvist with Biblotheca Anonoma (BibAnon) who posts his work primarly to the Internet Archive. 
+My name Paul, I'm volunteer/amateur archivist with Biblotheca Anonoma (BibAnon) who posts his work primarly to the Internet Archive. 
 
-I'm not a trained archivist and do not have a degree and library sciences nor can I program. I'm literally just some guy. 
-My background is in IT and and skilled trades. BibAnon normally focuses on image board culture (4chan/2channel) however I happen to excel at automatic video preservation.
+I'm not a college trained archivist and do not have a degree and library sciences nor can I program. I'm literally just some guy. 
+My background is in IT and and skilled trades. BibAnon normally focuses on image board culture (4chan/2channel) however I happen to excel at automatic video preservation and was given access to code repositories and infrastructure to do my task when I showd initiative.
 
 __Why do you save videos__
 
@@ -15,7 +15,7 @@ on the internet](https://blog.archive.org/2009/08/25/geocities-preserved/) becau
 
 __Do you make money off this?__
 
-No. It actually costs me money, and I don't accept donations. Please donate to the Internet Archive instead.
+No. It actually costs me money. Please donate to the Internet Archive instead.
 
 __How do you save all these videos?__
 
@@ -37,11 +37,22 @@ Various reasons depends on the subject. Some are emergency rips where I feel the
 
 Early on I wanted to test if I could actually preserve hundreds of channels, so I tried. Increasingly I'm finding things I randomly saved on whim are gone and now the only copy is the one I have. Some are things I feel should be preserved but increasingly it's only things endangered. I think of the prefrence for some things I have like a bet, and that bet hs paid off multiple times now.
 
+__What about copyright?__
 
-Related material for your consideration:
+A broad question with multiple meanings and agendas. It's better to archive culture first and ask questions later. The soldier who found the Rosetta Stone didn't ask about copyright before taking the artifact. Suppose the stone was left there, it likely would have been destroyed and it would have taken much longer to translate Egyptian hieroglyphs to another language if at all and there'd be raging deate as to the translations. The debate ends with a stone that has ancient egyptian symbols and ancient greek translations because it's easier to go from greek to latin or others, than symbols to hieroglyphs.
 
-[Digital Amnesia](https://www.youtube.com/watch?v=NdZxI3nFVJs) - A VPRO documentary about Internet Archive, Archive Team, The Long Now
- and others (English).
+However the Rosetta Stone annecdote isn't a good example because theres only one Rosetts Stone, but when you mirror a video you make another copy that serves as a backup of the original in case the original goes down. Nina Paley addresses the assertion that copying is theft, [for the reasons this fun song lays out.](https://archive.org/details/CopyingIsNotTheft1080p).
+
+Take [Weedtube](https://archive.org/details/weedtubers?sort=-date) for example. I'd started in 2015 backing it up because I wanted to capture the dawn of marijuana legalization across the US. A mere year after I started many states got recriational marijuana and that culture grew. In 2018 Youtube took an axe to that culture and terminated the channels of many of it's greatest content producers. The copies on Internet Archive are now the only copies anywhere of some of this content. I've been [repeatedly thanked](https://twitter.com/vermilion1M/status/1001017637516668932) [by the content creators](https://twitter.com/PositiveSmash/status/993948119921377280) for doing what I did.
+
+As of 7/23/2018 I've uploaded ~110,000 items. I've had DMCA requests for about 10 of them, and a few hundred were requested to be removed either by me or a subject that was in the videos that staff ended up taking care of for me.
+
+
+
+
+__Related material for your consideration:__
+
+[Digital Amnesia](https://www.youtube.com/watch?v=NdZxI3nFVJs) - A VPRO documentary about Internet Archive, Archive Team, The Long Now and others (English).
 
 [Cold Storage](https://vimeo.com/116603551) - A documentary about the Harvard book depository.
 
