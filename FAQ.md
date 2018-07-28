@@ -39,7 +39,11 @@ Early on I wanted to test if I could actually preserve hundreds of channels, so 
 
 __What about copyright?__
 
-A broad question with multiple meanings and agendas. It's better to archive culture first and ask questions later. The soldier who found the Rosetta Stone didn't ask about copyright before taking the artifact. Suppose the stone was left there, it likely would have been destroyed and it would have taken much longer to translate Egyptian hieroglyphs to another language if at all and there'd be raging deate as to the translations. The debate ends with a stone that has ancient egyptian symbols and ancient greek translations because it's easier to go from greek to latin or others, than symbols to hieroglyphs.
+A broad question with multiple meanings and agendas. I'll break down responces to the two underlying meanings to that question.
+
+*What about the copyright of the creators you archive?*
+
+It's better to archive culture first and ask questions later. The soldier who found the Rosetta Stone didn't ask about copyright before taking the artifact. Suppose the stone was left there, it likely would have been destroyed and it would have taken much longer to translate Egyptian hieroglyphs to another language if at all and there'd be raging deate as to the translations. The debate ends with a stone that has ancient egyptian symbols and ancient greek translations because it's easier to go from greek to latin or others, than symbols to hieroglyphs.
 
 However the Rosetta Stone annecdote isn't a good example because theres only one Rosetts Stone, but when you mirror a video you make another copy that serves as a backup of the original in case the original goes down. Nina Paley addresses the assertion that copying is theft, [for the reasons this fun song lays out.](https://archive.org/details/CopyingIsNotTheft1080p).
 
@@ -47,8 +51,13 @@ Take [Weedtube](https://archive.org/details/weedtubers?sort=-date) for example. 
 
 As of 7/23/2018 I've uploaded ~110,000 items. I've had DMCA requests for about 10 of them, and a few hundred were requested to be removed either by me or a subject that was in the videos that staff ended up taking care of for me.
 
+In short: I've had an increadibly low rate of anger over my actions, and mostly joy and appreciation. For a hobby, that's pretty good. I'd rather the information by up than not.
 
+*What are your feelings on copyright*
 
+I do not subscribe to the concept of intellectual property. I don't believe in trademarks, patents, state/industry secrets or copyright especially. Fire wasn't invented but borrowed from nature that created it - likely lightening on a tree - and purposed by humans. The internet is the best method of distribution we've had since verbal communication of small groups of tool weilding proto-humans because it not only removes most barriers to access but democratizes access to information. Why are we locking up culture so a class of non-creating managers and lawyers can make money, while the artists who ostensibly benefit from it make 1/10th if they're lucky? Is there a physical loss when a bit-perfect copy of a file is made? Boosting a crate of records from the back of record store delivery truck isn't the same as copying a file.
+
+In short: All information should be availble to everyone at any time instantly, anything stopping it wastes the energy of humanity both in trying to stop it and circumventing the controls. It also damages the collective knowledge of humanity.
 
 __Related material for your consideration:__
 
