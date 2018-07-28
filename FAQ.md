@@ -15,7 +15,7 @@ on the internet](https://blog.archive.org/2009/08/25/geocities-preserved/) becau
 
 __Do you make money off this?__
 
-No. It actually costs me money. Please donate to the Internet Archive instead.
+No. It actually costs me money. Please donate to the Internet Archive. I am however [accepting tips from Ko-Fi](https://ko-fi.com/T6T7GRVR).
 
 __How do you save all these videos?__
 
