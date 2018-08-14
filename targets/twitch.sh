@@ -1,4 +1,3 @@
-## DEAD CHANNEL ## tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/brittanyventi/videos/all
 tubeup --use-download-archive --metadata=collection:healthyaddictvideos http://twitch.tv/fakegamergirl/videos/all 
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/SashaHippie/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/afoxinspaceshow/videos/all
@@ -9,6 +8,7 @@ tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/hydeart/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/jellykin/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/kimimoons/videos/all
+tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/kimochisensei/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/kristiplays/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/kyleeasakura/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/ryuudog_/videos/all
