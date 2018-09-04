@@ -70,3 +70,4 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/shachiNT
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/stevieryan
 tubeup --use-download-archive --metadata=collection:tubeup http://www.youtube.com/user/DXLiberty
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC7yPuRdd4ZKhJQueiVnjd2A
