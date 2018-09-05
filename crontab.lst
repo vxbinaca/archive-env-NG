@@ -1,6 +1,6 @@
 10 */1 * * * sh ~/git/archive-env-NG/targets/YTPMV.sh
 20 */1 * * * sh ~/git/archive-env-NG/targets/louis.sh
-30 */1 * * * sh ~/git/archive-env-NG/targets/sargon.sh
+0 */6 * * * sh ~/git/archive-env-NG/targets/sargon.sh
 20 */4 * * * sh ~/git/archive-env-NG/targets/stoners.sh
 0 */1 * * * sh ~/git/archive-env-NG/targets/var.sh
 25 */1 * * * sh ~/git/archive-env-NG/targets/vee.sh
