@@ -80,29 +80,29 @@ tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/vn
 tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/weedbreath/
 tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/weedgoddess/
 tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/rachelhiiiii
-tubeup --use-download-archive http://pscp.tv/AngelMarie/
-tubeup --use-download-archive http://pscp.tv/AverageSwingers/
-tubeup --use-download-archive http://pscp.tv/FetishDollEmily/
-tubeup --use-download-archive http://pscp.tv/FunLG/
-tubeup --use-download-archive http://pscp.tv/KaashButter/
-tubeup --use-download-archive http://pscp.tv/KinoYoga/
-tubeup --use-download-archive http://pscp.tv/LanieLynnXXX
-tubeup --use-download-archive http://pscp.tv/StephyScopes/
-tubeup --use-download-archive http://pscp.tv/SwingerMexico_/
-tubeup --use-download-archive http://pscp.tv/YoungLiving87/
-tubeup --use-download-archive http://pscp.tv/YourOasisRadio/
-tubeup --use-download-archive http://pscp.tv/arabellamascari
-tubeup --use-download-archive http://pscp.tv/ariesqueen_/
-tubeup --use-download-archive http://pscp.tv/dankkcoffee/
-tubeup --use-download-archive http://pscp.tv/harper_cox_
-tubeup --use-download-archive http://pscp.tv/kaylorsaurus
-tubeup --use-download-archive http://pscp.tv/konmann702/
-tubeup --use-download-archive http://pscp.tv/ready2jam1/
-tubeup --use-download-archive http://pscp.tv/sammisacavage/
-tubeup --use-download-archive http://pscp.tv/sheslulu/
-tubeup --use-download-archive http://pscp.tv/veradevera/
-tubeup --use-download-archive http://pscp.tv/thereallisaann/
-tubeup --use-download-archive http://pscp.tv/imutimes/
-tubeup --use-download-archive http://pscp.tv/allycat77/
-tubeup --use-download-archive http://pscp.tv/anireal/
-tubeup --use-download-archive http://pscp.tv/TheDabSpot/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/AngelMarie/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/AverageSwingers/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/FetishDollEmily/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/FunLG/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/KaashButter/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/KinoYoga/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/LanieLynnXXX
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/StephyScopes/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/SwingerMexico_/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/YoungLiving87/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/YourOasisRadio/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/arabellamascari
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/ariesqueen_/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/dankkcoffee/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/harper_cox_
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/kaylorsaurus
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/konmann702/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/ready2jam1/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/sammisacavage/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/sheslulu/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/veradevera/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/thereallisaann/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/imutimes/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/allycat77/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/anireal/
+tubeup --use-download-archive --metadata=collection:tubeup http://pscp.tv/TheDabSpot/
