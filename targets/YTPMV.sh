@@ -509,6 +509,7 @@ tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/GmodRatchet4123
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/HyperFlame3
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/ImpossibleCarl69
+tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/JammingMachine
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/JetSkate1
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/KinkyAlts
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/LifeWaste1618
