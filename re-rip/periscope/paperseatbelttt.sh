@@ -1,15 +1,15 @@
-1lDGLkEpVObKm
-1MYxNXekpMOGw
-1MnGnmobgwmKO
-1MYGNXvbVlRxw
-1vOxwOmjyMmxB
-1OwGWoZYkDMGQ
-1zqKVRZPoylKB
-1ynKOVbVkqzxR
-1BRKjydEZXWxw
-1BRJjydVnLRGw
-1MYGNXaOOgZxw
-1nAJEeNDRXRJL
-1OdJrokYQRvxX
-1MYxNXaaLLwGw
-1gqxvOmmBOBKB
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/paperseatbelttt/1lDGLkEpVObKm
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/paperseatbelttt/1MYxNXekpMOGw
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/paperseatbelttt/1MnGnmobgwmKO
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/paperseatbelttt/1MYGNXvbVlRxw
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/paperseatbelttt/1vOxwOmjyMmxB
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/paperseatbelttt/1OwGWoZYkDMGQ
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/paperseatbelttt/1zqKVRZPoylKB
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/paperseatbelttt/1ynKOVbVkqzxR
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/paperseatbelttt/1BRKjydEZXWxw
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/paperseatbelttt/1BRJjydVnLRGw
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/paperseatbelttt/1MYGNXaOOgZxw
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/paperseatbelttt/1nAJEeNDRXRJL
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/paperseatbelttt/1OdJrokYQRvxX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/paperseatbelttt/1MYxNXaaLLwGw
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/paperseatbelttt/1gqxvOmmBOBKB

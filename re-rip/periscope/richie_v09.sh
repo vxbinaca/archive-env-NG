@@ -1,58 +1,58 @@
-1jMJgdeXODMxL
-1jMKgdpqdnbGL
-1kvJpkkQAoOGE
-1yoKMMgvbPzKQ
-1dRJZnYokmzJB
-1dRKZnQpkRgKB
-1lDxLkrdWgLJm
-1MnGnmZmVNXKO
-1kvJpjWEyAMKE
-1ynKOVjermqxR
-1mnGemVMamqGX
-1mrxmmNyqOqxy
-1rmGPqrZQvQJN
-1PlJQYkLXAnJE
-1mnxemYrkAZxX
-1jMJgPrdadgxL
-1yoKMpYpLAWxQ
-1gqGvODrzopJB
-1yNxamMoDbVxj
-1ypKdlyopPgKW
-1BdGYWmWREDxX
-1gqxvOLWOgkKB
-1YqKDRWoRaoJV
-1LyxBEeNZMjJN
-1OwxWAYzWvVGQ
-1ynKOjyNdXWxR
-1LyGBBnwmqoGN
-1vAxRbAkLVPxl
-1MnxnapQmWXJO
-1vOxwvMzvnEJB
-1BdxYvwvygMKX
-1YpKknNrQeAxj
-1lPKqyLrwDWKb
-1djxXAXyWDyKZ
-1OyKABnZndNGb
-1jMKgoDbrBXKL
-1rmxPPlMOnjxN
-1ZkKzyaOzVWxv
-1MnGnaqdWomKO
-1RDGlRvnRmgxL
-1nAKEVQvaWgGL
-1RDGlRnYLjExL
-1yNGaPmRrVDKj
-1kvKpnQNmaLJE
-1LyxBjjXVkYxN
-1lDxLRRRmNLGm
-1yoKMemLkWNKQ
-1ypKdXjbwLRKW
-1ynJOWXlAbXJR
-1PlKQZgMyeaGE
-1vOxwYmpddDGB
-1eaKbPdgZZnJX
-1mnxeWAXoYqGX
-1ypKdLgWRrrKW
-1vAxRdwlAZDGl
-1yNGadBLPYRKj
-1dRKZXgBgjrJB
-1rmxPrBpQvVGN
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1jMJgdeXODMxL
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1jMKgdpqdnbGL
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1kvJpkkQAoOGE
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1yoKMMgvbPzKQ
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1dRJZnYokmzJB
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1dRKZnQpkRgKB
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1lDxLkrdWgLJm
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1MnGnmZmVNXKO
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1kvJpjWEyAMKE
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1ynKOVjermqxR
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1mnGemVMamqGX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1mrxmmNyqOqxy
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1rmGPqrZQvQJN
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1PlJQYkLXAnJE
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1mnxemYrkAZxX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1jMJgPrdadgxL
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1yoKMpYpLAWxQ
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1gqGvODrzopJB
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1yNxamMoDbVxj
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1ypKdlyopPgKW
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1BdGYWmWREDxX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1gqxvOLWOgkKB
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1YqKDRWoRaoJV
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1LyxBEeNZMjJN
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1OwxWAYzWvVGQ
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1ynKOjyNdXWxR
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1LyGBBnwmqoGN
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1vAxRbAkLVPxl
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1MnxnapQmWXJO
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1vOxwvMzvnEJB
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1BdxYvwvygMKX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1YpKknNrQeAxj
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1lPKqyLrwDWKb
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1djxXAXyWDyKZ
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1OyKABnZndNGb
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1jMKgoDbrBXKL
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1rmxPPlMOnjxN
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1ZkKzyaOzVWxv
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1MnGnaqdWomKO
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1RDGlRvnRmgxL
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1nAKEVQvaWgGL
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1RDGlRnYLjExL
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1yNGaPmRrVDKj
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1kvKpnQNmaLJE
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1LyxBjjXVkYxN
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1lDxLRRRmNLGm
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1yoKMemLkWNKQ
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1ypKdXjbwLRKW
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1ynJOWXlAbXJR
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1PlKQZgMyeaGE
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1vOxwYmpddDGB
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1eaKbPdgZZnJX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1mnxeWAXoYqGX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1ypKdLgWRrrKW
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1vAxRdwlAZDGl
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1yNGadBLPYRKj
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1dRKZXgBgjrJB
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/richie_v09/1rmxPrBpQvVGN

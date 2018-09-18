@@ -1,38 +1,38 @@
-1lDGLAgAOnMJm
-1BdxYMVVBoMxX
-1djGXMwYvovJZ
-1LyGBRYARpEGN
-1ZkKzdQnARrJv
-1LyxBEQolYMJN
-1kvKpjjzYogJE
-1mnxemkrzXYxX
-1lPKqwzQkQYJb
-1YqGomOZzBZxv
-1vAxRNYdjZqxl
-1OwxWolpgEnxQ
-1lPKqZvDmelGb
-1vOxwYZPeDRGB
-1eaJbPROEjYKX
-1YpJkdqLeBNxj
-1ynJOWzZrLXJR
-1ynJOWnMjdvJR
-1vAxRgjQgBvKl
-1jMKgYzyzOMJL
-1jMJgYzMLAPKL
-1OwxWnXMDRAJQ
-1YpKkqBWXnPJj
-1zqKVWBvOYYGB
-1OwxWnkdLeAJQ
-1ynJONRXDdlGR
-1PlKQELnyPBKE
-1djGXZMkArkxZ
-1MYxNYRnenzJw
-1jMJgZbNLWPGL
-1ypJdLbPQVpJW
-1yNxaAgzXaDxj
-1nAKEkdrogeJL
-1djGXEdXDwLJZ
-1vAxRXdzEYPGl
-1BdGYddLdMzKX
-1OyJAOmMDWNKb
-1jMJgrLApnYGL
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1lDGLAgAOnMJm
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1BdxYMVVBoMxX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1djGXMwYvovJZ
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1LyGBRYARpEGN
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1ZkKzdQnARrJv
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1LyxBEQolYMJN
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1kvKpjjzYogJE
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1mnxemkrzXYxX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1lPKqwzQkQYJb
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1YqGomOZzBZxv
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1vAxRNYdjZqxl
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1OwxWolpgEnxQ
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1lPKqZvDmelGb
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1vOxwYZPeDRGB
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1eaJbPROEjYKX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1YpJkdqLeBNxj
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1ynJOWzZrLXJR
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1ynJOWnMjdvJR
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1vAxRgjQgBvKl
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1jMKgYzyzOMJL
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1jMJgYzMLAPKL
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1OwxWnXMDRAJQ
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1YpKkqBWXnPJj
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1zqKVWBvOYYGB
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1OwxWnkdLeAJQ
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1ynJONRXDdlGR
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1PlKQELnyPBKE
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1djGXZMkArkxZ
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1MYxNYRnenzJw
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1jMJgZbNLWPGL
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1ypJdLbPQVpJW
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1yNxaAgzXaDxj
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1nAKEkdrogeJL
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1djGXEdXDwLJZ
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1vAxRXdzEYPGl
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1BdGYddLdMzKX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1OyJAOmMDWNKb
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/juliadabs/1jMJgrLApnYGL

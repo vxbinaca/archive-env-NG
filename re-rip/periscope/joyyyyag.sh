@@ -1,9 +1,9 @@
-1mrxmnXojeWKy
-1vAxRVqXeqaxl
-1BRJjrDgYmwJw
-1gqxvYPZkvaJB
-1djGXLEylByGZ
-1rmxPqRyWzVKN
-1mnxeElRwgLxX
-1ypKdrLwnPpJW
-1jMKgoZAaYMKL
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/joyyyyag/1mrxmnXojeWKy
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/joyyyyag/1vAxRVqXeqaxl
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/joyyyyag/1BRJjrDgYmwJw
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/joyyyyag/1gqxvYPZkvaJB
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/joyyyyag/1djGXLEylByGZ
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/joyyyyag/1rmxPqRyWzVKN
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/joyyyyag/1mnxeElRwgLxX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/joyyyyag/1ypKdrLwnPpJW
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/joyyyyag/1jMKgoZAaYMKL

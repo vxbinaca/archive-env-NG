@@ -1,47 +1,47 @@
-1vAxREVbDNzJl
-1vAxREbvNqgJl
-1mrGmngnZNWJy
-1MnxnZaZonBxO
-1OdKrpyAMazJX
-1BRJjeWdjlaGw
-1dRJZgAWZPXxB
-1kvJpaQYEdZxE
-1MYxNqAReRzJw
-1lDxLXRmgMyxm
-1PlJQrZeLwdxE
-1eaKbVPERXnKX
-1lDGLXVMYjqGm
-1OwxWERErNZGQ
-1ypJdNqqawRKW
-1ynJOozoORAJR
-1eaKbqwnvVkxX
-1ynJOorWzPvJR
-1eaJbqwPLBoGX
-1MnGngjbDQLJO
-1YqxoaObOOjGv
-1mnxeremVrrKX
-1djGXMmvMOvJZ
-1BRJjLaknONKw
-1vOxwNWpkqMJB
-1dRKZbvjBbXKB
-1djGXMavADkJZ
-1vOGwNmmBEqKB
-1eaKbqMaWvaxX
-1vAxRMPVQXPJl
-1ynJOovVBdvJR
-1MnxngVyzRXKO
-1PlKQYMlNLVKE
-1rmxPqovkVbKN
-1rmGPqgVEXVJN
-1YpKkmzrayrJj
-1mrGmmwoaoNGy
-1nAJEeArZAYJL
-1LyGBENdrVLKN
-1jMJgPQPmqPxL
-1YqGomdrMvyxv
-1BdxYWeowbvGX
-1kvJpjEaWAgKE
-1OdKroRZOpnGX
-1OdKroRaWdkGX
-1YpKkmVrjAMJj
-1yoKMpVnobkxQ
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1vAxREVbDNzJl
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1vAxREbvNqgJl
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1mrGmngnZNWJy
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1MnxnZaZonBxO
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1OdKrpyAMazJX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1BRJjeWdjlaGw
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1dRJZgAWZPXxB
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1kvJpaQYEdZxE
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1MYxNqAReRzJw
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1lDxLXRmgMyxm
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1PlJQrZeLwdxE
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1eaKbVPERXnKX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1lDGLXVMYjqGm
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1OwxWERErNZGQ
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1ypJdNqqawRKW
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1ynJOozoORAJR
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1eaKbqwnvVkxX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1ynJOorWzPvJR
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1eaJbqwPLBoGX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1MnGngjbDQLJO
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1YqxoaObOOjGv
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1mnxeremVrrKX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1djGXMmvMOvJZ
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1BRJjLaknONKw
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1vOxwNWpkqMJB
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1dRKZbvjBbXKB
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1djGXMavADkJZ
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1vOGwNmmBEqKB
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1eaKbqMaWvaxX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1vAxRMPVQXPJl
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1ynJOovVBdvJR
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1MnxngVyzRXKO
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1PlKQYMlNLVKE
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1rmxPqovkVbKN
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1rmGPqgVEXVJN
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1YpKkmzrayrJj
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1mrGmmwoaoNGy
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1nAJEeArZAYJL
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1LyGBENdrVLKN
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1jMJgPQPmqPxL
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1YqGomdrMvyxv
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1BdxYWeowbvGX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1kvJpjEaWAgKE
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1OdKroRZOpnGX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1OdKroRaWdkGX
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1YpKkmVrjAMJj
+tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/misspeeksa/1yoKMpVnobkxQ
