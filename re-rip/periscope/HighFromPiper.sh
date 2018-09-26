@@ -1,52 +1,52 @@
-1vAGREzlRwYKl
-1OwxWWbRdmWxQ
-1mrGmnLyjPVJy
-1OwxWErAAAwGQ
-1rmxPOyEAdjJN
-1YpKkWlLPbVKj
-1lDxLAlNgERKm
-1kvKpkbZjDXxE
-1eaJbqgPvykGX
-1lDxLAPbbVYKm
-1yoKMMZwOqeKQ
-1nAKEWLqVlvJL
-1BRKjLeLbEeJw
-1YpKkWLDdjyKj
-1OdKrAekoqXxX
-1ynJOodqYbwJR
-1OyJAdvajDbGb
-1ZkJzdpbLDNKv
-1BdGYMVOXwYGX
-1MnxngyzkByKO
-1eaJbqemEDvGX
-1rmxPOppmgQJN
-1yoJMMYoqWzJQ
-1vOxwNBEBVoJB
-1nAKEWnMmovJL
-1ZkKzdlgANdJv
-1rmxPOBoavVJN
-1jMJgdDOozwxL
-1jMKgdDDRBmGL
-1RDxlnMzAklGL
-1rmGPOVeAyyKN
-1MnGngOmwZEJO
-1RDxlnMeppEGL
-1ypKdNyXBEyJW
-1BdGYMmBppYGX
-1nAKEWNEgZaJL
-1ynKOovrNAvKR
-1mrxmZpWPgVKy
-1yNGaVrBVQDJj
-1vAGRMnLlogKl
-1OyJArLRzpyxb
-1jMJgPXWrelxL
-1yNGamOPweWGj
-1lPKqwzdgymJb
-1BdGYWBdPyQxX
-1MYxNXWONNQGw
-1YpJkmyQPvyKj
-1djxXAWwpdoKZ
-1OdJryAvArvGX
-1gqxvbdLDrRxB
-1OwxWAbvqYnGQ
-1zqKVAkkeDYxB
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1vAGREzlRwYKl
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1OwxWWbRdmWxQ
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1mrGmnLyjPVJy
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1OwxWErAAAwGQ
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1rmxPOyEAdjJN
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1YpKkWlLPbVKj
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1lDxLAlNgERKm
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1kvKpkbZjDXxE
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1eaJbqgPvykGX
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1lDxLAPbbVYKm
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1yoKMMZwOqeKQ
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1nAKEWLqVlvJL
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1BRKjLeLbEeJw
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1YpKkWLDdjyKj
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1OdKrAekoqXxX
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1ynJOodqYbwJR
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1OyJAdvajDbGb
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1ZkJzdpbLDNKv
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1BdGYMVOXwYGX
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1MnxngyzkByKO
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1eaJbqemEDvGX
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1rmxPOppmgQJN
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1yoJMMYoqWzJQ
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1vOxwNBEBVoJB
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1nAKEWnMmovJL
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1ZkKzdlgANdJv
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1rmxPOBoavVJN
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1jMJgdDOozwxL
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1jMKgdDDRBmGL
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1RDxlnMzAklGL
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1rmGPOVeAyyKN
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1MnGngOmwZEJO
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1RDxlnMeppEGL
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1ypKdNyXBEyJW
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1BdGYMmBppYGX
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1nAKEWNEgZaJL
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1ynKOovrNAvKR
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1mrxmZpWPgVKy
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1yNGaVrBVQDJj
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1vAGRMnLlogKl
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1OyJArLRzpyxb
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1jMJgPXWrelxL
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1yNGamOPweWGj
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1lPKqwzdgymJb
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1BdGYWBdPyQxX
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1MYxNXWONNQGw
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1YpJkmyQPvyKj
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1djxXAWwpdoKZ
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1OdJryAvArvGX
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1gqxvbdLDrRxB
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1OwxWAbvqYnGQ
+tubeup --metadata=collection:weedtubers http://pscp.tv/HighFromPiper/1zqKVAkkeDYxB
