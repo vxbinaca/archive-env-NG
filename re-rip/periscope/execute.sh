@@ -15,7 +15,6 @@ sh dsativa.sh
 sh dudeletsflyaway.sh
 sh earlymorningbonghits.sh
 sh earth2julia.sh
-sh execute.sh
 sh godshideouscreation.sh
 sh HannahWeedWorld.sh
 sh HighFromPiper.sh
