@@ -1,3 +1,4 @@
+tubeup --use-download-archive --metadata=collection:ytpmv-mad http://.youtube.com/user/ridgeracer92
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/GL1CTH3R
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/SanekShadow234
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-0nEIC-FugrulWEeAvufHw
