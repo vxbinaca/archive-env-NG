@@ -493,7 +493,6 @@ tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzcZNkG1COflpbL_o625j2Q
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzhfypzF9l3VpoblETLHixA
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzz1z7yCXVD7yHH8bah30CQ
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/playlist?list=PLqPdyPUjlRqq32bruB77EUaQ3fdCeRJ_M
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/soulstrike2205
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/thehamarejun
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/21nosreprd
