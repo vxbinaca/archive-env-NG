@@ -1,584 +1,584 @@
-youtube-dl --get-id http://youtube.com/user/ridgeracer92 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/GL1CTH3R >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/SanekShadow234 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC-0nEIC-FugrulWEeAvufHw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC-4pcWatasdrqZPpp_vU8Ug >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC-9n2fl0tEiELBaeJZaxBMA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC-BgXSM1WyyObbx1M69aBRA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC-BsK5dZu6E1ZnFk6d06_tg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC-GUuiJERTE8Ee3zhGKle4Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC-SJ4RoLRldJdAz9m6fGdDw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC-X94lIDJuadQYz7wMZqGQQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC-XyJljByGgdg1bXdl7JHRw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC-qi0JTQon0ukNctWUHvb_g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC-v6CIsOoLPBHCOEK3Nvoag >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC-wK-yP1CpPbF1FOLZeRX4A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC-zbyF2CLLiwM7IvjWxuBPA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC0-OeqR2mqwOMmVcixIs9lw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC05TLpiuzqvXOWPTa4h8HLw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC060XVDTrztoAVvCRUgdceA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC07k8WG4dUddGP1JdegE7zg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC0D3gekwOD6zz05Gs0B_ngA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC0GjS_-_Qi7in72ekUyeBEw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC0MBHhJtgstrsnt5j7Zr27Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC0z7WQMJBXN1LtSefMmcG0w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC0zRqs3io1OeZF6ztIC5z0Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC17a2zwuqjeuzUjwBV2BYtg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC1F6zA-WXGVOatwQTlGhdyw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC1MpYejJJSOdvY15ohR3E9Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC1Ytn_XPUqWyC4LbAnqD5tw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC1k5l1w0glqlVumI--z7Rdw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC1t9HGyEjyl3FZSqf6zseFA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC247z1hdq19t1XBuU-a_j5g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC2AZNmRdUiZwVaomY2LE_xg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC2WQcrYYt_p2OotJuyCSL6w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC2ZHGIqpXL_YXV_RZF1h5KQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC2ajfUDw-moOndCqPilteWg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC2pCK8UK5_kMw4-NiAZ2WVwe >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC2s1cvVh7qGd07GzPnqrj5A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC2y-IkIRLm2RguWVb8mC9bQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC3C3qzasmf_pD2vYrQzTRIQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC3EoehFhMAtI_2jrzihgtZA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC3VoE90kyt91XjjUiMsn_qg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC3_7p6IfdgTVnpjNvAZr9qg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC3bDRVah9bTLzy3sDDhW-Yw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC3gElT_nBvb87Jchzt8p0Mw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC3rfEppAd8qeBfyMF253B6A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC3tz8ji7jTd031VVjEFpz_g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC3wWUpOohLet5SG5N5rITZQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC4JEl2dMSkFUCXnYvh1lIzw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC4ft1MHe2gpFFWVstwfA5Hw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC4hSLf2cV_x4JQ9PF8pv56A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC4jgFNjjbqJX1GRLP4LL8UQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC4lYqNXGDxSRVi36Ra4OC0Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC4nZ2v4VY-77TwhL-lVH76w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC4pdY20UI2AvfhnypcBGEpg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC4qiUT1l4HSFX0_eWNhmrAw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC4tcbILwwpz5tWCwU5SklWw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC4uTAnx4UuYY898SCs8lUGg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC50Vou-rHB-KGxjEw45_SrA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC58Mfw53Z6JWovoPiyqAU5g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC5A3XSKxvvtiLMaDyKg3R2g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC5DvrQXnfIqcn2bzfjqM5Uw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC5KxR_bz4Z-Rmg0ZTBu2siw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC5NqByX_kBz-r-7mB1yqI5Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC5QoXcz8sEYvxYCRbrMEwrQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC5dj1pFnPO3gWy-KBYWtUPQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC5gZqdIbXU8QNaVMAAwZgUg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC6-D6kXl2XWfRoJgwr_4iHw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC6FQ1CCsTVdr5DrE4JXOVUA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC6WNapr-Fp9SKqrv6_JBUbQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC6ZDG-FH46f-zslm-EA3nrg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC76HQqvG1HlCkePYmoHTh5w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC7YkmaTew3ZtevVZJsUqzbQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC7cqxFKM7UI0tpY9yAe-mKw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC7fxPVbi32tcLtVppeh_F-A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC7kwfrBt2UUK6TgmOpSCIYA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC7wPDdE7hS-Nu8HAznarFEA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC8G33AC5XICbav-9RAUUw0w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC8d50sg_nVJx6x7d9AWDBpA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC8gMZQNdm3DhGdx_Qo3u3uw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC8oZtp8ay0Omfl7VYOqOJFw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC8p-oY4Z0pIsIoooC1Qnv9Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC8tBGyn-ByzfdhS82vdwcfg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC8uq6E-Fim1JqTY2ge5RaeQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC8v9oAqXhVKZl_4TCEuqzsg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC8wwHFNk8mNzc9VQ70rqLtA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC95J5EfYY705J40RWMpLiOQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC9c8A8TvbesFbS-6UZayvVw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC9sk9Hzktup8X7PJEeVIJFQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCA03-ztGibhGqN6Tm_4Buww >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCA9VyO4eDo7ynI4u_PhirUg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCASYk10ohtVzeWKSb0epcrA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCAUfP68r1U6o0SFGt2THRoA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCAhnDYtzdo97ICIpyEmzj-Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCAoxZg10to0Nh8sXlaOSp6g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCApCKyFAxVWyfVZj2n_38cA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCB0HgUlDmyQJHDbdYI5kZB >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCBB4oV4ufACy9SL_epM_r4w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCBD03HQLA3LDYnQ3XMhzBFA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCBRl4XoNQ_zuhIEmuxd7wSQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCBYNYSVcV0WtwtjDLHpOjoQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCB_Ohb91gkkQjcQPmANHDRQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCBdCaezoJipdjufwKz-l2ZA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCBtFPFHOy6kDFfzN_NchJYQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCCHvNr2EkbAmJLpXtOwBrYw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCCIefYYMj9zduN828JLedBA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCCIfezInTsjaTAISsptWxkQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCCetvOtK2r3jbHNnUnIO4vw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCCffTMK-cPFslmSSqF7kPEA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCCjfUXE45ige09sjt1AsQ7A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCCmxKA1ANKwfxHGnBQh7B3A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCDC4GIuTP7fJ22ZfN1iTTYw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCDSEdZBAbLtdO-VKBfPUIL >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCDTS3NrYaqxZFlbqir9RrTQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCDWLXYiLEUUptJUvyokoo_w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCDpNc9VyOBUtq4YRzA1f2Cw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCE-9fA0ef4mX-9zIm2_Af9A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCEIRkfAn05IaViEx0LTLmXA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCEKAJZpuBv2n4ENsRCi9R4w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCEQU_X293Vd3ppYVx9mY_lA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCEfYGnY0wmqfK5PY4KbMuXA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCEnKDJPuHEL7jRnEZV5DyOQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCEsDsM1brDEIGH4ccEU0ILw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCF73go7qr8ZF_4yrdP3WshQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCFC_gSOsUBrRhXvn2MNQWFw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCFGkOWN_jnj98mEMXw5npWw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCFPYD1vzgKs-7DmozP3v3-A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCFWcFAA3aNXRLwlt1XHcAcA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCFsFMzOTlvdhcDBXKZPtifw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCFvm0fN2WlL1M5SHjgNqkMQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCFzlwgXg6Hx0VR-6m3wH-1Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCGCIdSedDhKziEyjgcDntAw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCGD5cAhXL6cF0urzeO9sokg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCGI0UY5XJZyr8_45YjAdY7w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCGMA0oadw2XiglyjhlUDhRA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCGMQlMx1T78To4yWGb6hSeQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCGQVvk4XGUXKYJHbUKgMZCg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCGRg9ICz4qdeyshEsVEOuwA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCGW4_g81RJuMB27vaJLPlZQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCGcyTUwetI92KNrzlXPZ86A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCGdxbJi2w3Wv7yGKjHIUA9Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCGe3jAjyjf1EpYAr2q66MFg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCGecL_FNZfmUL4EJUnpdCCA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCGzBwFYNAOC6Ac9yVDID1EA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCH8QruKx3Qw577yO4U0SmZw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCHAS__9zPz5pgwxSBZIGKeQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCHB3JbKAMJv0DyqONBYLjGQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCHERXa8FInwT37ZgIi_ywtg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCHNh2wDPl_m5noHXc8cccOg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCHRGZN9cjLc4znZE7eiJoWA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCH_V7rWdW6Eoca3UYwVdxig >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCHbqoL7uUbcq1480BPz0Apw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCHood5mmyWqncJ7QMePyPOA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCHpFaVlNZ4A_8y6NoMEVq6A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCIHiaW0aBQfYc7gOLvHvTdA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCILC1KChj9SAah53gsnpDGA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCIO5qQld-Q6531gN8z0tIhw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCIS5YW_YkNzIP6AjYxtL6jw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCImSHdkAJ2yVYbUkyKfw95Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCIsRUGyDjrse3bB29ZBbowQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCIvssBh2DefxhXCq6DtucjA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCJCNU2VMN4tbBPLnICH5pqw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCJMFJLbFXlx-jbGswJiRV8g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCJPI39PkS82XRjavadVHZbw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCJWuloSTxzT2gXLa3h-5pWg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCJWuloSTxzT2gXLa3h-5pWgt >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCJag28OFn69OZiY0LgtIdsg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCJgQ0lZVL7uf2PqTPbz4eoA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCJnFjWwkdyCh06S_K-KKDhA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCJoWq85rCNoFTG97N2K88hg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCK-C8TIJqFP9f72Z22AoSog >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCK-Kd5I0rvdpprAyis9UeSg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCK-Kd5I0rvdpprAyiu9UeSg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCKR6xz_DSzoxqqRrAsjZ5cw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCKV9-mEj3KNxb94_9WylkYw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCKYsgyAfp0fgYzNAEhm5Hhw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCKcVJ_KHzQak-mJRK9u5jVw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCKjzmLPC9pMD6gsjTiaymgQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCKod3iMutxsKebBnhMwv_sg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCL-l6iMth2dAPDE1Kfs-Zjg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCL1OV1E9RmOzBcxbX-1mpnw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCL4RMk2J2VzX6Z3QqAOaUMQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCLH1rOT2E1K3WAvLzQgkQXA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCLOBIyDIuD1QyS399DY4mdQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCLPcfhkGMbybJHLJzGFnn9Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCLT7nTMLmXIw-1xYzzkuM5g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCLXow7EEeSHwAceeQGFbFSQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCL_nFJ4ItFUd9sXKHERKjCA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCLmZeoLfIWF5BKFWRpcPfJg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCLp828lp1qqeTWSuA1doCiA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCLyZGOMZwvX7pZ1-nHQTY4A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCM-Gzpgx9_bp_-FlDugWfFw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCMIRYngQyH5j1P3m8nW1pUA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCMRGLDwMCL1M31pv2oBuRhQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCMZX0sWMHUOrT2u6KI4CNkA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCMcBuuoc91V0GhXE2ujfrXQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCMoHS7CqALrSIeMZITW0oRQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCMrxeoBuvZpskz03MWs7gIg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCN6O_bVSlyZI51_5cxI8xgw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCN91ZeOvrfcAqkG0vffP73g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCNDSvHe1qyv5fWBosmhP5Uw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCNPxOQqfTpfaIQQ5MRo6hzA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCNVTR24Mzg7_3HrgmX9bUhQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCNXBdymIL_S7snieq74PQGQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCNciaKtaVtvKBhz7vDb-bYg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCNs5Ye9WHXCq14ddJ9XnwqA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCNtp6pUSuXrjPLIkrhIch6A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCNy-xJf6DijgO2IvmU0G-gg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCO1nYiyx8NGJ0KXXhkOXpXg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCO5bkEhs2fzmgK4Oz_FZKug >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCO6q3SvgKraHc2gGAon_KWg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCOC2RxhlaSUcDbFXk-17D1g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCOaNhm4mZNySRCX0oQZFqBg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCOc4dmkZ7zXhLqJj_z5lW-Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCOoKJwAoXSvG3hWCAyUduTg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCP3oP9jNvMeGT9qNVr0eX5Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCP_yY__KoMPciEXdZbhvVsw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCPcoNKaJIz7OZnOYY7JmXUw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCPggnglAq6sAco-aINm9Umw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCPi2UwArKRWSUN0BgLC11oQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCPm0ODqnTukZCSdCXUuQOCg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCPta7Gw67_Sk-aF2n8o13VA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCQ--PpwG_Pg7g6u8rZ2A16w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCQ0hDNwxz_orFUAtV6t1EaA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCQCrwy74CggEfmL4Fh3LPxg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCQOr8qLk1cUqAIq1ZHHrfHQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCQXBpkU8A0pn71fPJyhgP1Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCRFSTgF0DIU_RAQY341nYZw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCRG4HP0FoOW1E0szfQlYeeg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCRGSpid5qtmaQ_Em8IzEKjg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCRHwy92RUSBtR2qwWcom7hA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCRLVYgkYPmAGPNQH3Qiiipg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCRNBfPL6nb2WJ7qIWIXw6Zg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCRUvT3WvIledLU3nE9G5uew >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCRcX_dat7rQLkUvGvSzxiuA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCRg8XZ0yRiuvxf2zvFPTvQg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCRjSyZRzad9qBfJW54R6UpA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCRptX-0DhCeNZvQ14cor-iA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCRt3Fyus6zFfBAxkAGHnbgw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCRwd3zsU0hwQBSrZaz-qGWA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCS9QCz7R9G60ZLCtlEr3hcg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCSSAnxRvhpVqw8NUFHytn8g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCST44BA8JPdiGOm-9k4P7Kw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCSeQ9pqKx_KZ6jTSLcBdp6w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCSsUc8IfTBNze5xJZI6ek6g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCStejeD-B3pe4J5Ou6xp8mQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCTCwMCkx-m-O143djUPzkog >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCTNFXIzQWNyqx3-VyEFMixA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCTc-LXNduQMvvNzwvmb4amA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCTqMIFnuwuOplM6V1-t2l2w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCTrn_hHUY-eVw0RZm7mCCPg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCU5WMNYkbQdQFNME6KlxVcA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCUS1y5SVc0a9sfVqMPU4FsA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCUUi1yyN1jz9mujF6Ksk98w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCUaKaHMnEH8ORY6ONc1ADcQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCUdVki_o7TFIGOMfBFFLNWw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCV3Hm9wji6On7VE5k3VTKPw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCV4PnhXC4rQYBFy2Lsp0LzA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCV4dAV5f9PCAbNVgyBNN6Rw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCV6m0FpvKLcMJRW97G42lYA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCVEYQYZdP304E67VCCSHbaw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCVGBW5nwvRq0BvU6LkhdI8g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCVOQdgtvQxqtLvau809vtFQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCVU3PMivc-5cVVtoGmthA8A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCVpWTtInW_mn05Grw4Zmb7w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCW3tjSyf0PyXLS0OvjDq48w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCWBKCnE3xdfNrlFZmGnIeeA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCWGq1UP8gP4V4nCCeYPKZiQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCWTAOn8H4k_dg9J5EP6eVsw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCWiaC1AUNPZsrf85jngad2g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCWr7les3NMbdlzFRizCOgSQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCWsPduWMFHjDfGQMeKqcotg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCXAPz-1VS3o1d22hU51epGA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCXa2CG12n2hr5PFWJY_9A2g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCXlwtXcmL9J6Qfc58bO9M7g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCXwOA3Moxm5PnT3OTjFupDA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCY-67NDg-jcvCQuaWD8QsNQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCY6ejtGi9OlBW3mX3qzKThw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCYCvPNyRcMz_l7AxP3b1OyA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCYhO7XqtAl4-r2wsXgumGzA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCYkQ0NClPW8WgbirhyWw7WA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCYlUCP8jgdt1D7MUbUsjbzA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCYnSww6lXLl-U9fRPM_zYgg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCYzBzh9UaCKw08TNxz91nHQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCZOV52N0NsnJnviU3Uo6a5w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCZPHrzdhFzCVboGxlMNoTVw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCZT61bRGWG3WRfQ70tmKktA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCZUjaZF8z2gP2e7PCM7GJ4g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCZh8J1a9eOoXdtwmbufUM-Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCZhjlqlSxjcImNLyQRlcBYg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCZpUzkY-Id2oReVVlEbd98Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC_4HNVJ8jyXudvMIRoBEQdQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC_8TtUCe4moQYJej25mWuDg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC_FbqXQxS3FBMdlzW4oICNQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC_Myky_uYdlZCrEMEdRaphw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC_SdgkD1MFikrp-s0L2GY7w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC_YEES0jUsnILUo9Y7kIKIg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC_nuIy26G_UK5NwS3jV_WUA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC_tw32N5PtFofQXmEoAufmw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC_uaMnZ7uuw1K5YImsF7h4A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC_welmHirHnI7IqbmYX7fcw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UC_y-z9sF7wX2-qAmGkgKolg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCaAYS3n0BrmlXi4HgglBURg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCaFyyyWdXtWuc-PTBB4W2UQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCaHlKx7E5bcWz1CVMjegO8w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCaZU3Nba71jSyPcgxbdXQXA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCafRFwStpUhQwIT_I__h0zQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCagP-b7Ih9BcWK0vRmpGSsQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCaiM1AOYon_BJt5TYLtkktQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCapOg6vYOn4WVlwyetUPrMw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCaqn-8Ooqu9p4ojhrSQfs7Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCarchLJYQh7vECX5OH1nCdA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCazlZp9gy2pL8rB5O1-z_dw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCb2ETVgaIBihitw7jZj7dew >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCbFaUqyF7PfZ07W84kmtFcw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCbPd-O1MawOXpIIcqAzDmUA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCbXAFhlBISyQYtSrsPtBGeg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCbrL62RyRbQBlOE0IqBCaWg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCbxcvmmFw0C8pwxlBxCuz7Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCbzKGMuP9_9mJxmCOgIF7aA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCc9BHZhD4tbsg5Np_P9NUsg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCc9OzIdPsj2oDAeX1VYjo3Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCcFoMCwZJmCq-KvsHEg-BOw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCcJLomX3Zg3njnC8Y8zf8eg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCcZd_yqTtCw3WILWq2SWIiw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCcgM-arpHg3MO4jJarPlbIg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCcim0mFybMB9sSzvd5W9NDQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCcppu46V6sWfNzwL_mo0PgA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCd35FWj3moDktQomtrO-ZfQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCd9ubz4JQ-ZkL07QI_mHIKw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCdBJ4vBuyGXEXcqAFaqaLMg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCdCGgpm7a1LbaZHiQbrg2Dw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCdQmufCn2qUDCXL-dZstmNw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCdjSWIbPWjPRZfxHE_mMmQw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCdojzXFOWvZlSSRQZ2eQaNw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCdvAnrCXTvLnBBWuNQ5UlbQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCe1WaUrzpPKdY-HIOhgerag >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCe1nvU8KxLYWjITWEWDLdYA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCe7BkuTxWaiCATOqCtb1sRw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCeChaewc4ntOChDaN9VzkBw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCeCnfHT1hOtExh0NqS2yMHA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCeIb3P2yWC_RQlJwJQNELhw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCeLlhnvwBA_2EJu_1jD3Yxg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCeQU_WSD9CiPVFPgNgB1Y7g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCebAPvRTQVqp2Wl5l6Cbc6Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCeg9LfP6p-PAplogCSflP7A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCez29sfuTH7dxvrQYgnmNdQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCf1GbLsGBSDGEkAtEly4D7g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCf1JoDsIxI3OKFpblKDMmqQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCf6AComRIFhmNsrNZeNpZxQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCfB9Tr06BLMWyLS77zCNBvQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCfNV21Trg-oSxCvXpUeEosA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCfNWXOWCbhpBElcGnFnMwYw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCf_H_8elPQ9mzm2c_xC1ePA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCfb-MB7dFPOg9GZqQ41z-ag >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCfkSZwC0KcC0MWrZK4_uzMg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCfoe_9LJlt9PRd-RE-2-IsA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCfw3FZ0FZgF5326FBZfFtPg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCfwyP8a27rXOzqH0XofJkkQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCg8me6bn2GiDsZIUuOC2-Wg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCgKNW6u37ViOOrWVQ9V5b1Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCgLkWKcCpn1-S7Gww9rnsPg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCgOyer_cIWDvc7fOT_0QdGQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCgRJOIaejiHzhu_P3HfV0Mg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCgVXl_Ai8UDn9IUgb5fooyA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCgWEVHbm98mTdPf7RIXQWbQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCgYvXKMClKdlNGnceyRznsg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCgjFos1M7BbJFEYAxxLENOg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCgqCes-lSF_YUejOyJBfejA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCgrGCHaojA_ql9ecaJZzkIg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UChPKQoZZa9TjrjowGnB0oig >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UChUxY9yEJrbuytQiF4bG2xQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UChbmselBZ7Y5ZJkKvhqhizw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UChpAoHS4FzcroSlwKVEb85Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UChqlzupeQejOvmVwDq-_aEg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UChr0mvn_ooUjRiWub0Hohig >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCiVOXGTpdXe0n72jWH7n67w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCiguVccputxZI3p8z29hOTQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCimBvWLwntbNAKxw_7gufBw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCipETtTuH-cGsPtx5Dnl7Tw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCitwUOUnTRkm5Eelr1ysCDg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCj-MVOlqG-t6w4YRM2oADIA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCj0JrjSxJ1eEzHH1JqT8XHA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCj6EF6l7yXa4IvuU-Ku8RcQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCjNye467zctuzRnye3LMe8Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCjPogNpopTrICXrJ2LMvtw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCjWnx28d0L0MCaHM7vCQcJg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCjtmeQg3P3RQc_NzDLulxig >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCkF2n98d4Ewr198YtI5BPwA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCkXDGtoHMukvnagieKmhqXA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCkaAQFfaaOmaxx_LRAA8Hzg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCkhe7Dn2wAJAz5j0CT7SC-Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCkxyT2hViZcFANnseuZiMAw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCl0DwjHx8KkY54UdbbmoOwA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UClD_O6C2isL7X-yt9KdTr7w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UClQXWA7QgpUdPTQpqIQGwQg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCl_deqnGcfkiwO3MKpvVBTw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UClmnVoRPLAVhJSiaJsItgFA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCln8GDs7_Ce-crPrLwev2nw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UClobvUCGR2VUkBlN0ax570g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCluwF-i3XnvLQyXdoaCJvlg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCm1TI86e2YapQmrPYT8bAQg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCm4NSg5IC6bhwp0JaE1lCvg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCmFdEaoiyb--aTzbON8MMwQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCmKr4OHhxvNMdXJBQLHjSCw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCmeSPlvc1Eo_eN2pgOP7S8Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCmgU7trZ2a9uMbqvNHZg_dw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCmiUMQI7NJ2gpt1OEA6h4Yg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCmlSLaJJoMD7V0g21WHvahg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCmpvGpm3iqh7vvbzzgKeGBA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCmqp8iZtJe8LxnfXcKTskmA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCmu95586DK3Wc93R7MzyPyA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCmxB9gS8qm2IBfPvGeFDS3g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCmyJo9sMnOot7S2Uj_e9s0w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCmzHLVPWKCGQ0QwPryBdEzg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCn2TGAXAShE7k-F99d2V29g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCn54l_p8qgTRkiu7NTG8j8A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCnIEr3MdWNusJ0cf9rMb5Zg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCnXqv0tyMExUermfiqxLKPw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCn_ZBTPxZkaSFZEDH1410uw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCndWJr0ZZGgPSVoGkJz4f0g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCntMeALHv91irLLkgy2VZ1g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCo3P4eS2fiWTKl-RbuF2uZQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCoB3OLqIr6Xdz1h9EMnZbEw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCoCISZegh0GPgWHiOLabcfw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCoD_uP1ZDpq5WNk7LYmz7-g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCoa-Jkd60bLcXDkTlwkcbRA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UConHV3bogSwNmfWx6GZmhBQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCoqCyc91UnN363zodoHMJ6g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCow566rUxbZXLBP_-E1VoSw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCp0Fz2BrojPhR7sJfcuxQ0w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCp1zb5wG3ANSVAg3Yl2qpGA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCpCTOtPvRNUBq1c5PJsStPA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCpGmIMAzHMdONFV7i59KQGw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCpIzDup6yUZhwaHjEgm2dEg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCpT46G77geEsEUOKzb49enQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCpWYzyfnuPYNOA_uOMYn0YQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCpdtJLTBJqR_gYYDPKkMP-w >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCpie9Kij6EuF3OhsQBhymWg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCpv4yZz6CYUSZfmQGO6lnyA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCq-Qw6uhM2r10Ba8JTSVLFA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCqBowHCt9tp8xinjoqpErdQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCqLjqU4NG78n0yo3IiHz7bg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCr0twRvFP3FZ-oUVdAIUZpw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCrBlt_ybdqlUOqwhRJGh4ww >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCrKxemPH--ts6mujFIFfAvQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCrLJzBibSWAAFDpR08U3daQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCrpcE3EhN-daw6gslyhyfrg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCs4rfbEULOJrFyxo8ikuvSg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCsFjec9rLLLbQMy06yVP0zQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCsViZi-7TL7q-3A2XVEUDKw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCsqUYKuYpo2GkKf3yQxvDUg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCss-hU7ipoHxwIwBb8tHsRw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCtIZt1anWcUdgi5apHn6SIQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCtakRmQp2GugyuxzWmwTaQw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCtwXBLCTT3zyXoNnxRjs6Kw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCuBT3ZZANZ93az4LBUP8aeQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCuYdLPbYq0070zk6mantnYQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCueXnUyjtcTklhI_Sa7tsSQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCukisTxWxTPmQaiNI0jxgcg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCun8RJoj0cGxlpelijFIokQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCv7YEMiudYcbm2dvmS5usDQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCvM_2cYlaDyYYrwr5Y6kUpg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCvTbhTpDODnqkDLJmBh0DcA  >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCvZZHwxq9uj77wbGlO7Rczw  >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCvg9sv_Aq_Pp83gpbVHK3LQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCvtvQxfHF8y2sripRL83OPA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCvxmgA4j9Gu3osu0wfnL9bA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCw77dhKT47hnBnVPykmhFAw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCw8tqQrd2tgfa58l7VPRwqw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCwGeGdWtk0W6FUbse2zzDVA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCwOjhM9u8lxLLYwud7fyOEw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCwQg3yNaArCiT7ofpgT5Ivg >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCwSQ9Yh_ZI5K9q5wDPjpL1g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCwTlfuunTicGiireb0jo4OQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCwZfg-670olMMl3G14KUTKQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCwcBoHZlXjiISDd6AjN09TQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCweBdeoxqj-wBkFh265ICew >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCwge5tFhVS0J33FC7P8RF-g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCx7qTUrwGVJZ1tt7V7PFN5Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCxCST2R1kFxa-LNlUrNljEA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCxIPHpK5aHO-Gc19Mb9iJdQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCxNajtXnhrFm8CkVgfdOCSA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCxOxU3WvkTiJgpbVw-8Vdtw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCxgsMI_uYmgX9szKxsQCGBw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCxxXvgWpSLLWtKaZpAZO-_A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCy78xxAWZYLqnhZlVPtMc-A >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCyLBRLsDunEp-vaNDonJ9nw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCysd_O2h4wqAh6xy6zdpsrw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCyt2EDvw6kc6KMgYqAEQK_g >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCzLhjXbZcnF8FsoTB3tWRk >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCzLhjXbZcnF8FsoTB3tWRkw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCzOOTh4GYVno-IJAn2fMVHA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCzWboeg5jWfLY9KUrOx2ePw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCzcZNkG1COflpbL_o625j2Q >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCzhfypzF9l3VpoblETLHixA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/channel/UCzz1z7yCXVD7yHH8bah30CQ >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/soulstrike2205 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/thehamarejun >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/21nosreprd >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/8Rezon >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/AIuminum >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/ARetaproductions >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/Arcoviso32 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/AtomicBaby123 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/Baycunn >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/CreepahWeegie >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/DooLovesAniki >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/EKCraftMC >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/Ekyugata >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/FinnishBro >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/GLaDOS996 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/Gianneko >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/Gigapuddingguy >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/GmodRatchet4123 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/HyperFlame3 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/ImpossibleCarl69 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/JammingMachine >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/JetSkate1 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/KinkyAlts >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/LifeWaste1618 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/LolZombiez >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/MasterBryan01 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/Masterhftw >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/Mowtendoo >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/MrHeavyfaceUK >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/MrSteroids1 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/MyJabmorenoBroke >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/Nagadoff >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/NamaCream777 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/NitroPowerMan >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/OHMYItsGodzilla >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/Prolyfic8 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/R7729dash44 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/RP1234BITCH >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/Rlcemaster3 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/RobGBA >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/SafariBros115 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/StarWarsXM >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/Strikerzkman >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/SuperBocky >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/TeamNearTree >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/TheEpicROB >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/TheFirippu >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/TheJinxuiable >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/TwilightSparkle1234 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/UltraRemixer >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/UltraRemixerAlt2 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/VanFather >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/Viravaxify >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/YTPMVWolfwoot >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/Yibbon133 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/YourMomFaitDesVideos >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/anotherYTPMVer >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/arghivebeenshot >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/bobywea >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/darkmaster1653 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/derrperson12 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/dkensington13b >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/drperson12 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/frannintendo64 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/jjbros9800 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/koronx3 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/michaelf997 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/mirrorimage98 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/nick97ftGun >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/norris3942 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/nrdesign1991 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/omniputance >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/oskari14 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/parnas1us >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/plrusek >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/randomTVbox >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/raphaelgoulart >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/reten72 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/rozels100 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/semnomepraconta >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/shikitashi >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/soulstrike2205 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/thegias4649 >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/thepowerofdiarrhea >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/wavefuzzalt >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/user/yibbonmusic >> YTPMV-IDs.txt
-youtube-dl --get-id http://youtube.com/xlethxle >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/ridgeracer92 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/GL1CTH3R >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/SanekShadow234 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC-0nEIC-FugrulWEeAvufHw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC-4pcWatasdrqZPpp_vU8Ug >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC-9n2fl0tEiELBaeJZaxBMA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC-BgXSM1WyyObbx1M69aBRA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC-BsK5dZu6E1ZnFk6d06_tg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC-GUuiJERTE8Ee3zhGKle4Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC-SJ4RoLRldJdAz9m6fGdDw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC-X94lIDJuadQYz7wMZqGQQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC-XyJljByGgdg1bXdl7JHRw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC-qi0JTQon0ukNctWUHvb_g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC-v6CIsOoLPBHCOEK3Nvoag >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC-wK-yP1CpPbF1FOLZeRX4A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC-zbyF2CLLiwM7IvjWxuBPA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC0-OeqR2mqwOMmVcixIs9lw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC05TLpiuzqvXOWPTa4h8HLw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC060XVDTrztoAVvCRUgdceA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC07k8WG4dUddGP1JdegE7zg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC0D3gekwOD6zz05Gs0B_ngA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC0GjS_-_Qi7in72ekUyeBEw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC0MBHhJtgstrsnt5j7Zr27Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC0z7WQMJBXN1LtSefMmcG0w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC0zRqs3io1OeZF6ztIC5z0Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC17a2zwuqjeuzUjwBV2BYtg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC1F6zA-WXGVOatwQTlGhdyw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC1MpYejJJSOdvY15ohR3E9Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC1Ytn_XPUqWyC4LbAnqD5tw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC1k5l1w0glqlVumI--z7Rdw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC1t9HGyEjyl3FZSqf6zseFA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC247z1hdq19t1XBuU-a_j5g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC2AZNmRdUiZwVaomY2LE_xg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC2WQcrYYt_p2OotJuyCSL6w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC2ZHGIqpXL_YXV_RZF1h5KQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC2ajfUDw-moOndCqPilteWg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC2pCK8UK5_kMw4-NiAZ2WVwe >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC2s1cvVh7qGd07GzPnqrj5A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC2y-IkIRLm2RguWVb8mC9bQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC3C3qzasmf_pD2vYrQzTRIQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC3EoehFhMAtI_2jrzihgtZA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC3VoE90kyt91XjjUiMsn_qg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC3_7p6IfdgTVnpjNvAZr9qg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC3bDRVah9bTLzy3sDDhW-Yw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC3gElT_nBvb87Jchzt8p0Mw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC3rfEppAd8qeBfyMF253B6A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC3tz8ji7jTd031VVjEFpz_g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC3wWUpOohLet5SG5N5rITZQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC4JEl2dMSkFUCXnYvh1lIzw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC4ft1MHe2gpFFWVstwfA5Hw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC4hSLf2cV_x4JQ9PF8pv56A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC4jgFNjjbqJX1GRLP4LL8UQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC4lYqNXGDxSRVi36Ra4OC0Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC4nZ2v4VY-77TwhL-lVH76w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC4pdY20UI2AvfhnypcBGEpg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC4qiUT1l4HSFX0_eWNhmrAw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC4tcbILwwpz5tWCwU5SklWw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC4uTAnx4UuYY898SCs8lUGg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC50Vou-rHB-KGxjEw45_SrA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC58Mfw53Z6JWovoPiyqAU5g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC5A3XSKxvvtiLMaDyKg3R2g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC5DvrQXnfIqcn2bzfjqM5Uw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC5KxR_bz4Z-Rmg0ZTBu2siw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC5NqByX_kBz-r-7mB1yqI5Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC5QoXcz8sEYvxYCRbrMEwrQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC5dj1pFnPO3gWy-KBYWtUPQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC5gZqdIbXU8QNaVMAAwZgUg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC6-D6kXl2XWfRoJgwr_4iHw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC6FQ1CCsTVdr5DrE4JXOVUA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC6WNapr-Fp9SKqrv6_JBUbQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC6ZDG-FH46f-zslm-EA3nrg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC76HQqvG1HlCkePYmoHTh5w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC7YkmaTew3ZtevVZJsUqzbQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC7cqxFKM7UI0tpY9yAe-mKw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC7fxPVbi32tcLtVppeh_F-A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC7kwfrBt2UUK6TgmOpSCIYA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC7wPDdE7hS-Nu8HAznarFEA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC8G33AC5XICbav-9RAUUw0w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC8d50sg_nVJx6x7d9AWDBpA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC8gMZQNdm3DhGdx_Qo3u3uw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC8oZtp8ay0Omfl7VYOqOJFw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC8p-oY4Z0pIsIoooC1Qnv9Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC8tBGyn-ByzfdhS82vdwcfg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC8uq6E-Fim1JqTY2ge5RaeQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC8v9oAqXhVKZl_4TCEuqzsg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC8wwHFNk8mNzc9VQ70rqLtA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC95J5EfYY705J40RWMpLiOQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC9c8A8TvbesFbS-6UZayvVw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC9sk9Hzktup8X7PJEeVIJFQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCA03-ztGibhGqN6Tm_4Buww >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCA9VyO4eDo7ynI4u_PhirUg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCASYk10ohtVzeWKSb0epcrA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCAUfP68r1U6o0SFGt2THRoA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCAhnDYtzdo97ICIpyEmzj-Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCAoxZg10to0Nh8sXlaOSp6g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCApCKyFAxVWyfVZj2n_38cA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCB0HgUlDmyQJHDbdYI5kZB >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCBB4oV4ufACy9SL_epM_r4w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCBD03HQLA3LDYnQ3XMhzBFA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCBRl4XoNQ_zuhIEmuxd7wSQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCBYNYSVcV0WtwtjDLHpOjoQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCB_Ohb91gkkQjcQPmANHDRQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCBdCaezoJipdjufwKz-l2ZA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCBtFPFHOy6kDFfzN_NchJYQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCCHvNr2EkbAmJLpXtOwBrYw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCCIefYYMj9zduN828JLedBA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCCIfezInTsjaTAISsptWxkQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCCetvOtK2r3jbHNnUnIO4vw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCCffTMK-cPFslmSSqF7kPEA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCCjfUXE45ige09sjt1AsQ7A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCCmxKA1ANKwfxHGnBQh7B3A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCDC4GIuTP7fJ22ZfN1iTTYw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCDSEdZBAbLtdO-VKBfPUIL >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCDTS3NrYaqxZFlbqir9RrTQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCDWLXYiLEUUptJUvyokoo_w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCDpNc9VyOBUtq4YRzA1f2Cw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCE-9fA0ef4mX-9zIm2_Af9A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCEIRkfAn05IaViEx0LTLmXA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCEKAJZpuBv2n4ENsRCi9R4w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCEQU_X293Vd3ppYVx9mY_lA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCEfYGnY0wmqfK5PY4KbMuXA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCEnKDJPuHEL7jRnEZV5DyOQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCEsDsM1brDEIGH4ccEU0ILw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCF73go7qr8ZF_4yrdP3WshQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCFC_gSOsUBrRhXvn2MNQWFw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCFGkOWN_jnj98mEMXw5npWw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCFPYD1vzgKs-7DmozP3v3-A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCFWcFAA3aNXRLwlt1XHcAcA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCFsFMzOTlvdhcDBXKZPtifw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCFvm0fN2WlL1M5SHjgNqkMQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCFzlwgXg6Hx0VR-6m3wH-1Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCGCIdSedDhKziEyjgcDntAw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCGD5cAhXL6cF0urzeO9sokg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCGI0UY5XJZyr8_45YjAdY7w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCGMA0oadw2XiglyjhlUDhRA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCGMQlMx1T78To4yWGb6hSeQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCGQVvk4XGUXKYJHbUKgMZCg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCGRg9ICz4qdeyshEsVEOuwA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCGW4_g81RJuMB27vaJLPlZQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCGcyTUwetI92KNrzlXPZ86A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCGdxbJi2w3Wv7yGKjHIUA9Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCGe3jAjyjf1EpYAr2q66MFg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCGecL_FNZfmUL4EJUnpdCCA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCGzBwFYNAOC6Ac9yVDID1EA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCH8QruKx3Qw577yO4U0SmZw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCHAS__9zPz5pgwxSBZIGKeQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCHB3JbKAMJv0DyqONBYLjGQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCHERXa8FInwT37ZgIi_ywtg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCHNh2wDPl_m5noHXc8cccOg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCHRGZN9cjLc4znZE7eiJoWA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCH_V7rWdW6Eoca3UYwVdxig >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCHbqoL7uUbcq1480BPz0Apw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCHood5mmyWqncJ7QMePyPOA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCHpFaVlNZ4A_8y6NoMEVq6A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCIHiaW0aBQfYc7gOLvHvTdA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCILC1KChj9SAah53gsnpDGA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCIO5qQld-Q6531gN8z0tIhw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCIS5YW_YkNzIP6AjYxtL6jw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCImSHdkAJ2yVYbUkyKfw95Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCIsRUGyDjrse3bB29ZBbowQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCIvssBh2DefxhXCq6DtucjA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCJCNU2VMN4tbBPLnICH5pqw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCJMFJLbFXlx-jbGswJiRV8g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCJPI39PkS82XRjavadVHZbw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCJWuloSTxzT2gXLa3h-5pWg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCJWuloSTxzT2gXLa3h-5pWgt >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCJag28OFn69OZiY0LgtIdsg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCJgQ0lZVL7uf2PqTPbz4eoA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCJnFjWwkdyCh06S_K-KKDhA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCJoWq85rCNoFTG97N2K88hg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCK-C8TIJqFP9f72Z22AoSog >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCK-Kd5I0rvdpprAyis9UeSg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCK-Kd5I0rvdpprAyiu9UeSg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCKR6xz_DSzoxqqRrAsjZ5cw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCKV9-mEj3KNxb94_9WylkYw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCKYsgyAfp0fgYzNAEhm5Hhw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCKcVJ_KHzQak-mJRK9u5jVw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCKjzmLPC9pMD6gsjTiaymgQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCKod3iMutxsKebBnhMwv_sg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCL-l6iMth2dAPDE1Kfs-Zjg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCL1OV1E9RmOzBcxbX-1mpnw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCL4RMk2J2VzX6Z3QqAOaUMQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCLH1rOT2E1K3WAvLzQgkQXA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCLOBIyDIuD1QyS399DY4mdQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCLPcfhkGMbybJHLJzGFnn9Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCLT7nTMLmXIw-1xYzzkuM5g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCLXow7EEeSHwAceeQGFbFSQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCL_nFJ4ItFUd9sXKHERKjCA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCLmZeoLfIWF5BKFWRpcPfJg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCLp828lp1qqeTWSuA1doCiA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCLyZGOMZwvX7pZ1-nHQTY4A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCM-Gzpgx9_bp_-FlDugWfFw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCMIRYngQyH5j1P3m8nW1pUA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCMRGLDwMCL1M31pv2oBuRhQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCMZX0sWMHUOrT2u6KI4CNkA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCMcBuuoc91V0GhXE2ujfrXQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCMoHS7CqALrSIeMZITW0oRQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCMrxeoBuvZpskz03MWs7gIg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCN6O_bVSlyZI51_5cxI8xgw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCN91ZeOvrfcAqkG0vffP73g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCNDSvHe1qyv5fWBosmhP5Uw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCNPxOQqfTpfaIQQ5MRo6hzA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCNVTR24Mzg7_3HrgmX9bUhQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCNXBdymIL_S7snieq74PQGQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCNciaKtaVtvKBhz7vDb-bYg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCNs5Ye9WHXCq14ddJ9XnwqA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCNtp6pUSuXrjPLIkrhIch6A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCNy-xJf6DijgO2IvmU0G-gg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCO1nYiyx8NGJ0KXXhkOXpXg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCO5bkEhs2fzmgK4Oz_FZKug >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCO6q3SvgKraHc2gGAon_KWg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCOC2RxhlaSUcDbFXk-17D1g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCOaNhm4mZNySRCX0oQZFqBg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCOc4dmkZ7zXhLqJj_z5lW-Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCOoKJwAoXSvG3hWCAyUduTg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCP3oP9jNvMeGT9qNVr0eX5Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCP_yY__KoMPciEXdZbhvVsw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCPcoNKaJIz7OZnOYY7JmXUw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCPggnglAq6sAco-aINm9Umw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCPi2UwArKRWSUN0BgLC11oQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCPm0ODqnTukZCSdCXUuQOCg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCPta7Gw67_Sk-aF2n8o13VA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCQ--PpwG_Pg7g6u8rZ2A16w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCQ0hDNwxz_orFUAtV6t1EaA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCQCrwy74CggEfmL4Fh3LPxg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCQOr8qLk1cUqAIq1ZHHrfHQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCQXBpkU8A0pn71fPJyhgP1Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCRFSTgF0DIU_RAQY341nYZw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCRG4HP0FoOW1E0szfQlYeeg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCRGSpid5qtmaQ_Em8IzEKjg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCRHwy92RUSBtR2qwWcom7hA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCRLVYgkYPmAGPNQH3Qiiipg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCRNBfPL6nb2WJ7qIWIXw6Zg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCRUvT3WvIledLU3nE9G5uew >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCRcX_dat7rQLkUvGvSzxiuA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCRg8XZ0yRiuvxf2zvFPTvQg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCRjSyZRzad9qBfJW54R6UpA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCRptX-0DhCeNZvQ14cor-iA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCRt3Fyus6zFfBAxkAGHnbgw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCRwd3zsU0hwQBSrZaz-qGWA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCS9QCz7R9G60ZLCtlEr3hcg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCSSAnxRvhpVqw8NUFHytn8g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCST44BA8JPdiGOm-9k4P7Kw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCSeQ9pqKx_KZ6jTSLcBdp6w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCSsUc8IfTBNze5xJZI6ek6g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCStejeD-B3pe4J5Ou6xp8mQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCTCwMCkx-m-O143djUPzkog >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCTNFXIzQWNyqx3-VyEFMixA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCTc-LXNduQMvvNzwvmb4amA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCTqMIFnuwuOplM6V1-t2l2w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCTrn_hHUY-eVw0RZm7mCCPg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCU5WMNYkbQdQFNME6KlxVcA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCUS1y5SVc0a9sfVqMPU4FsA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCUUi1yyN1jz9mujF6Ksk98w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCUaKaHMnEH8ORY6ONc1ADcQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCUdVki_o7TFIGOMfBFFLNWw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCV3Hm9wji6On7VE5k3VTKPw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCV4PnhXC4rQYBFy2Lsp0LzA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCV4dAV5f9PCAbNVgyBNN6Rw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCV6m0FpvKLcMJRW97G42lYA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCVEYQYZdP304E67VCCSHbaw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCVGBW5nwvRq0BvU6LkhdI8g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCVOQdgtvQxqtLvau809vtFQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCVU3PMivc-5cVVtoGmthA8A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCVpWTtInW_mn05Grw4Zmb7w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCW3tjSyf0PyXLS0OvjDq48w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCWBKCnE3xdfNrlFZmGnIeeA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCWGq1UP8gP4V4nCCeYPKZiQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCWTAOn8H4k_dg9J5EP6eVsw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCWiaC1AUNPZsrf85jngad2g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCWr7les3NMbdlzFRizCOgSQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCWsPduWMFHjDfGQMeKqcotg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCXAPz-1VS3o1d22hU51epGA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCXa2CG12n2hr5PFWJY_9A2g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCXlwtXcmL9J6Qfc58bO9M7g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCXwOA3Moxm5PnT3OTjFupDA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCY-67NDg-jcvCQuaWD8QsNQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCY6ejtGi9OlBW3mX3qzKThw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCYCvPNyRcMz_l7AxP3b1OyA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCYhO7XqtAl4-r2wsXgumGzA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCYkQ0NClPW8WgbirhyWw7WA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCYlUCP8jgdt1D7MUbUsjbzA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCYnSww6lXLl-U9fRPM_zYgg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCYzBzh9UaCKw08TNxz91nHQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCZOV52N0NsnJnviU3Uo6a5w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCZPHrzdhFzCVboGxlMNoTVw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCZT61bRGWG3WRfQ70tmKktA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCZUjaZF8z2gP2e7PCM7GJ4g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCZh8J1a9eOoXdtwmbufUM-Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCZhjlqlSxjcImNLyQRlcBYg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCZpUzkY-Id2oReVVlEbd98Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC_4HNVJ8jyXudvMIRoBEQdQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC_8TtUCe4moQYJej25mWuDg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC_FbqXQxS3FBMdlzW4oICNQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC_Myky_uYdlZCrEMEdRaphw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC_SdgkD1MFikrp-s0L2GY7w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC_YEES0jUsnILUo9Y7kIKIg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC_nuIy26G_UK5NwS3jV_WUA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC_tw32N5PtFofQXmEoAufmw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC_uaMnZ7uuw1K5YImsF7h4A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC_welmHirHnI7IqbmYX7fcw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UC_y-z9sF7wX2-qAmGkgKolg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCaAYS3n0BrmlXi4HgglBURg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCaFyyyWdXtWuc-PTBB4W2UQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCaHlKx7E5bcWz1CVMjegO8w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCaZU3Nba71jSyPcgxbdXQXA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCafRFwStpUhQwIT_I__h0zQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCagP-b7Ih9BcWK0vRmpGSsQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCaiM1AOYon_BJt5TYLtkktQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCapOg6vYOn4WVlwyetUPrMw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCaqn-8Ooqu9p4ojhrSQfs7Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCarchLJYQh7vECX5OH1nCdA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCazlZp9gy2pL8rB5O1-z_dw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCb2ETVgaIBihitw7jZj7dew >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCbFaUqyF7PfZ07W84kmtFcw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCbPd-O1MawOXpIIcqAzDmUA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCbXAFhlBISyQYtSrsPtBGeg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCbrL62RyRbQBlOE0IqBCaWg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCbxcvmmFw0C8pwxlBxCuz7Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCbzKGMuP9_9mJxmCOgIF7aA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCc9BHZhD4tbsg5Np_P9NUsg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCc9OzIdPsj2oDAeX1VYjo3Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCcFoMCwZJmCq-KvsHEg-BOw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCcJLomX3Zg3njnC8Y8zf8eg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCcZd_yqTtCw3WILWq2SWIiw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCcgM-arpHg3MO4jJarPlbIg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCcim0mFybMB9sSzvd5W9NDQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCcppu46V6sWfNzwL_mo0PgA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCd35FWj3moDktQomtrO-ZfQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCd9ubz4JQ-ZkL07QI_mHIKw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCdBJ4vBuyGXEXcqAFaqaLMg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCdCGgpm7a1LbaZHiQbrg2Dw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCdQmufCn2qUDCXL-dZstmNw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCdjSWIbPWjPRZfxHE_mMmQw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCdojzXFOWvZlSSRQZ2eQaNw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCdvAnrCXTvLnBBWuNQ5UlbQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCe1WaUrzpPKdY-HIOhgerag >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCe1nvU8KxLYWjITWEWDLdYA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCe7BkuTxWaiCATOqCtb1sRw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCeChaewc4ntOChDaN9VzkBw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCeCnfHT1hOtExh0NqS2yMHA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCeIb3P2yWC_RQlJwJQNELhw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCeLlhnvwBA_2EJu_1jD3Yxg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCeQU_WSD9CiPVFPgNgB1Y7g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCebAPvRTQVqp2Wl5l6Cbc6Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCeg9LfP6p-PAplogCSflP7A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCez29sfuTH7dxvrQYgnmNdQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCf1GbLsGBSDGEkAtEly4D7g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCf1JoDsIxI3OKFpblKDMmqQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCf6AComRIFhmNsrNZeNpZxQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCfB9Tr06BLMWyLS77zCNBvQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCfNV21Trg-oSxCvXpUeEosA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCfNWXOWCbhpBElcGnFnMwYw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCf_H_8elPQ9mzm2c_xC1ePA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCfb-MB7dFPOg9GZqQ41z-ag >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCfkSZwC0KcC0MWrZK4_uzMg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCfoe_9LJlt9PRd-RE-2-IsA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCfw3FZ0FZgF5326FBZfFtPg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCfwyP8a27rXOzqH0XofJkkQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCg8me6bn2GiDsZIUuOC2-Wg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCgKNW6u37ViOOrWVQ9V5b1Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCgLkWKcCpn1-S7Gww9rnsPg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCgOyer_cIWDvc7fOT_0QdGQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCgRJOIaejiHzhu_P3HfV0Mg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCgVXl_Ai8UDn9IUgb5fooyA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCgWEVHbm98mTdPf7RIXQWbQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCgYvXKMClKdlNGnceyRznsg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCgjFos1M7BbJFEYAxxLENOg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCgqCes-lSF_YUejOyJBfejA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCgrGCHaojA_ql9ecaJZzkIg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UChPKQoZZa9TjrjowGnB0oig >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UChUxY9yEJrbuytQiF4bG2xQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UChbmselBZ7Y5ZJkKvhqhizw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UChpAoHS4FzcroSlwKVEb85Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UChqlzupeQejOvmVwDq-_aEg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UChr0mvn_ooUjRiWub0Hohig >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCiVOXGTpdXe0n72jWH7n67w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCiguVccputxZI3p8z29hOTQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCimBvWLwntbNAKxw_7gufBw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCipETtTuH-cGsPtx5Dnl7Tw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCitwUOUnTRkm5Eelr1ysCDg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCj-MVOlqG-t6w4YRM2oADIA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCj0JrjSxJ1eEzHH1JqT8XHA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCj6EF6l7yXa4IvuU-Ku8RcQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCjNye467zctuzRnye3LMe8Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCjPogNpopTrICXrJ2LMvtw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCjWnx28d0L0MCaHM7vCQcJg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCjtmeQg3P3RQc_NzDLulxig >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCkF2n98d4Ewr198YtI5BPwA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCkXDGtoHMukvnagieKmhqXA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCkaAQFfaaOmaxx_LRAA8Hzg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCkhe7Dn2wAJAz5j0CT7SC-Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCkxyT2hViZcFANnseuZiMAw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCl0DwjHx8KkY54UdbbmoOwA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UClD_O6C2isL7X-yt9KdTr7w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UClQXWA7QgpUdPTQpqIQGwQg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCl_deqnGcfkiwO3MKpvVBTw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UClmnVoRPLAVhJSiaJsItgFA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCln8GDs7_Ce-crPrLwev2nw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UClobvUCGR2VUkBlN0ax570g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCluwF-i3XnvLQyXdoaCJvlg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCm1TI86e2YapQmrPYT8bAQg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCm4NSg5IC6bhwp0JaE1lCvg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCmFdEaoiyb--aTzbON8MMwQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCmKr4OHhxvNMdXJBQLHjSCw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCmeSPlvc1Eo_eN2pgOP7S8Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCmgU7trZ2a9uMbqvNHZg_dw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCmiUMQI7NJ2gpt1OEA6h4Yg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCmlSLaJJoMD7V0g21WHvahg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCmpvGpm3iqh7vvbzzgKeGBA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCmqp8iZtJe8LxnfXcKTskmA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCmu95586DK3Wc93R7MzyPyA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCmxB9gS8qm2IBfPvGeFDS3g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCmyJo9sMnOot7S2Uj_e9s0w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCmzHLVPWKCGQ0QwPryBdEzg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCn2TGAXAShE7k-F99d2V29g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCn54l_p8qgTRkiu7NTG8j8A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCnIEr3MdWNusJ0cf9rMb5Zg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCnXqv0tyMExUermfiqxLKPw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCn_ZBTPxZkaSFZEDH1410uw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCndWJr0ZZGgPSVoGkJz4f0g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCntMeALHv91irLLkgy2VZ1g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCo3P4eS2fiWTKl-RbuF2uZQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCoB3OLqIr6Xdz1h9EMnZbEw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCoCISZegh0GPgWHiOLabcfw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCoD_uP1ZDpq5WNk7LYmz7-g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCoa-Jkd60bLcXDkTlwkcbRA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UConHV3bogSwNmfWx6GZmhBQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCoqCyc91UnN363zodoHMJ6g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCow566rUxbZXLBP_-E1VoSw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCp0Fz2BrojPhR7sJfcuxQ0w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCp1zb5wG3ANSVAg3Yl2qpGA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCpCTOtPvRNUBq1c5PJsStPA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCpGmIMAzHMdONFV7i59KQGw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCpIzDup6yUZhwaHjEgm2dEg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCpT46G77geEsEUOKzb49enQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCpWYzyfnuPYNOA_uOMYn0YQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCpdtJLTBJqR_gYYDPKkMP-w >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCpie9Kij6EuF3OhsQBhymWg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCpv4yZz6CYUSZfmQGO6lnyA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCq-Qw6uhM2r10Ba8JTSVLFA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCqBowHCt9tp8xinjoqpErdQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCqLjqU4NG78n0yo3IiHz7bg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCr0twRvFP3FZ-oUVdAIUZpw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCrBlt_ybdqlUOqwhRJGh4ww >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCrKxemPH--ts6mujFIFfAvQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCrLJzBibSWAAFDpR08U3daQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCrpcE3EhN-daw6gslyhyfrg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCs4rfbEULOJrFyxo8ikuvSg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCsFjec9rLLLbQMy06yVP0zQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCsViZi-7TL7q-3A2XVEUDKw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCsqUYKuYpo2GkKf3yQxvDUg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCss-hU7ipoHxwIwBb8tHsRw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCtIZt1anWcUdgi5apHn6SIQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCtakRmQp2GugyuxzWmwTaQw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCtwXBLCTT3zyXoNnxRjs6Kw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCuBT3ZZANZ93az4LBUP8aeQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCuYdLPbYq0070zk6mantnYQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCueXnUyjtcTklhI_Sa7tsSQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCukisTxWxTPmQaiNI0jxgcg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCun8RJoj0cGxlpelijFIokQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCv7YEMiudYcbm2dvmS5usDQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCvM_2cYlaDyYYrwr5Y6kUpg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCvTbhTpDODnqkDLJmBh0DcA  >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCvZZHwxq9uj77wbGlO7Rczw  >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCvg9sv_Aq_Pp83gpbVHK3LQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCvtvQxfHF8y2sripRL83OPA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCvxmgA4j9Gu3osu0wfnL9bA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCw77dhKT47hnBnVPykmhFAw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCw8tqQrd2tgfa58l7VPRwqw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCwGeGdWtk0W6FUbse2zzDVA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCwOjhM9u8lxLLYwud7fyOEw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCwQg3yNaArCiT7ofpgT5Ivg >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCwSQ9Yh_ZI5K9q5wDPjpL1g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCwTlfuunTicGiireb0jo4OQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCwZfg-670olMMl3G14KUTKQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCwcBoHZlXjiISDd6AjN09TQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCweBdeoxqj-wBkFh265ICew >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCwge5tFhVS0J33FC7P8RF-g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCx7qTUrwGVJZ1tt7V7PFN5Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCxCST2R1kFxa-LNlUrNljEA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCxIPHpK5aHO-Gc19Mb9iJdQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCxNajtXnhrFm8CkVgfdOCSA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCxOxU3WvkTiJgpbVw-8Vdtw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCxgsMI_uYmgX9szKxsQCGBw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCxxXvgWpSLLWtKaZpAZO-_A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCy78xxAWZYLqnhZlVPtMc-A >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCyLBRLsDunEp-vaNDonJ9nw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCysd_O2h4wqAh6xy6zdpsrw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCyt2EDvw6kc6KMgYqAEQK_g >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCzLhjXbZcnF8FsoTB3tWRk >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCzLhjXbZcnF8FsoTB3tWRkw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCzOOTh4GYVno-IJAn2fMVHA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCzWboeg5jWfLY9KUrOx2ePw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCzcZNkG1COflpbL_o625j2Q >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCzhfypzF9l3VpoblETLHixA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/channel/UCzz1z7yCXVD7yHH8bah30CQ >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/soulstrike2205 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/thehamarejun >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/21nosreprd >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/8Rezon >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/AIuminum >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/ARetaproductions >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/Arcoviso32 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/AtomicBaby123 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/Baycunn >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/CreepahWeegie >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/DooLovesAniki >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/EKCraftMC >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/Ekyugata >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/FinnishBro >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/GLaDOS996 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/Gianneko >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/Gigapuddingguy >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/GmodRatchet4123 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/HyperFlame3 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/ImpossibleCarl69 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/JammingMachine >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/JetSkate1 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/KinkyAlts >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/LifeWaste1618 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/LolZombiez >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/MasterBryan01 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/Masterhftw >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/Mowtendoo >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/MrHeavyfaceUK >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/MrSteroids1 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/MyJabmorenoBroke >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/Nagadoff >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/NamaCream777 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/NitroPowerMan >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/OHMYItsGodzilla >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/Prolyfic8 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/R7729dash44 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/RP1234BITCH >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/Rlcemaster3 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/RobGBA >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/SafariBros115 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/StarWarsXM >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/Strikerzkman >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/SuperBocky >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/TeamNearTree >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/TheEpicROB >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/TheFirippu >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/TheJinxuiable >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/TwilightSparkle1234 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/UltraRemixer >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/UltraRemixerAlt2 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/VanFather >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/Viravaxify >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/YTPMVWolfwoot >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/Yibbon133 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/YourMomFaitDesVideos >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/anotherYTPMVer >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/arghivebeenshot >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/bobywea >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/darkmaster1653 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/derrperson12 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/dkensington13b >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/drperson12 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/frannintendo64 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/jjbros9800 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/koronx3 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/michaelf997 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/mirrorimage98 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/nick97ftGun >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/norris3942 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/nrdesign1991 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/omniputance >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/oskari14 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/parnas1us >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/plrusek >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/randomTVbox >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/raphaelgoulart >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/reten72 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/rozels100 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/semnomepraconta >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/shikitashi >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/soulstrike2205 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/thegias4649 >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/thepowerofdiarrhea >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/wavefuzzalt >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/user/yibbonmusic >> YTPMV-IDs.txt
+youtube-dl --get-id --ignore-error http://youtube.com/xlethxle >> YTPMV-IDs.txt
