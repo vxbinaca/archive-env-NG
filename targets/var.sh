@@ -72,3 +72,4 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/lonelygirl15
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/shachiNT
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/stevieryan
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/veradevera
