@@ -36,7 +36,7 @@ Optional software (nice to have and my prefered setup):
 - Add new machines public SSH key to this account or an account with write access to this repo.
 - If you have write access to this repo, clone this repository using:
 
-  `git clone git+ssh://git@github.com/vxbinaca/archive-env-NG.git`
+  `git clone git+ssh://git@github.com/vxbinaca/archive-env-NG.git ~/git/`
 
   Also don't forget to set your default editor to nvim or vim
 
@@ -44,7 +44,7 @@ Optional software (nice to have and my prefered setup):
 
 - Create a directory for Tubeup:
   
-  `mkdir ~/.tubeup`
+  `mkdir ~/.tubeup ; mkdir ~/.tubeup/downloads`
   
 - Inject the freshly pulled video archive file by running 
 
@@ -52,18 +52,10 @@ Optional software (nice to have and my prefered setup):
 
 ### Starting the main script
 
-- `./all.sh` - will execute all unlooped batch files, this file is it's self looped and will run over and over again.
-- At the end of `all.sh` is a series of commands to generally tidy up the machine, and sync progress to and from this repo.
-
-- `./bigscripts.sh` - This is a seperate script for large scripts so as to not make an entire loop take hours. Ideally run this on a seperate VPS but it can be run within another v-term on the same VPS.
+Paste the contents of `crontab.lst` into your crontabs and save. The rest is done for you. 
 
 The main scripts will handle many tasks that might cause snags automatically:
 
 - Keep the python instance up to date, so site compatability is at a maximum because fixes are quickly gotten.
 - Clear youtube-dls cache to prevent problems.
 - Push/pull new changes to the archive file to this repo automatically, which will then be pulled by any other new servers.
-
-
-### TODO
-
-- Re-factor URLS in scripts to reduce load time and have unifromity.
