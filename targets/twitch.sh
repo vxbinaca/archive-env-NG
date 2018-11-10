@@ -14,6 +14,7 @@ tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/kittendaddyhub/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/kristiplays/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/kyleeasakura/videos/all
+tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/nyannyancosplay/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/ryuudog_/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/sh0rtychan/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/shadbasemurdertv/videos/all
