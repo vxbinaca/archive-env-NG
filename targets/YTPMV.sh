@@ -1,6 +1,3 @@
-tubeup --use-download-archive --metadata=collection:krautndtea http://youtube.com/channel/UCRMBdcHAECv5aWJ852sR2Dw
-tubeup --use-download-archive --metadata=collection:krautndtea http://youtube.com/channel/UCUvYKxrlDn3eeNIqjD-Ib-w
-tubeup --use-download-archive --metadata=collection:krautndtea http://youtube.com/channel/UCbp3i-PEyGvcB8-_ZgewX0g
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/GL1CTH3R
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/SanekShadow234
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-0nEIC-FugrulWEeAvufHw
@@ -553,6 +550,7 @@ tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheEpicROB
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheFirippu
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheJinxuiable
+tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheQuelArt
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TwilightSparkle1234
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/UltraRemixer
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/UltraRemixerAlt2
