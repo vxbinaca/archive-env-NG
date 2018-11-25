@@ -21,7 +21,7 @@
 15 */3 * * * sh ~/git/archive-env-NG/targets/blackhitler.sh
 0 */1 * * * sh ~/git/archive-env-NG/targets/jbpeterson.sh
 10 */3 * * * sh ~/git/archive-env-NG/targets/kurdtbada.sh
-0 */36 * * * sh ~/git/archive-env-NG/targets/twitch.sh
+0 */48 * * * sh ~/git/archive-env-NG/targets/twitch.sh
 30 */34 * * * sh ~/git/archive-env-NG/targets/graywolf.sh
 0 */4 * * * sh ~/git/archive-env-NG/targets/doller.sh
 0 */5 * * * sh ~/git/archive-env-NG/targets/naomi.sh
