@@ -1,3 +1,4 @@
+## tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGMA0oadw2XiglyjhlUDhRA ##Drug Store UTF-8 a constant uploading issue
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/GL1CTH3R
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/SanekShadow234
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-0nEIC-FugrulWEeAvufHw
@@ -140,7 +141,6 @@ tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGCIdSedDhKziEyjgcDntAw
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGD5cAhXL6cF0urzeO9sokg
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGI0UY5XJZyr8_45YjAdY7w
-## tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGMA0oadw2XiglyjhlUDhRA ##Drug Store UTF-8 a constant uploading issue
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGMQlMx1T78To4yWGb6hSeQ
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGQVvk4XGUXKYJHbUKgMZCg
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGRg9ICz4qdeyshEsVEOuwA
