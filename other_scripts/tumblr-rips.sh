@@ -92,4 +92,3 @@
 ./tumblr_backup.py --save-video -i -I o -t sillylilpixel,myself -O /media/vxbinaca/Storage/tumblr-blogs/sillylilpixel sillylilpixel
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/z0nesama z0nesama
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/ilovenancymiami ilovenancymiami 
-./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/astr0zombies astr0zombies
