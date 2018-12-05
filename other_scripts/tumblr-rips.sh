@@ -45,7 +45,6 @@
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/sacralsex sacralsex
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/slippystuff slippystuff
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/sookie-m sookie-m
-./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/studiofow studiofow
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/taintedkayla taintedkayla
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/tallncurvy29 tallncurvy29
 ./tumblr_backup.py --no-reblog --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/tanyadakin tanyadakin
@@ -84,11 +83,11 @@
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/chinkogirl chinkogirl
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/cumslut-heaven cumslut-heaven
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/foxytail11vids foxytail11vids
+./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/ilovenancymiami ilovenancymiami 
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/peepshow-whore-nyxia peepshow-whore-nyxia
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/s8697a s8697a
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/shortbooty shortbooty
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/spookyweebtrash spookyweebtrash
+./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/z0nesama z0nesama
 ./tumblr_backup.py --save-video -i -I o -t 2-grams -O /media/vxbinaca/Storage/tumblr-blogs/2-grams 2-grams
 ./tumblr_backup.py --save-video -i -I o -t sillylilpixel,myself -O /media/vxbinaca/Storage/tumblr-blogs/sillylilpixel sillylilpixel
-./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/z0nesama z0nesama
-./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/ilovenancymiami ilovenancymiami 
