@@ -89,6 +89,9 @@
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/ilovenancymiami ilovenancymiami 
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/lesalpines lesalpines
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/peepshow-whore-nyxia peepshow-whore-nyxia
+./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/pudgeroughian pudgeroughian
+./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/pudgeruffian pudgeruffian
+./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/pudgestuffian pudgestuffian
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/s8697a s8697a
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/shortbooty shortbooty
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/slutlessons slutlessons
