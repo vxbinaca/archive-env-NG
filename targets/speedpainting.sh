@@ -124,6 +124,7 @@ tubeup --use-download-archive --metadata=collection:speedpaintingvids http://you
 tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/user/platybara
 tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/user/rizkitsuneki
 tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/user/ru3na
+tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/user/saejinoh
 tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/user/shilinTV
 tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/user/shounore
 tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/user/tonyjya
