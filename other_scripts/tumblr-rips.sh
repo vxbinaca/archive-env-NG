@@ -83,6 +83,7 @@
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/bre-is-stoned bre-is-stoned
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/chinkogirl chinkogirl
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/cumslut-heaven cumslut-heaven
+./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/derpixon derpixon
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/dildosaleswoman dildosaleswoman
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/foxytail11vids foxytail11vids
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/hisbabygirls-stuff hisbabygirls-stuff
