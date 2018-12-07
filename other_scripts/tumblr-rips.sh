@@ -81,6 +81,7 @@
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/ashleylovecraft ashleylovecraft
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/bb-kitten bb-kitten
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/bre-is-stoned bre-is-stoned
+./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/cakeofcakes cakeofcakes
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/chinkogirl chinkogirl
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/cumslut-heaven cumslut-heaven
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/derpixon derpixon
@@ -88,12 +89,14 @@
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/foxytail11vids foxytail11vids
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/hisbabygirls-stuff hisbabygirls-stuff
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/ilovenancymiami ilovenancymiami 
+./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/kyderdraw kyderdraw
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/lesalpines lesalpines
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/peepshow-whore-nyxia peepshow-whore-nyxia
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/pudgeroughian pudgeroughian
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/pudgeruffian pudgeruffian
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/pudgestuffian pudgestuffian
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/s8697a s8697a
+./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/sae-jin-oh sae-jin-oh
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/shortbooty shortbooty
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/slutlessons slutlessons
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/spookyweebtrash spookyweebtrash
