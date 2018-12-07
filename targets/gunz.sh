@@ -10,6 +10,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCi5PGj0TV3wkwKmRACb5tHA
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCiqYKuIJRIr2PEF2FOLFOew
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCjjqH5ZKLkY_NQeY_YpCvrg
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCsmS8dm384bXstowC4kf8hA
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCwFQw-t3fzE6tdd6-KeDMfA
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/50CalVal
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/BritishTang
