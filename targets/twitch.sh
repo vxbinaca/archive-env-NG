@@ -26,3 +26,4 @@ tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/yamatoworks/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/zeldacw/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/zonesama/videos/all
+tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/grandifloru/videos/all
