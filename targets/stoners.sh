@@ -130,7 +130,6 @@ tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.co
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/rma116 
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/sexiibunii69 
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/sk8tergurl020908
-tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/stonercouple1 
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/thedabspot 
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/tigerlilly06
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/x0chi3www
