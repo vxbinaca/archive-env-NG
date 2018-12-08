@@ -77,6 +77,7 @@ tubeup --use-download-archive --metadata=collection:speedpaintingvids http://you
 tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/channel/UCnHQyZvrzLeNtD850cVs2-Q
 tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/channel/UCnljldgOkioHy_EYqdHX-eA
 tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/channel/UCoXiLJKbcgPh9xpSiU9t-iQ
+tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/channel/UCpBcMezFGH21krR37RhCzzw
 tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/channel/UCqr9sfYTrQX_kZiylltJtVQ
 tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/channel/UCs9I4ZVaZYCRojJdEHoi3cQ
 tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/channel/UCsOPHnvYtAqQ0VI3GtG8Eew
