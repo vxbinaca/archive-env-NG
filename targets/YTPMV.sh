@@ -1,4 +1,5 @@
 ## tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGMA0oadw2XiglyjhlUDhRA ##Drug Store UTF-8 a constant uploading issue
+tubeup --use-download-archive --metadata=collection:ytpmv-mad http://www.youtube.com/user/TheCartoonCharacter
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/GL1CTH3R
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/SanekShadow234
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-0nEIC-FugrulWEeAvufHw
