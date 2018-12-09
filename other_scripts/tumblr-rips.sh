@@ -103,6 +103,7 @@
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/slutlessons slutlessons
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/spookyweebtrash spookyweebtrash
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/theliberatednipple theliberatednipple
+./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/trapolina trapolina
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/z0nesama z0nesama
 ./tumblr_backup.py --save-video -i -I o -O /media/vxbinaca/Storage/tumblr-blogs/zenatheunicorn zenatheunicorn
 ./tumblr_backup.py --save-video -i -I o -t 2-grams -O /media/vxbinaca/Storage/tumblr-blogs/2-grams 2-grams
