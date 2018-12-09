@@ -1,5 +1,3 @@
-tubeup --use-download-archive --metadata=collection:twitchstreams https://www.twitch.tv/videos/345875929
-tubeup --use-download-archive --metadata=collection:twitchstreams https://www.twitch.tv/videos/345448741
 tubeup --use-download-archive --metadata=collection:twitchstreams https://www.twitch.tv/videos/345002584
 tubeup --use-download-archive --metadata=collection:twitchstreams https://www.twitch.tv/videos/344563693
 tubeup --use-download-archive --metadata=collection:twitchstreams https://www.twitch.tv/videos/343707775
