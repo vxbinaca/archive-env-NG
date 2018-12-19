@@ -587,6 +587,7 @@ tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheCartoonCharacter
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheEpicROB
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheFirippu
+tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheHeroOfKoridai
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheJinxuiable
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheQuelArt
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TwilightSparkle1234
