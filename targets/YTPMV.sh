@@ -640,6 +640,7 @@ tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/thepowerofdiarrhea
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/timothygoodwish 
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/wavefuzzalt
+tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/wthpink
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/yibbonmusic
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/yonpati4
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/xlethxle
