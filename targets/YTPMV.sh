@@ -593,6 +593,7 @@ tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/RP1234BITCH
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Rlcemaster3
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/RobGBA
+tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/RobGBASP
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/SafariBros115
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/StarWarsXM
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Strikerzkman
