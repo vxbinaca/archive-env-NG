@@ -1,4 +1,4 @@
-tubeup --use-download-archive --metadata=collection:healthyaddictvideos http://twitch.tv/fakegamergirl/videos/all 
+tubeup --use-download-archive --metadata=collection:healthyaddictvideos http://twitch.tv/healthyaddict/videos/all 
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/SashaHippie/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/afoxinspaceshow/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/charlscarroll/videos/all
