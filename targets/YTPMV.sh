@@ -582,6 +582,7 @@ tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/MrHeavyfaceUK
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/MrSteroids1
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/MyJabmorenoBroke
+tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Nabenamiku
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Nagadoff
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/NamaCream777
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/NitroPowerMan
