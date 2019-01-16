@@ -29,3 +29,4 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/royalnonesuchshow
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/saunixcomp
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/tnoutdoors9
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/watch?v=OUXO31CsmBU
