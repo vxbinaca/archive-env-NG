@@ -565,6 +565,7 @@ tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Gigapuddingguy
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/GmodRatchet4123
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/GranulatedWinter 
+tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/HispanicGirasol
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/HyperFlame3
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/HyperFlame3 
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/ImpossibleCarl69
