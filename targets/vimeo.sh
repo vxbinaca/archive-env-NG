@@ -1,8 +1,6 @@
 ## tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/junnnktank ## DEAD
 ##tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/toplesstopics
 ##tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/user8923725
-:tubeup http://vimeo.com/vnbateman
-tubeup --use-download-archive --metadata=collection
 tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/chrismday
 tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/exey
 tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/fetishfactory
