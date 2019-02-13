@@ -47,24 +47,24 @@ It's better to archive culture first and ask questions later. The soldier who fo
 
 However the Rosetta Stone annecdote isn't a good example because theres only one Rosetts Stone, but when you mirror a video you make another copy that serves as a backup of the original in case the original goes down. Nina Paley addresses the assertion that copying is theft, [for the reasons this fun song lays out.](https://archive.org/details/CopyingIsNotTheft1080p).
 
-Take [Weedtube](https://archive.org/details/weedtubers?sort=-date) for example. I'd started in 2015 backing it up because I wanted to capture the dawn of marijuana legalization across the US. A mere year after I started many states got recriational marijuana and that culture grew. In 2018 Youtube took an axe to that culture and terminated the channels of many of it's greatest content producers. The copies on Internet Archive are now the only copies anywhere of some of this content. I've been [repeatedly thanked](https://twitter.com/vermilion1M/status/1001017637516668932) [by the content creators](https://twitter.com/PositiveSmash/status/993948119921377280) for doing what I did.
+Take [Weedtube](https://archive.org/details/weedtubers?sort=-date) for example. I'd started in 2015 backing it up because I wanted to capture the dawn of marijuana legalization across the US. A mere year after I started many states got recriational marijuana and that culture grew. In 2018 Youtube took an axe to that culture and terminated the channels of many of it's greatest content producers. The copies on Internet Archive are now the only copies anywhere of some of this content. I've been [repeatedly thanked](http://archive.fo/UKx2b) [by the content creators](http://archive.fo/oywuj) for doing what I did.
 
-As of 7/23/2018 I've uploaded ~110,000 items. I've had DMCA requests for about 10 of them, and a few hundred were requested to be removed either by me or a subject that was in the videos that staff ended up taking care of for me.
+As of 2/13/2019 I've uploaded ~140,000 items. I've had DMCA requests for about 10 of them, and a few hundred were requested to be removed either by me or a subject that was in the videos that staff ended up taking care of for me.
 
-In short: I've had an increadibly low rate of anger over my actions, and mostly joy and appreciation. For a hobby, that's pretty good. I'd rather the information by up than not.
+In short: I've had an increadibly low rate of anger over my actions, and mostly joy and appreciation. For a hobby, that's pretty good. I'd rather the information be up than not.
 
 *What are your feelings on copyright*
 
-I do not subscribe to the concept of intellectual property. I don't believe in trademarks, patents, state/industry secrets or copyright especially. Fire wasn't invented but borrowed from nature that created it - likely lightening on a tree - and purposed by humans. The internet is the best method of distribution we've had since verbal communication of small groups of tool weilding proto-humans because it not only removes most barriers to access but democratizes access to information. Why are we locking up culture so a class of non-creating managers and lawyers can make money, while the artists who ostensibly benefit from it make 1/10th if they're lucky? Is there a physical loss when a bit-perfect copy of a file is made? Boosting a crate of records from the back of record store delivery truck isn't the same as copying a file.
+I do not subscribe to the concept of intellectual property. I don't believe in trademarks, patents, state/industry secrets or copyright especially. Fire wasn't invented but borrowed from nature that created it - likely lightening on a tree - and purposed by humans. The internet is the best method of information distribution we've had since verbal communication (even better than Guttenbergs press) of small groups of tool weilding proto-humans because it not only removes most barriers to access but democratizes access to information. It (ideally) makes access egalitarian and (again, idelly) is anti-democratic and subversive to governments. Why are we locking up culture so a class of non-creating managers and lawyers can make money, while the artists who ostensibly benefit from it make 1/100th? Is there a physical loss when a bit-perfect copy of a file is made? All those photos of food on Instagream doesn't replace a meal. Boosting a crate of records from the back of record store delivery truck isn't the same as copying a file. Theft is loss, and mirroring things isn't loss.
 
-In short: All information should be availble to everyone at any time instantly, anything stopping it wastes the energy of humanity both in trying to stop it and circumventing the controls. It also damages the collective knowledge of humanity.
+In short: All (non-private) information should be availble to everyone at any time instantly, anything stopping it wastes the energy both in trying to stop it and circumventing the controls. It also damages the collective knowledge of humanity.
 
 __Related material for your consideration:__
 
 [Digital Amnesia](https://www.youtube.com/watch?v=NdZxI3nFVJs) - A VPRO documentary about Internet Archive, Archive Team, The Long Now and others (English).
 
-[Cold Storage](https://vimeo.com/116603551) - A documentary about the Harvard book depository.
+[Cold Storage](https://archive.org/details/vimeo-116603551) - A documentary about the Harvard book depository.
 
-[Internet Archive](https://vimeo.com/59207751) - A short film about the titular Archive in San Francisco.
+[Internet Archive](https://archive.org/details/vimeo-59207751) - A short film about the titular Archive in San Francisco.
 
 [DC19 talk by Jason Scott](https://www.youtube.com/watch?v=-2ZTmuX3cog) - This was the talk that got me into this, that and the frsutration with large video platforms wiping out culture.
