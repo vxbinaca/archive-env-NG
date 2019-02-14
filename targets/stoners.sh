@@ -121,7 +121,6 @@ tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.co
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/TheHorrificRIOT
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/TrueLifeofATeen
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/UrMidnightFlashback 
-tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/WhatACommentary
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/coralfish19
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/haleyfourtwenty 
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/jessicaharcharjh 
