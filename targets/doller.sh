@@ -56,7 +56,6 @@ tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.co
 tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/channel/UCwbM2gs_L83cc1Px8vrp7Qg
 tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/channel/UCwjH2Oi1tEJyTnxWnMmaeaA
 tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/channel/UCxjMkq1tMAILFSh-SOPN62w
-tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/channel/UCy0a-4IOqwyQoRMA1VVtJQQ
 tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/channel/UCyxYrrAi6RUykNzNr6HjQ-g
 tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/channel/UCzBdopbS7QhWNSpU1eVRJcw
 tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/user/0000001230
