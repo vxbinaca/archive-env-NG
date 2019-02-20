@@ -9,7 +9,6 @@ tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/haley420/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/hitsuji_senpai/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/hydeart/videos/all
-tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/interscope8/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/jellykin/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/kimimoons/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/kimochisensei/videos/all
