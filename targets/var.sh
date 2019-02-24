@@ -11,8 +11,10 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC8aG3LDTDwNR1UQhSn9uVrw
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCAo6nC6I9yk2X4xqQThhhew
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCB5Yw6r20bTrkZZDS_EnNvg
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCC8904HNAeMwgLhs58oJjxA
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCEAqHbeIpPERhniNjQyR7EQ
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCECs2QPEUC-3fNsDYJM1BjQ
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCEG3ulBltfrvOE8baBogJ0g
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCEUrQzNPvDQoEMNswAr8mCA
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCF30c7L3SiutEP9m_HhBZAw
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCG5ZWGfgDXk40t9Og02F5yA
@@ -74,4 +76,3 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/stevieryan
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/veradevera 
 tubeup --use-download-archive http://youtube.com/channel/UC_1HVMnw-610qx54iEiWk7A
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCEG3ulBltfrvOE8baBogJ0g
