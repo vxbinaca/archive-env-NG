@@ -76,3 +76,4 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/stevieryan
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/veradevera 
 tubeup --use-download-archive http://youtube.com/channel/UC_1HVMnw-610qx54iEiWk7A
+tubeup --use-download-archive http://youtube.com/channel/UC6wdP5hTf_phre6Q3kFiV2g
