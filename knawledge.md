@@ -219,3 +219,7 @@ To fix:
 
 `:%s/\([#@&]\=\<\w\+\>\).\{-}\zs \+[#@&]\@<!\1\>//g`
 
+
+### Remove trailing spaces from each line
+
+`:%s/\s\+$//`
