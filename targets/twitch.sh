@@ -1,4 +1,4 @@
-tubeup --use-download-archive --metadata=collection:healthyaddictvideos http://twitch.tv/healthyaddict/videos/all 
+tubeup --use-download-archive --metadata=collection:healthyaddictvideos http://twitch.tv/healthyaddict/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/SashaHippie/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/afoxinspaceshow/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/charlscarroll/videos/all
@@ -25,6 +25,7 @@ tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/textfilesdotcom/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/thedanklank/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/toplesstopics/videos/all
+tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/virescence_/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/xxautumnivyxx/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/yamatoworks/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/yifanlu/videos/all
