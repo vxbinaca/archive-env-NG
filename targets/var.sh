@@ -66,6 +66,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/TLCSprout
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/TheRealParis
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/ZimoNitrome
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/acourtroom/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/debuglive
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/dsscdse
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/etanthe4th
