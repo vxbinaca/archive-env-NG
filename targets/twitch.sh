@@ -24,6 +24,7 @@ tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/sydsnap/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/textfilesdotcom/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/thedanklank/videos/all
+tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/thekommandoblog/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/toplesstopics/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/virescence_/videos/all
 tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/xxautumnivyxx/videos/all
