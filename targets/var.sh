@@ -80,4 +80,3 @@ tubeup --use-download-archive http://youtube.com/channel/UC6wdP5hTf_phre6Q3kFiV2
 tubeup --use-download-archive http://youtube.com/channel/UC_1HVMnw-610qx54iEiWk7A
 tubeup --use-download-archive http://youtube.com/user/Shoe0ffHead
 tubeup --use-download-archive http://youtube.com/user/Shoe0nHead
-tubeup --use-download-archive http://youtube.com/channel/UC5uns79sHr1AZiUw1ikV7PQ ## Khazak human rights
