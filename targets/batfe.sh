@@ -1,1 +1,1 @@
-tubeup --use-download-archive --metadata=collection:batfevideos http://www.youtube.com/user/ATFHQ
+tubeup --use-download-archive --metadata=collection:batfevideos --metadata=licenseurl:http://creativecommons.org/publicdomain/mark/1.0/ http://youtube.com/user/ATFHQ
