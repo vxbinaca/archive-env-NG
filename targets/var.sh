@@ -13,7 +13,6 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCB5Yw6r20bTrkZZDS_EnNvg
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCC8904HNAeMwgLhs58oJjxA
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCEAqHbeIpPERhniNjQyR7EQ
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCECs2QPEUC-3fNsDYJM1BjQ
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCEG3ulBltfrvOE8baBogJ0g
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCEUrQzNPvDQoEMNswAr8mCA
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCF30c7L3SiutEP9m_HhBZAw
