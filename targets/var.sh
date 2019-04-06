@@ -80,3 +80,7 @@ tubeup --use-download-archive http://youtube.com/channel/UC_1HVMnw-610qx54iEiWk7
 tubeup --use-download-archive http://youtube.com/channel/UCrvmV0HaVXnsS6EcN_fdmTg
 tubeup --use-download-archive http://youtube.com/user/Shoe0ffHead
 tubeup --use-download-archive http://youtube.com/user/Shoe0nHead
+tubeup --use-download-archive http://youtube.com/channel/UC5ihB7WP6MtZbB3XyV2vj9Q ## Skeptic Feminist
+tubeup --use-download-archive http://youtube.com/user/smiletone ## Gazi Kodzo
+tubeup --use-download-archive http://youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q ## Jordan Peterson
+tubeup --use-download-archive http://youtube.com/user/ClanOfTheGrayWolf
