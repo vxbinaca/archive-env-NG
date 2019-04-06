@@ -12,16 +12,12 @@
 10 */24 * * * sh ~/git/archive-env-NG/targets/lilmissanon.sh
 0 */5 * * * sh ~/git/archive-env-NG/targets/lrh-pp4l.sh
 0 */24 * * * sh ~/git/archive-env-NG/targets/rose.sh
-## 11 */24 * * * sh ~/git/archive-env-NG/targets/skeptfem.sh ## Stopped collection
 12 */24 * * * sh ~/git/archive-env-NG/targets/spoony.sh
 13 */24 * * * sh ~/git/archive-env-NG/targets/sydsnap.sh
 14 */24 * * * sh ~/git/archive-env-NG/targets/var-jap.sh
 0 */12 * * * sh ~/git/archive-env-NG/targets/vimeo.sh
 6 */3 * * * sh ~/git/archive-env-NG/targets/anita.sh
-## 15 */3 * * * sh ~/git/archive-env-NG/targets/blackhitler.sh ## Stopped collection
-## 0 */1 * * * sh ~/git/archive-env-NG/targets/jbpeterson.sh ## Entire collection darked
 0 */56 * * * sh ~/git/archive-env-NG/targets/twitch.sh
-## 30 */34 * * * sh ~/git/archive-env-NG/targets/graywolf.sh ## Stopped collection
 0 */4 * * * sh ~/git/archive-env-NG/targets/doller.sh
 0 */5 * * * sh ~/git/archive-env-NG/targets/naomi.sh
 0 */5 * * * sh ~/git/archive-env-NG/targets/speedpainting.sh
