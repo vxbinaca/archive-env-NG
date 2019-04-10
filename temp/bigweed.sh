@@ -1,1315 +1,1315 @@
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Co4rSj54Tzk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SB6pMn4-svU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UW2zyHIcxno
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=W9gqu3tS-vw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3OWZELZoGeU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=f9Ie8OvjTTM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=21-bDBe0MDY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Hj9aEvh6_eo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RSOPK5eB4r4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7fKrzcM8Svg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qwDcnUa7Cgg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ccsJI5qYiVo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=d-l55o1QevI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0e28DjwJazg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4NwJAKkIC58
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zr_XMtDbb88
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Rns5AvHUAKs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ll6TZ0B3wyw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eq0FJmMzxtc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LyqdbgcVEIs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mrtPvmtkrP4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=D48MWmnokng
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aaT0poZFkhU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SfKvgTfGKzM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6KY6jtHdL3E
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=b3IGuZOmmCI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=STRlbUHheK0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7lrrDHiEluE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-db4nhR9iH0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=e-B2Um0uHSs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PCOsHRpD8co
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=F53wXcV8FAY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NI4xJOqaZvM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IiQYjlQotks
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MktHpdhH4iY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=tXh0kF_l7Bc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lW7qLf6ecKM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Q7B_u6IOZ_o
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nsJOYE-siOQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5jAlJxPzZMY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=R4MLDU4ZV34
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Yy_LvyTHRVU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OjnTHRYjn68
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3GdgsAf2bIk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=77wvErUWrDk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ezvcI1zyM1E
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=erjbP1fN0ps
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=czNB5FjfJbQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4EPwq21t2R0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FcfUf0XVZek
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZkHpU9-Mha4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=D8P5a9nlrnU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7r3HMhbjWWA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cpCtzxAWdlc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6Gzl2WTWPAg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lRIwY302USY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_lxtaqVCsho
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pmrsgoP5w8Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9ol7HJ-EsUo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZC2GgkQeLhc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IYiMltIzpPc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=25BXyUXIr90
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=S3gDqhYk8qs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7dWP5AcSSv4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SygBjTq7YAs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jxqTE-U3Q6k
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=G6s09ZduS7A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c8Is_Yr3bnE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nF73k7ROwcM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eaKHYeVW3f8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UBx8qZjVBlQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=DgN6coaTbWA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zXQ2E_l6f-A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KYap3EvTnno
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=poesCPnA82U
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hKzOb8V_Hvw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ax5epLzRntk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fxE27FyT3yg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-xqXWj4cqgE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eqAxUVboeqA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Jq7fbPUotvA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=S8F-AcjSwM0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8hYv02xPkFo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=tG8F52E5Dd8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6Ivjgah1FRY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PkkRZ8UHOLk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=S8-Ewo3yE8I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Mb_9ujpEIzg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dRjtk6ivKec
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1z2C8gGH4wM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=phQ85Pj9tPc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lfH1jUROkE0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wXGy-sMh_qE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xWZ7tJvGg8A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=N8JRw0mkAh4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=DqQA2A_kAIw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=68Pl9gIXEdg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FLo9J-hCWuU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LrJik5RJIwM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qI9Ey8fbIuk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=51NYXp_awpU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Nbdw5bFiiNs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gsqQp6aDyiM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LewU7laFS-o
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ul_zvs9Y84I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=deCw6YkPnDA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZajYtrqVuVo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=U910yIPOl8w
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9yLcA0Uk9W8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UuhfrTaP5j8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0ykG4POR5IQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2lE2xIKuaAc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1dpcLxBt2bA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lgw_m6IsCvY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5CTzL5GzvnI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TXOEeEaF2oQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PhgF_LpWz5g
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3qpQfok9bTQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZvW511zxNF4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=25xjlbMfWH4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nH1j-Bskzqg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SlBPjbuVTjc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=S8G-f_15bNs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oKlSsQgxFiE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ofpAMyqWh1c
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pM2uEqAs6BI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZXz7crXW0dE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wm6S6o7_Nmc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Z4REgKsHcWE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XqYpZIi6xDU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xOye9KRMWFU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JxGjDGWON-8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=avRd518e_2g
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CcpAAL0DX0A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vUd_8baXDUY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HPshbucn6-g
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2LkxYnQfs14
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6_BlVvbDI0k
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YBqKVV19dyk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-Ze8UOy2Bkw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xh37_Ou7Q30
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nt5aBFquT5Y
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xPhBhI3XbjY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-E5fbNbH1x4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c7syiRkDMsc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3bl-7_JvBoo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iumfEkHp9cY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zYXaCHgGnxk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_HdLMcWfKBs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=u6xp4nlQ2UY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qn59FwbeTDM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_2Dkw8Bb2v4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gmdt_f4UUzE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IjAAvxCqBfE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8QzjWF_ZsZU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NwQchglMqRg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=13NcsybvaLQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mV9i24SoC18
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=EPD2a0q9b2Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zvLVfXE30CY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XYHOec11yK8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-nAJSdp4T48
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=EgxZndcoVD8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5ELfvdDXuNw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=y-f83BziIBU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=k06_vB-pf-w
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ldqVgPudvEY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vzWvZmYl_dU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2sLmwRDQRPU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dpCvLBlwphc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BHpMQLCOwBU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OGlwL3G2Vqk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=M98s1GCURsg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cxCOBSFy7QQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Sc36sLXYy3M
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=A8oCh30maVQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TIubq303Cmo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=f9qEtAC9Q0I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=g0R8BBdtOAg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VZKNJ83AkQk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yVp4CoNoSw4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aP0HuZsC4EM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZpEwdyLPhJ8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=L-rf5ymHmM8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=58x5_Lfx4Ms
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=II0TuCUsYEk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bCK_xrbLvV8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4DMsltyvLRU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2AlQJ12bEdQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zalY2CCgEjM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rC5Odeg_k_k
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=R0ZlZN_FTk8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WClWS6UxJ88
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ETjt3xaUsJk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1KyKhnsPn60
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cOZuqo37GwM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=A7ghXOqRl6E
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rpjDb4D-0i4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ijz1z0Lf7Lc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eZgekR2mlKI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qMuFBBQJQU0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=s635uhh3sBc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KLFIwAyfcso
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=b8BqYjdVaC8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=upo9e766OKQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=V2QNyh2xpqA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=v4PD82xn8qQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vPdrUhc7jqw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LthgSrH1JB8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KtSntxzx3H0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VIx3EoYPVeM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-u45M42HrwQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GpQhEQs35fU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=a9TgUPOPyRU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TgdTx0z-eTY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IFB9fD8UfwY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=u8mvRiEkpDg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2pM9WdaHKYA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fbQDhBVARhA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=d0Im3NnwusA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=z3Zaz3PBRRE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HkgPi-Gh_aU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=t-RP1SDfEuQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wiu2pH41fIc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fOd8fpTBxpM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lLStLFh7nm4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Lk6Qv16KlR4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4Q95Jtb7_so
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CIk0VZQvPBs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qu6KywxSrgI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iDiFRXn6xpo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WNzhjwl1q7E
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_itXvXPXffg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=w1XcBeaAzv4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TSmCQVAq2io
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QKrJ0phXqvY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mr5Pg_77ucU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZolgQn-HqDs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8VxljDFB28Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pibf6615_3k
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=S_iFXqfiZo4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3X_U9bc3iy4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cUxV3cKCPgU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xEVznjIYiUk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9XTV3NbasDM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=abysSkPB3OQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WUy2aMnoLyA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=j6wu4VQGC4E
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=J66Z65XNHes
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=F8vILPziy6A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gbOUWc8oxIU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ovGsi97qYRg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hvWiLEBcXaE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ho23K3006TE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=C8xwMgPjaxc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=L5fyJLXkMrg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-hg7_Lb_1jA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=b6YG2UEHsIY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lQ6AZ_cKRKQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0joRNdK6xRE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ISJ5sYpF-w4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5N724AxKRmA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mhZu8srTKX0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Qtn4FJb9fd4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6iO18AVIVHA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7GK1qYs7kuM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NI5PZiJhyMU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dnfW2mXYRCY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5blX7YEOqyg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=f9hxM2RffD0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HTmfYBNPTQs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pngxOij6Ln0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=24z6Bkm3K1o
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SLJreRnNCas
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vMpkI9fybD8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=o7rzl-ual3k
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nvnHjf3cxOA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2jIFZ6TrD4o
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FMQBTchDZFQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=axCwn0L4Wy0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=b3bKBq-jCvo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HU9iYtGbulA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9-U9JuNnI9w
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uhYTivB6lSc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VVJuhqeF4fM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PBhGeYoKp2o
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zolEjTlHVFs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Hy4l9dQ9zbs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NjMd9yGlp0s
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cijAzfDNvL8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kmihTwITre4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sWnknL7Qu24
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XJO2oZBg6g8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fyMB0oTROi0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c5kzz0ulUJo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rK7aGIQWeS8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YqLxJz46l5Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3u9E-ZeFA1M
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8Gd987uIv1s
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=x0YSQbVbUwY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZRlMp86ugFU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ch-X_ri3wl0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RgkmjOXWkLQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cF2zxF8T-9M
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6ZuXFmHn0fE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sXziLY4j9sc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CeHB0gzTATA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VP_0zPjMQuM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vjP15mYoab4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=f788bhw8lkE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ynvy_oMQpBA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=G0NT47OOCfU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gpGXW1iHbcU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mbjwkL4P9yI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=DWcqFj7uts0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GoB9vPtVxwU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=AwDS0r4HcCE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZH5NT3esVUk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=o8Axmvsr0tY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=AhgJedzyL3c
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Tbj6GvXdrX0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZEya85UjUGU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Zt2VyvRgdik
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hrFW-Q9OGxg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=k50OpHiO5Jo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eXyF49bbUqM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=S47hu7dQLRE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cHiDA308KG4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KXGGClAv2rA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gPTRSrazJlc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rJ6vHstmoHM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=a_SwJ8wT6ic
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aBJp33cAXsw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0tbolRs_jE8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HvkgB_NjmWs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=r_op3kWuCdI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wz4UDdCagw4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jJctK0Zulwc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lclfR4Lc4nE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8hQ-AV8Q4Tw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lnj_JzMQo24
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PrxNVhDHfY0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MEGZnCB2Igw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ztDtL8By63s
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JtNIuI7fH4E
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-xAyiz2vt3A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OeP7f0NP91s
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=i0Mt6hxwM_I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qYZYlEaVMGk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XrmDT69787I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=65W11fY5mnc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kJgr45sYFSA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VzP6RfDAGjY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WB_j7ZvTfRg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=04RLQryKjNQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Fhxe0Hfg51Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Os5FzBqod_8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=64ibjEvenzI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8SbW1I7Bi3w
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=AKXOER68ibo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=az4E5xNtpCM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=R-UueGkb9TI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bpp5j_XSMFo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uIuB2_biOVA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XgMP65_SD60
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KmFCF03GlLI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Wxh_Bzfbwg4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6bUZl9-tLNc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uaGBtXc2HNY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=knnBu7rnU5I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HiYKqj1pQI0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dkpxloJjBos
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WthfVYR8tAU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NL8UxKBXcCw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oxKunb9DHtc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3Ro9cpCHXSs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FMq1XQJMXXc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=G7Mk8803nn0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qb0F7jNkbMA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fPAvDuDmk4E
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zr7Ilzht7ps
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6XWPfCVxIII
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=go_R2PmVLQE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=q3hkIs2GUro
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=adjTrh3-giY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2DBN7BNS1Po
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=M6uNyRqz1BY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2MoNKUOeth0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Q8wrwQG_YbA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3FbMupH0DwA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5Muo_18G7bs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mH5_pMzWnJQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YyFUl1G8_DU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PKKCobeN6mo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-SC2uD0fe8k
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=szDkcT8B5bE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6DlmE_Igtw4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GloTuL41MYc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GfL8uJ8jyHc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XRwh8y0V7qs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pqGZc1FRLNM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_6beTthvA7E
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YNr5Th4Lk7k
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xVxAwKx17js
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZwUIW3z9jRQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=f7TgBCHZh2I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=my318iyi9QY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ou9IuNvVCcA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=deuSLBQXWuY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vBFz7r8HR7Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ka7r15LH2gQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=50WtgOUv7IU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cOAolnHf0Jw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fDRDycr-pI0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=I1rB-sedIvI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4Y1KCRdk_jg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hhYzPI40aXQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SA6EpWmRnt8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vu5RBrdxAoU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=X-ltHk61G1k
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hxvDnChrQFY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yvHf1wfQmDc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uZWywDAimIs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SR2ED0hIbJI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3FE5bavQCHA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JI4T6zVHGK8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XxsllNs2Yms
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dyMb4mk1ppk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wyOXOgbwxQk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6uohzfEOa9Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SRAwFOVhi7g
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=D9WgXesUTW8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=AllN782yI0k
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PLZARlEExYA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yPUQuzbn6HE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gSTHkCLTOxU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xrgl-Epovqs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5ERks1NnPpM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rtcUOrfuMV8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_icyvefH6R0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=muX7ydCpN8Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3ZU0y8vtwqQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MvoKpenBsTI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oTizM8xqq3k
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GfGtu5ss1GU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-Pmz8KfbwYs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZzPirTle1Bg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mB84vAMTrrc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4vufOQbrlMA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zTPpRC6SgXk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lKWZ3uEtCN8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SwEfHIm_KyY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ctAoDkoRZMg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jn71oUFp_Jc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9VMP6R5pqpE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NuP7_D37JnQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WLK7AJDW_A4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4Jd_6htn4FU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YiI6T5jGWDQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-cMDMfcldIA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UaP0wjTmewA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c6oYxh9qmXg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_ntyStd7V3M
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=EApTZQE4m4o
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YC1LubvbX2s
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZBgLxS3d138
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iQe0GkETWLw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Niw0RAG0at0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ah5Y6S-Jjhs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ybaXCykAGhI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=F-_I-jpaWq0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wtpcI5BGwi0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OZ1yf3hUA00
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MizcgHWbIPs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vsWgO9wjU-I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wHHvUMHxYjs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=n4CAfjq9u5Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HIq6MEamL3M
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LnEDBUk_kYw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JjWFFtQmpZM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FNK_AXLEeLA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=U-HF4SOoVQw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6V5wWhdbcx4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Eo5lYY9iMyY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HIBF1jZOlUk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vUNwo_NDY_E
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QuKEdbWQiDU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OXcvzvDEY5Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iQohwo0eK-I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iZaG1NsWVzE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ljYEVncemDA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7ZSBBYC2gAY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ICt6BHv7paM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8ve2lqY6X_A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7s-H_SeQHHc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8sSvQHcDuuk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=DiKHcAKmH5c
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=g8hOByS08ts
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nQ15U1sUfNU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=DbrIaehCFMM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GvrtVdp6Nlc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JhnsRbBjWNE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=locscb1ZkeE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Pu2-qRA8oHg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0EA6Pm93HXc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Zm4c1-eWxM0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=l2uPuuxznkc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8b_HPprStik
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MR1laL1SQxs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BLaYG8XjMRQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dIHSTRgQWyk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xB1IyKASZUo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cxRZCBwSj6E
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=opQLhvZqt8E
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mwgVOmp4rwM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YbGVe6bzqLM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lILVv65YSCU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LsJ78pwUtnY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_n2-vmqaY_U
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=j6u-WaTov3A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jFlfmFwvYFU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=onV8P3L3s9c
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vuF2hpJASPo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yGtSYU7BSYI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cez5rprkFVw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-jSkcZkXMTY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aXhV4MKqc0k
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gvh1vhx0wfM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JE4_bavwbSA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5RiPX-xT_VA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WkJbOTBOinQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Dw5iITcdGhk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QW6ylSOOrmQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XsyB_2y-HZw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TzLfnDYjy9c
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8BKE0G9mi3A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dyXzAm5Hc7I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MZ3oHwFQE4Y
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ejgT1ACQ-zA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uow84HjitBg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZuPo74Dt6MY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GOHpcbaxiBM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6zx8Tj8LsD8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XEXh2YFKS_k
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=C2yixaxDbpw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kO9WCFo27TA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BYQbrFmS3Po
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0WbjFeBBg38
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XVgRFzxqGrE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iUAOKsgtRRQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PSh-0nW-p84
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=V_9NolbgKPQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rYzNhbDId_M
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aKywZFu91R8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_LtHQTyOvWs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=twH5riTE6as
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=llg23B6eFPo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Jb0CGy7Z2hE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=w9r0dJ95mK0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UplpGaFL5Dg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2LzUaiS5B1g
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TjGTk6rfHH8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kk5W3juxkTA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KYF4QcBN7jM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xuvsb-wbEDE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=99xk9bclfxc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jtp2BzEaRnI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CPWoB4tTUYk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=V0RX3f9B_7Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=22h50Kdz0cM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xs2EPKXUsE0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=699Tmg3yz3c
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cbwcyDjZRqk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=i8iXgQ8llmg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=G7wvK-7MDFw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nrR1yzjCy4w
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pikeXbI7qoI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4JpMoF-Pwrw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BhOVzO7S0WQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=utgwEC-ZQEw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9KmYqigsmc8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=G8JHvLo9oqg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lMYN88Mbh-0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ij0QYiTu85Y
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Rwr82aJN82E
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Uz8wQA6P744
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=72oTyIOZZO8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=B3ktXnaKPUg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RuhF_LNLJZw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=j_VE2flgLC8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OkdWzJAENFU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lBWELu6GILo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=t2vYVjI0Oow
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SweXCAld1K8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0ZRoZaqeAzo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MQE39MQ8ZPY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=u8e8vc6yCk0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=D-bofUgkhc4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=a0xfFnjHjbA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=e2rw9P-_XTk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0IdVwuT9Lew
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1QCh4rW0IhU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GiUL--B275k
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1oaCpkJBGhc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=DTk3aXz_-eE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wuicz087d4g
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Q4U2cQLzbZ8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gs3aQ2RkgDs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_L_LmmGPaBo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UUfLDHH6qHs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zhlKnDQKS_Y
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6L3-k-8srSY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Jfzh5s5_VHE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6oyqADmnfcA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5E8nQkuXEzc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-ONJjHUER10
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eIsFy1nf3lw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mf9mgXvH3d0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Cw11TUE-U-E
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5WqQbnC4uYo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CsRwXsjL9ls
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VvCdhUdC_wQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HPbCIAL-vSM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gCRBHpZFFek
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GlNt90WMoc0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zsd05xfhRTg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hwicsnLGD_s
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=U0YxbMUy_C8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xIEP1f9e_dI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Tbf4GI9YBK0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Yx0bdqKgKdk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yk-X9wS55bA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=usTvbE6LoY8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kFcIF1BGe9I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=suLHLHiG74w
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Q1tzxepGnN8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=STD3b2dpAdQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zqbimoze31A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=O2LpSAxJpDk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lbaBxP_Xwa4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=f7x0-n0m1kk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Jse9boAjBdE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hI7WfuAK7JA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JlJfLT3JxSI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KSnLqKzpfKQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=w5FhHLGDoIs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Cg2WUM-NUFg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xJ8GZ_ZoEQ0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mWgLu4YtNvY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8s5Qzwcs6Fc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WBP4dUXZwIk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nkz0-Sln_VQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=REv_42-zP7c
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FImscfIHYhY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=en0TlQTry2Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6iUxDV_PYcs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YHBe6h1aL4M
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vUJPcCdNCKI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_YJl2eIYjGU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kZcYaXkcdBg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WwSQG8wix9Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=tLA-OPVhX8E
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vSplcmRWWg0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=X4euVzmj66Y
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=R0QGq-B11O8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cXXQlOrFGj8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Q852KFMeOLM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=l8ftMIezyKg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PlD55R6NvEA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zsFZbgHLrNo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yyKx1enY7m0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7o5yzIX1Xuo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RWaN3D7WlEM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XUl4lWPyFcc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0s-xC-3JCSU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8vdnf2Y9jsI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dNzMJCXlX8A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aKpVMp3NzSs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xXnxxLeinqI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pSruDo6cdIU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=i6I5-gIr6B4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vo3HjNPzHFg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CjRiNkiIhYw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c2nHSLMY8Hk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PK4WvEW07bc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HdJ1mMO8Vu4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UoqXSzVUR8c
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fuJLcQ3bwgE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jv4LYjd8OIo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WvZLAAuwdiE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TZrHXM70OYM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dwkgmV_n1Ok
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eabomGQzZrw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cyD08itlb0U
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=EQtFMsfR3J8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=F7cniXElB04
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=g_r3k8HFeEY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jLxwiO9XAZk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ffKHqc4Ps0A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QSFuoh1HT3g
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IJgvWWIjhck
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=M_YzKhHcVUg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jLTEQX0DPBg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ept98f8yOeo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sQ8uKcb_rSw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=buNf8ue_MHU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XCzEwvSHYrs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5R5BB9gAvdc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jIJjgibp0B8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lysaBLSCwXs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=APnU6Lel0Po
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UzV8ev9yZ84
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gXKxJ_PrtO4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=s2Wh1QO-7c4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Paof3sCit0A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=99bA3lnbtuQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jN3yIXsCtGs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9vHegL6ZNx4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0SicHzIEJOY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ulCXIThPxBM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Rm2Kz5kXbF4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=u0pKV4pu2Mw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CW0od_essPQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OH6lKudXNt8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6r1245oeebs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VX89c5jOTG8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5XqIYGDEGA4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aWLSwFsxqW4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=InSKkhXmo2g
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9hFwP82e8dA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=t4U3JfXww8o
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=11VbUs5GmxU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=80-gy5JW57U
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=x1igosBLrQs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Glua6kwhutc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=tyW3cUuGSbo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oDl_Q1PmVTo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bfY3hGCx6Zs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VIN30AXhm3Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=smJT35GlDBY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TGfMsTx9T6s
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1ZKb4ywe6Z0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9ASIWT4Zxmk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=D3pmyF79EKA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BgjNqD4yO9w
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OnoFqcV4hoY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dksokfnmzr4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4QoFbDys8F0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1Ir-b8mK5Co
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jrSfCeKvfys
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=og1r3otxjAk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=krrAs_-slkQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bM-wRJLCfV0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9jC0gyuYDtQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LVIV1eax1DY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8amsL1U3-AY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fFb4yT9ZOjU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pENzG9udFXg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BG1fAvo2aTY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mgREExF10W4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GBDTTZ39nqg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Tao2kQMk-88
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cM_MrLN347A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=M5f7KuvHtWU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-GZo4jNIsGM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7Uc6fGE9wo4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ehFH1qQpPCU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9SjZWD_IB7M
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FR9ByeL7YCk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vFh5LH88ryI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Rw18Cn3Frqg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Xv5ZRW3vTng
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3OFqH13RScU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qbMDHSMDKeM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=z8cHnDglC20
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qLEygzY6byg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=J1E0gehea_w
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=frdKOXa1ZjQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UhbcQJZygTE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ijj0m5JLpQ0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9wAyMxRfftQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oJmQsQAzGxc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MKtsIPaUPp0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WbyuKVOBsQk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Tu4Se04GxM8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fSiKRWUrMog
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ULA4ERJ-hAg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6pCP4WZILpo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VGNokdoD2-4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nPeW_30bFqo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gtS1T6iVrtE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FhxTW304qkQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wydDhM0k-jY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fzxjXIOrLR4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rq8G78JBw78
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nVv61e1w84k
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dksrzirEtwM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VazLGq8DDzg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=w2rnE5xfKFE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZhY6aN97Ts4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uU2T6y8QqfE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rBVENoJnCdo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VzTbQHgwZ4w
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TJeAF4sNsvg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rQMt0W_LxsU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=G06Vs57WG3M
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sIOOLXCRgNI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LjDiZnG8F0M
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=k5S4LJ1Diu0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ob3whhG_HHU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8um7eNj6D5E
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TLkTPnXNYZU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bcqzttrgf7g
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=61Or6Q2pdEE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Oq_9Lnw1MqM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zE5Gy-hpiXc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=s43ADiz9K_U
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wAstMtIs6N0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VwY2DKxwEcc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eVVPEIHA_6A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jv0jzINffDU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5GbwxkWUKAY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ktzly4G2924
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qtJtBBCwsAQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5w9CuCwv1R8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sQ98TWStt2E
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fKifnD1H9Jg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ElOrlDg3BPk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1vvoLojNg4o
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kSrpODc4VIc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=n4qijo8E0O4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=G7St9i8aU5Y
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7GgzJ3Kj1pI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=f5JNdKjxWJE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8ctJaCKejbg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=y9_U4GBT3TY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hOcMKElfci0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cB2F06cG_Nw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GHdWJnqClOc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iUWjkGzEDO0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WgXLNObv55o
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LPrSWtXuTv0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fTFdL_Fh-n8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=a4vH8xWyqZQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vfVuTXSvEqY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vgIw48kbYUM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7nn0S4B-o5g
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UufGagmRzGg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Sl4oJrP04zA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=afcL4vi0syU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RwnZ6Ty6Ux8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CRyiT9-ZBbQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BH0bwbKobZ0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=e7n8SPzeJjs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pyXN8d-INxQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gtezgsEu7W8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=t-HFLEIw77Y
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HkLQVIJyL2U
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=tlRCWzLdJoQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-rtMJTcDYY0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eoj5rxTYVK4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nA5b512eB68
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=C_7n2ofMfoo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8-hCAmcA72I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SX91ABT-gns
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1NCP1ZD6B5o
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QEVHr3szUKo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sYUX1IHsbB0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=041t639YYGc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1NGz0k5N1gY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=76lodF-M8Fw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uEvTgo2Wo_c
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NNslj68ZhyE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jJTAuVytoDc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NQzqbGSwvtQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YF0ltgNE02A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=36FQuZAU1L4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5CrJ06rZiUs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PgQUHXckyrU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZPAQrycQMIA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=j7zlUd6JK18
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=m1LZIauZJBU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2RP5bukygic
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BBGtLshBUnU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4PZDvRrwnOg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GRj7wAOWNWI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=k4uRX8i5fx8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mcvi3luUpHQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-nkCYr71Lk4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ScJSiL02FMM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=AyiKlOfY9_U
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1Ad2NbZGTWY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ek1NWMaXGAQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OlABXC8_ik8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MkevIdQWSDs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=X3emGZTnpPw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oxik_yjxoN0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9yh1uuc-2_I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1dKPUaw39kg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gby3_waWPUU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bDCUlcE-Qc0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HF1WIRfEETU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0WJSjAd5rPk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=j0qmzNvtgQ8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8vIoC-LY9x8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3FZMXQiQ-TE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BH7SshoMtCg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OUu7uFK-tM0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QocPjVZ9aiI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iDfvcxoJChI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=opcELRYutd8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8w4l0S1LUpU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=tfgljP3JP0M
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=k4xGCa860aI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=V1pYG-sdAKk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=S9GsC4rnXwc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rKSKkULjqbQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KLr3H4rqi9g
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2VMJCnc1cZM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oJ6XgLhaVJs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7HTW43tasEs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sroOib1t5y0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3EKfF7agVkw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zqDPn1l59v0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=f0MlM_auzPM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yPOZWEmO1JU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=L4x7WkF__Y8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oscRVgLMATw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pSVRP92JzvI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Bfdltv87anA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mSzs9pkqqEw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CKR4GYcLZh0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=AY_gVIvwt_8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MlUtzulaWA0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8s9rwIffoEY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=egXa_J_j2iU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rAqMmP2qLK0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cEHsBsyQ_RM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eLnfBn9WblI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lBA-Bc4vGvc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3wMn1h6YXCE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9NoGNRk7jUY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-mMiV7vByVc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HdAmA9N9XQM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MlckFx-ebQw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VJ4zf_JNweE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=--Qdh1iHOaM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UApB2xodi6g
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=J7_JbinZBjk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RbZ4FklnwyM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rMJWK0R-HnY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c9SdjmQ_SUY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PB9TQ4H1gkk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_hv8dxBEqCw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3QjPOpIXQXY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4yzYdvVYLr0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OeOraO9hZek
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xUU0RsmqCFM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9liA2Udvo9M
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=u6VZm7tlXNw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=tBlsTzbmcIs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Wfvc6VjJaQU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NzzLUnv-XCk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QxXhMeKkL_U
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yHsnDrSDRto
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aiJLY5R4ScI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4TxbZ22UM_o
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IjOmr4aKBUA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=X1G-x4aXUeY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Lm2tkacl9NM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XQfpitYC0-g
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QhuK93CUX4g
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9R7oJbqRORo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OBpEtPmwYTs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=W43z9Vm8HfI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NEsThyXP1k0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=O7bd_1pCI9g
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yTefUwaSfuc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UvDnqCPkY6A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=koT301cVYyI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=65r2c_ZIsKg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=swSRQy6-rcc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RT4KkA20PvE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8VSVE-KQZyU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aL85fevCmeo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jywcCX-NA_k
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=McMS560edxc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VfrN22PUNSI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4aPXy_JBBmY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=U7-mS8olJqk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VCphnEP28M4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4daYXHB-QfU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kgaSasERyJU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ceFWSEW8njE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=A6fUrBIwjts
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SbGcmQ-5fb0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ovcDgDKJ38M
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=noU46iYSOts
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XfkNJAHlP9Y
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qTVYKNmk-uo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8pyFsGdrTmg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=C-3dHxJ--YU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2X5DPKmzN38
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IX27Zr3j06I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=G8rQweZC6Pw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TVnbb34gtc8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jpVPsssamG8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0RImqEDyLIw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9fNHJcBx6co
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uNUGL-5cqKI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=41uaF4x8bNI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=P1xmmNmabxk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Xc_6jvllc8Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2e1hEkg0V2U
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HFlzzZKKjRA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8MpdtOq14sI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LU3CmExisSY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hTwip3-BxQA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xs9IdDElbKk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cIeL95VQozQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=e2XBY8-nwR4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rFDW9chKnU8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iBo8k2o6YQY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=stLr6RD2oL8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xmEK9xfnlLw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4yPkX97Y2Xs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lGipejSENOk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YuA6p214eKs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=M-ec7eMk3Fs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ALKb05-YL44
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iy5ZEZv5Fq0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MU1N-AYyz1M
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xlo7qU1fUT0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qW7sOVFFQkI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BUxvUx3GZrY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bIQTKo9qdMU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=m2EqDdlRQ2A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cDSpcuf5298
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kkmNRUEuF_Y
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dKWQZw2aQIc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WTgP49ZIe7Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jbleIHK_l-M
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ah4WRfRJ3dw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bXZs36-nkaA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cWWrvT5S3A4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Fr6wixCtyns
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JYLz7gaOeTs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6ZrHONfRlTQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wJTFH6Cff9A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-KmykkN_OJk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=T1SF2WrKEKc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yZukx-JKipc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FupYEwYxCCY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Y8eWw4JdLIo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qtUjKJS5F-Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=u03npZRtEa8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8knYRB6ZxXk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cGoEO1U3QJA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=avpC__o1R5U
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bknC6jAL9nQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OAehfKB8Kq8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4-QlF9erhyk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vS7MgGYvfs8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dIphVzJg-t8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nBkstSI49UQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NvV02NCXE1o
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ShnFetHGE2Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_VfgmyWAEPo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=n6ZCZljAxtg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6gDFt_dEebA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YikinnJBcGg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7AAEAZ_mf_8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4Yyzp7YyvNk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iAtkAy2CLm8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=am6rf2MvHII
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RjVF8GXg0T0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qs1KkTTXNrw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qRFXcl8odoY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-spnw5yGnZo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bldHKS-dhF0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IRAO_52nxMo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YTxSSSJd0rc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Xc_VAgNsXgo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2RILPKUEBdo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6himabK_ckc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rdKBLkdNcgg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=y-krDUkLrRE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6WbaSMMBr-A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=K2-Ua05eLWA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7DUWz2NpDzA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=waaHKfvJ4DA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NJWqsE4QET0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fETMYJLWGos
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UNHhcJPm7kU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vbkNQi27jao
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aR50Aszie8I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7K49BjRACX0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9JHMj5xiPF4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ftppdfZG_kE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iM6tiJrpQWk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YWVU82vAx8A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=u66BX7aJ-3s
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LBAwLrOFvFI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xFw3FObhuwQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lOqS_VdGDOo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=X1FgIPyxKUY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PppkoVVxcG0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OX2-rk0OK6Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OL9fM479-yE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=H29odTvuQWc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YQLxQOQgZXw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7B91-3-g1Ic
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VPPZS2TR9vs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=711GCMmjPx0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0-VM_FJ_XpA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CUTSJKsD5Vo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=l4uAe8NpCF8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qTx_7wHAty8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pDE2dNQntN8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=82kaOPsW9Zc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5joN1CHCTR4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TfZ-JdigfmI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=h9Zz4YCigR4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RosVqcHGffc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NJM9j45MO7A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YKfKXBTSEMY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zLp3SwXdB10
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vw75Em4ml4o
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NfWAn9A-Dvo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=e5udkH9LgFY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=u9ltLEWHd4w
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_oCU7FcOxO4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Hwu-DFT9mGA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hbdG-qEUruo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FGRf1rCc4S8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3DfWakVFk50
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4BaOLIvHzvw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=C1409Ja_H-E
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zXUJNwprKo0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MXs09YhrG1c
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=P1nl4NxfeBY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SSjyWWSPjrg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OLKbkOTWoPQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=D45sWgdguBA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=a1yiJmJowzY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IvQrdcb70Xw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pbsMOwyksz8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JWltGSIKKkM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sHzfe4aaFIw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WWfV9vr9nZg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=EvmhquykYls
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qL3iZMBiqAA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sXr1vpesh9s
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=57s7P7I1aIs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ITGUNvr-ajA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VjLmlEfNpq4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zrUx1sEiJ78
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=g73rZ4jZUpY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-43fyTXClbQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lSpGZy7uoKM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IXesD3KrcrQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=V0Ge8odc5Xg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=m0g8Yr7f70A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OwQUiscjIeA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KUn1T1H3CLs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wB_lZ2luStE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Lsm3_NZaRsg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kAuw6hMN_MA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dhG7Cqlho2o
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WHjiDKgxywE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cZXRC7UHu5U
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=R2CksPW89-A
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Wm4IFyn1_mA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ink6Y8M7NvY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=50DacY-JS9c
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WPnKJWmOJdU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zQNdOkC_njE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FOVYtWtiBjo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lR9ZYoBbQx0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4owqq9fa2vE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OqR7zINAVTI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=EBFUUUenoOs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=AZETX2ki1RU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0bJ_-_yhz64
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Fo3IloBXUFU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=U2Q8lZD0GkA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c4fcrR7pYGs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=91bD1eE3hc0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QT31ynMNPZM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=x9LCarrqcqI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rORaJFtqfnw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ptaneH10SGs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Zv4iUbEGivA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FlMxVvqdzwE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uNkLBwEhHhg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xI1g7Lik0qo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eXNh3miueNs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zAi-pBcFHCQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=e05oBJYlbPk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mGUnYWhZZZg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bLh4hcyv1LY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2WKoRzhG2fo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wS1luENrtZU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=EQE6e_j2WJo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6q941pHPyLo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PClcaCOegBw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=phCa9AEUdtQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Y9qagECXQ5Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wHCvkMjqolE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lAAYtTc0wUM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=x2V2aiexSr0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6wIKIVqp4ko
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LKCm4inHH-Y
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ktHZvW1f1QY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=t0o3VStuLgw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=o8VWvp3JmT0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=L4Bx7e9ULT8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=a0iaIyhceTY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MbiOEtO9sx8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hgcQNNPRUXM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=plTCXc6qDkY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WnnDFwfqr7M
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Q1TdFhDz4XM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=txssh4hxois
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=DlaMJkhvh1I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=D_hhz1PIA-g
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=o4yVN0TZ3D0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PZqAjnXIrpA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Jxs2H5pUgSs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HolMfZh7oXw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=anxmkw33T_8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HMh8J_dcjAw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=l_HrFPsERpQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=idQ-3WCvuGA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=v37N58mbwM4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=B7WfdsWTgJQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OUk1LBrp4aQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=V6AAU1BUSBc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=o15wUjb1R20
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rGUKp7MxhxQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Kiu7BJMUt5I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kYEFpyU5fVE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VTbV1rR_lJ4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4j63DUI5HwM
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pFdoNiI6Prk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2d1ecllGGU0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZKwnvkV_0rY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JtRBXYO_BJs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Xd7gtIau3lI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VhDejTgpr64
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lCKa2ZilkBE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QxaZWLIP_OA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kA_wlszMr7w
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2hmqI6eSBuQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=l9DSkfG9yxc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RgWbojgO3H4
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=r35UuSSkt_k
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Oyq0q3v9EYc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=80KldCXTz-Y
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c6u7cNi28mE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WS0ZzLQOQLc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hCGALNziWn8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qxvVYLjUM0U
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9r_9sT87lPU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zUent3SdaGc
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nRNPzs5BEAI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5fAOVWbKpiE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RcvDRoWlyJg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yZjQDFmq7JE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=B5oYwMBWGLw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oi-TtSqO5ZI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nC2S44xWGiQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NrlaJzEwjIE
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4TL210xpCCI
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=awJfeSQh6M0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FFJOBqhRrC8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2n0QEDbHIXw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Fv41sjUr3zQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xi4F8SkWDyY
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LBwpUwFbzYA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=I1Esec7Q3NA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=q-LeLCtO74I
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3y1E4seUoC8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Lmh82H7XE4M
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JrZP2XAJ56Q
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hZnBzebOlNg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UGxdRRQ_T1U
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7TlOLuY3_eo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=P_T-Df-pyFQ
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FD923KTFJ88
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YoQtL5ZRWDw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kL0JtqssfjU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IELWUAB8AL0
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eApWptkGLJo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qxEkX8KunbA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GVP-U3n3mww
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wmisFB7w4zo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=irgjkmmTBG8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MsyPpFg1z_U
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=t_LqwcRg2nA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lwd7mGvwM-U
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lyM8oTcnKOA
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c1frvOZw1Jo
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5aWzY1lxv80
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fzy_WWIrz9Y
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KAowDMdg3kk
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LJTSmRD_E3g
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ofzWNzOSAIs
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7XuM-xqpQPg
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ggOtA2SB9aw
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4o3sqxiJTJU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ax4NrkG-QRU
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c5lqWYHOFp8
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8FjQYmLu3-o
-tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=tep7KuAxxao
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Co4rSj54Tzk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SB6pMn4-svU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UW2zyHIcxno
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=W9gqu3tS-vw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3OWZELZoGeU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=f9Ie8OvjTTM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=21-bDBe0MDY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Hj9aEvh6_eo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RSOPK5eB4r4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7fKrzcM8Svg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qwDcnUa7Cgg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ccsJI5qYiVo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=d-l55o1QevI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0e28DjwJazg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4NwJAKkIC58
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zr_XMtDbb88
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Rns5AvHUAKs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ll6TZ0B3wyw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eq0FJmMzxtc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LyqdbgcVEIs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mrtPvmtkrP4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=D48MWmnokng
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aaT0poZFkhU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SfKvgTfGKzM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6KY6jtHdL3E
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=b3IGuZOmmCI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=STRlbUHheK0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7lrrDHiEluE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-db4nhR9iH0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=e-B2Um0uHSs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PCOsHRpD8co
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=F53wXcV8FAY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NI4xJOqaZvM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IiQYjlQotks
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MktHpdhH4iY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=tXh0kF_l7Bc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lW7qLf6ecKM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Q7B_u6IOZ_o
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nsJOYE-siOQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5jAlJxPzZMY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=R4MLDU4ZV34
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Yy_LvyTHRVU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OjnTHRYjn68
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3GdgsAf2bIk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=77wvErUWrDk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ezvcI1zyM1E
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=erjbP1fN0ps
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=czNB5FjfJbQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4EPwq21t2R0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FcfUf0XVZek
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZkHpU9-Mha4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=D8P5a9nlrnU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7r3HMhbjWWA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cpCtzxAWdlc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6Gzl2WTWPAg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lRIwY302USY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_lxtaqVCsho
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pmrsgoP5w8Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9ol7HJ-EsUo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZC2GgkQeLhc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IYiMltIzpPc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=25BXyUXIr90
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=S3gDqhYk8qs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7dWP5AcSSv4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SygBjTq7YAs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jxqTE-U3Q6k
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=G6s09ZduS7A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c8Is_Yr3bnE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nF73k7ROwcM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eaKHYeVW3f8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UBx8qZjVBlQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=DgN6coaTbWA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zXQ2E_l6f-A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KYap3EvTnno
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=poesCPnA82U
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hKzOb8V_Hvw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ax5epLzRntk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fxE27FyT3yg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-xqXWj4cqgE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eqAxUVboeqA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Jq7fbPUotvA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=S8F-AcjSwM0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8hYv02xPkFo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=tG8F52E5Dd8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6Ivjgah1FRY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PkkRZ8UHOLk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=S8-Ewo3yE8I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Mb_9ujpEIzg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dRjtk6ivKec
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1z2C8gGH4wM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=phQ85Pj9tPc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lfH1jUROkE0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wXGy-sMh_qE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xWZ7tJvGg8A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=N8JRw0mkAh4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=DqQA2A_kAIw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=68Pl9gIXEdg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FLo9J-hCWuU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LrJik5RJIwM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qI9Ey8fbIuk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=51NYXp_awpU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Nbdw5bFiiNs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gsqQp6aDyiM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LewU7laFS-o
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ul_zvs9Y84I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=deCw6YkPnDA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZajYtrqVuVo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=U910yIPOl8w
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9yLcA0Uk9W8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UuhfrTaP5j8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0ykG4POR5IQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2lE2xIKuaAc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1dpcLxBt2bA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lgw_m6IsCvY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5CTzL5GzvnI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TXOEeEaF2oQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PhgF_LpWz5g
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3qpQfok9bTQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZvW511zxNF4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=25xjlbMfWH4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nH1j-Bskzqg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SlBPjbuVTjc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=S8G-f_15bNs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oKlSsQgxFiE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ofpAMyqWh1c
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pM2uEqAs6BI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZXz7crXW0dE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wm6S6o7_Nmc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Z4REgKsHcWE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XqYpZIi6xDU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xOye9KRMWFU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JxGjDGWON-8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=avRd518e_2g
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CcpAAL0DX0A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vUd_8baXDUY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HPshbucn6-g
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2LkxYnQfs14
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6_BlVvbDI0k
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YBqKVV19dyk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-Ze8UOy2Bkw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xh37_Ou7Q30
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nt5aBFquT5Y
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xPhBhI3XbjY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-E5fbNbH1x4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c7syiRkDMsc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3bl-7_JvBoo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iumfEkHp9cY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zYXaCHgGnxk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_HdLMcWfKBs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=u6xp4nlQ2UY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qn59FwbeTDM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_2Dkw8Bb2v4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gmdt_f4UUzE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IjAAvxCqBfE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8QzjWF_ZsZU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NwQchglMqRg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=13NcsybvaLQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mV9i24SoC18
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=EPD2a0q9b2Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zvLVfXE30CY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XYHOec11yK8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-nAJSdp4T48
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=EgxZndcoVD8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5ELfvdDXuNw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=y-f83BziIBU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=k06_vB-pf-w
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ldqVgPudvEY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vzWvZmYl_dU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2sLmwRDQRPU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dpCvLBlwphc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BHpMQLCOwBU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OGlwL3G2Vqk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=M98s1GCURsg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cxCOBSFy7QQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Sc36sLXYy3M
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=A8oCh30maVQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TIubq303Cmo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=f9qEtAC9Q0I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=g0R8BBdtOAg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VZKNJ83AkQk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yVp4CoNoSw4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aP0HuZsC4EM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZpEwdyLPhJ8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=L-rf5ymHmM8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=58x5_Lfx4Ms
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=II0TuCUsYEk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bCK_xrbLvV8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4DMsltyvLRU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2AlQJ12bEdQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zalY2CCgEjM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rC5Odeg_k_k
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=R0ZlZN_FTk8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WClWS6UxJ88
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ETjt3xaUsJk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1KyKhnsPn60
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cOZuqo37GwM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=A7ghXOqRl6E
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rpjDb4D-0i4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ijz1z0Lf7Lc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eZgekR2mlKI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qMuFBBQJQU0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=s635uhh3sBc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KLFIwAyfcso
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=b8BqYjdVaC8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=upo9e766OKQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=V2QNyh2xpqA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=v4PD82xn8qQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vPdrUhc7jqw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LthgSrH1JB8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KtSntxzx3H0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VIx3EoYPVeM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-u45M42HrwQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GpQhEQs35fU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=a9TgUPOPyRU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TgdTx0z-eTY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IFB9fD8UfwY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=u8mvRiEkpDg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2pM9WdaHKYA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fbQDhBVARhA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=d0Im3NnwusA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=z3Zaz3PBRRE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HkgPi-Gh_aU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=t-RP1SDfEuQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wiu2pH41fIc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fOd8fpTBxpM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lLStLFh7nm4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Lk6Qv16KlR4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4Q95Jtb7_so
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CIk0VZQvPBs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qu6KywxSrgI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iDiFRXn6xpo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WNzhjwl1q7E
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_itXvXPXffg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=w1XcBeaAzv4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TSmCQVAq2io
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QKrJ0phXqvY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mr5Pg_77ucU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZolgQn-HqDs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8VxljDFB28Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pibf6615_3k
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=S_iFXqfiZo4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3X_U9bc3iy4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cUxV3cKCPgU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xEVznjIYiUk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9XTV3NbasDM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=abysSkPB3OQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WUy2aMnoLyA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=j6wu4VQGC4E
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=J66Z65XNHes
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=F8vILPziy6A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gbOUWc8oxIU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ovGsi97qYRg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hvWiLEBcXaE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ho23K3006TE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=C8xwMgPjaxc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=L5fyJLXkMrg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-hg7_Lb_1jA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=b6YG2UEHsIY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lQ6AZ_cKRKQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0joRNdK6xRE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ISJ5sYpF-w4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5N724AxKRmA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mhZu8srTKX0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Qtn4FJb9fd4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6iO18AVIVHA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7GK1qYs7kuM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NI5PZiJhyMU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dnfW2mXYRCY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5blX7YEOqyg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=f9hxM2RffD0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HTmfYBNPTQs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pngxOij6Ln0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=24z6Bkm3K1o
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SLJreRnNCas
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vMpkI9fybD8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=o7rzl-ual3k
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nvnHjf3cxOA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2jIFZ6TrD4o
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FMQBTchDZFQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=axCwn0L4Wy0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=b3bKBq-jCvo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HU9iYtGbulA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9-U9JuNnI9w
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uhYTivB6lSc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VVJuhqeF4fM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PBhGeYoKp2o
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zolEjTlHVFs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Hy4l9dQ9zbs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NjMd9yGlp0s
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cijAzfDNvL8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kmihTwITre4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sWnknL7Qu24
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XJO2oZBg6g8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fyMB0oTROi0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c5kzz0ulUJo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rK7aGIQWeS8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YqLxJz46l5Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3u9E-ZeFA1M
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8Gd987uIv1s
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=x0YSQbVbUwY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZRlMp86ugFU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ch-X_ri3wl0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RgkmjOXWkLQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cF2zxF8T-9M
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6ZuXFmHn0fE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sXziLY4j9sc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CeHB0gzTATA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VP_0zPjMQuM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vjP15mYoab4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=f788bhw8lkE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ynvy_oMQpBA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=G0NT47OOCfU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gpGXW1iHbcU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mbjwkL4P9yI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=DWcqFj7uts0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GoB9vPtVxwU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=AwDS0r4HcCE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZH5NT3esVUk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=o8Axmvsr0tY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=AhgJedzyL3c
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Tbj6GvXdrX0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZEya85UjUGU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Zt2VyvRgdik
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hrFW-Q9OGxg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=k50OpHiO5Jo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eXyF49bbUqM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=S47hu7dQLRE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cHiDA308KG4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KXGGClAv2rA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gPTRSrazJlc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rJ6vHstmoHM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=a_SwJ8wT6ic
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aBJp33cAXsw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0tbolRs_jE8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HvkgB_NjmWs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=r_op3kWuCdI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wz4UDdCagw4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jJctK0Zulwc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lclfR4Lc4nE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8hQ-AV8Q4Tw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lnj_JzMQo24
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PrxNVhDHfY0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MEGZnCB2Igw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ztDtL8By63s
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JtNIuI7fH4E
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-xAyiz2vt3A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OeP7f0NP91s
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=i0Mt6hxwM_I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qYZYlEaVMGk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XrmDT69787I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=65W11fY5mnc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kJgr45sYFSA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VzP6RfDAGjY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WB_j7ZvTfRg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=04RLQryKjNQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Fhxe0Hfg51Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Os5FzBqod_8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=64ibjEvenzI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8SbW1I7Bi3w
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=AKXOER68ibo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=az4E5xNtpCM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=R-UueGkb9TI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bpp5j_XSMFo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uIuB2_biOVA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XgMP65_SD60
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KmFCF03GlLI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Wxh_Bzfbwg4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6bUZl9-tLNc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uaGBtXc2HNY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=knnBu7rnU5I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HiYKqj1pQI0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dkpxloJjBos
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WthfVYR8tAU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NL8UxKBXcCw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oxKunb9DHtc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3Ro9cpCHXSs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FMq1XQJMXXc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=G7Mk8803nn0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qb0F7jNkbMA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fPAvDuDmk4E
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zr7Ilzht7ps
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6XWPfCVxIII
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=go_R2PmVLQE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=q3hkIs2GUro
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=adjTrh3-giY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2DBN7BNS1Po
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=M6uNyRqz1BY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2MoNKUOeth0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Q8wrwQG_YbA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3FbMupH0DwA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5Muo_18G7bs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mH5_pMzWnJQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YyFUl1G8_DU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PKKCobeN6mo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-SC2uD0fe8k
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=szDkcT8B5bE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6DlmE_Igtw4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GloTuL41MYc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GfL8uJ8jyHc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XRwh8y0V7qs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pqGZc1FRLNM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_6beTthvA7E
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YNr5Th4Lk7k
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xVxAwKx17js
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZwUIW3z9jRQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=f7TgBCHZh2I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=my318iyi9QY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ou9IuNvVCcA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=deuSLBQXWuY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vBFz7r8HR7Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ka7r15LH2gQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=50WtgOUv7IU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cOAolnHf0Jw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fDRDycr-pI0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=I1rB-sedIvI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4Y1KCRdk_jg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hhYzPI40aXQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SA6EpWmRnt8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vu5RBrdxAoU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=X-ltHk61G1k
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hxvDnChrQFY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yvHf1wfQmDc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uZWywDAimIs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SR2ED0hIbJI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3FE5bavQCHA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JI4T6zVHGK8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XxsllNs2Yms
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dyMb4mk1ppk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wyOXOgbwxQk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6uohzfEOa9Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SRAwFOVhi7g
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=D9WgXesUTW8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=AllN782yI0k
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PLZARlEExYA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yPUQuzbn6HE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gSTHkCLTOxU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xrgl-Epovqs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5ERks1NnPpM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rtcUOrfuMV8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_icyvefH6R0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=muX7ydCpN8Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3ZU0y8vtwqQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MvoKpenBsTI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oTizM8xqq3k
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GfGtu5ss1GU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-Pmz8KfbwYs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZzPirTle1Bg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mB84vAMTrrc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4vufOQbrlMA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zTPpRC6SgXk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lKWZ3uEtCN8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SwEfHIm_KyY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ctAoDkoRZMg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jn71oUFp_Jc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9VMP6R5pqpE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NuP7_D37JnQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WLK7AJDW_A4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4Jd_6htn4FU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YiI6T5jGWDQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-cMDMfcldIA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UaP0wjTmewA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c6oYxh9qmXg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_ntyStd7V3M
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=EApTZQE4m4o
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YC1LubvbX2s
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZBgLxS3d138
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iQe0GkETWLw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Niw0RAG0at0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ah5Y6S-Jjhs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ybaXCykAGhI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=F-_I-jpaWq0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wtpcI5BGwi0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OZ1yf3hUA00
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MizcgHWbIPs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vsWgO9wjU-I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wHHvUMHxYjs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=n4CAfjq9u5Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HIq6MEamL3M
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LnEDBUk_kYw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JjWFFtQmpZM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FNK_AXLEeLA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=U-HF4SOoVQw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6V5wWhdbcx4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Eo5lYY9iMyY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HIBF1jZOlUk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vUNwo_NDY_E
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QuKEdbWQiDU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OXcvzvDEY5Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iQohwo0eK-I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iZaG1NsWVzE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ljYEVncemDA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7ZSBBYC2gAY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ICt6BHv7paM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8ve2lqY6X_A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7s-H_SeQHHc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8sSvQHcDuuk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=DiKHcAKmH5c
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=g8hOByS08ts
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nQ15U1sUfNU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=DbrIaehCFMM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GvrtVdp6Nlc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JhnsRbBjWNE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=locscb1ZkeE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Pu2-qRA8oHg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0EA6Pm93HXc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Zm4c1-eWxM0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=l2uPuuxznkc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8b_HPprStik
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MR1laL1SQxs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BLaYG8XjMRQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dIHSTRgQWyk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xB1IyKASZUo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cxRZCBwSj6E
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=opQLhvZqt8E
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mwgVOmp4rwM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YbGVe6bzqLM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lILVv65YSCU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LsJ78pwUtnY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_n2-vmqaY_U
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=j6u-WaTov3A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jFlfmFwvYFU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=onV8P3L3s9c
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vuF2hpJASPo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yGtSYU7BSYI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cez5rprkFVw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-jSkcZkXMTY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aXhV4MKqc0k
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gvh1vhx0wfM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JE4_bavwbSA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5RiPX-xT_VA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WkJbOTBOinQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Dw5iITcdGhk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QW6ylSOOrmQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XsyB_2y-HZw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TzLfnDYjy9c
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8BKE0G9mi3A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dyXzAm5Hc7I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MZ3oHwFQE4Y
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ejgT1ACQ-zA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uow84HjitBg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZuPo74Dt6MY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GOHpcbaxiBM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6zx8Tj8LsD8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XEXh2YFKS_k
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=C2yixaxDbpw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kO9WCFo27TA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BYQbrFmS3Po
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0WbjFeBBg38
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XVgRFzxqGrE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iUAOKsgtRRQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PSh-0nW-p84
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=V_9NolbgKPQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rYzNhbDId_M
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aKywZFu91R8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_LtHQTyOvWs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=twH5riTE6as
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=llg23B6eFPo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Jb0CGy7Z2hE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=w9r0dJ95mK0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UplpGaFL5Dg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2LzUaiS5B1g
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TjGTk6rfHH8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kk5W3juxkTA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KYF4QcBN7jM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xuvsb-wbEDE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=99xk9bclfxc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jtp2BzEaRnI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CPWoB4tTUYk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=V0RX3f9B_7Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=22h50Kdz0cM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xs2EPKXUsE0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=699Tmg3yz3c
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cbwcyDjZRqk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=i8iXgQ8llmg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=G7wvK-7MDFw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nrR1yzjCy4w
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pikeXbI7qoI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4JpMoF-Pwrw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BhOVzO7S0WQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=utgwEC-ZQEw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9KmYqigsmc8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=G8JHvLo9oqg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lMYN88Mbh-0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ij0QYiTu85Y
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Rwr82aJN82E
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Uz8wQA6P744
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=72oTyIOZZO8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=B3ktXnaKPUg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RuhF_LNLJZw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=j_VE2flgLC8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OkdWzJAENFU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lBWELu6GILo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=t2vYVjI0Oow
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SweXCAld1K8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0ZRoZaqeAzo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MQE39MQ8ZPY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=u8e8vc6yCk0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=D-bofUgkhc4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=a0xfFnjHjbA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=e2rw9P-_XTk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0IdVwuT9Lew
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1QCh4rW0IhU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GiUL--B275k
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1oaCpkJBGhc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=DTk3aXz_-eE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wuicz087d4g
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Q4U2cQLzbZ8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gs3aQ2RkgDs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_L_LmmGPaBo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UUfLDHH6qHs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zhlKnDQKS_Y
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6L3-k-8srSY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Jfzh5s5_VHE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6oyqADmnfcA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5E8nQkuXEzc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-ONJjHUER10
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eIsFy1nf3lw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mf9mgXvH3d0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Cw11TUE-U-E
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5WqQbnC4uYo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CsRwXsjL9ls
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VvCdhUdC_wQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HPbCIAL-vSM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gCRBHpZFFek
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GlNt90WMoc0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zsd05xfhRTg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hwicsnLGD_s
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=U0YxbMUy_C8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xIEP1f9e_dI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Tbf4GI9YBK0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Yx0bdqKgKdk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yk-X9wS55bA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=usTvbE6LoY8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kFcIF1BGe9I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=suLHLHiG74w
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Q1tzxepGnN8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=STD3b2dpAdQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zqbimoze31A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=O2LpSAxJpDk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lbaBxP_Xwa4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=f7x0-n0m1kk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Jse9boAjBdE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hI7WfuAK7JA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JlJfLT3JxSI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KSnLqKzpfKQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=w5FhHLGDoIs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Cg2WUM-NUFg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xJ8GZ_ZoEQ0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mWgLu4YtNvY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8s5Qzwcs6Fc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WBP4dUXZwIk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nkz0-Sln_VQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=REv_42-zP7c
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FImscfIHYhY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=en0TlQTry2Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6iUxDV_PYcs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YHBe6h1aL4M
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vUJPcCdNCKI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_YJl2eIYjGU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kZcYaXkcdBg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WwSQG8wix9Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=tLA-OPVhX8E
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vSplcmRWWg0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=X4euVzmj66Y
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=R0QGq-B11O8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cXXQlOrFGj8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Q852KFMeOLM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=l8ftMIezyKg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PlD55R6NvEA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zsFZbgHLrNo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yyKx1enY7m0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7o5yzIX1Xuo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RWaN3D7WlEM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XUl4lWPyFcc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0s-xC-3JCSU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8vdnf2Y9jsI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dNzMJCXlX8A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aKpVMp3NzSs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xXnxxLeinqI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pSruDo6cdIU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=i6I5-gIr6B4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vo3HjNPzHFg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CjRiNkiIhYw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c2nHSLMY8Hk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PK4WvEW07bc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HdJ1mMO8Vu4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UoqXSzVUR8c
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fuJLcQ3bwgE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jv4LYjd8OIo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WvZLAAuwdiE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TZrHXM70OYM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dwkgmV_n1Ok
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eabomGQzZrw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cyD08itlb0U
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=EQtFMsfR3J8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=F7cniXElB04
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=g_r3k8HFeEY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jLxwiO9XAZk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ffKHqc4Ps0A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QSFuoh1HT3g
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IJgvWWIjhck
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=M_YzKhHcVUg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jLTEQX0DPBg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ept98f8yOeo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sQ8uKcb_rSw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=buNf8ue_MHU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XCzEwvSHYrs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5R5BB9gAvdc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jIJjgibp0B8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lysaBLSCwXs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=APnU6Lel0Po
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UzV8ev9yZ84
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gXKxJ_PrtO4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=s2Wh1QO-7c4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Paof3sCit0A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=99bA3lnbtuQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jN3yIXsCtGs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9vHegL6ZNx4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0SicHzIEJOY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ulCXIThPxBM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Rm2Kz5kXbF4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=u0pKV4pu2Mw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CW0od_essPQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OH6lKudXNt8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6r1245oeebs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VX89c5jOTG8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5XqIYGDEGA4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aWLSwFsxqW4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=InSKkhXmo2g
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9hFwP82e8dA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=t4U3JfXww8o
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=11VbUs5GmxU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=80-gy5JW57U
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=x1igosBLrQs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Glua6kwhutc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=tyW3cUuGSbo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oDl_Q1PmVTo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bfY3hGCx6Zs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VIN30AXhm3Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=smJT35GlDBY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TGfMsTx9T6s
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1ZKb4ywe6Z0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9ASIWT4Zxmk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=D3pmyF79EKA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BgjNqD4yO9w
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OnoFqcV4hoY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dksokfnmzr4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4QoFbDys8F0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1Ir-b8mK5Co
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jrSfCeKvfys
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=og1r3otxjAk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=krrAs_-slkQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bM-wRJLCfV0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9jC0gyuYDtQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LVIV1eax1DY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8amsL1U3-AY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fFb4yT9ZOjU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pENzG9udFXg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BG1fAvo2aTY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mgREExF10W4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GBDTTZ39nqg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Tao2kQMk-88
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cM_MrLN347A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=M5f7KuvHtWU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-GZo4jNIsGM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7Uc6fGE9wo4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ehFH1qQpPCU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9SjZWD_IB7M
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FR9ByeL7YCk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vFh5LH88ryI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Rw18Cn3Frqg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Xv5ZRW3vTng
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3OFqH13RScU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qbMDHSMDKeM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=z8cHnDglC20
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qLEygzY6byg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=J1E0gehea_w
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=frdKOXa1ZjQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UhbcQJZygTE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ijj0m5JLpQ0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9wAyMxRfftQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oJmQsQAzGxc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MKtsIPaUPp0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WbyuKVOBsQk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Tu4Se04GxM8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fSiKRWUrMog
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ULA4ERJ-hAg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6pCP4WZILpo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VGNokdoD2-4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nPeW_30bFqo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gtS1T6iVrtE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FhxTW304qkQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wydDhM0k-jY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fzxjXIOrLR4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rq8G78JBw78
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nVv61e1w84k
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dksrzirEtwM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VazLGq8DDzg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=w2rnE5xfKFE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZhY6aN97Ts4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uU2T6y8QqfE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rBVENoJnCdo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VzTbQHgwZ4w
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TJeAF4sNsvg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rQMt0W_LxsU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=G06Vs57WG3M
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sIOOLXCRgNI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LjDiZnG8F0M
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=k5S4LJ1Diu0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ob3whhG_HHU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8um7eNj6D5E
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TLkTPnXNYZU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bcqzttrgf7g
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=61Or6Q2pdEE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Oq_9Lnw1MqM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zE5Gy-hpiXc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=s43ADiz9K_U
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wAstMtIs6N0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VwY2DKxwEcc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eVVPEIHA_6A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jv0jzINffDU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5GbwxkWUKAY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ktzly4G2924
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qtJtBBCwsAQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5w9CuCwv1R8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sQ98TWStt2E
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fKifnD1H9Jg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ElOrlDg3BPk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1vvoLojNg4o
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kSrpODc4VIc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=n4qijo8E0O4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=G7St9i8aU5Y
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7GgzJ3Kj1pI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=f5JNdKjxWJE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8ctJaCKejbg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=y9_U4GBT3TY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hOcMKElfci0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cB2F06cG_Nw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GHdWJnqClOc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iUWjkGzEDO0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WgXLNObv55o
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LPrSWtXuTv0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fTFdL_Fh-n8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=a4vH8xWyqZQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vfVuTXSvEqY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vgIw48kbYUM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7nn0S4B-o5g
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UufGagmRzGg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Sl4oJrP04zA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=afcL4vi0syU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RwnZ6Ty6Ux8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CRyiT9-ZBbQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BH0bwbKobZ0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=e7n8SPzeJjs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pyXN8d-INxQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gtezgsEu7W8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=t-HFLEIw77Y
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HkLQVIJyL2U
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=tlRCWzLdJoQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-rtMJTcDYY0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eoj5rxTYVK4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nA5b512eB68
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=C_7n2ofMfoo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8-hCAmcA72I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SX91ABT-gns
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1NCP1ZD6B5o
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QEVHr3szUKo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sYUX1IHsbB0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=041t639YYGc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1NGz0k5N1gY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=76lodF-M8Fw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uEvTgo2Wo_c
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NNslj68ZhyE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jJTAuVytoDc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NQzqbGSwvtQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YF0ltgNE02A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=36FQuZAU1L4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5CrJ06rZiUs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PgQUHXckyrU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZPAQrycQMIA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=j7zlUd6JK18
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=m1LZIauZJBU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2RP5bukygic
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BBGtLshBUnU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4PZDvRrwnOg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GRj7wAOWNWI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=k4uRX8i5fx8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mcvi3luUpHQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-nkCYr71Lk4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ScJSiL02FMM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=AyiKlOfY9_U
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1Ad2NbZGTWY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ek1NWMaXGAQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OlABXC8_ik8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MkevIdQWSDs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=X3emGZTnpPw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oxik_yjxoN0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9yh1uuc-2_I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=1dKPUaw39kg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=gby3_waWPUU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bDCUlcE-Qc0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HF1WIRfEETU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0WJSjAd5rPk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=j0qmzNvtgQ8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8vIoC-LY9x8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3FZMXQiQ-TE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BH7SshoMtCg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OUu7uFK-tM0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QocPjVZ9aiI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iDfvcxoJChI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=opcELRYutd8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8w4l0S1LUpU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=tfgljP3JP0M
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=k4xGCa860aI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=V1pYG-sdAKk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=S9GsC4rnXwc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rKSKkULjqbQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KLr3H4rqi9g
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2VMJCnc1cZM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oJ6XgLhaVJs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7HTW43tasEs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sroOib1t5y0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3EKfF7agVkw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zqDPn1l59v0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=f0MlM_auzPM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yPOZWEmO1JU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=L4x7WkF__Y8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oscRVgLMATw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pSVRP92JzvI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Bfdltv87anA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mSzs9pkqqEw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CKR4GYcLZh0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=AY_gVIvwt_8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MlUtzulaWA0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8s9rwIffoEY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=egXa_J_j2iU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rAqMmP2qLK0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cEHsBsyQ_RM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eLnfBn9WblI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lBA-Bc4vGvc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3wMn1h6YXCE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9NoGNRk7jUY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-mMiV7vByVc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HdAmA9N9XQM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MlckFx-ebQw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VJ4zf_JNweE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=--Qdh1iHOaM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UApB2xodi6g
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=J7_JbinZBjk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RbZ4FklnwyM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rMJWK0R-HnY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c9SdjmQ_SUY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PB9TQ4H1gkk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_hv8dxBEqCw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3QjPOpIXQXY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4yzYdvVYLr0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OeOraO9hZek
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xUU0RsmqCFM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9liA2Udvo9M
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=u6VZm7tlXNw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=tBlsTzbmcIs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Wfvc6VjJaQU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NzzLUnv-XCk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QxXhMeKkL_U
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yHsnDrSDRto
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aiJLY5R4ScI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4TxbZ22UM_o
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IjOmr4aKBUA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=X1G-x4aXUeY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Lm2tkacl9NM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XQfpitYC0-g
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QhuK93CUX4g
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9R7oJbqRORo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OBpEtPmwYTs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=W43z9Vm8HfI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NEsThyXP1k0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=O7bd_1pCI9g
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yTefUwaSfuc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UvDnqCPkY6A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=koT301cVYyI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=65r2c_ZIsKg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=swSRQy6-rcc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RT4KkA20PvE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8VSVE-KQZyU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aL85fevCmeo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jywcCX-NA_k
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=McMS560edxc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VfrN22PUNSI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4aPXy_JBBmY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=U7-mS8olJqk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VCphnEP28M4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4daYXHB-QfU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kgaSasERyJU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ceFWSEW8njE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=A6fUrBIwjts
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SbGcmQ-5fb0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ovcDgDKJ38M
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=noU46iYSOts
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=XfkNJAHlP9Y
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qTVYKNmk-uo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8pyFsGdrTmg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=C-3dHxJ--YU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2X5DPKmzN38
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IX27Zr3j06I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=G8rQweZC6Pw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TVnbb34gtc8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jpVPsssamG8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0RImqEDyLIw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9fNHJcBx6co
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uNUGL-5cqKI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=41uaF4x8bNI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=P1xmmNmabxk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Xc_6jvllc8Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2e1hEkg0V2U
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HFlzzZKKjRA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8MpdtOq14sI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LU3CmExisSY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hTwip3-BxQA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xs9IdDElbKk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cIeL95VQozQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=e2XBY8-nwR4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rFDW9chKnU8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iBo8k2o6YQY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=stLr6RD2oL8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xmEK9xfnlLw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4yPkX97Y2Xs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lGipejSENOk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YuA6p214eKs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=M-ec7eMk3Fs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ALKb05-YL44
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iy5ZEZv5Fq0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MU1N-AYyz1M
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xlo7qU1fUT0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qW7sOVFFQkI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=BUxvUx3GZrY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bIQTKo9qdMU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=m2EqDdlRQ2A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cDSpcuf5298
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kkmNRUEuF_Y
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dKWQZw2aQIc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WTgP49ZIe7Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=jbleIHK_l-M
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ah4WRfRJ3dw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bXZs36-nkaA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cWWrvT5S3A4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Fr6wixCtyns
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JYLz7gaOeTs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6ZrHONfRlTQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wJTFH6Cff9A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-KmykkN_OJk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=T1SF2WrKEKc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yZukx-JKipc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FupYEwYxCCY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Y8eWw4JdLIo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qtUjKJS5F-Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=u03npZRtEa8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8knYRB6ZxXk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cGoEO1U3QJA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=avpC__o1R5U
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bknC6jAL9nQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OAehfKB8Kq8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4-QlF9erhyk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vS7MgGYvfs8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dIphVzJg-t8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nBkstSI49UQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NvV02NCXE1o
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ShnFetHGE2Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_VfgmyWAEPo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=n6ZCZljAxtg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6gDFt_dEebA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YikinnJBcGg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7AAEAZ_mf_8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4Yyzp7YyvNk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iAtkAy2CLm8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=am6rf2MvHII
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RjVF8GXg0T0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qs1KkTTXNrw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qRFXcl8odoY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-spnw5yGnZo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bldHKS-dhF0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IRAO_52nxMo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YTxSSSJd0rc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Xc_VAgNsXgo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2RILPKUEBdo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6himabK_ckc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rdKBLkdNcgg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=y-krDUkLrRE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6WbaSMMBr-A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=K2-Ua05eLWA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7DUWz2NpDzA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=waaHKfvJ4DA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NJWqsE4QET0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fETMYJLWGos
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UNHhcJPm7kU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vbkNQi27jao
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=aR50Aszie8I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7K49BjRACX0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9JHMj5xiPF4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ftppdfZG_kE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=iM6tiJrpQWk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YWVU82vAx8A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=u66BX7aJ-3s
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LBAwLrOFvFI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xFw3FObhuwQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lOqS_VdGDOo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=X1FgIPyxKUY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PppkoVVxcG0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OX2-rk0OK6Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OL9fM479-yE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=H29odTvuQWc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YQLxQOQgZXw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7B91-3-g1Ic
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VPPZS2TR9vs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=711GCMmjPx0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0-VM_FJ_XpA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=CUTSJKsD5Vo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=l4uAe8NpCF8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qTx_7wHAty8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pDE2dNQntN8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=82kaOPsW9Zc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5joN1CHCTR4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=TfZ-JdigfmI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=h9Zz4YCigR4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RosVqcHGffc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NJM9j45MO7A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YKfKXBTSEMY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zLp3SwXdB10
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=vw75Em4ml4o
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NfWAn9A-Dvo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=e5udkH9LgFY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=u9ltLEWHd4w
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=_oCU7FcOxO4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Hwu-DFT9mGA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hbdG-qEUruo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FGRf1rCc4S8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3DfWakVFk50
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4BaOLIvHzvw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=C1409Ja_H-E
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zXUJNwprKo0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MXs09YhrG1c
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=P1nl4NxfeBY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=SSjyWWSPjrg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OLKbkOTWoPQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=D45sWgdguBA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=a1yiJmJowzY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IvQrdcb70Xw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pbsMOwyksz8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JWltGSIKKkM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sHzfe4aaFIw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WWfV9vr9nZg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=EvmhquykYls
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qL3iZMBiqAA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=sXr1vpesh9s
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=57s7P7I1aIs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ITGUNvr-ajA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VjLmlEfNpq4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zrUx1sEiJ78
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=g73rZ4jZUpY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=-43fyTXClbQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lSpGZy7uoKM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IXesD3KrcrQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=V0Ge8odc5Xg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=m0g8Yr7f70A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OwQUiscjIeA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KUn1T1H3CLs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wB_lZ2luStE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Lsm3_NZaRsg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kAuw6hMN_MA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=dhG7Cqlho2o
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WHjiDKgxywE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=cZXRC7UHu5U
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=R2CksPW89-A
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Wm4IFyn1_mA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ink6Y8M7NvY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=50DacY-JS9c
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WPnKJWmOJdU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zQNdOkC_njE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FOVYtWtiBjo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lR9ZYoBbQx0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4owqq9fa2vE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OqR7zINAVTI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=EBFUUUenoOs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=AZETX2ki1RU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=0bJ_-_yhz64
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Fo3IloBXUFU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=U2Q8lZD0GkA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c4fcrR7pYGs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=91bD1eE3hc0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QT31ynMNPZM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=x9LCarrqcqI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rORaJFtqfnw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ptaneH10SGs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Zv4iUbEGivA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FlMxVvqdzwE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=uNkLBwEhHhg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xI1g7Lik0qo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eXNh3miueNs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zAi-pBcFHCQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=e05oBJYlbPk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=mGUnYWhZZZg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=bLh4hcyv1LY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2WKoRzhG2fo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wS1luENrtZU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=EQE6e_j2WJo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6q941pHPyLo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PClcaCOegBw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=phCa9AEUdtQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Y9qagECXQ5Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wHCvkMjqolE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lAAYtTc0wUM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=x2V2aiexSr0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=6wIKIVqp4ko
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LKCm4inHH-Y
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ktHZvW1f1QY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=t0o3VStuLgw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=o8VWvp3JmT0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=L4Bx7e9ULT8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=a0iaIyhceTY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MbiOEtO9sx8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hgcQNNPRUXM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=plTCXc6qDkY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WnnDFwfqr7M
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Q1TdFhDz4XM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=txssh4hxois
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=DlaMJkhvh1I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=D_hhz1PIA-g
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=o4yVN0TZ3D0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=PZqAjnXIrpA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Jxs2H5pUgSs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HolMfZh7oXw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=anxmkw33T_8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=HMh8J_dcjAw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=l_HrFPsERpQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=idQ-3WCvuGA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=v37N58mbwM4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=B7WfdsWTgJQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=OUk1LBrp4aQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=V6AAU1BUSBc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=o15wUjb1R20
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=rGUKp7MxhxQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Kiu7BJMUt5I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kYEFpyU5fVE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VTbV1rR_lJ4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4j63DUI5HwM
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=pFdoNiI6Prk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2d1ecllGGU0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ZKwnvkV_0rY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JtRBXYO_BJs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Xd7gtIau3lI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=VhDejTgpr64
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lCKa2ZilkBE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=QxaZWLIP_OA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kA_wlszMr7w
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2hmqI6eSBuQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=l9DSkfG9yxc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RgWbojgO3H4
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=r35UuSSkt_k
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Oyq0q3v9EYc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=80KldCXTz-Y
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c6u7cNi28mE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=WS0ZzLQOQLc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hCGALNziWn8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qxvVYLjUM0U
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=9r_9sT87lPU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=zUent3SdaGc
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nRNPzs5BEAI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5fAOVWbKpiE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=RcvDRoWlyJg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=yZjQDFmq7JE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=B5oYwMBWGLw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=oi-TtSqO5ZI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=nC2S44xWGiQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=NrlaJzEwjIE
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4TL210xpCCI
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=awJfeSQh6M0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FFJOBqhRrC8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=2n0QEDbHIXw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Fv41sjUr3zQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=xi4F8SkWDyY
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LBwpUwFbzYA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=I1Esec7Q3NA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=q-LeLCtO74I
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=3y1E4seUoC8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Lmh82H7XE4M
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=JrZP2XAJ56Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=hZnBzebOlNg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=UGxdRRQ_T1U
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7TlOLuY3_eo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=P_T-Df-pyFQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=FD923KTFJ88
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=YoQtL5ZRWDw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=kL0JtqssfjU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=IELWUAB8AL0
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=eApWptkGLJo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=qxEkX8KunbA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=GVP-U3n3mww
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=wmisFB7w4zo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=irgjkmmTBG8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=MsyPpFg1z_U
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=t_LqwcRg2nA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lwd7mGvwM-U
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=lyM8oTcnKOA
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c1frvOZw1Jo
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=5aWzY1lxv80
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=fzy_WWIrz9Y
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=KAowDMdg3kk
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=LJTSmRD_E3g
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ofzWNzOSAIs
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=7XuM-xqpQPg
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=ggOtA2SB9aw
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=4o3sqxiJTJU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=Ax4NrkG-QRU
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=c5lqWYHOFp8
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=8FjQYmLu3-o
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers https://www.youtube.com/watch?v=tep7KuAxxao
