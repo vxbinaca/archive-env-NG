@@ -73,7 +73,6 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:speedpaintingvi
 python3.7 -m tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/channel/UCj1WyLpmoOg5jLIpy84Hh3Q
 python3.7 -m tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/channel/UCl6fNuEqKGfoqYx7RD5Oetw
 python3.7 -m tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/channel/UCm4XydWWbwLcsJG-sPzP6pw
-python3.7 -m tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/channel/UCmjoe5FPpkHYJaS46v5ZDgg
 python3.7 -m tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/channel/UCmkAl83Ag33sLsjsEtf8sOg
 python3.7 -m tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/channel/UCnHQyZvrzLeNtD850cVs2-Q
 python3.7 -m tubeup --use-download-archive --metadata=collection:speedpaintingvids http://youtube.com/channel/UCnljldgOkioHy_EYqdHX-eA
