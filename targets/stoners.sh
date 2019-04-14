@@ -186,4 +186,3 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http
 python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/urbanremo
 python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/vandra420
 python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/user/x0chi3ww
-~                                                                                                               
