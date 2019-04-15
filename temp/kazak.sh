@@ -1,2757 +1,764 @@
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ep048NtA3ts
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VR5WPDQDio8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fBcAKEWfnZA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=T895CySU0JM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JX9xURBB5Oo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KU5sEvGuAPw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NcBTinBFekA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=z7dy_JjIvvk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fYQRFdyeLRM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=y2zZkIT3Uys
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZQtlX5FsW-4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ih3yG6ZjpXo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OFQMMtkoZhc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5sLMu7b3XSA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EkK9kNQE0_E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TA3UV4vhzZM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Z1JpTQ6TWyA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=p6AlJUEIVMU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UqfWQDZ4NM4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TdXUj-ebVZ8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HRkQ5mnx8vU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4NIYP8QrzmY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=R-Sw7IMoc24
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=j96-o3a4bKc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NbbP2YIn9JQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BWvQ3aKfZ-s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QG9Zg_UoVM4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LG9NEEqpp40
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=q3nWbf5DVWs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Tmkx5dB_r1k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZG8yvJ5_qnw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PaC3ZOGjEEc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4IS5ZYUKF3I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=iZDSJOiCkTQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=d4tGt32FfQY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8Uf4h_zZXcQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Vb9UhPZ2144
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uSiH1-PDtvY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_NKWULnzeFI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Uwzk1vBw9b8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=F5nt2JI3bFg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gdCiYoivxY8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KtQ1WAGFisI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=m7JyYGd6puU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4yHIy3ngwFA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=X2tj3DNg2_0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TNDW3phWAW4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=txDbVlmbYDk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lzUE7AxotJ0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PGOMtVjOU-M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LyS1X5nblUw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yAYOYwLyas8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oeuFoIFLG4U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aEOKKhJPpDo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Z_frOOFNsgw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2X68jrU6aL0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=boehrjAVLvQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HgXweRMmZA4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8p4klKmN410
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jocmRtw9ktc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=h7iWHqdU8T0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Fxw-MSEDjaE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=guPfCRBsI3I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hLsd-3Gz6u0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eNCJr4hsmGU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hpZwlpC-wBU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7uZYTl4upGw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=z7AxdrZ6qL4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cB9tT5GwuyU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pWTIqgXOgkY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=icoYCyhsGEE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qYkxE7IGp88
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ck3BjhF6o8U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5tyOzW8kzDE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Rkn_8POicqs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5r76zAiMA9Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JjeCOxTWUyE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PpGnUX6EOfk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WbWG5CrkxQ8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FV8iwsb2i1Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ufSDCXgxeY0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=G7fS4ZXwZ1U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=r6LwLTqxJaM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6hgHSARihpI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Rkwv74UXHPs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XHUQzTfAMjA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=g7bbD863MnA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EKosamuDROo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=B8_MVaTMoL0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Q2v9Xxur2Bo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PiKApixjfks
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1s3doFd5Ud8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AYzhIb1kXOc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FcnvKzQfNJY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Tr9MfXbAtck
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wJ9ev4_BDXY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lMfuTgHHDUM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=k_HyksDXYpo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jY8e0KhKlVU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PXIzTmMCqvQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EgQU_6lS60w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6WQAtlczYfo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kxiTs9qAuHg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yt4vpbGef-U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dmNHEnCEe2Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sw-qZI4FpHM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WwBbRUUGMgA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wU4MJg9B_uQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tpewYDZS9zk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=o934UIka9gg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=w2Oxy5Yt1aE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DoH2OnZTG34
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=W9RzUgyiAOs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kNBoQjvCdS8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VODtJdVjw_k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EClSuak3au4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OSHAwvqGb94
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bqRI8lNyU0w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2tWoKXY94p0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LZTGdE0X3LM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6niLjesSpcA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pSafhBQDR0g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Cf3rrTzRgtY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eq-NHmHGCL4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lzN5g9L0f1A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=avs2ueH5ThM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LvVroyJSPQ8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OAx6F30vt0k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cnqknpPmXvE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4kU3prFqD8s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=097dEZrNsjQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZOtOrWK7zGE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HdWOZKoUMb8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Vhth-mWDGpY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TFzldoKaoT8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Z5lU-UOpr7E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=v42BkE-ltLs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QdP8ePyocMQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XQmZ6GXhuFk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_7kn56mLqtg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BrdE47StRaw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FnLd2IhpFy4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hBwB-5co1yk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Jz35XpdrgcU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9Ob4KIyCVBk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8Lfj_h1ZoM0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tjXEuB0dUS8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TkMOW4EeL5c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=n3WefKoVhCc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IhnBsJcngAc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=33EjBE2KgDY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GPya0PYOUr0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rLLvWiW43Ts
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=B0GbSwAHOMo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yJZ5pzCjtJs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=80DIh7O29hQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=V7A7mLynbyw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=J_a0m6BKGgg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nqmj3VhGQqw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nTqkF7HltV0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RHJHvhEZ54k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MBmYCkeJsk0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vHMLub4DGfY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5tRsrgduAhE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KgFDxnJ0iUY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lHKLnHxoP3c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Q4KP76SXK4A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JCBWt5TD_uU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=usQdGIXjm5k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KCoc4yo0-vI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8wzL5EVHcfo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wRPdFD5SgDs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tNt6KDJRfJs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=iJTzQHjXpXY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UGmGnIVhhO4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZkUVFrPBHu8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eO2NkY7Y5Go
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jz9jRpvniiA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=t25h2BkECsU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3ihpXHhQQlY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xwzF55p0m7M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lFbvdawl0_U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kfilV026JIw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=I4j1iaK3aYo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4hUUb7ioFxs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LNm2fupZlsU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vUJi1wfVPxU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oT-HXNNJAo0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ysVjlZ_Z8TY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7sfq-5mkfiw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Q7Od5O0W16o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3LQKI2LbniI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=b0a2dfCNu-U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GZSpzdqtG3k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=y0IekZpep18
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hGuEQZTUrcY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=63Lujt6Jy5Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VZA6gaDshJY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=P78CV2Li2yo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HqGAHEBb5b0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-pss6R6g8uA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZahSLJXDXU0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mFaZuREU9BE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VBd0jnwHaBM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=g-UBT3puqwA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Vio8VM_Hz0o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=z-n-EGFa9A0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8wJzyJnyg6o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bvuAtDA5usY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EG5RMsjGE9c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aco8V7GdYWc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gkUlpUjJcj8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kovaMZEXWYg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=imba8966U6I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3qJPQT1F3FY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cIb6XwnHtXc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Rfl9C6F-Kgs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tl2eC4MHKzk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oLVfbRulfrA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fJwGKLcG518
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2hu9k_eflpA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6HBZZITH_Hc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sLlDOw1R7VE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=z4pWi-PF8D8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oy4wf4utz6o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rCoEEmgnmMc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oGs__HdON2c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=68uM0jAfzl0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_XiMDwI2M-4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=anXqKVk1Msw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OwAE6lqRo7A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JhqHQQlttbU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zRao0L57pD0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aMr_ghsFekI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oUWwG2jiBPM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xy7udl2ahLM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VEqbfLdFyjY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2d3ieNSBwVI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=c3G3_Om_12s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QClYScwWl0c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uq7uZo8nMUY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=djcnABN8nz8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KyCR3RwYbKE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=as7jO_LFyfM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OUoLOjEmvK4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BvWXU7gD6-s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9v9ncJuB7iY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=i468AXAtXEs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6YlvLfP_HJU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JrSJcQ7AqRc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=j76aNa9HZQ4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Qf4tPwrwykw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hky08gLxADI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WerCl_l5nZM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=91PdkeFJBH0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Tt8v2T397xk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=e2CfvOr26e0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6PDYwAZXDFw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GufdkbMQQzA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yzT-2Veb1ew
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qG7YDOxs04Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Twb378fIQqY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=v7lbzFixESw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=29F9hR3k-Lg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nXh5d3IYBLw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0Xfi3ciYTvo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Rn5kCV39UMI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OUQC1An3NQ4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IJMhwlculpQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=P_2yFr2Kjp8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HEFVmf4kamo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=H5ZaoHHSsbw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=48EwoyREDj4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Rv3ZBklVBaY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cl8fDDFoAXg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QgSGvax2irg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=am4IQnfufWc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_jj24V_ZtpA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=73iZo85EVFc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YKj2I8M1uKo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9PqZkOy6cgI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zrEPvquMS2c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=__zVacy4rV4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hWgtn8uP54A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SHcIpbRnpi0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2qFk5bnJbWM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CFvfYphlMt0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EWUanHHwLgU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8CX7YvBSCm8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Cd8hwxbtj3Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=v-GrqkoxUNw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jgKm7asOZg0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oUH68pHl_C0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5i6MwmFqxRw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2ijaaFitEYA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FtLww2Blh7Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fdjDwomIrDc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BHPp7nrCA_A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Fj6XiAZROcI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jZ18y5c5YC8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6QZZwItJgEM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Mqzj5eO_TBk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WSlvcIwCK5g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=v1kvAsLHMaE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0si-8h7McPE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UAkMOYOuNBs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=n8_DlfKet6w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UPWYkF-LZ30
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DOuva1MS7Nk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NPwuGhEukGY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3-C8uJMD6fo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PJqdT3l-6hM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=foYkMLySJ2E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=X3sVdpfg-3M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=I-9YCCi70m4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=erYLmmDVAck
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pC6ZSFvIkK0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2Rh2bAC762I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AExzTUJiSzg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=c3qKpeg5SXE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-vzzHXOwPYs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=d8Qw72bdOwM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qXg2BJKwhDk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=A12pJ-Efsec
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=axWYLp5w9MI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=s3lhIVamaOc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HTxjK_lyjDk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vnU5SEDwuOU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pT0aoaRbt_c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8u93EHGylfg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Vet07Xe2NHc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1-KuiyJmiLw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=o2V95RtT_2s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9x3ztvuLcwk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ElaqiXcDekE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ThFpx8EaS_8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7VCxU9NBJXY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XMFbbQ2NWpg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Svu1ZpfP-E8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EV3AXVnZj0o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rN7DGDqk2nQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TFaWz7U_Akc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=J7GwnzpRMNQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=A78oiuoPrlY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0tRdoHg4rkA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=v7Z0qFxBhXo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0VYjson1BWo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sO7gjZJe6Lc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=n_h9CHhLTfQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UA32nOr0WHA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1HwwFWmdf4U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=odxm4UpN4PM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pYZA20nQ05k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8bB4B-U_h3g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xi6LB55GYz0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=i0j3ReXRJ6I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TLdiivwzb_s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=km1jM7ICXS0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dmW-QU24Imw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8yy7NpaYqMc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ObOh_lYPgvA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UZ0HAqAOPwA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=69BRcrFSTlY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tsf6caciOvI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0vGzvQ7Hj_c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=C3cqJS6bvAU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FdlA_y6TJbc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=r-9lUIR_Sto
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wA3u9tQS6oE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QTvWs9_6QGA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zh5Ww8cOdp8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RESvFmGw27E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=afI0cMtdoGw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_Yq9Y9P9JwA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=T4jRa66EXuk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=m3gFCt7EnC8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AaDACIcdrx8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bFZcJm5Kr24
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bMVHI2iqvTw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=W3U8ylOJYJA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lZWDgrY6D_s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RO5E1_aUiqg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=59ujxFVk1fU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LoPubPST0eI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=M8YJEufeADg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Xsx5IPzgSdo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KivT9CKSvWw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IxHZAsaAAMQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4wXrRcCf24I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8mStWhpevLo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8_EaiCdshX8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=D0-zMVtBlhs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=i8WqfWm6oyI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ypRvu4Se50U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5I1r03uYt_4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=THmj4netKus
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OcMJgMSi1vU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3hBKlUVXlxI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HACTPC_k-No
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FI-6A08VJK0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ExCTKRaqVjQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=l3RF-eRdpPE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8g86D3dJn1I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yS5lX6vuFNg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XaUJGToPFrA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cLJbk8n1HcU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ebtU0ApkXxU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=W1jZU8IHwYs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VsEdoCdXIyQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WvzlAwjtsK0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2tY1RvIKg-M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=K8Sh2TscWZ8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6RDt9T1U814
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ztKiSVA2hYs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=iTvH_EtFd6o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=h5h6Csf-wO8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vs55F4Ggq-Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Y6KDSnIpXV0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zqX7e0sYp3g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zqX7e0sYp3g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jVvcjVRXOsg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pHTc9Jmk5pE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ftUSx_jH4SI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0xr3OeNGYYY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=n0WhOvQNOLM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=64e3XfrUYok
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5iIyvpnTE20
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=m9Gk-rFkU6M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=StbeXL45am0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qN10JX-mQjQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PW2nX9J8M6g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MPbGJATlNx8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=B1_OhMeH3ck
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8kzdLM3L_CY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6CUMyccH9os
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZS_bDk6G8Mw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-O4cM7lfHxw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Yv5f8VtusHE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=g8FGqxUiSeE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rjL3oOwip2c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yGkPafY_KlU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SL2S6ChZ1TM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dpr1zTdhXzs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BuPBGfXg5lI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LuNHMRG9I8w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=W-5q_JzzeHU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0EZ4BX-75tg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=03DdWVpB5Kw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KzapBCwr_LM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wAIWiAdZ_mA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5s0SXuu78io
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=P6o9QEsYpvA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uGK_ZhAJqak
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=67aJaBwKYfE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XDBia9fzIaY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hGRxBKWw32I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sztLH4IK0D0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-xt6PP4WJVg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cynDR3wy9v8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=h-lmstEiA74
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LPp8EqRFZq4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IanUKI58y3g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YKFMRYlvHoE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=U3q0shtB_7M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xysAVLQikcw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KQ74rNvlJ8Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=himihXkPfKU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eg4F8J0Alkk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FcXifqYgX7k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=N1Mt6yvXJXU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DoNgIZQ2kBk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Bb7AaCMCBhQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DO0bPbbVuvM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bKKQU-8_L00
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uf2pF26OZHU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WBb9AtuaIrU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=n6jTV6UmNXI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ekxlAjzc0ZI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=R4sMZugdZAY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QR3J_L3l-sw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vtubYOtjOEg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zP4GUSSHk2Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rPhIUVL_Z80
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=L_pL_1KDM_g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=txcA_BiEp1w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FaJ6SxvZH38
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dIowGB4QcaI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1bI132QiM7I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YwDITmC5IL8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FzY6BcpD3AU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QRYgbf2RYNA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jiGPRb3nsyA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qIO929x_Pv4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UnXoz1QhNjE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DJtzren9ytQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4Q8I6AtUook
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XmdKkWKVlnk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oRF1nyh4QJc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RrNLmQW24OU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vjrHMirJa5s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wX0cLT80b7A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=elL-XDumzfo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gj-NMUhPzCs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oRDOAL5s15U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3IA_2AoDz2c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qfNGFQXwXb8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XxZYdsStN3k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PWc55Lkqbo4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BSUg5Lzlr9o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZraRFerbnAs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2SVcPl1pscg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jA4zA7FytxA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mSljONZo5nU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GpB1bEYHif4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_ixX429IoQA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qDam637_9a8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9SAx3ClOHgk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rKWM42JoFg8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=clC77NpqQFA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ls5XpuX9vMs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MGuYAfzvX_M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=agHy8FaX4y8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NKSX3qT2aiM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rFJ_8wqflCQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=e9Rs2GDWQkA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Q_0KllQrFT0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=c5OkB-MyhFc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YgbgqgvL2cI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=z05MvQgPnuY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vaO04f3nxS0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=P7OWM4a1TMg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eFujLtzWU_c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ek21O0joBFo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GHco_7AtNYU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tWMptD7tI9g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pqZSWT_oI_4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IxfvkCPl8Zw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZVOYm1WO4Do
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-luPeM7BjbU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PirQzCnR_sE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mmSx51UGwPA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ptzv80cFGf4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pxueBv4Dlh4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rhC0MVJFdNQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bWooi6VNoMo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qEYoykmeuIE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=G7TOb9Jfrik
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=j_0TZUmJtJI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JvPwDRxPPVM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NuRwBKahJHA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xMThQC2R_5w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EQVuC3CAqW4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6Hky0oFXPJs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-S9YESmyOWc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=X2soDeVR71M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ga9-uWJh4A8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dPoX56RQjmA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EU5Z5IFFc20
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PkgQaxSr7vE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZjCXjVbXBPk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ehp2lT-W7X4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=A_IshP7W4aw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=52j-OjodCO8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cN7cfTjVvxQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KLlqmeiaS8w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-DytzVJfu5I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=B1j4CYdTiOw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HPu7_5LsOso
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=W8uywefXu90
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=d7Aq9Mxs_jA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_5g_l2mIYa0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lqoglIR798s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2QR0pJSG2F4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=k4SWg_2CJ3A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eWi_GCU3Etg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=63-Br-8iymY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=R8gz96XIQys
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=r0vPYVfBUDE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yx4f4tmbFO8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uILPhi0AvLI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=l4Pv75WlDZE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3bNwmdT7YLo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=K-WaeV2Gwik
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EWeSKH0cm6M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_g_xu89MfHc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yQrwpKp1EFo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nq_rrcq1nDk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Nh41UfaY2Lg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qX6UkDN13oI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rj0JXd_toiM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zClADBcgeJo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eANekfiRYdA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ipQ9y1KF5So
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=P1-LUiTvfBI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kHowIZWzoWc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gkkwC2Rw4AU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CkqdhMQi-Ew
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Cm7vD72M524
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jctgbWZaslA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VtHsVG1r-gg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IZW6kC78T2Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Iu4w-0LP2ew
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aKWx6wW0kWE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GYOQhKXKXa8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=w3zPXJvrHyo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Oe9s4B95gcQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dN2sYuwqxbo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ssfGg83sWng
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=f43Lp8HlpJ0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Xvxp4lWwpd0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qak4ormoXGM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=j6L0lALyGxY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2b2oT0hGJSs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=M_O3e75DSmI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=X-33MQ16XIY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QX3IBxoIfXs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JhTxUWq_5AE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=iT1qcN64clk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OKkbNiqbhx4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XdZVaK3ZNLs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Fbz2XBAs6YM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uQYm3zWD_Ms
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lJeXDxl93G8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4TqrIVdVp5w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=iE77FP2FCgk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3C1JFKZq7YI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tphQ0MeoQR0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8CSYw7iwzmQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hR7gT7uLvDA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=U3PTs231NE8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=32SYIQE5izI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XRPQ_qXczis
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=iWCHZDvIIFw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WgdlPkLQHzA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0iHGOklvEBw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=iQovD8KJOmo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2qF5Ffn_zvg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7anFSL5t9Cs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QMhjYSDylDo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=iLQty0q-yDg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oGdi2as9kIQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AaMYpQyW7z8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1fPZ_QLA5xo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ahbuJQPnBIQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cZsdRlWD6sY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YwnYhgAg9kI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MoOnLeHkN0s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=glFcMjete98
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WYZ8NKjUTOI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7VlX6kJxC90
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=R8hUmkiAtM0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5tnUuCynmRw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oXUZBoITKMY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xB4_kc_hMpY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Jr2-HijiJG4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0UjgUBNdksE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QSFL3Ble8_M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HbzKx3o5vWQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0_DxqPn4P-M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=syYnCykMQmI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ev_-_c2UdS0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4FDiCc7Ll-4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TM31YZj6n5Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zSvxy6gYRjA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mD4VO18oZAU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4bBxwfC5T1c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=y7cQTdGAdeg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hzLrUFY7DgU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xu9VYHqg104
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4V8f4SwRu_U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zAyDMBRhPXE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1RgYd-Kaf_Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DxQMHsSvfxQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AfHlJ_pTzCo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Z5FXh305czM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xH-s_tXf8KU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VQhKL2O8eb0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KkdYY2gvxX4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=88xSmd50HgE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qVi8d5FIlWo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=08J9fcu8na4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TU9qHhgskFM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rF6Go4-WQ3M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8QsK0GpmZPE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=h7kFw0ppazo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=A75Vce0Hw0k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_25a-h7XBVU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7huzr1p7pMg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6w6XD5FlBJw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qya8wWLn6Tk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=29_oyFRVmNM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nLdqKGwkJVY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8Agg0PndqBU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BHsJV3fgPvc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ig5VzpSg_bo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vTtBaGK4eJ4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rAPQjQrB8_0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=q96tqnrW2IQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=om8KUgO3NBU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=18P0Pr2xFl4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZuOnykm22M8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=B1ryiSbDK28
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OBwv5vaInes
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=E92XOMuDSZI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MotMN5cCUi8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uD87-osnyx8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AS1kTQE7Aks
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VPUBdpslhSA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vl_XwcU4xpg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7GWA5cITFoc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5Z5a6h5Qk6s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=I3E7eIrAmbU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cxTSKoglc4E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VAoxxwToABA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zePAyscbtHQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ND6V5CYIkqU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_IhymHlK98U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=x2JqD4Sp4GU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vNU4Xt54s7w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XDEu4RVcBGg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mLcxacZKWbM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HfMo-dQERZc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5-QoilgzoJw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uedFXxuRsqI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2ld5WNBTVok
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Gv-NNBUXmoE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8VVbNARqf7s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WcVyGt0RZ2Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qKaasoVPRCM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aEL8su_N9Iw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ou14OP7F9nU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cixc00e-jGk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TCVDX3C472A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Lj0kod9zMb4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=huHiAqRciI4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Gb_c1AFWdkM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XEIMziiP7zU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=a0ocXoC_tqo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3-xxfndVU9E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WO_nNRSIHtY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mpJ4BNwVcyA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=j5lO4WwxQ-I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-MVQ7Wn7to4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Y0bwgg5IQSU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HLd6oHizb1M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8g--2UTLLtU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=t8U3b-6HoKc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bNs6HJ8PjZQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AHepFBDIWzo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Yvb3u9kyITY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TH8WyeJ6xeI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kR6P5DVNEnQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_yq5wbJjvuA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qBxNW8A_C40
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ujXG3ltsVgw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eudx0SrTvHc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fRL6-EZimLY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=djcL7Txp1rs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PEcxpzuGVv0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=C1aWrtDSX7M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hsmRoe-QgIA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UmdCA0kkC1g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QyRm07VooRg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=C9qQjYf-qac
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=J1nkLCph89o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=H-g3R6wNlfw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rv82VkdbTeI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=m3DH6xZAr8k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jV_SXVxlqkQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tjgplTkVcRA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JWAf670pDyA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jxLBP0pepHk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XbJQZuGQi_c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mcKwRJTB0bM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=K7alC5Tu9Z0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-Yv0vxe-mBw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nU81V_8FjHM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=z-q__LYNJOE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UWVIy2MKerk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fbhmf_r0oMc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Id4OvaXrCh4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9E7B2TL7kxs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dQwAC4xAgQk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oMu4Ne-aub8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=i8I9MGMcNFU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4eBenTUPjzI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=r1t34TwPVuA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nBQxU2dgNZ4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nu5H2wJ1EwE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=15pHC32m018
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=x4m2Dm8BMnM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=H5vdQlDGr9Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5lu232Lo3qk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Y5b4DlughEw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5M-cl2W3lWU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zP67-tCb15o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yH7EPk6LBAc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=c2WAq1UzcBY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TeXpPx232jc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DOnuqjZnO5U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qz4kxh0-m54
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wDPy2oFGPEU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2MO2GotHVN0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jbXbkXeLiSI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8CFmdFwx8kg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Jy0I9w_BnlU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AEvQnfPefHg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Yvk-tgbz1t0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=920hdrLAWYM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=w9XIvlJqYtM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=I0bhLIv3mKw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rG6M-f-8g7g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wwFgVAlmSO8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HomgX6UsmgM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lpX2KSLM-hE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_fAte2gUIbo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WawI7PPR7n0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FIpRdfhaiXk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Gdv23rPSK9c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=an5Oxz1-8rU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SMfD1vdhnco
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uDDd3SQMrpo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0DVgW03vjNc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YeKodmrbndA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CblcDftRPss
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4hruc06IWLU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FJtqNKe60_4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ND5urvcpJ7Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uH0g-wsvDcI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8cdlj-rMGOU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=n6HFI0vn2EQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eOxmb0rrCXs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pr1ZwP49rdg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-dUyn-oIzQ4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QlsuS_GBGcY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yN6smJ-XWsA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WJi0UFSmocc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rlVjoPIDZZc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=I45Bq4O-XLU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=08GsxfVkNDw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QUCC3AH0p_I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5rTcN7NCJDc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8DYe33gYnqo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GlgTS6mO3QQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9i98Kp4UW1s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=M7wDM54p0uM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0z7PBLEKVaE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WL8DGIgE6DM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9aYBbdzJHw0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1M5x_IbRckM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cPzh9bgy6kY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gWWEekjf11U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QorrNJHTv6s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EntPQLXVE5w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Shq6R_N1a44
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=thOOIKz-b4c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ydVIMPiyYZA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_g6k5BowqrM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yB9DFh-gAzg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=u5GvzczT3B4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=B6AgeyaeM70
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Rb83JZDcyrM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-VXbkZOtvxg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ELsSC-hUYxY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3uCMM08dQ_k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=C-ZJSm0cehU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=I2fm4yqEsSM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jojhi25qSXE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HOt1PE9KaAE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3qQO7_BMtUg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=v6d3FWIujD8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UeAHO0OUU-k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MrrrhuY1YEs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=V51yrJ-oSg8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-LIY4K6I8fc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bgWwoDIfWTM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KHq8m9nEWrU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=doMLWwFSbi8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mf1396-UKas
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aEvWKhRs-kE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ibS3ckSA3M4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=d-l2FMJYZeo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8Pfg7eVyg6Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=t6SIkPewD-s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qLGgDW12ZyI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_b0mhnGuOJY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Gzy3I4hm9MI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RAB2IascVcw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=L9-THZNmxKQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2cKnL1ev86E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8aaAdb_62Jw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ERCZIb6-BZg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8xpDPgS4l3M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yEx12n9JCjQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pHJuacL6QZc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TrsoaWKmdYM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yOFKzVOts48
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FF_servP6WE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dRprP5sNkIo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=99x3F1FhYbU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fSuwa8qRf1g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OtzjQNKUq8s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Pt_XG5gQbDE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=X9LC5o39O58
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cYJGk9OtUpQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=v9Ha9_LatOM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=68CpIvD_0j0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Tn95lVYzYqE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aJcAIgneeKY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_7BnPp2gI0I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GY_rdjVahyg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qX8F6s2qXQA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ohrmi28Vxic
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5LVGqIaVgTA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2tobciPzptI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=g3s6k6logaU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lWW03M8VAPA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KLhQR0dYY0o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-E1s_f8wuqA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2zhYWEU_sJA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=q1qQkaT34K4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VmlbBVVjr58
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GKQ7Gl3Bauo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ERulvEWNuT8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DFqe5YXh1EY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XeIEhKmwnFE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ddn0wSEAkug
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wOgIQxA0g-U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EWH0U0uucg4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AHj7mM7CnMM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ud1zMM_MpoI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HIRnkYliMao
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sd1rIS5TFAU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zJCFhcAyiLg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TYt8HtPO_DU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kfPG_no3mWw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4nWnZajwZPU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uwiVe87GyE8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=D154zIsgAY4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AlV2YR4WHao
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=E6uFETzATe0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tBScbWDg6Ok
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cL2uiv8p5os
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UC_-RaK_dE0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vD-VnS1_dFQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wyQwzWyUexM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jvTbXn5IiLw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eXCN4yz8PE0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BgbruQLlO0k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JtnSTZ6oDxA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_2-3IdVh-bk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=akc0ZhF8f9Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pyOCDCbWa0E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TbqNxsDJxMo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KuMoEE62zCM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=p8rVTEStmY8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Jqj6lUWxNKc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=J77p_LJ5vkE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9TOBJgMGtPM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pHQXQuQRc1w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=X4AUmmrLLLo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LaguJvQZYAA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pRT2ZLsCX3c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zmzjPOrSQck
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VE91YlFEIUQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5M8hTWfiWwQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LDKBww1GNRw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ceAQx_gquxY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ix6CWvRUk-s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dg9lmEhjF0c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wjkG0ZZDjcA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GXTlDnkvjtI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dp56BCoLNG4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-IqqLboImRU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Qa2KhQx_Bks
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=A9DiZM9q99w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0YbRNtO22Aw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FvbFttOMgvA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vI4OG-IcfR4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Zvp5d9a53Lg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HtLTJ8T4ON8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wXQmwfKeCuE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kem5I7-87cw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4Y9uVQWjxf4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DUyaeHvhwJs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AzNMRqG_hHo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=asS9iTxMD0o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SAVu1cAQues
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vXE1Vy92WLA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tTUCgOx_Mfo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KUYOT9DA2qs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7WB2dFjJu3o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qCWbakv6fCY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=07J8o8rxMTY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_S_Kj7vgic8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LgBwTL5QuW0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=D-nzdyQ5psQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Hu2ASOFJwq4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pzIqoTofyVY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OgvI7xEaltM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=t8Ww4UYO-7g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Djh2OLhacdY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gQh7GflxzRA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=g-Xp0-zuNo4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AhH4FySx_D8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=y_r-cgsRobE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=82of5Q8HgQw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tZkLkI2Sd-o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cUSn5RkrSrg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=m7QmdR58ox8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gUduK_6xmTI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MqJjcJfhkeA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9c5Frb026jM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OzMqROjgYOM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eYxkNx3z918
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8krE4QoFLec
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=E0AuMoVkhbM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=O5cRMxGZHdE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jXMvGzN7nCY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mM5tQs6KZtM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=R4Sab4MXTf4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=P2N4eGzkOvU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=a4rHCtBCm8g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GecB6kVApW8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BdNYRelnbUE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CasKJuGKDVY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3KbYJxDayUY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8VP8nAL4lPU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Q--6azNTt10
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TtaXiFF9zIY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fa-xfLZdNno
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uZ4qOekKv5o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=d-FlJ3jf6AM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ivoGmakFTdE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=R9R1P2MKtIQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3wn2zHrGV74
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7gcvJ-rrX0E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uF6EuKyzSj4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5AqGkpriTEI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cs97emsYj88
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QnkRDptGvSE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eZkODAGZnbc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tUChF-gQlrk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ujl5sk2Q2EU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TA71pvcZzvE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ert0PTVr49Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gmR1E9O-PEQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VnnCWzelfQk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Is6YqgRNFVo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZsG3AaJ-NdI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MN0qoM0qziw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZK4hPt07q28
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=P7Okhp88QiI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9s6CWgr7Cq0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=g7qtXjI2r2I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MU_egGPEcfk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mF3ukPRyxhw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jRqP2uA-yo0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RerxuQs4tOc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Rqf8u1fc0Cs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UznOAbQJiBc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZKcSbM22qYM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3Yv2Oe8-A7Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VvzU2WtB9_s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oTjiG8RRxgw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=a8sLHv5yMg4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3TFQmaqoOJg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MaJ89FXvhdI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KWdaUE7XRuo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-cS_iiDJOUc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jr3sNykhuH8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9s3gxQPvA3Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hKaIrE7lNVc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hKaIrE7lNVc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ejjx8FP5bDc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GmQoEpnB11M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9CoGM49G_Pw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QpSo3k5o7B4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MvJDuk9Cvoo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_gD-6DeldH4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=55ZGyM-lMSk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HueWMl9XGpo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kEEUubOwe84
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PxuBI6bWrSI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5b_LxAxQHNI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QR19qEnv4iE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LGNds8AmwAw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KJxkM0OY3rI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4HRnQcj21Zg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1uv28S83wTQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=D9Hd3HCUwrY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GkgvJEfQdb4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Xl6knIeSN6k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=S0FyT-oqs-s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oamr2-kQT90
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=D0A9eZ5FpHg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BeTPT9pgeqA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZeCYz0JQ8KM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8rGXY_UAX2o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=riXyRFWOlgE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PHS5DJGO0tk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bEKlbJwn6bg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=d5_dORNtn_E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NZRT5wAy1XM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-LR0w1VV1A8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QVgm9RHEA1I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3OAWHjEjcb8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8RcBdbz42fg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zPOT1kRFLvk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ulru65AR7GQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=A10UYZVTh18
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gPP_HcTolfo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=50T93xPNN-Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xYjKpg8EHjg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dshmwaWvIsc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=D2cr9GOwWuc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dKC5q2CVmKs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=E5JrduYiE_Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_EwRhMidYkk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=i2lMHPDIPbY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9O0Iaij36N0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=i8Pijc9IVYw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tXcB4g6SebY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NeWxMSa5BfM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4AmWj0ivtKE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3-BDUu2v9gA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=y3WLQndN3Cg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nYeLxyP6L5E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MEW-I9xyb_E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EgXvaQjOrsY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=beCuh_PNqyA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OV_vA9jCi6o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vA7VunUzQQg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5N6YjnDFUYc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OKFaT1MJS0s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4RxPfzfeLxs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Or6UQS6ZEtk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MSL_-1dIovM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=L8QNR8FA03Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=x-OrP6JHvIs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DlTHja6gP3Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=df1cgWvGBLY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Z0HwxRlK0q0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oe-Pv3-p-9Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_v4G0M9RHcs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lHhA1vg4Xxc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UZQmmMiVpMM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hPTk59Z05Do
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jmVrXBkS2ko
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JM72pEpCvJQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5z5zTkYfcGg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=z8-BxUQsAoQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RjLYATzkru0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=51yU0IcDzeE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=G20rvLn3tZY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VGen2WImIGk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Pu9g39sZkTQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KiAEsX72HQw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Bl4GENbZ9b8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sVgVYlHNz_Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZBSO4d4Zy84
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vROY0sRI78w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mb1PhZVo5sw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mvJFqD0EB0s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rKZMl8h5Xfo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=J7ZDqHVeFAI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YyTRNiMPa0I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EU-sgbV1GOA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NOYctiTf6ok
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SBLrZnaZ5SI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FG6SjSQLqFk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YHTxnX-QSV8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3XiNUY2zkE0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cJmaoaDFPfk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kFGr7FGIXwM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=O586abC0cbw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oTWE6S9iKWQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Kpr8mUAKhN8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-v0_VAsZuy0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=REaAe6crOKA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=f1946bRv7ms
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XqbcaAkvzOs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kmZdEHj6Ft8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=J6jaDSgyT6E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NBC2J-l9Kf0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=l6bmtfm0NO0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SJBntxxulCA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4Hyg3yCMwxc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uQUuwB4qeeQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ytNiqk07oYI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GS9AtK7l2l8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-G5EcuxkNro
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=d0EUqucGL9E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tNwfi-Er7lI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YvXv3hZPjtQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TV50bhA9j_A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=51zcCcAAcaU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Fa0GQMW0w-I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KERdahujEh0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DCAcoWkQw9o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nk8RnWkXmOo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OgUBj5glc-o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dlBzZBENORQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=F9wXoKvoLO8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DAdCdP3C4yI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KyP-8Uaz4Cs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1c4NRM5DJTw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1xpSJxacCmQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GMFoVxoP06U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=i2PurxfAW8A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nJ6af-Ub_1Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CuBamAbxgTY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=W6Von4Cg160
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bltI25tC_sU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yrREkGMnxBg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=47H2gLGPN3w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BwOLJFQ51Hg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EWXtmFzLNaU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=c7bJncMQb8M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eQXAOsc2kjg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=iFdCOjujyYY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zR1DRkXjmLo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OoZzZlf3lFE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NPcL80xanQc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FmZxBttOMqg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ko038n2FbBA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YT1DHlAiRm0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ruqW_iLJDuI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SQHR4pzsfqo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ty6wA1wir84
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=v7Y2iIGOuFk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uRUa-dZU_FQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CKTRV3aTN2s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5ZQjmbjh14Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qYZmTZHMJnI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=iwDdLnkDO9E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=p7Y6aNQIe2s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3PEVwgMxrLA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ofYzcQ5bWlQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aOVCjG2QASw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=f4R_so-Am8I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RZtcqf3cXK4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lJrwx9Q8Yv4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AhjCajlmgmY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WJHi2jNdt-8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=W-OcSglBYhQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IsL51CQdNeU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vFXqSwJz6z0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kw5shW4KgQI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kKSRXAUiUjk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uhmzv5lJn_Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FqFOv7Brc_c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FzOrtzq3BiQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HEPAKb5N_qc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6gV57BJnfB0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mp4KE3B7h8o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VzU1wTquC3U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-CZz4gdU1no
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=52fRlqqc67U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rBC5XKtWupw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=232Z0I43teM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ma5rZtqgnKk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DkexYzn8R6c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9sSeje5MmJ0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uGIhoGvYN-4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lWX0_EcfLBo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9uOIhqnTdr8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uXyp4yabWpk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ugc_tgZfPa8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=q5oC3sL86GI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zxAtyx8qkBA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=orND0xCru1g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_NHfrF-SW5g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EK7jeiLrh8s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vZu7wRrNwVA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=92R5fLwCocw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kOo8qhnCsmM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WH6kuGJ7h8M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dKr_uNvYwEw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GPuo_K5mhWA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dcdjVlBAvzo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1AMUEh2ZMLE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=92Z5h6si5LY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=76it07YkeOc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xkYQf_997gI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Io_f7P6FVaw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nfVd30U4egc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=K_sujRX2JZ0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=i88eoKFPQrA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ebInatyMYP4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=S3tjOG0d5mc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xKGhTCmQjZA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=822ssWLly5Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=D-fBn5HvKwk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=M90i96POi1s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UG8DCs5DXq8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eRodK-gisMQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qt1IX0Aeymg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Xs6od1vogvM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=R2Csn74mFKE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NTMOOzsHzdg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=F1f_kBLJDSw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qB55YX_0L3c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IelZe97qfw8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gSPtUZMJSAU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IlBAiSVy5rM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=50NvltrfG34
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uTKBWXIsh0c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KpwxTCiYyjg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bHclm_il4Vs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QU8mUeRLDsw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QcUiIDasvq8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=z67g2dO4mew
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7TxaywZ7a7M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IJa4v9xaA1Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kn0LCc0hCfQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ab8GfmIP2jk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Geo7V7yRvzA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ogMD7AoLsqY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=H_dTC8KfJZo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7BmLPPei5Pw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kk7c180bdoE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=n0VHysU-vCE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VWDfAvMdBTw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FLuvDccs1zo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=iUvkk-YxpYo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=foVJIUyKERs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=U8Enw1YhAWY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-oX6sE6VDng
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9jRfZVQN1r0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=L7-OoiGwGaM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8eKM8UJ1AXM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=09bET5iaSuw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ibdCV-GSAVk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gqjN4gPjMC8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XUZogf0z1eI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DpRbyDS4kXc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=426foH8_QZY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6qdzid27lXk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=W62EboqppeA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JBZsEEW1GBQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1xiUq5aPOI8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Q4U7D5SYNbc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FBx_a6JnWLw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Qd3XhSoIL4U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6pyQ8AxJKOo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DG_LtBwqajk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7U39VBFFbp8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nMjlHcnIoSs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bNr4YpkqeXU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xGtQm199RNk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Uho4uhzjViY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yGKaXsairiQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AlNQpsfMZow
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=E4ryGTrI5sk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NVtflzXZKB4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FYlOQl6ELLA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=to71huajAPE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hBvZ45RQk90
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uRTeJ5cSdNw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=l1yl5F-oM4I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7hDSCkZyNKs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=d2ege_Urn_Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YbNsFCMaQjU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ooQ1PVox7sM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=c9w1LdiRZkU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=c9w1LdiRZkU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jaeR1rb4us4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MLPM6nBKfDE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JGmhAUfw2lQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vb2HNzZwon0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=H2e3Rnk83eQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7retSIt-OcI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8eHvFqr8tpc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pD2VuLngMHM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1tYLVJwI_SE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Nca1HSW7s1M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=c2a4k8RGatA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=trz48cObywM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Qo-UH8itlwE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LqJ0Vs-fDxM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=phg994krqjM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hBjBdQgVQXc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HFKqHWC-o5I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aiYlIRn8bLs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=P5C2UZuCPN8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IX4PwIj8cJA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=v4UQN58mThs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=q3-7WMV82X4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=diaWAsnbY2g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CerJrY79Gfo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cWkYny0Oy1U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cMUPvqa2Ylo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9sbXxWcR0ZM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XDOXgx-e60M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ilmdqCI2uS8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cQUODMzsIE4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MzU22X08qcc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pDMl3VDY3Qw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Z2Kz3HmcIbE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TadNZNeLZcY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NAUKfCfI-gU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=L5_tQ4Rby9I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=60sOdWgAAUk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2Yc7hbV9bis
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7tDK61wbOa8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WlnmE3VnI-A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GHRn7nTsyZU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7HMG36zhXRI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VesZ6eTYtV0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IeJaXPE9FEA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3zoyu2YsvQ4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dpwWTyd_mdE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IAHOMOOp-9w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Z0AURuLK_Io
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GCL06qdEjV0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DmXDHYzjfXY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=33eeP5xbRHg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9VRhAlLWehA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pXAWj0ozofY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nJHVcIWtW4c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Y72FbySPAjg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yU5uXxyE_fk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=q3bnOXNqDAw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QGYVc-Shxxs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Uveur9gLgG0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NtXSt7h89LA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=J0Z3JoJq1mM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Nz-VzcE64UQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TGl5yq6GZH0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=77FhnnIZldo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BsIidaetaHM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=THAdXLdpnXE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=M9tcywbyUAs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3winNVHViZs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=q_eJZFSz_M8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qYiTPVqNCFU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=M8TjOos9oz0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DvC6M15ePGE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=U2DeLIPZuLI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QvFs40rRGBI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Sk_7ATy78Lo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SUj2_SzBmTU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yHE1rArTLNs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=du8NsFL_ZzA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hbRTZ5VSmF4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=E3DKOfbaSMU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=l7PpITAIWZ0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Hg8Xx4hafGQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yf2SAzSUxDI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rd2APMr6h_U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dsCS1_GZXF4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BfSne8_MSaY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yld0XR0mdQ0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MzhNKm-Sfuo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=P-FB1ERVhvs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Wh1XponAXSc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VpRz7rC4PIQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mpFsifQK8oU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2TazzJLEev0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=37hYDDsDLc4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ms96Dbk8IPY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zvSqDK5X81w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uF4_iTXR5pk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1NH10-qhM5U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uggbFkebpik
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Gvb2L0cTMvU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yKsd1vwgKEU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_kmS5-wJogg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=imac1ICIuw0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IEjhU4PQHRw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=W-2zlqOpKR4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=f9weiH-iTIg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FWQDtJ8ynLU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nv8CVDfVK34
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZUnezZnTRs4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gsrp8O6hwf4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=t3RUsqZ2sIQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nEpmMXJD4cQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=d1eU55MwJbI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VZOrHtd0Lo4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5V-QzQq_OnQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=l86rSEP1tXs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=j0kmU2fMAhQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vhPaPKP8EGU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CzgZnur26MY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ef_jzFAT3z4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=M2ksvpWcvBg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DPQsnjsGpfc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dNPyCVk5flI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jwPa6OOEV1o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gAE7pAvNEEM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=a7YBXRKmHcY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HDeCl7UrFzQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=brnocC2e6Bs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GRlF0RMv6eI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=khwVn9oTw_8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cWWjS5BkEgo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2IPHJ6BIRAs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1btQjcnlTkk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nwXPlPGyXEA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KVX7K_vv71E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ck8q0epOa_k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QD4kWrJdyVk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NSoYoy_ADxc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=we6js3d9ENk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uCa9C5VRGrk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QbZIx5pjhXo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yun2-GcS8yw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Tf8_qdbSOI0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=f_qQ_3HvCqo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=S4KNfsFY9aw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Zc8NXilFNpw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=08LVwksi1_Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kldXjbLtlj4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oUn2l9JF86o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WIIf_zYCG9w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jEyyTSARTok
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PBz2d6WtNDA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7EwizxeCVgk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XA3VxyDP--I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uvekwHWBRhY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hzn9HguVET0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=j6pijvYktA8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=l0m_mGHp-pU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OmKgwVJmNqA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UZVfGkhPBL8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ys3F_gLL29A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=83A5SWln6go
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HtLSApSmQ8c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7i06vFX7nAg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4oh_9PA16R8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RPyPgflZVOk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KGAa4EHLw_4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sqFN9YRzU2g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=m1B_QGRIknI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RPtGRIDnkik
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=y_-17Fr0cvw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ix4dKZFnukk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kOVSjklVnpM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=q_aww-HBTZw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gIoYgdirC1k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Bj2rc-mlZVA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2CST1rpfC8w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bEngdUieQGk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Pfvp-IwddAY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NtMEhSKDYx4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qwenZYL23_k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=es0YFhtjJm4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=m8DS5cQ6dJQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mxoAgEkJ9Ck
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4oTgmcIYNqc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vxC_qVzPkE8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nhdglrJ7kJw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_V6RorEpovI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FqN6bx0nPqs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eW3-NKolwN8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qM1ps7ixr40
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yaYdgP_YWY8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=K4Dw8kxCSRY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OGv8gzEpEfQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=p-OdNC0w1_E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=feBlI0Cn9cc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uqx-FvwunI0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6tcM7wu7HR4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uvekwHWBRhY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vD_ODVL2dyQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_s8752YupGc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QeoVEIbCQPI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wi-Yd99XC9I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kaJPnczzomo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RcfrVUn2Lxg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eaOgzjYDugM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ysq9dYBrMuU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=krpIQStQRgI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Y_hUoRoRWLw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PqQaG0WYXIE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=r8IVl3Uo3dw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NP8Y9u0vU2o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=s9BQRllk_AU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=o9db7coVTDw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=u9u9mmvyq-g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=f0yBpiRxZMg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ERfKwna8f_A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DNPAQKGedgI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PmcSgeGo_4s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1IPT75aMyxQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tfjIvt7wrck
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5QfCtgEjHIQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uNeCitNCA-o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=d0bFwizHUhk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Pj_SS7URnEY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ywEYcyKV-gg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MoC-CyvzkkA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=p3CgFFZO0IA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=P7Ouprln0T0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cM-Y1YKB7HE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZkdqVUe4suo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-q-guCywYfo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6UMZcy3CABM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-RHhsVm6dds
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8wRop_ZcC_M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aAl-gw0fXJY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_ZHTOjxa0sM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rshkx0Yl_dM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=46INtZJycbI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vf2QpnzfwsA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dOhOnBCDyYA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WyatHIQ0rKw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yl3X3NlPJR8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ClSb9fu7pb4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RXxAZkSQNYs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=v-bHGySvmQM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EqQLYVLzHUE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_0hti_xVQV8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=B28kHe5qAbM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=03PUQ9HpbMQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XE2GHTRWerc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cnY1gNGyRHc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YeAEpYTaWr0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6-M3e-YsqwU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zK_DRoRmqU8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9lF4ivCrOUo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=N0FUBql7uqo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SrqgMATJP9w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FBTRxvqRbUs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZGMaIndGecI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2F7eErkc0F0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Q6URjBVovc0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qKJpNnv6AVo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NTDHvEa9Od4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0XC1xLJtVLA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=w_YAqUrtjYI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9o9m8WKO0wk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wBifdmeprxY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sjGntE1nJ-Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Z5ApA80BrM4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mnquNnGYUgs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Sfy9OHcvZUA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YxZK_GI3Lks
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6FPQ7M0ewzk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QuTJEdFHOs0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pQNh5bVPgA0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=q2PZI-B8u3k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=96yAoKq4F4w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MR4cVZETJiw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vMjYluK74SY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YujAAdWfeUE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7jNim-t9jbc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_G0NCnqmHro
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hRHPttZ1uWc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jEiwrg_DYRk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6LxqCF9u_uI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=p6k8l_EAJjQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tTtXuPObG3g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=g103fPqTAyY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UbgDTuYjocw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-b9hqzATyIU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yc-5xEF8Sdw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=F8oHdy0cyNA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4qtZUwm38-E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CRyBZWvaAEw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=P0vKMLAUdFE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GorEs3CG9P0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tTtXuPObG3g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TNks2o_Ww-U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=K3czr3_gk7c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GlkkZ6MTOGQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TIA5BjzfW9w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8zlnHZ6O81U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ELN_EoJUj2k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rqtNVNEraGk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OpI9NivM7EM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KxKWnwBtlZQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pYbvn0S_Azo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ry9i8Mr3EmI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ei5shxy7SOk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lSSo1CISR7o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=65uApO3EfxI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oLWPdA3gNX4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-rZcVrTr-gs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Kh9yPWPkFXM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wI_n7Eb6qJo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oO0s1DFG1Xs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aQFhm5SH5c4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CI8YgJYcB7A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=i3UEiwquOrs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mxoS7Bg3BjM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jo8_QyBGUIs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qJKaOA_aEC4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=K9U4_tKWiYA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=iy3gT50OX3U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=O7WXxZeFbq8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uKyDJobiNt0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=58u8jsP78MU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LeP6KyoN-PQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nRCE7jlAp8M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XT9P1Ywwj3A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jXHgbsDgnKQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LtPZBE7JDcc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JapXF-kUs8w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=28FQnvosCNs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yhPSN9tYKO4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0nqec9Tlu7s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Zed7F2Sitag
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MjNxOnaMdkc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DK1wFyHhqO0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ACrCGgzP1xU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=w5YMSpdrU4I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rIDCLqKd9UE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Z7tNUWzOdDs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qPdPpj7hnI8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=G7-9QCEVFx4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ISIv8F9dBCY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JNZGSQ66mW0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EiHVjkEz3do
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WRsEvw7I578
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OXpd36XWTW4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=65rPRyMkNag
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-LMVWXz7l9k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Tv2bbz1lzyA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=76qt01hDlWs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=h1iajokZE8Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Wc7VEH8PeW4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=emD2oKerXq0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NnXKvRlHr2I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Xrz8iRxpv98
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cuPZnwdQcds
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=i_Uhb6Ku9YY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6Ym7WwH4uFQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kMRQAKndeA0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=C93Hyv7mBx0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=A2gKKo4WLoY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zW9OQRI-XSg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0lIgNi_G0Ik
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PkVFp1nsaYY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zHXNp8sstLc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3pywg8Y8WJM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sY6u1LngJS0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mzYn_vuQqzQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Gg6bvhv3xts
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eYmAtMThOws
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=y5HgUP8kqFY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vYczOf5MN94
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AZ0faFiYtgo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uPRHeGJ9sHU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=G26wuhSnLjk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LoL3AzKwIYM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fDVTviZeNdw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HiANVEF3mzk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SCQ4ou4sF3c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mQ2dR9ycIps
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=02eWlEKRS3E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=iej9q6SPSn0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fUuiv-7MLXM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=A8XNCY8ZOJk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sqpuXqztwmc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tbm1ZAzDzOc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Dt1Nz07e4fg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WjSyVHAZsNQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=saPtPFUdljU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TaZmlr-251c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TDImqGd3lks
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SRh0VxM8-3E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IrzKEJW2QNM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LjwTBorQzB4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HlI9_uTSP2I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eG2A-hlNCYw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wxU-MXlnauc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JRhA4kqs_0Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oFeJ4obzVr4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sdXa8g9Oer0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Z9vaykZIdqc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=osStTPm9N5k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IdsqAeBheI8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=U_T6QmrA4Gk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qW10uHvKwYA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=684S8kYaDOg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UsnLHatPTuQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JMPhZT_1oP0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ah0iiLTz-Rc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=soIyiJfhdxc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ljEefAIfgxo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RGFsrEaq9sI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=A1bnILmzmHk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2BKBinqqr4U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oPhn5mgzKM4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bxkSPhHsXp8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zWRidSSgA9w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4frrI4qbtUQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OS2Kn85cayQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CjWdGJBUDQo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=L_GXSxDLLn4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3K26h8sYAzw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bIxOrwOeMmw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Id8_doFSRLo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4ovaFwRlBX4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WHjcRA3kOFw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RrmRyuvwbRo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=t96-L7smqTY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uvN7BaiDUSI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kFa5e1wlt0U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tgAgQ45Jj-g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bdhmuM-cfm4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Qjres-iRbA8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MQ5NYizudjs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VWr-8398UR4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fu9clAjnse8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nAeVIZB9OCY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=da9tSESjIzg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5tyu5-GPKNo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jQNPy3xgG_g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=saItsxQaN7Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nJ4_F0DBSkM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7Wh6sWER8i0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KAs-mIMWMFw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=M1b4PvyTAcM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dRXqxqorVEQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fvcpxY8yTdU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Zz31fC8yZYQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hG7QiO-l03A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BSwSq6G9uGI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UZwzFhHt7S8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-hgyzeSiviM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JJH7ro1tjE0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=y1HrFwEhblc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RpzfNPlISYk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mWXnaqwSTmQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_OSdfWu-f6M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=faTTBFoFMSA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vm-ntN1cSWI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aKoK84Cydbs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vlpYium2Ov8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FtBUevGXRFE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UMJvdVAYlfk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=q5-AMG0KDEs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8XlBBMZvunA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_uL-N-0IhyI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xKoA4rF3LYE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bb8ro3AR2NM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8ZFG5cqk7nc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tu2_jEmLLiE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1wKyP49whoo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yQtqiiGz7RI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=r_klMtcPxHI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=e0EV6igp3uI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_qqKXbg_4YU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=v8iw99IgfTo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WwXv6SUtLm8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SqZrPEW-pGc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oDT7YaTzBeA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-rJ6qMzkTIQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4pSnVgXI4N0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cj4nZvDLOzk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8opGGCMOcSM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OR6aIh3BA-g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=r_5sq3f31BY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9v77o7xv7Kc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DI2iJiOswPM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=69q98ffpf6Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nHtlrPuWxzM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=opKQVbzk8ec
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TJa9_N9nEjM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zJEsUI-mrYw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WMf1MlGjZRA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AfFjNwbsNaA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TJa9_N9nEjM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hxQxAin09HY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gUVqBI4WJk4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lcgUVcG3ArA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=raF-C0EZqZM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HaGhPMGY5h8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=E0z8aXRgcfQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=REPS7s5t4vE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nUYQChlvMy8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=phqb_Jfwk7Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jHdEa6W4FXI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tSlYdmQ6MUc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FOi8yBj6t24
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hcGqBGXnZt0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uFymTg03Iag
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6w9uw-NwY2g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CV8FFLUDJyE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uksDh79FyPQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jDJn_YV184I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ohtqm88xzHw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fGpdByjvotY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=M8pC6Oj35YY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=U9tJ2lvQ0bk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fQI74bA22lk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FSdZWu23Dtg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nZ5d-tkGDoo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0zLuVn5uQR0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pql0osGLbZ8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SMKh8D5Kwg8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jgwLYQjrPiI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jfnLGG7XkJU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dz1LzAXQyCU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DZsScUeYQek
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8lxNK95ZIys
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vivJgrmrPIU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ye4LKIO5th0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xMp5sbzuyjs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jzDPRgUlF0I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DzZAbobGNRU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jw_skwCTXPE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uK0laPXQ4vE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=clEB5lVy0AI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZhkLFlTteQo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MEVXn-JIfHQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=G1tUldvZd9k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3HezBEzB5Gw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cYNeSYb68vo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=28t4CDPO8Rk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1wOKJ1lyY4Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IujNuVpMS-4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pF_aRmEOiUE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=P3x6ZzgSwr0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7DoxiZb1y-k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eoSGMGsnI1Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=D7-i_8EDZe4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=43hitNIuT38
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LdD1wmMyJoE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ujYb1yK7e_Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3I8kgS130RU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=A8W2zGTiLzM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=woQ4PJMhEQ8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vJofjGTfjgI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xFKyvcj7QCs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dbNxUwqWBvU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bMicmaipOdY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-tgr_hZTLYc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kAKZx8KnGTE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NGltyZwGaHQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ejqwr9UbD8Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KZAnZeNcJyA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sNo_gdNJSJo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OVEb3HTRRRo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FhHobZD0_gw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Fevns4OV7EM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wkLjI_MwEfU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uSNvKsV8beo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aZMJUxifyCQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=p3V-MVSLwGM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Jna5vYMvyl4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qyQyFPDVVzc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Uf8ZhkrH_Ss
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3K_QP2uqQ4o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=i6LXBfRg6DE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IQVbJ46E6Zk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dc31dp1mJOc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=p6C8DGAskqA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=M9oUZo4woDM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=F2w1JuL64Mk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SYVfODsqKVg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=t6u47HRrsYY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wHU3ZNnhqFM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1Jrd16zXphE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hVfm0-lx_3I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SPn4IEnbYno
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Gb9LHQ594Go
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4SWjHTRbjGk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FC81e-QFDmg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BW0nM1mD6mE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Pp1EuC36JSQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=okGsamKjgz8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=swIGOBxKZGA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yuT4NmSt0ek
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rZ8zzxSmllo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DIeWHYyHWmY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-ZMlLZ3bASs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5d_ZckTqLqU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=38qZAGiRMaQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fKp9q6a6zps
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GvNpyu1ewsQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ux0-YqkTUtc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5Vb2vRQpA4E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DvYMIr5dTZA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TLeCwygJwxs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZVvpyuLW_R8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9cIPfrXrDG0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Av0OXB4E6g0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mE_0PxEmwsA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2cuFp5Wrf6g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_uOH6YVaDBw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=izGfDstjwTE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mMpqto7N4jE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XRkKZn643kw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kqmYWXaCl3s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=teuqYiTyEaU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=y9Y46JmlL3Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=m5IDMysIt-c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=F86MhkqiZiU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NWIjBrZRKlI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7hHHfgoNHmA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=u0w4WHlsuks
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Y4FaB7j-DdQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DiTXSJNJlME
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cqHhrsZwrLo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gmNErZjgLZM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9XHxZfFot84
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mZF-JmWfDao
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cn9_dnVYqnY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=osi4LPxQRaU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HY83ux4a6r4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CV0uKq_ZI2w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Z5K5IGxOnnc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4CTCi-zmvrg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gidFA8u8_7E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VYtI-6isV8I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UJy2sl-Vl1c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SA7qAXWirsY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dj3U8rLkNQc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=78TM1NAKocI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8_GoWIU8JUo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MU50A1c_4zA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7QhFDK5h8xc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tC25vaJGmaY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HehFMzTDPEA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9dcNsgjAEok
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IuzeB4lWc2c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QjuvtZn5tVM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2OCyTZJCAbg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kur5Yldp5vo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xiYHtHuvKMw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=e4GOmtlYhmU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BVynBt7sGDI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vPqzKyMvLhk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PXMiWn9njac
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MFzHpsOHDQw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rF1SU2Z5LZw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IVDBK8ml-94
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ozS6KWZtv1o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=leE92l9Jhws
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=D6NeKSe-4rw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uPNBdpfOhbs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kKqkzVPDN0o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pvS547jca24
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sSBbON9ABzQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yRQukSoQdug
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vsE3le5bZwA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KAlZcGTiSWU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RwTpAdqAOiQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=T-E1UfVmdDM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=J7yInGr7zgE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JEaHf79gSig
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QkKuuqXHfDY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_QWnXFN7ZFE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=p7EjFUHO6yo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ibzd0U84JOg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pd9ieKzHfSo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Nd_ynen9c_E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=u3zhll49wr8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xSZXT-6havE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NdtCqanfP5k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YBCEcWQnM7Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FH_mVjqH4Ok
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=j61jNlLMCG4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mVv2f4Rxe08
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=opUzb-50pKA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Sy9KEWuHTa8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7boMIjpIgps
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lkVA9AnPtf4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=P3tu0mxKyLU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TxcK02J8e9s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qUm5WCjsl4w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-KDzj7K2Wrg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4pLbe8taaCY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7T5Tcv_BUhY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=y92bGU8fKSk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6jGUJX_tX-4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9U6NV4VCtWQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fv1hI7GspDI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WI0y4IkKbtc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RWog1_yFTug
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zavKQ6LkbWE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2yAnWOGE6uI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8he2r1mj9fc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8KoYKozBguY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NSFVJAFgJ0c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=65YMIwJ50nA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=X5Wl4CKE9fg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9S8jhSSFw5A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qK52SohmE7g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bI4qFYmIW0Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0E0S0DNORo8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QVBbP1gx8lY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VHTMV-oOOWA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bPo2uj2-GNY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VmupOhwnY2c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=66NZT41B9JU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6jAJCvXKdhw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=plHKTzTF6JI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oRJRiegGGGE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DbKTHC4CJJ0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XAn6lxudELc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dI4B618Z7lQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BqutVHa5iqI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Kmuf-61BpRM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OYsz9z8XIqs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GHNHvTmt2u0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LLr_rV2crGE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ve6vqzYe6mQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-sTC-ZrlSxc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rY48bSlLp6Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YViY8ObfmjU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OxCUmZVbXog
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=78_X7g2sSEY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3EiuL3IDjj8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BwJ0PLg3Ak8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TtF7gBkVTiI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hvdRLHZT9hw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JUo0z_u2Xrs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GdER1GqIx-E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=S3k0m0o_I1Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ap2K5ztcFwI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=w7HdOz7llDs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vX3sGfzWGFM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rVIBRWdvFho
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wlrcJO9gZzU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=R__EehIOdTA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lo5hIm5-CCk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ivMU6YEWyeA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nTGjNoz_kl0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=J1ACpCB-1dM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kVWKfiGO0Ww
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=B-QiGpm77c4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=r3BgHOYtXHw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nerYTKCnfw4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hgV13n9E_QE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=I4CSeXZ09ws
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_0WSCIxWqX4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EkF30ma21GQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XK3ZYo28mQI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=b20pwjm0MqQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LXdMbnEIOK0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3d6hcBdA9ok
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=raSTRfxw6xI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xMcQiijBNxQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ij07sJoHWPM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qLZDQGjY_qk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2d7r_7QvKac
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dMCL_pxDhgU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VUX9JoKIMnA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kTjk2qk6xB8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gQLcQlMrfg4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Kx1hgH2gPqE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9JZ1NnK1GQk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZIpvbKLsUW4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jTWG7takP2M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ameBI78WYBQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=j-jnErvgc84
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QE80GpRJymk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jHgrkIZ-VtA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-oU2SY5ig8M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EadjjSf9I3o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WdJmF0BW_28
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=z8AT6eRbv1o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Zp43t9y6QZE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zy_3vmr_7P8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HQtiI1PEhOc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_Q8nFUXvzK0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8uk6pX5FbSs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sDo1BSs6VQc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ItVkE7dwyYk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lpomU0AQmMI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gjiYrLxBOn4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rKujlhUKLkc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RJ9bci21JDc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2etoIzn8lzc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aAWuaQI0P0w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bLgyAclCG8o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=13gV77mI47M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=amnkH0nAB3E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=65UkvVjNxwU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=q_5LHcMc8lc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BZu-NF3vPeM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9iaL04XivWI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_eeAd_YMW_E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=U9wYvkvC0x8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aOHJ0F0b5yo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OaJHm5A-F8A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=q2NIHFLoSjw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pBRo2Zwe1Vg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-yAaRXd7oWw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=m_EWVCBAoZs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zhMHClfbUAE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MIUWMQjgvdU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DJ3U4e_e-qw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WG_vOFeySDk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ppu_f9n118I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rzjMwcmVPTg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ada6xaMAEaQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NUT6TqjjxjU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aD21T1oCglc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=d5kUCpE02PQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dr9dzuPqoWs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9JyIAnQ4mqA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lpUy71-grmE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fqmW0nyAjxM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pCPCVuY_vtk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UGJq4NjZQ24
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=83KRZhiLqGA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5ujbELLzmUo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AB6lX8mu37M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=G3rv56-jcFc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mcTEBP0no4o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_hmUQ5nRHS0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1FftPDmnN8o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AyOKqbcwseY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=U5gWqW1Wyl8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5lVdTAH-Cac
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KRqM2jK8l8o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=H0JO1kbSO1U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mpt8avLZ1Ok
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Wd3hGqP4Ckc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FNYs5iyPO3s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5zJuU1UPnIE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=paVmWsKW2ac
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-kC13dAazG8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XZuD0JFdPiQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FO6SalDg50Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Xw-SGpFDQGA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=I3I-HoFtD9U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=I0Kcgv_0k28
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3oY_J8r2eec
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2K4FK_anlJA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4sbYMA-ZDFU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=W0YOxYC6KbQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IymV3weUtRw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mbPeykoOFd8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JnJg4p5-Cp0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FklRdxXLO3c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=thicY4Oemvw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uWSoPmjY7PU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gFW-RNIm86g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CxQ8kzxwaRI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=I37NS3UHvbA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FcEAp1g4zr8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tHjNdN4EI9w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7X-aI9SlUe4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oOiYmMojLNg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DKUQ3daLpS4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pdxMBQXUcGo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qFIA5EFblek
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=F_MiSTN05B8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=R23qAwzztto
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5KC-xpz65iE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ti8UHUWhi9o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GAULPzX3-Wo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3eSpVd33wv8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YSVMJqwJ0Hk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6ST-jyJvU3k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8wglPvRZHvY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fZY019sUxKI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qgyRvgKk9W0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_nf4SSO6JVc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=A5fR1RJR4qE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8CZoWm66hL0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bJgoe2Vvna0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=iLJhha43R9g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8lFX05RHsGk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HVZsv_kMzz4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Yb5W87_OK0M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6ST-jyJvU3k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oAMecsgy4-k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nINQTPyjJ4M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kDwp9f_Rf10
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pv736HwHHlY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5fi6lPqGAzM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fnSHo_ywAao
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hEJmUB-2eZ4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=A3jdn_kqcXg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qlbpiu8uvmY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Q1z7li9Pohg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mUvqbJBCuJY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=p5mL0c-ybmc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=w9V84YPVwXo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xcBF9qxe-g4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fpnKoyM-qus
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=H5pgY3CNeEA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_1yRQo1SfJo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GPLO3hrBkvI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AAhs3rFmaOk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZM74S0S7SsI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sly844al7ao
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rRJBcj3CDpU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SFC06hcYLJk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OmYvERcMjic
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=E_apF9eJJTk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sNno12lgheE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=etkxIIXEh8E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oH4wtdgYbNk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TNXdUu2uOhg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SV5LPGx7yco
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9-vh-o-stsA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=chEuT1VPVQk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=l-03lsYtV-k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UteGl_mhJ0M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZWyu8Ou8ywc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dLsfdx4C084
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=b4lRYZUm54E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jAiRQn5DKUY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5pC32D0HdcI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=m58Hl0u8O5s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ztJHWH4ueKY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jWtAq7Ojjac
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fpJz-ZPXe_o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yY5DCY2P6oE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yjv2IrTEDVY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DBHcWk6RC6o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Dv4Az0QBZ7s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=j7HUwMkk1yI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Xpux_3OlWUM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ixZczimPhYk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-LY3nUTTen4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1LQxE2svOkU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3yRK1S7m5U8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_7CMRjPJDoI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=exCl3HkmM1k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=m-KtcYQT_lQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=COWl7_37eco
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jYm5Wug3riY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=b-NsQTrxnGc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6j_L819wKwE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nyhdm0stido
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7XSyZ5ehbvg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=r2jVpCQ6jmg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0YuPrzDqIU8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EhBxQNF7AIo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QlKn2UjiDp4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=i9WVU-Q5rEw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8lmr6_-8aZ8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lwOg349F5aY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mzMdrpINdLQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=N2ZksZ9uW34
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PKl35Jvtb4E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=devmUNu9CHE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_7U8YjW6gb8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hkOX1FYNJlA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=n58mgXVX-xU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0LQvkspmB68
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eOgR61jHjvo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cezoHDkMfio
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=atwbFk9wAhc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GxyiKUbmQx0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lZEFm6NcP30
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SjT2IbGRbwo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=N_VmCqhQ4Tg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oTaKdE1An7A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=V_KA6HeudKo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=82XZoBSdk_s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DC16kZIeZ_A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fCAYjeMkepE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dUKHRxkgp-o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3XJis6jxOt8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZsPzqwttZkE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4vBsmZhmOZw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EphDhwwxIZQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XLy_13RLvII
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Civ7nwixmu0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zhwNuCMTSdw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=A8JWX8KFyA8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Lz8qrBSJEZE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FSbSbyXUPic
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vqpNAPE51o0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uqY-iYv635E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rd9ftzWmf34
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=l04xCEZUpZY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nZifukG1fP0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=g-sNoqoQDgA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NLaRIiPtwJY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XmT8Y7OVkLs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rU06ih15CVI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FBESvGFOkDM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QBasCSeZVrA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9g8_k_-FLfI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-lmOfeuSURE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MZr_XjF4888
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zgcOnFtBpoE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KChUM2915z4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Nhe47kR-Vqc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MdPzQdF99Mw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NmjktsyZ1v4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AlHOhy8bCxQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=n3772rbT4o0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MGsBaUM28Q4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NcmPzByt-TM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=x2awG6JjsWY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RrbJWC5yd2M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TUXQFHXUQbQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=G22j-faXfd0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=W2Wt4CCNJho
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_l-0CIN1las
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Q00SeuLWgoU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vf8YypEo2kY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RDAt8CgpIr8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uuWH4xOSeQg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JeLACDnvHBg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Al2OwxlbJrc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PsZITcTTSng
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UIoZ-m3lwoM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AF6fmHVP-Yc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=M0WXVeUFO0k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kcPbEF1df5w
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=a-3rmwomhqI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-HSc6rmkMAY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0RxqXDPzSPA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7R75V_zVmYo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=68cI3N2fK_k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9gX66Tct4lA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ng_oCumK9_Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LH-ZQCBgVlA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vJ2BLZmwf8s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LceRXoAKyV8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CpEEOf6JRY0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=n_emor725L8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SuXteYi57_8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nrNcGQuh6KI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YXy8IwhcSfI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=L4FyJLmKsrY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TErErojIzxs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rm4-NgDqmVc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=I1I7PtzkqVI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DKULxrHv3JA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Fven-EYxp4U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bvRNIWoBJEw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cm1w1yLqQtk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=I9VVau_QcZo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CjlTzO5rieA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WxjYEM6QUic
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kL-PMcm9UoI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ct35-q-SMos
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VadQjJ7_hrQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nebZp7XmHPU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_SEah4Hnpv0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=AUQxYc8wn8k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zoVA9wPX3I4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CjQiS_qGCsY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XNGooAhQUeI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MONByG9nw1Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=uD5HQFnGJ4I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3VsLpDj--dQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cfGIgMGybSQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZqX3h3WM8r0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mKRIs9wImO0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KKUQVgHwI50
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=MzyuJUiz6d8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JiqveWmwU5g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8CHX7xxmzF4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=LthgQQucXIo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gyac5ZQjqN4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7prNjhWPIkU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DZLwLFb-NLQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7vkBoZTvMNg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FIqQkG5dvvk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=U6Bcr6t_4Fg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yvYkBti0Oc0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=K9knhev5Aoc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=K9knhev5Aoc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dqzpPOx73zs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pIXbDusWEDA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lxZ_mD5abM0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=iPybuyuvZ18
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Jl8wv-EOPE0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Nrt1_Flf5rw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=crleLHP58o8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zAr8yQY4ABM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-Hmz5UI6YgY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3sliWDcjQL4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=n8smuSe0zLw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QI13SIdB524
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Si6Sdrm1B58
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Evk-SuUjPOQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EcKwxNCXaKc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wioqqjg0fQQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_4KkfmLtK4I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hfTdHHnaa6M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ivLpiUKEKNs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Jak7WXLSUc8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=64YvAFI-y9E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vl1WFqQUKLg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cD0vVYoxdiY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=T1XXf7hUW1A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8tqn4DoleVI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ulwKTICM1II
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=fE5gECcae9I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wk4vbnVaVh4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_RyHRq1Bt60
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YcW_VULUiYQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sZSsTOLtNGE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Tplqrgr2Vw8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WY-nUUE4lfA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Miqg1m5xdIk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7wGflzweMBg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YrG-AuATjns
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=welZPGQrayo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mu0OYo8BuXI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6xPNW7nMYnI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tHmlqX6KqTQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JfxFkMXjVsI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=nKxUNCGy-xw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wTJKax_ftvY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=oWDAnVopMg8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Xc_fCMGJ__E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=iGOKMvtwCjY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8DiKXnlXxCo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=V6nYpxLr9Qc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gnc4_r4MWIw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kELJhpy-i_o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RlfWQZeZGL4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=l-9OXmfJWWw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WWsjECFtqxU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=H6MArYiTx08
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TbsSA24AauI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=epNDbHczXF4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3yG6rUDxFxI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EUZlOYjf9g0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-dSn28SSSxI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cg3NiPBfBcQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mXV671DXY8s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6ng3vLt_kuc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DxStu_rFr4k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6pz5n-drSQI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IAmEG2xEfTE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0Y3oWLy3Ul4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=inzbMiA0VR8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hRYNdTaIdw0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=U8xs2kjxtQw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HbIr5S-nRE0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=eQdll8yf9Yo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=R9b75T0Aqag
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Seo3MUfd6gY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gn-mFemNK7I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TqA_cqo76iU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JYgBvjVdtQU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CmrfRJl4tWY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4ne5U7I4sv0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WbW9mPyVDxk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tKZWnJq2q1I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Dw3UGZ6Z3xA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mtVeKyivJyg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-z0yJhOTofg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gUw6W5X6n2s
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mk1euTM9REM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0fvwUkyiwGI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=m47zMHufRUQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GqV4moXbQOQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bJLe8V1y578
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SCpK_WAqBcE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8GZN_psCO_Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=o_Ylg6xlxEk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=v5i5J62fNUY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=H-ht5u4fRao
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=yIEzBMqxKmU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=1ENiZR4XJGM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9QqTV3-8s7M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=us1E2x_GhWk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=M4sQIAgeYTc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tGHPNzhMdcA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SreccSIlLy0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=owpUw1HCeFA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0XxNpSju3n0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=I3oWTovuvV4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7wYjuBo2eZ0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GZhhYiiWpw4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=a2zPupu-PyM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gIkDGBxvyS4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Xe42tc1Auvg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ra1DTSGfdAg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=peJeqgIcHOQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=g5V6tQxNoRI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BsKPP2PvcMo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=soPm1rnTmFU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=D3WzdCdcjus
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mMdldPGR2Yk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=t-hAaO9tqv0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dD4UbtDc-b8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CvEatCzMAAk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=N74V8iHWKKY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Gd0akCU7Iao
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5-mJ0r-DylI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bZUX255L5VY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=z-LgrB7iCn0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-BXbdy_XPJ8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6rRX2Za6Hto
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=m77KOvC9qHI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qpTHRv08fr0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wawf49Arps0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=P8HM5A4qhCs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZeuVyz0nh-I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=96vGSD5_gqY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=E0OOqj8QM0k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=s_2ndJaEI2o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=13LV_Cp8cUg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0-SP4bo_cuU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IwcQrfFEd5o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cD9HPDqPGKM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WSa3AO4AsRE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=8vjG5O-QFX8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Y06cqMDIRog
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=C-k2c3Q3gzI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=d-_KhoXj-mw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=brjqmvWGCoQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=4UCAUvf0VC0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zX26Ucswark
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xHTiJSpn5RQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5KxydXzMYfk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0WLqcuRMMA4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ExWt0Ltxx5I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3a-n4EpUa1o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Lf4uB54uonA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0j7_v2QiEbI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EXHzm41Oy7Y
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=9Wq-3GfMmsQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vFtaKqyGXSs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=E6-hsYCHkA4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tusG9mBAQmo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0NKA4mpS1vU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0GRb1NWNepk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DHIyOzY7LcY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Y5EYtv9dBeI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dcekMpHO99g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DQryhhwNPVg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=V0Eq_EW-nl4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=6b0Ri46SrTQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=pgwX_Mxg_4k
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=QO4dpYKCPw8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=d-B3_jfAlSc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ZN-6-fsgQ4Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hhLnXO8Pwj4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cwU_gTJUSlo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=l_-Xw4me_wk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Y_XRt_feBTY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-Nsoi7bLMC0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TCTCIOZWS4o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Cexdy5SyF-I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gnyi3TiICF4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wm0PVp9teXU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=KwyZKu1pbSU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UJihuc1Vujg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=lRA4TvcgVH8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xirF3ppfAxs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JpiaZUJus1U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=kK3w5pxsoVc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=SfHHtQeHlZg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NntYxTzq_1Q
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=EYGftzYmen0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=sgVPkiu8WvM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=R0UnHFv8M_I
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_v5EdK0kiV8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=RsPxObuA2AA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TWgbVsXRkOE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=C5MpN6fuaDw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=NADZT47qI90
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Z3DkOsQPkss
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_ehWb7n3FX4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UKPoAO8VEQw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=m6EY6oRW8j0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CV_Oh08BSes
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=l-z7u2ZhniY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=mFFOfvIEYGQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FtVAtGsRYFU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hkM1eQFeVcc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=qS176JpJTRY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=hHrY06CISf4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aalVCnSoSvQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=5JHryWiOo14
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Yne7WxMuYRQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=d1UTV5q2Rpc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=shlVED8HBeY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=WOjI8AhfsCU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=jX_9rJXHsXo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-TTsLgaQrHI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CbCb4xUeGjw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=iVhmCZ3hJiw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=URFXnj_C-rk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=-Q-2QJddzEs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=U75s1My9MH8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bheNXnP7mGc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VVkRtVZlLgc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VZCB8aYOibo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=bvRiT0nKe70
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=_OqG8yRpEx0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=FAHeKlM2S4c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=OkpAw9aL7PQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=VXhembDaT7g
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=7BshrQjGdqM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=r1hQVCx6UT8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=rJMrPZAHgfM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HfKzdi95Zec
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=cFuTN5YwBLo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PEBePi3N8xo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GfUu7ka9-Ao
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UfcWrJxXBhI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=XcO5sL6rexg
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=e1W7Pyf3O_c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=IybNqiiMniE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BM75r11QsAE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JSsCECc7uXE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=E-18PyoUG3M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dDXiNbK-8s4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=y3O8y0yxQjw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wxZQDS46Mao
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ifGRC4tRn_U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ld7Gp8_0_Ls
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=tjJdPJETD7E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=En5s7iViBO0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2VcX5JgDL7E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=JNutvEiipKM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=g-tXLWX5B24
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=aCmWMuY5bss
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dLaBhfVMy2E
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gw0xP87ULJo
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=izSv_8fRAuY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=wAAgjTfupBI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dCCL-pVFDa8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=N0r_sj0s5i4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HNbWqo7FJQs
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=TwcUOVpDlf8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zq33eDrG7lQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=ij6EQrwaXGk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BLw7IPYpVgE
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Ekvq-TaT8y0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=UapmoxPLyFI
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=69tg5672fkQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vxJH553j6GU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=3KfQophtX1c
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=BNwG-iUMKFk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=npkedsc_lW0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=j8pYoOgwUzc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=DrwDd1Ttq6o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=PDhbeWP3Flc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GSMTnaBcn4A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=zU8_uMjIMMA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=P0mU0ubg1GY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=CsX-q4ys47U
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=vsqTt_mtrsM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=xqQkaG99Y5o
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2-KLTj-bJ5A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=x3UyKbH3Pz8
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=gTumOyoIIaU
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=x9jC08DntMA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=2EDuk_YL0EQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Yrgt2mx9LEk
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=dvfSdqxY4g0
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Qbl32JKZMDY
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=YTXm5i1sROM
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=0dlH2guF_xw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=71dQQqeFF-M
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=HA5z36aCebc
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=thS7ZL-G_KA
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=x_mBKcEY81A
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=GJufl_Uhcq4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=c97MMJcm5D4
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=o1oS--kXtjw
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/watch?v=Hda28ga_--s
+python3.7 -m tubeup https://www.youtube.com/watch?v=--25xF5SPqA
+python3.7 -m tubeup https://www.youtube.com/watch?v=-4_H4STFX0Y
+python3.7 -m tubeup https://www.youtube.com/watch?v=-7ZOHUjgvls
+python3.7 -m tubeup https://www.youtube.com/watch?v=-CU4Dq5BqEQ
+python3.7 -m tubeup https://www.youtube.com/watch?v=-OtdcReCFUw
+python3.7 -m tubeup https://www.youtube.com/watch?v=-VZ9RiDD39A
+python3.7 -m tubeup https://www.youtube.com/watch?v=-YHfb5LrR-Q
+python3.7 -m tubeup https://www.youtube.com/watch?v=-bb5U1NkR8E
+python3.7 -m tubeup https://www.youtube.com/watch?v=-fzVLWSM26I
+python3.7 -m tubeup https://www.youtube.com/watch?v=-v3oWyJKVNw
+python3.7 -m tubeup 0-NfXXlxZA8
+python3.7 -m tubeup 0KC8yNGizyg
+python3.7 -m tubeup 0LrYrb4zk7I
+python3.7 -m tubeup 0QbdJt9AiX4
+python3.7 -m tubeup 0VQWIEW31b4
+python3.7 -m tubeup 0b1M72wjkJw
+python3.7 -m tubeup 0cADOu0gEJE
+python3.7 -m tubeup 0cgikDnIVd4
+python3.7 -m tubeup 0df8KlrJHmA
+python3.7 -m tubeup 0lL404EwyoQ
+python3.7 -m tubeup 0ocRobtIers
+python3.7 -m tubeup 0x7OM2Iexyg
+python3.7 -m tubeup 0yxWIJZWvBU
+python3.7 -m tubeup 16XVtImD6cY
+python3.7 -m tubeup 1BNzJg89MNA
+python3.7 -m tubeup 1DkWtFTrhQo
+python3.7 -m tubeup 1TxsU-rlsT8
+python3.7 -m tubeup 1_LfYLoeqH0
+python3.7 -m tubeup 1gQgxqPS2mw
+python3.7 -m tubeup 1ikB7S_8S98
+python3.7 -m tubeup 1iy6hl4liR4
+python3.7 -m tubeup 1rNa5Hl-VOM
+python3.7 -m tubeup 2-mFFwEGKU8
+python3.7 -m tubeup 2HHKiNSTrdw
+python3.7 -m tubeup 2KRZAUHxUqs
+python3.7 -m tubeup 2KqRAHk_iPQ
+python3.7 -m tubeup 2Qvpv84nDFw
+python3.7 -m tubeup 30D1Q7zHngE
+python3.7 -m tubeup 33dZD7vjF6I
+python3.7 -m tubeup 378WMhOyIXY
+python3.7 -m tubeup 38PeOPha5Nc
+python3.7 -m tubeup 3Gr3KBL9Byo
+python3.7 -m tubeup 3JOh7LFfMZk
+python3.7 -m tubeup 3SymSl77lKA
+python3.7 -m tubeup 3TAIaXM3ydU
+python3.7 -m tubeup 3YIyl6ruW8c
+python3.7 -m tubeup 3aec00I9nms
+python3.7 -m tubeup 3ed6xpOdQls
+python3.7 -m tubeup 3lepwWJTVT4
+python3.7 -m tubeup 3r7KuinExzs
+python3.7 -m tubeup 44Zlg04gdAo
+python3.7 -m tubeup 48yNbV6mcng
+python3.7 -m tubeup 4Fl0gmqJ8L0
+python3.7 -m tubeup 4N1KioNH6IU
+python3.7 -m tubeup 4PDdzdf4V-Q
+python3.7 -m tubeup 4XUT_sm5--k
+python3.7 -m tubeup 4ecpqRiyC1U
+python3.7 -m tubeup 4oSndvZNXaA
+python3.7 -m tubeup 4pt03WHWPxs
+python3.7 -m tubeup 4usnm8n16JQ
+python3.7 -m tubeup 51jdnjz8UyI
+python3.7 -m tubeup 58NobqkGmv8
+python3.7 -m tubeup 5CyMG507YAw
+python3.7 -m tubeup 5IP64Pt8Kig
+python3.7 -m tubeup 5N3TpmD5NsE
+python3.7 -m tubeup 5p4DXfX4vTQ
+python3.7 -m tubeup 5um47gAaU-A
+python3.7 -m tubeup 60fDNUKA2c0
+python3.7 -m tubeup 6EEw8dYtXc4
+python3.7 -m tubeup 6R5jzfbx_QQ
+python3.7 -m tubeup 6USYhyuL-Bk
+python3.7 -m tubeup 6XjOr4SCWUI
+python3.7 -m tubeup 6aDIfYL5J1w
+python3.7 -m tubeup 6uFZ75nun9A
+python3.7 -m tubeup 73-5ajArAGo
+python3.7 -m tubeup 7JpJKSns_AU
+python3.7 -m tubeup 7PZVM6RGGsc
+python3.7 -m tubeup 7Y3yb9KZnJI
+python3.7 -m tubeup 7Z2nCO4dJck
+python3.7 -m tubeup 7_YQnaPcTOk
+python3.7 -m tubeup 7eTpVG6t6D0
+python3.7 -m tubeup 7ojeuRzPyCY
+python3.7 -m tubeup 7okLlgwbuAo
+python3.7 -m tubeup 7rVgMshkA8Q
+python3.7 -m tubeup 7rlJJy9D65I
+python3.7 -m tubeup 7xks62qGqk4
+python3.7 -m tubeup 83CPsF-DhSg
+python3.7 -m tubeup 84HWH5hNU2g
+python3.7 -m tubeup 84L_bYeC908
+python3.7 -m tubeup 8GNVfa8kvxw
+python3.7 -m tubeup 8HSWGEXcAfY
+python3.7 -m tubeup 8NhardO5egQ
+python3.7 -m tubeup 8SASgYiIDaY
+python3.7 -m tubeup 8VzY7DcizJw
+python3.7 -m tubeup 8Xw7dtxEqvg
+python3.7 -m tubeup 8cledLtYhOY
+python3.7 -m tubeup 8j4DS7ENirs
+python3.7 -m tubeup 8rJ3mwzItPo
+python3.7 -m tubeup 9MEScUpuO7g
+python3.7 -m tubeup 9Pm_NyKxjwk
+python3.7 -m tubeup 9_KNWN5AmvI
+python3.7 -m tubeup 9b0a64EmkEM
+python3.7 -m tubeup 9cjcMn3EM7g
+python3.7 -m tubeup 9g9vFZ5pAEo
+python3.7 -m tubeup 9jPd1ep2RnE
+python3.7 -m tubeup 9ug8FevHGQ0
+python3.7 -m tubeup A81Sda_M3j4
+python3.7 -m tubeup A9UPGlubNgs
+python3.7 -m tubeup ACD-QOH6VLg
+python3.7 -m tubeup ACbTOqf7Esc
+python3.7 -m tubeup ARQCxKEtwZQ
+python3.7 -m tubeup AWeDeGp5wi0
+python3.7 -m tubeup Ag2ueQ-Lvz4
+python3.7 -m tubeup Aq18ja_6SH8
+python3.7 -m tubeup AvuxWNs-qNI
+python3.7 -m tubeup B-woo7pAoLY
+python3.7 -m tubeup B7K88NdmfwQ
+python3.7 -m tubeup B8FaYhd--as
+python3.7 -m tubeup BAn6P0p_uOY
+python3.7 -m tubeup BBB8-diMH58
+python3.7 -m tubeup BBZLDEMGNzg
+python3.7 -m tubeup BISL05sT0Bc
+python3.7 -m tubeup BKYfl_n2HAA
+python3.7 -m tubeup BR_Xns5xM3E
+python3.7 -m tubeup B_QpPd92koY
+python3.7 -m tubeup Bal-ZGohsK8
+python3.7 -m tubeup Bbw1xyJjzAM
+python3.7 -m tubeup Bcg3QmpaWY8
+python3.7 -m tubeup Bf0Tc1yuZBU
+python3.7 -m tubeup BtbFwnL23PQ
+python3.7 -m tubeup Btl9KKySSDE
+python3.7 -m tubeup C3fVYA7bMa4
+python3.7 -m tubeup C8jqIiVt2m4
+python3.7 -m tubeup CCYNjWyEdfs
+python3.7 -m tubeup Cc3zOHd8l-w
+python3.7 -m tubeup CfGx2hpSdBE
+python3.7 -m tubeup Cl5AZ5va6Fk
+python3.7 -m tubeup CmWrNpm2j2g
+python3.7 -m tubeup CoVzWs720Y8
+python3.7 -m tubeup Cq2lnS_bEcQ
+python3.7 -m tubeup DBZninmK2ZM
+python3.7 -m tubeup DCEI4JaRJAE
+python3.7 -m tubeup DFqy-Iy0oR8
+python3.7 -m tubeup DJZT4iVG_Wc
+python3.7 -m tubeup DYjLprMJ0Dw
+python3.7 -m tubeup D_mmq5quO_M
+python3.7 -m tubeup DcxBijJ48xg
+python3.7 -m tubeup Dv1HPEE17lI
+python3.7 -m tubeup DwqAkjB0w8Q
+python3.7 -m tubeup DxDeJHBw53I
+python3.7 -m tubeup Dxv7gkh_m14
+python3.7 -m tubeup Dz9JE8k7CPk
+python3.7 -m tubeup E2Bi9PdSoZI
+python3.7 -m tubeup E9AuWY0LYYA
+python3.7 -m tubeup ENs98ij17Tc
+python3.7 -m tubeup EP7trHlrMBo
+python3.7 -m tubeup ESL3yqpaL8E
+python3.7 -m tubeup EVcI_eFVJhU
+python3.7 -m tubeup EaY3GLrfq00
+python3.7 -m tubeup Eg0JbzzKQsw
+python3.7 -m tubeup Eii55vupLRk
+python3.7 -m tubeup Evq5KBZKPuk
+python3.7 -m tubeup EwaMbUfmJ20
+python3.7 -m tubeup EyvzVnLYMns
+python3.7 -m tubeup F2PeckYu_eM
+python3.7 -m tubeup FBNmwXr2zZs
+python3.7 -m tubeup FHYVx8KYffw
+python3.7 -m tubeup FJi7taoAzPU
+python3.7 -m tubeup FKE1O6jhGCY
+python3.7 -m tubeup FNCKhB_DEeY
+python3.7 -m tubeup FUxBijNuV9Q
+python3.7 -m tubeup FY6_VxShP8k
+python3.7 -m tubeup F_lpbz86GNA
+python3.7 -m tubeup F_u-pftjWFM
+python3.7 -m tubeup Fbu_LltaGLc
+python3.7 -m tubeup FpdZOdW80lk
+python3.7 -m tubeup FrdHOaCVEyc
+python3.7 -m tubeup FxnohdYecBw
+python3.7 -m tubeup G-9C3EVEOcc
+python3.7 -m tubeup G3sQRLlRNBc
+python3.7 -m tubeup G4Ph5_Ef0-o
+python3.7 -m tubeup GBmETdu8BmA
+python3.7 -m tubeup GEw68Ewb4ko
+python3.7 -m tubeup GVSZIj71wMo
+python3.7 -m tubeup GVov2f8vDis
+python3.7 -m tubeup GYWnM7yNP_g
+python3.7 -m tubeup Gex4amNlv9E
+python3.7 -m tubeup GiyONu-2yu4
+python3.7 -m tubeup GjqNPM1YQLo
+python3.7 -m tubeup GwZ0QtL3oYM
+python3.7 -m tubeup HDl7MY7ZrwE
+python3.7 -m tubeup HOT09fIfmsw
+python3.7 -m tubeup HSXizlyUnNI
+python3.7 -m tubeup HU93ghCthDY
+python3.7 -m tubeup HcACx5VOaZU
+python3.7 -m tubeup HfXr6j1RzkI
+python3.7 -m tubeup HgWCuLxpSiU
+python3.7 -m tubeup HiGL6A4jTn8
+python3.7 -m tubeup HisSBWgIlow
+python3.7 -m tubeup HuHP9zlE2tY
+python3.7 -m tubeup Hyj4W4D4-zc
+python3.7 -m tubeup HzbDkTXMLKM
+python3.7 -m tubeup I19Iqa5omNE
+python3.7 -m tubeup I4Uv1wNu9-c
+python3.7 -m tubeup I5415foS45s
+python3.7 -m tubeup I87oo_fR7i4
+python3.7 -m tubeup I8ga47-p8Fc
+python3.7 -m tubeup I9wrWolaEQI
+python3.7 -m tubeup IDuMw6qEKfs
+python3.7 -m tubeup IGACz5EgIeA
+python3.7 -m tubeup IGlzaIknOZ8
+python3.7 -m tubeup ILZPlQGkUqo
+python3.7 -m tubeup ILxyBpQ69k4
+python3.7 -m tubeup INlevisX4EM
+python3.7 -m tubeup IOj98js434Q
+python3.7 -m tubeup IPmynR1HGYU
+python3.7 -m tubeup IUbraADZKHI
+python3.7 -m tubeup IVMhaaC6qkE
+python3.7 -m tubeup IjKA4ACRb4E
+python3.7 -m tubeup IjuP5uNpxkw
+python3.7 -m tubeup IqisrHOR2fY
+python3.7 -m tubeup Iw6XkIYct7k
+python3.7 -m tubeup Izpc_0n7OwA
+python3.7 -m tubeup J83jyhOaEDI
+python3.7 -m tubeup J8uZYlltc9k
+python3.7 -m tubeup J9rWrRcgQ7U
+python3.7 -m tubeup JA4gBXpQDts
+python3.7 -m tubeup JFBYXv1I_tk
+python3.7 -m tubeup JHAWGXUk-OM
+python3.7 -m tubeup JMJn3mjUiz4
+python3.7 -m tubeup JNdHJyw2lUw
+python3.7 -m tubeup JNq1QwEEDak
+python3.7 -m tubeup JQOeNbcHnY8
+python3.7 -m tubeup JcyMG4h2Kh8
+python3.7 -m tubeup JczZLmkMvMw
+python3.7 -m tubeup JlRkE1chnX4
+python3.7 -m tubeup JlqqKTmV5LM
+python3.7 -m tubeup JoF4fS0rOOQ
+python3.7 -m tubeup JurPYRw-C4E
+python3.7 -m tubeup K7DFcyKkmzI
+python3.7 -m tubeup KEU8RAOu2Xc
+python3.7 -m tubeup KNAxu5wALwQ
+python3.7 -m tubeup KNCMZskc3nM
+python3.7 -m tubeup KS1gaxi0SOg
+python3.7 -m tubeup KW94UtI2xPw
+python3.7 -m tubeup Ke1kjVNdIFE
+python3.7 -m tubeup KxCB_wZCtFI
+python3.7 -m tubeup L006oatvehA
+python3.7 -m tubeup L1Ju5ttgoCI
+python3.7 -m tubeup L261jMk65Gs
+python3.7 -m tubeup L3_w_hK-MWk
+python3.7 -m tubeup L6X6Iu-DF44
+python3.7 -m tubeup LAcGcXbVJ28
+python3.7 -m tubeup LBWW-HLya_4
+python3.7 -m tubeup LGktJGoIbS8
+python3.7 -m tubeup LbkTH9cMp38
+python3.7 -m tubeup Lwo1f1yBlcw
+python3.7 -m tubeup LyobFduNiZ8
+python3.7 -m tubeup LzEYq_I8db4
+python3.7 -m tubeup M1uASmnh4js
+python3.7 -m tubeup M3oBDs8fu2E
+python3.7 -m tubeup MBxBgDOUlzw
+python3.7 -m tubeup MIleLHss_Q8
+python3.7 -m tubeup MM9ZGSvnoEQ
+python3.7 -m tubeup MMHm5lZbEsM
+python3.7 -m tubeup MTsO2D_BaoQ
+python3.7 -m tubeup MUxgjAZlt20
+python3.7 -m tubeup MZuLrYKJmB0
+python3.7 -m tubeup MaLzWd8SFo0
+python3.7 -m tubeup MaQfXnLGggs
+python3.7 -m tubeup Mcjr8hgLvro
+python3.7 -m tubeup MnSBicMfXu0
+python3.7 -m tubeup MnhG-tgTx3w
+python3.7 -m tubeup MqPdzi4eCdI
+python3.7 -m tubeup MtVLX3nSSvw
+python3.7 -m tubeup Mu7vTgFGPYA
+python3.7 -m tubeup N4tdoYxSAlY
+python3.7 -m tubeup N81w0MqkziI
+python3.7 -m tubeup N9DhqljgSVE
+python3.7 -m tubeup NDLRfLXmZGk
+python3.7 -m tubeup NFfHtw92RTY
+python3.7 -m tubeup NJBICmRJ8iE
+python3.7 -m tubeup NMoHswv3QmM
+python3.7 -m tubeup NQD9VndfTpA
+python3.7 -m tubeup NQdCU9ezKpY
+python3.7 -m tubeup NYyJNWmf0D0
+python3.7 -m tubeup NZuTdcA64sY
+python3.7 -m tubeup NeqM40C_9TY
+python3.7 -m tubeup Ng18iKDj38w
+python3.7 -m tubeup Ngtc0suXvV0
+python3.7 -m tubeup NhJZG0D0DeI
+python3.7 -m tubeup Nl9LR6JjQtE
+python3.7 -m tubeup NwdNRmF9ZMw
+python3.7 -m tubeup O5ISH6u_cU4
+python3.7 -m tubeup OAvPAxasZj0
+python3.7 -m tubeup OKg3_GkEIuk
+python3.7 -m tubeup OLR17o8lR9Y
+python3.7 -m tubeup OQrfPjEgvvc
+python3.7 -m tubeup OUSJ04o6bjw
+python3.7 -m tubeup Oh_iC7Bri-0
+python3.7 -m tubeup OzlMM1rNZS8
+python3.7 -m tubeup P1mqaVqMWAU
+python3.7 -m tubeup P4JcLEAPMr0
+python3.7 -m tubeup PBRIO_lnmBg
+python3.7 -m tubeup PQjujON7pSs
+python3.7 -m tubeup PdC6em4wq3A
+python3.7 -m tubeup Pdv8kuscQ0I
+python3.7 -m tubeup PeG2eyk6tdQ
+python3.7 -m tubeup PjFZcNmx9tY
+python3.7 -m tubeup PtBTuW1TxX4
+python3.7 -m tubeup PzsWpSlcGgA
+python3.7 -m tubeup Q-ReLFd0Ulk
+python3.7 -m tubeup Q0Gr1ms6wB8
+python3.7 -m tubeup Q24Phi2VqGE
+python3.7 -m tubeup Q4eMj6lb_Xw
+python3.7 -m tubeup Q88DF2aVYYU
+python3.7 -m tubeup QG6M9C-c3d8
+python3.7 -m tubeup R59PaGgul4A
+python3.7 -m tubeup R7AzHNRgmJE
+python3.7 -m tubeup RAo5CfjdvNo
+python3.7 -m tubeup RBMMIuEJHrA
+python3.7 -m tubeup RE49Xu2iA0k
+python3.7 -m tubeup RJOIyDpuqYU
+python3.7 -m tubeup RNlEzi89la0
+python3.7 -m tubeup RSkdADHTqcY
+python3.7 -m tubeup RkCB8dlYvoM
+python3.7 -m tubeup RnfhMLsMvXc
+python3.7 -m tubeup RyAjJaYDcyk
+python3.7 -m tubeup RyP78v0mB3o
+python3.7 -m tubeup SALjdFnXToE
+python3.7 -m tubeup SASI9aWe4AA
+python3.7 -m tubeup SH26VPg0Q9I
+python3.7 -m tubeup SIYSmc4S6S4
+python3.7 -m tubeup SKB45qxDCuk
+python3.7 -m tubeup SNscsBf3244
+python3.7 -m tubeup SSS5XJzySJM
+python3.7 -m tubeup SY7EgZ41UfM
+python3.7 -m tubeup Sg8HkeCUJqw
+python3.7 -m tubeup Sgzz29VoPPw
+python3.7 -m tubeup Smfz0dAhouk
+python3.7 -m tubeup Sogvo3u1HM4
+python3.7 -m tubeup SqYzj2hshkU
+python3.7 -m tubeup SqkLxhXRd0U
+python3.7 -m tubeup SwkTkORDWnQ
+python3.7 -m tubeup T-vXSW9ybY8
+python3.7 -m tubeup T4RaDTe1JGo
+python3.7 -m tubeup THKpblAa4lM
+python3.7 -m tubeup THVJAFvHu3k
+python3.7 -m tubeup TNJpSqhC9kw
+python3.7 -m tubeup TP5RrIB-9Bs
+python3.7 -m tubeup TSFG6WVrqv8
+python3.7 -m tubeup TVyE1lP8Peg
+python3.7 -m tubeup TY3t7mYb6AQ
+python3.7 -m tubeup ThzBYpVwJDc
+python3.7 -m tubeup Tkjd2hGcqaE
+python3.7 -m tubeup TlBmDQmGvbQ
+python3.7 -m tubeup TmELhwSD5rs
+python3.7 -m tubeup Tp-tohRvhus
+python3.7 -m tubeup Tt8SASGXkgk
+python3.7 -m tubeup TwC9b0T0aUc
+python3.7 -m tubeup TxfkbTVldjw
+python3.7 -m tubeup U0NOqqTA61Q
+python3.7 -m tubeup U2r37tIcc50
+python3.7 -m tubeup U5fUBDn0Fl0
+python3.7 -m tubeup U9uHwmMNYcc
+python3.7 -m tubeup UFzRBf4Aodk
+python3.7 -m tubeup UHG_Yw7xLOI
+python3.7 -m tubeup UHP4jUPlzoY
+python3.7 -m tubeup UIAvYkCMAXM
+python3.7 -m tubeup UQqIHJ6DvqA
+python3.7 -m tubeup UTp5lYN-a8Q
+python3.7 -m tubeup UfFNxHW6wHA
+python3.7 -m tubeup UgZ4CQOEQ_A
+python3.7 -m tubeup UiN73hDGERo
+python3.7 -m tubeup UkOR3peOaJw
+python3.7 -m tubeup UzI0jWhZmoA
+python3.7 -m tubeup V5fOPy84M4U
+python3.7 -m tubeup V8eoEFD3KiE
+python3.7 -m tubeup VRFGCIilAws
+python3.7 -m tubeup VgEELbLvHEM
+python3.7 -m tubeup VgMX17PhX1Y
+python3.7 -m tubeup VmoqJn77qTo
+python3.7 -m tubeup W5gvzHzqrDU
+python3.7 -m tubeup WD9O_5acYKE
+python3.7 -m tubeup WFxJfKaUz1M
+python3.7 -m tubeup WJ7_geumT5k
+python3.7 -m tubeup WRGjqIK6u2A
+python3.7 -m tubeup WSKdnjqCMtU
+python3.7 -m tubeup WTWAKc1mwW0
+python3.7 -m tubeup WWKKJcXt6yY
+python3.7 -m tubeup WWhzcJnxJsw
+python3.7 -m tubeup WYmuQaqqN6o
+python3.7 -m tubeup Wa_66EO3pYs
+python3.7 -m tubeup WjaDXWFd-cQ
+python3.7 -m tubeup WmeQpMRZdps
+python3.7 -m tubeup WoY_eTu5TcE
+python3.7 -m tubeup WrjbXeEyPzo
+python3.7 -m tubeup WtehyljJBaw
+python3.7 -m tubeup X3kRydJxFAY
+python3.7 -m tubeup XFBfICX1fqY
+python3.7 -m tubeup XTyoywoGRmY
+python3.7 -m tubeup XVz5VRk0FyU
+python3.7 -m tubeup XXV2JgNZzK4
+python3.7 -m tubeup XdD9U94o0aU
+python3.7 -m tubeup Xef5OMfM2Oc
+python3.7 -m tubeup XfkA5vf21B8
+python3.7 -m tubeup XqEOQ8W2uZE
+python3.7 -m tubeup Xu24eu_cf1Y
+python3.7 -m tubeup XwvLGjQH-VM
+python3.7 -m tubeup XyC1rNsWjDI
+python3.7 -m tubeup Xz5AswXdEJU
+python3.7 -m tubeup Y3M2dCJljA4
+python3.7 -m tubeup Y3OaEFi3aZI
+python3.7 -m tubeup Y9Nw16GzvQE
+python3.7 -m tubeup YAtzfs_pvxM
+python3.7 -m tubeup YOs6tFkENj4
+python3.7 -m tubeup YRdrFFLuiyI
+python3.7 -m tubeup Y_BxmKayuSs
+python3.7 -m tubeup Yc_7Gh9OUiE
+python3.7 -m tubeup Ypa19hm6oN0
+python3.7 -m tubeup YuggdDPQwXc
+python3.7 -m tubeup YzYJ731Q5ho
+python3.7 -m tubeup Z1JyLfGbEPY
+python3.7 -m tubeup Z4aAazwW8Ts
+python3.7 -m tubeup Z7qFIAnMeZs
+python3.7 -m tubeup ZFBbP4gHgoc
+python3.7 -m tubeup ZHjbebXX_uo
+python3.7 -m tubeup ZKc-v9eLbws
+python3.7 -m tubeup ZWRN0A3sJFU
+python3.7 -m tubeup ZhrghS3eyZ0
+python3.7 -m tubeup _-p7UUJt7Sw
+python3.7 -m tubeup _5dEsxuZscE
+python3.7 -m tubeup _8j7K9Hki0E
+python3.7 -m tubeup _Z07WouYWDQ
+python3.7 -m tubeup _a52WR5jvWM
+python3.7 -m tubeup _iBSINB_10E
+python3.7 -m tubeup _r9bfAHAu_A
+python3.7 -m tubeup _vdu04Pz31Q
+python3.7 -m tubeup _w5flCaPMiE
+python3.7 -m tubeup a-33yphMP3I
+python3.7 -m tubeup a5dXBMygwpM
+python3.7 -m tubeup a6tQQhADHU8
+python3.7 -m tubeup a82WNRMMTU8
+python3.7 -m tubeup aF5zsbhwxWU
+python3.7 -m tubeup aNEbLN-XAFo
+python3.7 -m tubeup aQThRcLefqk
+python3.7 -m tubeup aS3Aqs_xTTM
+python3.7 -m tubeup aSJz7ykKNl0
+python3.7 -m tubeup aUBAG7AOEl0
+python3.7 -m tubeup aYlfwxKdoqw
+python3.7 -m tubeup a_uVgAMlgvY
+python3.7 -m tubeup ajzMJ4u4WQ8
+python3.7 -m tubeup apxcmPiVXiQ
+python3.7 -m tubeup ath1Dad8Vhg
+python3.7 -m tubeup azN-BJmZLYs
+python3.7 -m tubeup b69Ui-btUFM
+python3.7 -m tubeup b6AxIf9IRF4
+python3.7 -m tubeup b7LsOghGbfU
+python3.7 -m tubeup bDB7Si7nlmA
+python3.7 -m tubeup bEqpomLN4Os
+python3.7 -m tubeup bHJZBEIXZTA
+python3.7 -m tubeup bO_x_oZclmQ
+python3.7 -m tubeup bQCvkn1faBA
+python3.7 -m tubeup bYlK_R0rzlU
+python3.7 -m tubeup bZvn1_aQeTY
+python3.7 -m tubeup bnkMCs0TJA4
+python3.7 -m tubeup bp26swn9_Ok
+python3.7 -m tubeup bqvE1HPM3T4
+python3.7 -m tubeup br2iwN2PATo
+python3.7 -m tubeup bucqNltAOYo
+python3.7 -m tubeup c-8hoC6FW70
+python3.7 -m tubeup c4NF0Rj-HQo
+python3.7 -m tubeup c8IgsEk7VHk
+python3.7 -m tubeup c9Z3um_B3_g
+python3.7 -m tubeup cNnE7jZQRp0
+python3.7 -m tubeup cWhiTv-iQjs
+python3.7 -m tubeup cXFXn5SYi-0
+python3.7 -m tubeup cfa0jM2dZ5I
+python3.7 -m tubeup ckPdxUIrkfo
+python3.7 -m tubeup cmZCtl62Zdc
+python3.7 -m tubeup cn9atvILiys
+python3.7 -m tubeup cosSsJ2tF_I
+python3.7 -m tubeup cpkiLqNspZc
+python3.7 -m tubeup csCA9JrERog
+python3.7 -m tubeup csQOu6wSKQ8
+python3.7 -m tubeup cv63gpDHg9k
+python3.7 -m tubeup cvD5Njjiumo
+python3.7 -m tubeup d3JR_K16wVo
+python3.7 -m tubeup d4u3EOEBrVU
+python3.7 -m tubeup d797gPcr49s
+python3.7 -m tubeup dCsmnPuZvhM
+python3.7 -m tubeup dDeGb_E4iMg
+python3.7 -m tubeup dG-3SoWQIAg
+python3.7 -m tubeup dKuy-GgoEIc
+python3.7 -m tubeup dNWdojpqqcw
+python3.7 -m tubeup dRUxFC7yjhI
+python3.7 -m tubeup dRnPs1bzN_o
+python3.7 -m tubeup dU48rd2IYuI
+python3.7 -m tubeup dYBW_GR2MfU
+python3.7 -m tubeup d_q00Hdw1ks
+python3.7 -m tubeup dicMFguhXUk
+python3.7 -m tubeup dkiv1AmVtvw
+python3.7 -m tubeup dptSO3cnDdc
+python3.7 -m tubeup e3SIwbDf9b8
+python3.7 -m tubeup e8F1QdOl2k0
+python3.7 -m tubeup e9BJq91O1-s
+python3.7 -m tubeup eES6IjT06qo
+python3.7 -m tubeup eKsogQp2vhI
+python3.7 -m tubeup eS-HU3eb1co
+python3.7 -m tubeup eej2XsZjsy8
+python3.7 -m tubeup ehotbsal-cw
+python3.7 -m tubeup eo9AFW8Hn3Y
+python3.7 -m tubeup eoatNdkfAos
+python3.7 -m tubeup ewE9vRRq1YU
+python3.7 -m tubeup f8sHSWaQzps
+python3.7 -m tubeup fFyFoCiu_wI
+python3.7 -m tubeup fH47lIhgfiA
+python3.7 -m tubeup fNBkrRlCvDU
+python3.7 -m tubeup fa1xLRcUKcc
+python3.7 -m tubeup fcXfoX9B1Wo
+python3.7 -m tubeup ffGV0jK4Yt8
+python3.7 -m tubeup fmf71s6S_TE
+python3.7 -m tubeup fvWtjW_DKp0
+python3.7 -m tubeup fwt9WFwsSOE
+python3.7 -m tubeup g8QNRPshacQ
+python3.7 -m tubeup gDOP229Pc4o
+python3.7 -m tubeup gEaG6IlIhvE
+python3.7 -m tubeup geBEaPKyafU
+python3.7 -m tubeup h214pAv6_2Q
+python3.7 -m tubeup hMKTC91fh-A
+python3.7 -m tubeup hNYguR2zM3g
+python3.7 -m tubeup h_cv9sMbg-8
+python3.7 -m tubeup hv0Ts9p0zCY
+python3.7 -m tubeup hweN5KanR3k
+python3.7 -m tubeup i2cqMFvUPd8
+python3.7 -m tubeup iLUS9wXHDEQ
+python3.7 -m tubeup iLvovepZizM
+python3.7 -m tubeup iMnrBPz2SI4
+python3.7 -m tubeup iN886kcHuws
+python3.7 -m tubeup iR23P7CFcu4
+python3.7 -m tubeup if_2IFu5HP8
+python3.7 -m tubeup ih-HiyAjpIA
+python3.7 -m tubeup iydDmCSrazY
+python3.7 -m tubeup j2NU2OQSS7c
+python3.7 -m tubeup j3-CXniJ_pk
+python3.7 -m tubeup j3cTWhnzxPM
+python3.7 -m tubeup j4eWtAerxm0
+python3.7 -m tubeup j4tpGc_PqQI
+python3.7 -m tubeup j8UZvy-fQHo
+python3.7 -m tubeup jHAN20u2dEE
+python3.7 -m tubeup jM5N24FE83Y
+python3.7 -m tubeup jNhy1X2vOP8
+python3.7 -m tubeup jPLHqrDnckQ
+python3.7 -m tubeup jPg44ZKVMtk
+python3.7 -m tubeup jWWaqcWtjiE
+python3.7 -m tubeup jXyEA5vELsA
+python3.7 -m tubeup jYgg1QFIkWQ
+python3.7 -m tubeup jceCM_4YYYo
+python3.7 -m tubeup jg-SeYyfXgY
+python3.7 -m tubeup jgJrHt68ubM
+python3.7 -m tubeup jgKUx4EOBas
+python3.7 -m tubeup jjWQZli2g8g
+python3.7 -m tubeup jkVtCKtJ7uw
+python3.7 -m tubeup joZGgC9avEk
+python3.7 -m tubeup k46LdxCGu4o
+python3.7 -m tubeup k6cChZlQ3KY
+python3.7 -m tubeup k8x1x4Kd2dU
+python3.7 -m tubeup kQxl69dl9y0
+python3.7 -m tubeup kSNzjhjbxCI
+python3.7 -m tubeup kebYLPCct1w
+python3.7 -m tubeup kg2iyNFZx94
+python3.7 -m tubeup klUF7EZycRw
+python3.7 -m tubeup ko2PCQL5dJ0
+python3.7 -m tubeup kqyBMexNz80
+python3.7 -m tubeup ksc-AShZ8B0
+python3.7 -m tubeup kvBcAbZtOfM
+python3.7 -m tubeup kvd-fuhNCR8
+python3.7 -m tubeup kveszkgHUUc
+python3.7 -m tubeup l4G_SnBHbms
+python3.7 -m tubeup l7laIvEJRgo
+python3.7 -m tubeup l9OqVuQRmZ0
+python3.7 -m tubeup l9gI01U3ybA
+python3.7 -m tubeup lNO0dTq3QU8
+python3.7 -m tubeup lS3shLCLX-Y
+python3.7 -m tubeup lT3_6ETyqto
+python3.7 -m tubeup lUVVhZeDLVM
+python3.7 -m tubeup lVze2KFkKLk
+python3.7 -m tubeup lXMgOP8INEg
+python3.7 -m tubeup lXZvZOPlMzM
+python3.7 -m tubeup lY8qeCQbH0Q
+python3.7 -m tubeup ldiOZeHQuVc
+python3.7 -m tubeup lm0o6-B4ouQ
+python3.7 -m tubeup lmdodWCNp2Y
+python3.7 -m tubeup lsYAec-uVSo
+python3.7 -m tubeup lvxGARVb0pU
+python3.7 -m tubeup lyRY2qbMW20
+python3.7 -m tubeup m03Q8lyngAU
+python3.7 -m tubeup mH0j7vGCE2A
+python3.7 -m tubeup mHo1tKXAzyI
+python3.7 -m tubeup mKuq_Y0x5jA
+python3.7 -m tubeup mPcWS4WhofQ
+python3.7 -m tubeup mPtpr0Hkn1Q
+python3.7 -m tubeup mWz-7tZTXPg
+python3.7 -m tubeup mYP4-VEISnU
+python3.7 -m tubeup mcz1ahS-7iE
+python3.7 -m tubeup mjXkFY1XBfE
+python3.7 -m tubeup mmd0FRIAVVk
+python3.7 -m tubeup mw3yv6JnQRQ
+python3.7 -m tubeup mxNZQV47hG0
+python3.7 -m tubeup n2PGhEi6BrA
+python3.7 -m tubeup n8i0vhQY61E
+python3.7 -m tubeup nVKQgUrhJfY
+python3.7 -m tubeup n_POCwv1LVg
+python3.7 -m tubeup ncuSo9hF9zI
+python3.7 -m tubeup nd7I2If8pRY
+python3.7 -m tubeup nh7sZhpPolE
+python3.7 -m tubeup ni8NlhtbDxA
+python3.7 -m tubeup nkR0YXta9uk
+python3.7 -m tubeup nlDdfyjWHXI
+python3.7 -m tubeup nqr-rr2ujUg
+python3.7 -m tubeup nsLNaPibKGA
+python3.7 -m tubeup nvSTmgFG5Q0
+python3.7 -m tubeup oIWWF6OTqKw
+python3.7 -m tubeup oQF1iHs_OYI
+python3.7 -m tubeup oSUP6pAsCEw
+python3.7 -m tubeup oTYfXN-CXlA
+python3.7 -m tubeup oWlNBAVy3DM
+python3.7 -m tubeup oYxknxzwRsY
+python3.7 -m tubeup ohAUn6eAAaM
+python3.7 -m tubeup ohIdTLN1EiY
+python3.7 -m tubeup ouJDecEeMdY
+python3.7 -m tubeup owAj2ZdrdJA
+python3.7 -m tubeup owDrWd3glEw
+python3.7 -m tubeup p0XBkh_bj68
+python3.7 -m tubeup p5JmAcPOImM
+python3.7 -m tubeup p5hDuJBXV7k
+python3.7 -m tubeup p7Wsnc4ncdE
+python3.7 -m tubeup pKHgMrpk5A0
+python3.7 -m tubeup pPJ45a5uefo
+python3.7 -m tubeup pPTFG1SzN2g
+python3.7 -m tubeup pTJf3BLOn5o
+python3.7 -m tubeup p_nmGgPUQq4
+python3.7 -m tubeup pb7VSZxWKec
+python3.7 -m tubeup pdQM4ir6Bzs
+python3.7 -m tubeup pdputDFhQCU
+python3.7 -m tubeup pgGplFgCuFE
+python3.7 -m tubeup pkt1RxUp4Ao
+python3.7 -m tubeup pl8jCxf95nA
+python3.7 -m tubeup plMOhqmEslk
+python3.7 -m tubeup psIxZi7KMvk
+python3.7 -m tubeup psq2kjUqtqE
+python3.7 -m tubeup q-ZnuNBo3_4
+python3.7 -m tubeup q0ARakkKQsA
+python3.7 -m tubeup q0W5i5P_n7I
+python3.7 -m tubeup qBNDx7jUsHI
+python3.7 -m tubeup qEKg7wUFwfk
+python3.7 -m tubeup qT8CUPGKQY4
+python3.7 -m tubeup qbgWkX_FvZU
+python3.7 -m tubeup qcHQ9_vGdwM
+python3.7 -m tubeup qcftjObls_8
+python3.7 -m tubeup r3QQak2ebJ4
+python3.7 -m tubeup r5LC9dEx4BA
+python3.7 -m tubeup rKiTrzAWJ00
+python3.7 -m tubeup rS3jc_ATcPo
+python3.7 -m tubeup rV3WQpHTwsU
+python3.7 -m tubeup rWcugAYbLEk
+python3.7 -m tubeup ravZXU9jFLk
+python3.7 -m tubeup rbfzoM3m16c
+python3.7 -m tubeup rcuJHwdqu7Y
+python3.7 -m tubeup rg36CWjkwu0
+python3.7 -m tubeup rt66wIo750c
+python3.7 -m tubeup rwSDFW_ESYg
+python3.7 -m tubeup rwVXxTTEPu0
+python3.7 -m tubeup s5G_8WzXKrM
+python3.7 -m tubeup s8zTJNW5drM
+python3.7 -m tubeup sDbF3Arbajk
+python3.7 -m tubeup sKDFN4He4fE
+python3.7 -m tubeup sU_MWlvwsaA
+python3.7 -m tubeup sVvJazfSBRQ
+python3.7 -m tubeup sdFyjoh4j2g
+python3.7 -m tubeup stUNplRU8mY
+python3.7 -m tubeup svk-PtQN0Bg
+python3.7 -m tubeup t0FKSM2PuKk
+python3.7 -m tubeup t2lkmNbNR_U
+python3.7 -m tubeup tK2tFTINILM
+python3.7 -m tubeup tMB8PuYSfWs
+python3.7 -m tubeup tNO-n_CPTnY
+python3.7 -m tubeup tOUNjdagf5g
+python3.7 -m tubeup tVhpKWjCkCo
+python3.7 -m tubeup t_rBwE3k_ME
+python3.7 -m tubeup tf9kHG7o5K4
+python3.7 -m tubeup thFh6jHclJg
+python3.7 -m tubeup thQ3T31AHMA
+python3.7 -m tubeup tnjQ7sGDI8E
+python3.7 -m tubeup twbf-I-xsoI
+python3.7 -m tubeup u04oy7sIHVQ
+python3.7 -m tubeup u5bm9qsY3tM
+python3.7 -m tubeup u6MfCdhWH0c
+python3.7 -m tubeup uAV8QLkFQNc
+python3.7 -m tubeup uDp6BS6P-1o
+python3.7 -m tubeup uLANVOb-L1g
+python3.7 -m tubeup uP-34QJVCAs
+python3.7 -m tubeup uTPPbipqNg8
+python3.7 -m tubeup uTpTeeWl_jw
+python3.7 -m tubeup uVNn4So-lNc
+python3.7 -m tubeup uXKWFmbcU5s
+python3.7 -m tubeup uZk2iTItHEM
+python3.7 -m tubeup uZr4WDd_BGo
+python3.7 -m tubeup ua54oamagEE
+python3.7 -m tubeup uiM4Z7GlI5A
+python3.7 -m tubeup uiTr_35dezs
+python3.7 -m tubeup v7_jbZhg3gw
+python3.7 -m tubeup v9C6WQh7eTQ
+python3.7 -m tubeup vAOkcgnADxw
+python3.7 -m tubeup vEjeL_bk9e4
+python3.7 -m tubeup vH_IUBXE2BI
+python3.7 -m tubeup vIFPtRBGlEA
+python3.7 -m tubeup vLAw-wYXzxI
+python3.7 -m tubeup vVi8DoSUrrw
+python3.7 -m tubeup vWxBMWlZfxQ
+python3.7 -m tubeup vYTfAHTBXZg
+python3.7 -m tubeup vmocOOmqHhk
+python3.7 -m tubeup vsvSTztOeKg
+python3.7 -m tubeup w3H0CV4ZU30
+python3.7 -m tubeup wCVZ6G48f0M
+python3.7 -m tubeup wKSA0CZcI2Q
+python3.7 -m tubeup wlDVgBr75yw
+python3.7 -m tubeup wmaNz0J1sas
+python3.7 -m tubeup wplAc0eta2k
+python3.7 -m tubeup wvk5I2314nA
+python3.7 -m tubeup x9gzHtuS2k8
+python3.7 -m tubeup xAKPXu2CrOY
+python3.7 -m tubeup xLYvTFDyEsA
+python3.7 -m tubeup xOINqxqFtq0
+python3.7 -m tubeup x_XsDNY8lUo
+python3.7 -m tubeup xcQiUbnEb_A
+python3.7 -m tubeup xgY8m_T90jk
+python3.7 -m tubeup xglhwBaTlns
+python3.7 -m tubeup xlaTdp2WO3U
+python3.7 -m tubeup xs2ufXlRy5s
+python3.7 -m tubeup xuWTzoHv188
+python3.7 -m tubeup xvvc4Hf8-ug
+python3.7 -m tubeup y3olal9jWtg
+python3.7 -m tubeup y6xL9hlPCNQ
+python3.7 -m tubeup yJNA05E5gBs
+python3.7 -m tubeup yNML1t2qKk8
+python3.7 -m tubeup yOHdeEyMGv8
+python3.7 -m tubeup yRcNhjNWI1s
+python3.7 -m tubeup yT6JFxd5zTo
+python3.7 -m tubeup yWeNyf9Q9P8
+python3.7 -m tubeup ycDwg0cDGmg
+python3.7 -m tubeup ymlEvNdOV-k
+python3.7 -m tubeup yp-4Y5vUyUw
+python3.7 -m tubeup yrMjTZozEkg
+python3.7 -m tubeup yukAcKUpFd8
+python3.7 -m tubeup z17OI0H6YKM
+python3.7 -m tubeup z2OrijftyZ4
+python3.7 -m tubeup z8rW552jjPw
+python3.7 -m tubeup zPHXggN8Rjw
+python3.7 -m tubeup zRgCp0FU6dA
+python3.7 -m tubeup zRlhhb3JU5k
+python3.7 -m tubeup zXnB5_h1_uw
+python3.7 -m tubeup zcNALUNaj90
+python3.7 -m tubeup znuXmgXp1Iw
