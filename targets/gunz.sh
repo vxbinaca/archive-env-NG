@@ -13,6 +13,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCi5PGj0TV3wkwKmRACb5tHA
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCiqYKuIJRIr2PEF2FOLFOew
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCjjqH5ZKLkY_NQeY_YpCvrg
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCrZCwEZ3MBBd-TUu4auQvxg
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCsmS8dm384bXstowC4kf8hA
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCwFQw-t3fzE6tdd6-KeDMfA
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/50CalVal
