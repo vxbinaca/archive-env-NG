@@ -1,3 +1,4 @@
+## python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpWYzyfnuPYNOA_uOMYn0YQ Strayed from collection subject
 ## python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGMA0oadw2XiglyjhlUDhRA ##Drug Store UTF-8 a constant uploading issue
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/GL1CTH3R
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/SanekShadow234
@@ -509,7 +510,6 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http:
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpIzDup6yUZhwaHjEgm2dEg
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpL5xV3rPwFPvhYtdil24qg
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpT46G77geEsEUOKzb49enQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpWYzyfnuPYNOA_uOMYn0YQ
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpdtJLTBJqR_gYYDPKkMP-w
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpie9Kij6EuF3OhsQBhymWg
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpv4yZz6CYUSZfmQGO6lnyA
