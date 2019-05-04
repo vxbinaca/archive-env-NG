@@ -1,5 +1,6 @@
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC6cqbWCSh9LaqPoQprQUoaw
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC8q6FZliLdeiMbyFVgOdgfw
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC9YRbzs-eK68tcrSAK4bj2g
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC9k2WzcJ1kUMl4KIwNQwrFA
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCCdeHKahyMAlPV6SQGx8psg
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCClIfWXtn4rA-1jDHAVPYmg
