@@ -45,7 +45,6 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCnQogRWNwH-m8W0NQMYI3Ig
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCnzq0TEm7vMLUe4wEumA39A
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCox0RC7bP_wafzpRmlnD9EQ
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCp4oMaqaY0hIoT9jafj1g8g
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCp8tB7kfhjvmgY2wUDBlaMA
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCpMMcYVSnqOIJA11vBnFngQ
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCroYqE1LddWoe1L3gZEqUXg
