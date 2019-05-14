@@ -1,6 +1,6 @@
 ## python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/junnnktank ## DEAD
-##python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/toplesstopics
-##python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/user8923725
+## python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/toplesstopics
+## python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/user8923725
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/chrismday
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/exey
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/fetishfactory
@@ -12,4 +12,5 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://v
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/user26842840
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/vnbateman
 python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://vimeo.com/TheDabSpot
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://vimeo.com/dinafem
 python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://vimeo.com/growpotcheaply
