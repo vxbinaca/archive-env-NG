@@ -83,3 +83,4 @@ python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC5ihB7WP6
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/smiletone ## Gazi Kodzo
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q ## Jordan Peterson
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/ClanOfTheGrayWolf
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCT7BLBDnD-wEXeqZSg24aJw ## Soph
