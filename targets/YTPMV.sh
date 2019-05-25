@@ -640,6 +640,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http:
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/NamaCream777
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/NitroPowerMan
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/OHMYItsGodzilla
+python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/PonySwagify
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Prolyfic8
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/R7729dash44
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/RP1234BITCH
