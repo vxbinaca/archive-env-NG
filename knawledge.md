@@ -223,3 +223,11 @@ To fix:
 ### Remove trailing spaces from each line
 
 `:%s/\s\+$//`
+
+### Delete all files in a item, erase item history, no keeping old revisions (USE WITH CARE)
+
+`ia delete [IDENTIFIER] -H x-archive-keep-old-version:0`
+
+Where `-H x-archive-keep-old-version:0` does the magic of not keeping the old versions.
+
+**WARNING:** Check if video is alive first before using this or you'll irrevocbly delete the archhived stub
