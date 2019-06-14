@@ -18,6 +18,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCrZCwEZ3MBBd-TUu4auQvxg
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCsmS8dm384bXstowC4kf8hA
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCwFQw-t3fzE6tdd6-KeDMfA
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCwdnqJVTYgUB5-zHybamXfg
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/50CalVal
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/BritishTang
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/HaleyStrategic
