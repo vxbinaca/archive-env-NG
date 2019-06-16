@@ -91,6 +91,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/shachiNT
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/stevieryan
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/veradevera 
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC4unV5BVmWubfAF0Al_AVdw
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC5ihB7WP6MtZbB3XyV2vj9Q ## Skeptic Feminist
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC6wdP5hTf_phre6Q3kFiV2g
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q ## Jordan Peterson
