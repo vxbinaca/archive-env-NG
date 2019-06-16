@@ -4,7 +4,10 @@
 #python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/ejmillennium ##NJ nerds
 #python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/gotenks6 ##NJ nerds
 #python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/katTcritic ##NJ nerds
+python3.7 -m tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency ## Anita Sarkeesian channel/collection
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC-zgHpR-_niRxow6vS6nSGQ
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC1fSp9Qpp8tT982OumLS5Hg
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC27m3R6W5sP7-QLfMTEso2w
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC4QFrwuzxJ2eC7Q2iDrlJFg
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC4kWnf_8zo0KX5oYHRaozDw ## Piper CoCoScope
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5hie5xBr7qENWVD_kfsiew
@@ -13,6 +16,8 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCAo6nC6I9yk2X4xqQThhhew
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCB5Yw6r20bTrkZZDS_EnNvg
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCC8904HNAeMwgLhs58oJjxA
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCDLA7Y_6mt-9UrrxTuudt8Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCE4yx7b0-zCtj5QmbFUCvHg
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCEAqHbeIpPERhniNjQyR7EQ
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCEG3ulBltfrvOE8baBogJ0g
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCEUrQzNPvDQoEMNswAr8mCA
@@ -32,8 +37,10 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCTRpJwRhE-uifL7fTRVe48g
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCTlQFIx8RUus4R3zYAUHHYA
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCUKihB_Y4_CIHSWCEBsId-w ## ici piper
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCVmLGSIez0Oay3bsTmZbIUQ
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCWH4JkQWioU3vTAritHDnAA
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCWMPmKJ8GmmUvI5ZC0V2VsA
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCXwCE2sF1TRnaWfmEMlz8vA
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCZZFrPKyH-Le2uoPGnn5jyg
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC_CKL5F9i7e9sPnZcxXP3HQ
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCaIg15JhvGgPwdurGNqjJUg
@@ -44,6 +51,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCjPao-PMHoC1IBurivhfGFQ
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCkDXV1ELQBVV4BuLR-FyfkA
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCkfqhn4lyofss8PM1IubDgA
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UClMLaP99_AGVcJ-E9lvW5kw
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCla6APLHX6W3FeNLc8PYuvg
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCmOVEae8Tl7XmdjdxLbJHkw
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCmyiBfu_idd4fdSQuA6yjew
@@ -69,13 +77,17 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/TLCSprout
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/TheRealParis
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/ZimoNitrome
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/acourtroom/videos
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/acourtroom
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/debuglive
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/dsscdse
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/etanthe4th
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/flippingpages1014
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/fuzzyfunction
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/komori841
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/littleloca
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/lonelygirl15
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/nitengotv
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/pikopikoken
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/shachiNT
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/stevieryan
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/veradevera 
@@ -89,3 +101,5 @@ python3.7 -m tubeup --use-download-archive http://youtube.com/user/ClanOfTheGray
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/Shoe0ffHead
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/Shoe0nHead
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/smiletone ## Gazi Kodzo
+python3.7 -m tubeup --use-download-archive http://youtube.com/user/sydsnap
+python3.7 -m tubeup --use-download-archive http://youtube.com/user/sydsnapva
