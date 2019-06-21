@@ -1,3 +1,4 @@
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3te5ROBgvDuuJOio-ZlXZQ
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC6cqbWCSh9LaqPoQprQUoaw
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC8q6FZliLdeiMbyFVgOdgfw
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC9YRbzs-eK68tcrSAK4bj2g
