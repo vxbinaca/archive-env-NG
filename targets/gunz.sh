@@ -20,6 +20,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCsmS8dm384bXstowC4kf8hA ## creator:"ProjectGuns"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCwFQw-t3fzE6tdd6-KeDMfA ## creator:"Ghost Guns Co"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCwdnqJVTYgUB5-zHybamXfg ## creator:"Matra Group"
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCxhtk4_tqKJh9Eh7saRUFfg ## creator:"Sonic Silencers"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/50CalVal ## creator:"50CalVal"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/BritishTang ## creator:"Garand Thumb"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/HaleyStrategic ## creator:"HaleyStrategic"
