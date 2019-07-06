@@ -76,6 +76,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/RareNargacuga
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/TLCSprout
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/TheRealParis
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/ToonLink13
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/ZimoNitrome
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/acourtroom
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/debuglive
