@@ -257,7 +257,6 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http:
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCQ--PpwG_Pg7g6u8rZ2A16w
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCQ0hDNwxz_orFUAtV6t1EaA
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCQCrwy74CggEfmL4Fh3LPxg
-python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCQOr8qLk1cUqAIq1ZHHrfHQ
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCQXBpkU8A0pn71fPJyhgP1Q
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCQzokBDqRS71ga3KNkznFUw
 python3.7 -m tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRFSTgF0DIU_RAQY341nYZw
