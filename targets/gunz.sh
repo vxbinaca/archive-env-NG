@@ -9,6 +9,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCEC4sjDdhve0jBey4lL_RKg ## creator:"Rifle Dynamics"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCG5jZJriesapPb-igAfoQWw ## creator:"AMTAC Suppressors"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCHdVwKz3nA_gaYXL9cEME0A ## creator:"ioscribe"
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCLmv_cs3QJNDEnc3HYaQ2iA ## creator:"Eric Dienno"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCU1u934KGakuZMiNsGvljJA ## creator:"208307"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCW0V8XgHkmT5nsWdw1Z0LFw ## creator:"Venom Defense"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCci79_hMFw1CahtThZJ53yA ## creator:"Jeff Rodriguez"
