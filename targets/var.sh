@@ -104,4 +104,3 @@ python3.7 -m tubeup --use-download-archive http://youtube.com/user/Shoe0nHead
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/smiletone ## Gazi Kodzo
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/sydsnap
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/sydsnapva
-python3.7 -m tubeup --use-download-archive http://youtube.com/user/veritasvisuals
