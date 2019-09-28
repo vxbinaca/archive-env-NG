@@ -121,6 +121,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http
 python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCsb6Zb_7BuLHIOuAE7Ir_Kw
 python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCtU2-cpxx18iQ4BvracrxDQ
 python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCtj9ZKYV5OZpRyuSlzHjwmQ
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCtu-OrEfKXAi6_wcRwhifBA
 python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCu0rG-PIKLZC_QHppVXB7zg
 python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCuIJqlyXu5LCWYyOqYt_A-g
 python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCuen2o_1aZJGuyC88CANeAg
