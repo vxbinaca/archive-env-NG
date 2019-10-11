@@ -7,7 +7,7 @@ Okay some key things you need to know are how to quickly find video IDs, and ext
 We'll be working with [this item](http://archive.org/details/youtube-jNQXAC9IVRw), the first ever video uploaded to Youtube.
 
 ```
-[   The rest of the URL   ] [ Item Identifier ]
+[   The rest of the URL   ][ Item Identifier ]
 http://archive.org/details/youtube-jNQXAC9IVRw
 ```
  
@@ -25,7 +25,7 @@ http://www.youtube.com/watch?v=jNQXAC9IVRw
 ```
 
 Youtube-dl stores the entry for the video in the video archive in a similar fashion:
-
+NOTE: sideID and extractorID are probably different in structure but similar to one another
 ```
 youtube JNo4d4pL9S8
 youtube jNpltNfQrVs
