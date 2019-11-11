@@ -12,6 +12,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCLmv_cs3QJNDEnc3HYaQ2iA ## creator:"Eric Dienno"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCU1u934KGakuZMiNsGvljJA ## creator:"208307"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCW0V8XgHkmT5nsWdw1Z0LFw ## creator:"Venom Defense"
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC_Dsj3dmIpm1BuzO6MQMmMQ ## creator:"Jigsore Rephon"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCci79_hMFw1CahtThZJ53yA ## creator:"Jeff Rodriguez"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCdSKY3mXy9LhYWiY8zvRuxQ ## creator:"Open Source Ordnance"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCduPsSVIdaVTRSbCa3Dz78g ## creator:"usmcdoc14"
