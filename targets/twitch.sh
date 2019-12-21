@@ -4,6 +4,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams h
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/ashelylovecraft/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/charlscarroll/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/chubbykittenreviews/videos/all
+python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/erabb/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/gamecatt/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/grandifloru/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/gunsarefun911/videos/all
