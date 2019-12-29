@@ -39,6 +39,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams h
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/toplesstopics/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/virescence_/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/xxautumnivyxx/videos/all
+python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/yakirisu/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/yamatoworks/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/yifanlu/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/zeldacw/videos/all
