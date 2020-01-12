@@ -20,6 +20,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams h
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/kristiplays/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/kushbushcrits/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/kyleeasakura/videos/all
+python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/lolwut8D/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/nyannyancosplay/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/producerchik/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/r0x4nn3/videos/all
