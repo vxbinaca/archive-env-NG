@@ -1,4 +1,4 @@
-iubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/2high4lifeTv/
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/2high4lifeTv/
 python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/3tokes/
 python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/6Chel6sea6/
 python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://pscp.tv/AlondraBravoo/
