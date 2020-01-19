@@ -98,6 +98,7 @@ python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCL_f53ZEJ
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCT7BLBDnD-wEXeqZSg24aJw ## Soph
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC_1HVMnw-610qx54iEiWk7A
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCrvmV0HaVXnsS6EcN_fdmTg
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCxdkQN7XpdzWw9ii2bl91NA/videos
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/ClanOfTheGrayWolf
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/Shoe0ffHead
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/Shoe0nHead
