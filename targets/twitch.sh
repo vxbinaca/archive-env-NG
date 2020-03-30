@@ -1,4 +1,3 @@
-##python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/zonesama/videos/all
 #%#python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/spoonee/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:healthyaddictvideos http://twitch.tv/healthyaddict/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/SashaHippie/videos/all
@@ -55,3 +54,4 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams h
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/yifanlu/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/yuninja8/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/zeldacw/videos/all
+python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/zonesama/videos/all
