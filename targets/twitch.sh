@@ -3,6 +3,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:healthyaddictvi
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/SashaHippie/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/afoxinspaceshow/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/akidearest/videos/all
+python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/amadanigames/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/ashelylovecraft/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/charlscarroll/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/chubbykittenreviews/videos/all
