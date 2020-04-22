@@ -105,6 +105,7 @@ python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC6wdP5hTf
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q ## Jordan Peterson
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCT7BLBDnD-wEXeqZSg24aJw ## Soph
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC_1HVMnw-610qx54iEiWk7A
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC_BEq1haIVw4p25K95kaS3Q ## emu.cooking
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCrvmV0HaVXnsS6EcN_fdmTg
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCxdkQN7XpdzWw9ii2bl91NA
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/ClanOfTheGrayWolf
