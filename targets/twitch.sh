@@ -36,6 +36,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams h
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/rayvinrainn/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/ryuudog_/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/sae_jin/videos/all
+python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/samtron5000/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/saruei/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/sashagrey/videos/all
 python3.7 -m tubeup --use-download-archive --metadata=collection:twitchstreams http://twitch.tv/sh0rtychan/videos/all
