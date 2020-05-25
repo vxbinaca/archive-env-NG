@@ -5,7 +5,6 @@
 #python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/gotenks6 ##NJ nerds
 #python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/katTcritic ##NJ nerds
 python3.7 -m tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency ## Anita Sarkeesian channel/collection
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://www.youtube.com/user/hezuneutral
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC-zgHpR-_niRxow6vS6nSGQ
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC1fSp9Qpp8tT982OumLS5Hg
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC27m3R6W5sP7-QLfMTEso2w
@@ -92,6 +91,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/etanthe4th
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/flippingpages1014
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/fuzzyfunction
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/hezuneutral
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/komori841
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/littleloca
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/lonelygirl15
@@ -101,6 +101,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/stevieryan
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/veradevera 
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC4unV5BVmWubfAF0Al_AVdw
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC5Bwuy_YTOB7YbOPrkb9vVg ## Fetties
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC5ihB7WP6MtZbB3XyV2vj9Q ## Skeptic Feminist
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC6wdP5hTf_phre6Q3kFiV2g
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w ## Brittany Venti
