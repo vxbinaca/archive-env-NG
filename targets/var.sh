@@ -4,6 +4,8 @@
 #python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/ejmillennium ##NJ nerds
 #python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/gotenks6 ##NJ nerds
 #python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/katTcritic ##NJ nerds
+http://youtube.com/channel/UCAHPaRfB7hqXtdOoqWux4EQ ## CursedArachnid
+http://youtube.com/channel/UCHGr3Ca27u68X1swTGyrkNQ ## Demon Grimalkin
 python3.7 -m tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency ## Anita Sarkeesian channel/collection
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC-zgHpR-_niRxow6vS6nSGQ
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC1fSp9Qpp8tT982OumLS5Hg
@@ -111,6 +113,7 @@ python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC_1HVMnw-
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC_BEq1haIVw4p25K95kaS3Q ## emu.cooking
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCnzq0TEm7vMLUe4wEumA39A ## Spooky Weeb Trash
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCrvmV0HaVXnsS6EcN_fdmTg
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCxB7iKYaPv8AJBMWXTbZQVQ ## Yolo Swag Studios
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCxdkQN7XpdzWw9ii2bl91NA
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/ClanOfTheGrayWolf
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/Shoe0ffHead
