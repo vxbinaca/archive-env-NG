@@ -1,5 +1,6 @@
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3te5ROBgvDuuJOio-ZlXZQ ## creator:"esstac"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3zqcDInk4fMcnmbSV_q4dg ## creator:"Royal Nonesuch"
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5Q0zboe3LqI0Ht6Qt022FQ ## creator:"BoogerEater"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC6cqbWCSh9LaqPoQprQUoaw ## creator:"Atlas Arms"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC8q6FZliLdeiMbyFVgOdgfw ## creator:"5D Tactical"
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC9YRbzs-eK68tcrSAK4bj2g ## creator:"Ivan The Troll"
