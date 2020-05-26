@@ -4,8 +4,6 @@
 #python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/ejmillennium ##NJ nerds
 #python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/gotenks6 ##NJ nerds
 #python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/katTcritic ##NJ nerds
-http://youtube.com/channel/UCAHPaRfB7hqXtdOoqWux4EQ ## CursedArachnid
-http://youtube.com/channel/UCHGr3Ca27u68X1swTGyrkNQ ## Demon Grimalkin
 python3.7 -m tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency ## Anita Sarkeesian channel/collection
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC-zgHpR-_niRxow6vS6nSGQ
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC1fSp9Qpp8tT982OumLS5Hg
@@ -17,6 +15,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5hie5xBr7qENWVD_kfsiew
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC7yPuRdd4ZKhJQueiVnjd2A
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC8aG3LDTDwNR1UQhSn9uVrw
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCAHPaRfB7hqXtdOoqWux4EQ ## CursedArachnid
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCAo6nC6I9yk2X4xqQThhhew
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCB5Yw6r20bTrkZZDS_EnNvg
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCC8904HNAeMwgLhs58oJjxA
@@ -29,6 +28,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCF30c7L3SiutEP9m_HhBZAw
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCG5ZWGfgDXk40t9Og02F5yA
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCGCqGI3f2WSDnfRjrD1Cj_Q
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCHGr3Ca27u68X1swTGyrkNQ ## Demon Grimalkin
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCIY27ReU--8y7rI8wJPvBWg ## Miss Moonified
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCImh042Sqo5MilDYye2dU_A ## Piper Blush
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCJil534CSR8m5BeQVPkTx4Q ## Kuma Cooking
