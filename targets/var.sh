@@ -116,6 +116,7 @@ python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCrvmV0HaV
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCxB7iKYaPv8AJBMWXTbZQVQ ## Yolo Swag Studios
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCxdkQN7XpdzWw9ii2bl91NA
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/ClanOfTheGrayWolf
+python3.7 -m tubeup --use-download-archive http://youtube.com/user/OtakuVsNotaku
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/Shoe0ffHead
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/Shoe0nHead
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/smiletone ## Gazi Kodzo
