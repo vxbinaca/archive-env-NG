@@ -1,8 +1,8 @@
-python3.7 -m tubeup --use-download-archive -5f4lVjZpaQ
-python3.7 -m tubeup --use-download-archive -7k5xQYQ5os
-python3.7 -m tubeup --use-download-archive -9i9XxPVOEM
-python3.7 -m tubeup --use-download-archive -B8_gVSw5KE
-python3.7 -m tubeup --use-download-archive -FH0zE8NI08
+python3.7 -m tubeup --use-download-archive https://www.youtube.com/watch?v=--5f4lVjZpaQ
+python3.7 -m tubeup --use-download-archive https://www.youtube.com/watch?v=--7k5xQYQ5os
+python3.7 -m tubeup --use-download-archive https://www.youtube.com/watch?v=--9i9XxPVOEM
+python3.7 -m tubeup --use-download-archive https://www.youtube.com/watch?v=--B8_gVSw5KE
+python3.7 -m tubeup --use-download-archive https://www.youtube.com/watch?v=--FH0zE8NI08
 python3.7 -m tubeup --use-download-archive https://www.youtube.com/watch?v=-FSfJILsru8
 python3.7 -m tubeup --use-download-archive https://www.youtube.com/watch?v=-KgV0eHXotI
 python3.7 -m tubeup --use-download-archive https://www.youtube.com/watch?v=-LQ9FwJDxis
