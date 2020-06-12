@@ -14,6 +14,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCyWnfUZHcgVxBS3wAUGA15A
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCypv3gnAf-Ww4-iJ6fYc0cg
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/FileNotFoundStudios
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/VinceManciniComedy 
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/WoodRocketTV
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/altexclusive
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/emmnetwork
