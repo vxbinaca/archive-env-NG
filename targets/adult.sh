@@ -1,3 +1,4 @@
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC0_TARSGSOrKtjSeyKIM6wA
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCCEHYSwePYhNw3POgQ2fNww
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCLLi4qLYWPD2mYb-niJLy5w
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCOOIibe-CCdC0VWlvCjf0qw
@@ -13,6 +14,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCyWnfUZHcgVxBS3wAUGA15A
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCypv3gnAf-Ww4-iJ6fYc0cg
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/FileNotFoundStudios
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/WoodRocketTV
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/altexclusive
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/emmnetwork
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/misssashagrey/videos
