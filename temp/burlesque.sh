@@ -1,5 +1,3 @@
-python3.7 -m tubeup --use-download-archive HAf-Fbrq1Go
-python3.7 -m tubeup --use-download-archive HPJTYxLU2Ak
 python3.7 -m tubeup --use-download-archive HZLtzad6tCs
 python3.7 -m tubeup --use-download-archive Hb6O8nvPgi0
 python3.7 -m tubeup --use-download-archive HgtM4iAkxFM
