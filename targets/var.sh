@@ -102,12 +102,14 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/shachiNT
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/stevieryan
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/veradevera 
+python3.7 -m tubeup --use-download-archive http://youtube.com/c/senzawa/videos ## Senzawa
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC4unV5BVmWubfAF0Al_AVdw
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC5Bwuy_YTOB7YbOPrkb9vVg ## Fetties
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC5ihB7WP6MtZbB3XyV2vj9Q ## Skeptic Feminist
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC6wdP5hTf_phre6Q3kFiV2g
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w ## Brittany Venti
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q ## Jordan Peterson
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA ## Muni Bug
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCT7BLBDnD-wEXeqZSg24aJw ## Soph
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCXvKUavCtDOlA8bT1i2tI3w ## Belle Delphine
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC_1HVMnw-610qx54iEiWk7A ## Aki Dearest
