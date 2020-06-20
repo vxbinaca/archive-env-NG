@@ -109,10 +109,12 @@ python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC6wdP5hTf
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w ## Brittany Venti
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q ## Jordan Peterson
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCT7BLBDnD-wEXeqZSg24aJw ## Soph
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCXvKUavCtDOlA8bT1i2tI3w ## Belle Delphine
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC_1HVMnw-610qx54iEiWk7A ## Aki Dearest
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC_BEq1haIVw4p25K95kaS3Q ## emu.cooking
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCnzq0TEm7vMLUe4wEumA39A ## Spooky Weeb Trash
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCrvmV0HaVXnsS6EcN_fdmTg
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCsIAMpI9bRV9T9gJT9Mbdpw ## さえなるチャンネル
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCxB7iKYaPv8AJBMWXTbZQVQ ## Yolo Swag Studios
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCxdkQN7XpdzWw9ii2bl91NA
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/ClanOfTheGrayWolf
@@ -122,4 +124,3 @@ python3.7 -m tubeup --use-download-archive http://youtube.com/user/Shoe0nHead
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/smiletone ## Gazi Kodzo
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/sydsnap
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/sydsnapva
-python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCsIAMpI9bRV9T9gJT9Mbdpw ## さえなるチャンネル
