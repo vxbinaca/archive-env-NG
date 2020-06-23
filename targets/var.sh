@@ -106,6 +106,7 @@ python3.7 -m tubeup --use-download-archive http://youtube.com/c/senzawa/videos #
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC4unV5BVmWubfAF0Al_AVdw
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC5Bwuy_YTOB7YbOPrkb9vVg ## Fetties
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC5ihB7WP6MtZbB3XyV2vj9Q ## Skeptic Feminist
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC6e-wMTFtTJo-PPY0ZsfbvQ ## 麗癒ちゃんねる
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC6wdP5hTf_phre6Q3kFiV2g
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w ## Brittany Venti
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q ## Jordan Peterson
