@@ -33,7 +33,12 @@ Optional software (nice to have and my prefered setup):
 ### Getting started
 
 - Configure Tubeup [per it's instructions](http://github.com/bibanon/tubeup)
+- You'll need to enerate a ECDSA key if you're working with a new machine
+
+  `ssh-keygen -t ed25519 ; cat ~/.ssh/id_ed25519.pub`
+
 - Add new machines public SSH key to this account or an account with write access to this repo.
+
 - If you have write access to this repo, clone this repository using:
 
   `git clone git+ssh://git@github.com/vxbinaca/archive-env-NG.git ~/git/archive-env-ng/`
