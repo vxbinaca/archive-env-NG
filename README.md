@@ -36,7 +36,7 @@ Optional software (nice to have and my prefered setup):
 - Add new machines public SSH key to this account or an account with write access to this repo.
 - If you have write access to this repo, clone this repository using:
 
-  `git clone git+ssh://git@github.com/vxbinaca/archive-env-NG.git ~/git/`
+  `git clone git+ssh://git@github.com/vxbinaca/archive-env-NG.git ~/git/archive-env-ng/`
 
   Also don't forget to set your default editor to nvim or vim
 
