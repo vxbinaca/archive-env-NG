@@ -102,7 +102,10 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/shachiNT
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/stevieryan
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/veradevera 
+python3.7 -m tubeup --use-download-archive http://youtube.com/c/RileyReidx3
 python3.7 -m tubeup --use-download-archive http://youtube.com/c/senzawa/videos ## Senzawa
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/videos ## Harper D Cox
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/videos ## The Donkey Show
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC4unV5BVmWubfAF0Al_AVdw
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC5Bwuy_YTOB7YbOPrkb9vVg ## Fetties
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC5ihB7WP6MtZbB3XyV2vj9Q ## Skeptic Feminist
@@ -115,6 +118,7 @@ python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCT7BLBDnD
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCXvKUavCtDOlA8bT1i2tI3w ## Belle Delphine
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC_1HVMnw-610qx54iEiWk7A ## Aki Dearest
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC_BEq1haIVw4p25K95kaS3Q ## emu.cooking
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC_j65wgy_u3mycNCn_7D2Fw
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCnzq0TEm7vMLUe4wEumA39A ## Spooky Weeb Trash
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCrvmV0HaVXnsS6EcN_fdmTg
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCsIAMpI9bRV9T9gJT9Mbdpw ## さえなるチャンネル
@@ -127,5 +131,3 @@ python3.7 -m tubeup --use-download-archive http://youtube.com/user/Shoe0nHead
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/smiletone ## Gazi Kodzo
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/sydsnap
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/sydsnapva
-python3.7 -m tubeup --use-download-archive https://www.youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/videos ## Harper D Cox
-python3.7 -m tubeup --use-download-archive https://www.youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/videos ## The Donkey Show
