@@ -1,3 +1,4 @@
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC0_TARSGSOrKtjSeyKIM6wA
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCCEHYSwePYhNw3POgQ2fNww
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCLLi4qLYWPD2mYb-niJLy5w
@@ -7,6 +8,7 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCTulpxDN56BLbhqiyqQgFHg
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCX3yyFTHfbNXISi2pY0mrmA
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCXjkPQN193ToX487P6Bcc0A
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC_j65wgy_u3mycNCn_7D2Fw
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCe-R3nqJVdW-xWV5rfcbK7A
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCgqXdQDUUynay5zG3pmLWTw
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCoRmKIwJAUn_qz1sbS4R94Q
@@ -23,4 +25,3 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/modelmayhemofficial
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/officialbreeolson9
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/xoClaireRobbins
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ
