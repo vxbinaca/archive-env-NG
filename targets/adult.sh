@@ -23,3 +23,4 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/modelmayhemofficial
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/officialbreeolson9
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/xoClaireRobbins
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup https://www.youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ

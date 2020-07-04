@@ -104,7 +104,6 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/veradevera 
 python3.7 -m tubeup --use-download-archive http://youtube.com/c/RileyReidx3
 python3.7 -m tubeup --use-download-archive http://youtube.com/c/senzawa/videos ## Senzawa
-python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/videos ## Harper D Cox
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/videos ## The Donkey Show
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC4unV5BVmWubfAF0Al_AVdw
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC5Bwuy_YTOB7YbOPrkb9vVg ## Fetties
