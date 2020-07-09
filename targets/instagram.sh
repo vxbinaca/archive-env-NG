@@ -1,3 +1,6 @@
+python3.8 -m tubeup --use-download-archive --metadata=collection:tubeup http://instagram.com/monroesirena/
+python3.8 -m tubeup --use-download-archive --metadata=collection:tubeup http://instagram.com/roarie_yum/
+python3.8 -m tubeup --use-download-archive --metadata=collection:tubeup http://instagram.com/xxdorkaliciousxx/
 python3.8 -m tubeup --use-download-archive --metadata=collection:weedtubers http://instagram.com/_flameo_/
 python3.8 -m tubeup --use-download-archive --metadata=collection:weedtubers http://instagram.com/candystripeconcentrates/
 python3.8 -m tubeup --use-download-archive --metadata=collection:weedtubers http://instagram.com/f.rancesrae/
@@ -11,6 +14,7 @@ python3.8 -m tubeup --use-download-archive --metadata=collection:weedtubers http
 python3.8 -m tubeup --use-download-archive --metadata=collection:weedtubers http://instagram.com/ktbean420/
 python3.8 -m tubeup --use-download-archive --metadata=collection:weedtubers http://instagram.com/kyrstun.irene/
 python3.8 -m tubeup --use-download-archive --metadata=collection:weedtubers http://instagram.com/leafly/
+python3.8 -m tubeup --use-download-archive --metadata=collection:weedtubers http://instagram.com/marniejuana/
 python3.8 -m tubeup --use-download-archive --metadata=collection:weedtubers http://instagram.com/meangreenqueen/
 python3.8 -m tubeup --use-download-archive --metadata=collection:weedtubers http://instagram.com/nataliefour20/
 python3.8 -m tubeup --use-download-archive --metadata=collection:weedtubers http://instagram.com/positivesmash/
