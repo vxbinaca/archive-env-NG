@@ -11,6 +11,7 @@
 #python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/gotenks6 ##NJ nerds
 #python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/katTcritic ##NJ nerds
 python3.7 -m tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency ## Anita Sarkeesian channel/collection
+python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/MoLupo21 # Wos X
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC-zgHpR-_niRxow6vS6nSGQ ## Mellyboo
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC1fSp9Qpp8tT982OumLS5Hg ## Tactical Bacon Patches
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC27m3R6W5sP7-QLfMTEso2w ## 全てあなたの所為です。
