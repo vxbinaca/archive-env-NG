@@ -5,7 +5,6 @@ python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://y
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCS5jTl5mDs2XY3eR9XkpUtQ
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCTulpxDN56BLbhqiyqQgFHg
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCWMPmKJ8GmmUvI5ZC0V2VsA ## Mercedes Carrera
-python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCX3yyFTHfbNXISi2pY0mrmA
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCXjkPQN193ToX487P6Bcc0A
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCe-R3nqJVdW-xWV5rfcbK7A
 python3.7 -m tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCgqXdQDUUynay5zG3pmLWTw
