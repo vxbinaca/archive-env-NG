@@ -1,7 +1,7 @@
 ##Exfiltrate archive file
-cat ~/.tubeup/.ytdlarchive >> ~/git/archive-env-NG/.ytdlarchive.temp ; 
+cat ~/.tubeup/.ytdlarchive >> ~/git/archive-env-NG/.ytdlarchive ; 
 ##Mix into temp and then back again, sorting for uniqueness
-cat .ytdlarchive >> .ytdlarchive.temp ; cat .ytdlarchive.temp | sort -u > .ytdlarchive ; yes | rm .ytdlarchive.temp
+sort -u .ytdlarchive .ytdlarchive
 ##create commit
 git add .ytdlarchive ; git commit -m "Download archive update"
 
