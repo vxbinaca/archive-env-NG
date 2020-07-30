@@ -65,7 +65,6 @@ python3.7 -m tubeup --use-download-archive  --metadata=collection:kigvideos http
 python3.7 -m tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/user/Ciela720
 python3.7 -m tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/user/ClaireRieva
 python3.7 -m tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/user/Eurokigurumi
-python3.7 -m tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/user/ExeCuteTV
 python3.7 -m tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/user/Fir100
 python3.7 -m tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/user/GURYUUU
 python3.7 -m tubeup --use-download-archive  --metadata=collection:kigvideos http://youtube.com/user/Hodaraku
