@@ -1,3 +1,4 @@
+python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/c/Erikandoit
 python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/KSGLIFESTYLE
 python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UC-AJcHTjclNm7wM3RHYt3QQ
 python3.7 -m tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UC-j0wSx5QfgXuKXyaroo8cg
