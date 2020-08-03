@@ -1,5 +1,10 @@
 ## tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/junnnktank ## DEAD
 ## tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/toplesstopics ## Needs get-id slow/low rip
+python3.8 -m tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/danlior
+python3.8 -m tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/ercumentsubasi
+python3.8 -m tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/user11199544
+python3.8 -m tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/user4039288
+python3.8 -m tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/user607712
 tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/angelangon
 tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/barneyquinn
 tubeup --use-download-archive --metadata=collection:tubeup http://vimeo.com/carwellcasswell
