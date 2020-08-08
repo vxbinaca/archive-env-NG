@@ -1,5 +1,5 @@
 ##Exfiltrate archive file
-cat ~/.tubeup/.ytdlarchive >> ~/git/archive-env-ng/.ytdlarchive
+cat ~/.tubeup/.ytdlarchive >> ~/git/archive-env-NG/.ytdlarchive
 ##Mix into temp and then back again, sorting for uniqueness
 sort -u -o .ytdlarchive .ytdlarchive
 ##create commit
