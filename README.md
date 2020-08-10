@@ -42,7 +42,7 @@ Optional software (nice to have and my prefered setup):
 
 - If you have write access to this repo, clone this repository using:
 
-  `git clone git+ssh://git@github.com/vxbinaca/archive-env-NG.git ~/git/archive-env-ng/`
+  `git clone git+ssh://git@github.com/vxbinaca/archive-env-NG.git ~/git/archive-env-NG/`
 
   Also don't forget to set your default editor to nvim or vim
 
