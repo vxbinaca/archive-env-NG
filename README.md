@@ -14,6 +14,7 @@ The servers self-manage as well. Number of servers can be scaled up or down depe
 Hardware:
 - A Linux/BSD VPS with unlimited bandwidth and preferably 100 gigabytes of storage, although 50 at a minimum is workable.
 - Multiple VPS' are ideal, as many machines in different countries as you can get. Ideal countries are the United States, Germany, Japan, the Netherlands, and Sweden. The US, Japan and Sweden being the most powerful at bypassing YouTube geo-restrictions.
+- `nscd` to greatly reduce name server lookups and increase stability of rips.
 
 Software:
 - `git` (obviously)
@@ -25,7 +26,7 @@ Software:
 Optional software (nice to have and my prefered setup):
 
 - NeoVIM/nvim aliased over vim/nano etc.
-- zsh + [OhMyZSH](http://github.com/robbyrussell/oh-my-zsh) + [powerlevel9k theme](http://github.com/bhilburn/powerlevel9k) since it's just more powerful, has key-press saving features like fantastic tab completion and pl9k has git integration.
+- zsh + [OhMyZSH](http://github.com/robbyrussell/oh-my-zsh) + [powerlevel10k theme](https://github.com/romkatv/powerlevel10k) since it's just more powerful, has key-press saving features like fantastic tab completion and pl10k has git integration.
 - "most" for dealing with long output from ls or the like. It's in most distros
  accept centOS (ahem, centos repo people).
 - *On your own machine*: `fonts-powerline` or powerline fonts to properly render powerlevel9k theme.
