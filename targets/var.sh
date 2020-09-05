@@ -124,5 +124,7 @@ python3.7 -m tubeup --use-download-archive http://youtube.com/user/sydsnap
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/sydsnapva
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/ayananishinaga ## 西永彩奈ちゃんねる
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCrfroioyR188GNllgeDV8KA ## チャンネルいにゃ
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCoLCf3aVRMSukwetHfn1p1A ## ボートレース戸田
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCIqyFzDuFim0B_UaKROeGqw ## Run Girls, Run!公式チャンネル
 
 
