@@ -102,6 +102,8 @@ python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC071DPKFZ
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC4unV5BVmWubfAF0Al_AVdw ## SyrianGirlpartisan
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC5ihB7WP6MtZbB3XyV2vj9Q ## Skeptic Feminist
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC6e-wMTFtTJo-PPY0ZsfbvQ ## 麗癒ちゃんねる
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCBhnI7_z3NIJmneNe7wjlPw ## Velvet Tube 벨벳튜브
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCIqyFzDuFim0B_UaKROeGqw ## Run Girls, Run!公式チャンネル
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w ## Brittany Venti
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q ## Jordan Peterson
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA ## Muni Bug
@@ -110,6 +112,8 @@ python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCXvKUavCt
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC_1HVMnw-610qx54iEiWk7A ## Aki Dearest
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UC_BEq1haIVw4p25K95kaS3Q ## emu.cooking
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCnzq0TEm7vMLUe4wEumA39A ## Spooky Weeb Trash
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCoLCf3aVRMSukwetHfn1p1A ## ボートレース戸田
+python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCrfroioyR188GNllgeDV8KA ## チャンネルいにゃ
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCrvmV0HaVXnsS6EcN_fdmTg ## Cami Carr
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCsIAMpI9bRV9T9gJT9Mbdpw ## さえなるチャンネル
 python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCxB7iKYaPv8AJBMWXTbZQVQ ## Yolo Swag Studios
@@ -119,12 +123,7 @@ python3.7 -m tubeup --use-download-archive http://youtube.com/user/OtakuVsNotaku
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/Shoe0ffHead
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/Shoe0nHead
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/ThePopeB4G
+python3.7 -m tubeup --use-download-archive http://youtube.com/user/ayananishinaga ## 西永彩奈ちゃんねる
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/smiletone ## Gazi Kodzo
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/sydsnap
 python3.7 -m tubeup --use-download-archive http://youtube.com/user/sydsnapva
-python3.7 -m tubeup --use-download-archive http://youtube.com/user/ayananishinaga ## 西永彩奈ちゃんねる
-python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCrfroioyR188GNllgeDV8KA ## チャンネルいにゃ
-python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCoLCf3aVRMSukwetHfn1p1A ## ボートレース戸田
-python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCIqyFzDuFim0B_UaKROeGqw ## Run Girls, Run!公式チャンネル
-
-
