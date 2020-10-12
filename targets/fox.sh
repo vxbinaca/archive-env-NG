@@ -1,1 +1,1 @@
-python3.7 -m tubeup --use-download-archive http://youtube.com/channel/UCvU3L4wOrubaBtQeTuZ3TiQ/videos
+tubeup --use-download-archive http://youtube.com/channel/UCvU3L4wOrubaBtQeTuZ3TiQ/videos

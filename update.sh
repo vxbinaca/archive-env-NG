@@ -1,5 +1,5 @@
 youtube-dl --rm-cache-dir ; ## Cleanse youtube-dl cache
-python3.7 -m pip install -U --user youtube-dl pip internetarchive; ## Update python envionment
+pip install -U --user youtube-dl pip internetarchive; ## Update python envionment
 git pull ; ## Pull new progress from repo
 ./inject-merge.sh ; ## Merge repo into local instance
 ./extract.sh ; ## Extract newest entries from local .ytdlarchive

@@ -1,31 +1,31 @@
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/271110926
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/270755527
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/270378437
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/270280889
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/269983507
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/269881179
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/269588630
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/269487445
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/269206190
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/268742907
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/268359903
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/267903949
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/267488515
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/267094847
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/266801234
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/266378498
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/266139527
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/265714199
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/265429732
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/265332606
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/265002622
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/264595093
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/264193187
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/263896480
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/263777605
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/263440385
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/263097862
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/263042590
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/262678947
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/262328477
-python3.7 -m tubeup --use-download-archive http://twitch.tv/videos/261953985
+tubeup --use-download-archive http://twitch.tv/videos/271110926
+tubeup --use-download-archive http://twitch.tv/videos/270755527
+tubeup --use-download-archive http://twitch.tv/videos/270378437
+tubeup --use-download-archive http://twitch.tv/videos/270280889
+tubeup --use-download-archive http://twitch.tv/videos/269983507
+tubeup --use-download-archive http://twitch.tv/videos/269881179
+tubeup --use-download-archive http://twitch.tv/videos/269588630
+tubeup --use-download-archive http://twitch.tv/videos/269487445
+tubeup --use-download-archive http://twitch.tv/videos/269206190
+tubeup --use-download-archive http://twitch.tv/videos/268742907
+tubeup --use-download-archive http://twitch.tv/videos/268359903
+tubeup --use-download-archive http://twitch.tv/videos/267903949
+tubeup --use-download-archive http://twitch.tv/videos/267488515
+tubeup --use-download-archive http://twitch.tv/videos/267094847
+tubeup --use-download-archive http://twitch.tv/videos/266801234
+tubeup --use-download-archive http://twitch.tv/videos/266378498
+tubeup --use-download-archive http://twitch.tv/videos/266139527
+tubeup --use-download-archive http://twitch.tv/videos/265714199
+tubeup --use-download-archive http://twitch.tv/videos/265429732
+tubeup --use-download-archive http://twitch.tv/videos/265332606
+tubeup --use-download-archive http://twitch.tv/videos/265002622
+tubeup --use-download-archive http://twitch.tv/videos/264595093
+tubeup --use-download-archive http://twitch.tv/videos/264193187
+tubeup --use-download-archive http://twitch.tv/videos/263896480
+tubeup --use-download-archive http://twitch.tv/videos/263777605
+tubeup --use-download-archive http://twitch.tv/videos/263440385
+tubeup --use-download-archive http://twitch.tv/videos/263097862
+tubeup --use-download-archive http://twitch.tv/videos/263042590
+tubeup --use-download-archive http://twitch.tv/videos/262678947
+tubeup --use-download-archive http://twitch.tv/videos/262328477
+tubeup --use-download-archive http://twitch.tv/videos/261953985
