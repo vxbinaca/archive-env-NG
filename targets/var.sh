@@ -128,3 +128,7 @@ tubeup --use-download-archive http://youtube.com/user/ayananishinaga ## 西永�
 tubeup --use-download-archive http://youtube.com/user/smiletone ## Gazi Kodzo
 tubeup --use-download-archive http://youtube.com/user/sydsnap
 tubeup --use-download-archive http://youtube.com/user/sydsnapva
+tubeup --use-download-archive https://www.youtube.com/c/Lewdcast/videos 
+tubeup --use-download-archive https://www.youtube.com/channel/UC1p8HZW7Yx3VbJTDDVbQELw 
+tubeup --use-download-archive https://www.youtube.com/channel/UC2wmC89IGdayr9a7EJhxf6w 
+tubeup --use-download-archive https://www.youtube.com/channel/UClYQwz4pVcuDnHXFsjXhbAQ 
