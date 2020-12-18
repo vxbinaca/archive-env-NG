@@ -98,11 +98,14 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/stevieryan
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/veradevera 
 tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse
+tubeup --use-download-archive http://youtube.com/c/Lewdcast/videos 
 tubeup --use-download-archive http://youtube.com/c/senzawa/videos ## Senzawa
 tubeup --use-download-archive http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/videos ## The Donkey Show
+tubeup --use-download-archive http://youtube.com/channel/UC2wmC89IGdayr9a7EJhxf6w 
 tubeup --use-download-archive http://youtube.com/channel/UC4unV5BVmWubfAF0Al_AVdw ## SyrianGirlpartisan
 tubeup --use-download-archive http://youtube.com/channel/UC5ihB7WP6MtZbB3XyV2vj9Q ## Skeptic Feminist
 tubeup --use-download-archive http://youtube.com/channel/UC6e-wMTFtTJo-PPY0ZsfbvQ ## 麗癒ちゃんねる
+tubeup --use-download-archive http://youtube.com/channel/UC7RYl7VNkiUssSr028azf7w 
 tubeup --use-download-archive http://youtube.com/channel/UCBhnI7_z3NIJmneNe7wjlPw ## Velvet Tube 벨벳튜브
 tubeup --use-download-archive http://youtube.com/channel/UCIqyFzDuFim0B_UaKROeGqw ## Run Girls, Run!公式チャンネル
 tubeup --use-download-archive http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w ## Brittany Venti
@@ -110,8 +113,10 @@ tubeup --use-download-archive http://youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9
 tubeup --use-download-archive http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA ## Muni Bug
 tubeup --use-download-archive http://youtube.com/channel/UCT7BLBDnD-wEXeqZSg24aJw ## Soph
 tubeup --use-download-archive http://youtube.com/channel/UCXvKUavCtDOlA8bT1i2tI3w ## Belle Delphine
+tubeup --use-download-archive http://youtube.com/channel/UCZTTxoM7GT-NVe52xqP0cXw
 tubeup --use-download-archive http://youtube.com/channel/UC_1HVMnw-610qx54iEiWk7A ## Aki Dearest
 tubeup --use-download-archive http://youtube.com/channel/UC_BEq1haIVw4p25K95kaS3Q ## emu.cooking
+tubeup --use-download-archive http://youtube.com/channel/UClYQwz4pVcuDnHXFsjXhbAQ 
 tubeup --use-download-archive http://youtube.com/channel/UCnzq0TEm7vMLUe4wEumA39A ## Spooky Weeb Trash
 tubeup --use-download-archive http://youtube.com/channel/UCoLCf3aVRMSukwetHfn1p1A ## ボートレース戸田
 tubeup --use-download-archive http://youtube.com/channel/UCrfroioyR188GNllgeDV8KA ## チャンネルいにゃ
@@ -128,6 +133,3 @@ tubeup --use-download-archive http://youtube.com/user/ayananishinaga ## 西永�
 tubeup --use-download-archive http://youtube.com/user/smiletone ## Gazi Kodzo
 tubeup --use-download-archive http://youtube.com/user/sydsnap
 tubeup --use-download-archive http://youtube.com/user/sydsnapva
-##tubeup --use-download-archive https://www.youtube.com/c/Lewdcast/videos 
-##tubeup --use-download-archive https://www.youtube.com/channel/UC2wmC89IGdayr9a7EJhxf6w 
-##tubeup --use-download-archive https://www.youtube.com/channel/UClYQwz4pVcuDnHXFsjXhbAQ 
