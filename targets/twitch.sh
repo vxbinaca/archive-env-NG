@@ -29,6 +29,7 @@ tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/kimochisensei/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/kinkymation/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/kittendaddyhub/videos?filter=archives&sort=time"
+tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/koalapuffslive/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/kristiplays/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/kushbushcrits/archives/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/kyleeasakura/videos?filter=archives&sort=time"
