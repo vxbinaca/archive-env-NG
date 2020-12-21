@@ -44,7 +44,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCSuHzQ3GrHSzoBbwrIq3LLA ## Naomi Brockwell
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCT5y7BAocgM-PeXpVCvyG4g ## Hal (metokur channel)
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCTRpJwRhE-uifL7fTRVe48g ## T-DJ Milana
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCTlQFIx8RUus4R3zYAUHHYA ## Dutchko e
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCTlQFIx8RUus4R3zYAUHHYA ## Dutchko
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCUKihB_Y4_CIHSWCEBsId-w ## ici piper
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCVmLGSIez0Oay3bsTmZbIUQ ## ThePuneya
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCVy5jg4ryacDTWXXpV035fg ## Stefania Ferrario
@@ -98,14 +98,15 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/stevieryan
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/veradevera 
 tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse
-tubeup --use-download-archive http://youtube.com/c/Lewdcast/videos 
-tubeup --use-download-archive http://youtube.com/c/senzawa/videos ## Senzawa
+tubeup --use-download-archive http://youtube.com/c/Lewdcast
+tubeup --use-download-archive http://youtube.com/c/Octav1usExtra
+tubeup --use-download-archive http://youtube.com/c/senzawa
 tubeup --use-download-archive http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/videos ## The Donkey Show
 tubeup --use-download-archive http://youtube.com/channel/UC2wmC89IGdayr9a7EJhxf6w 
 tubeup --use-download-archive http://youtube.com/channel/UC4unV5BVmWubfAF0Al_AVdw ## SyrianGirlpartisan
 tubeup --use-download-archive http://youtube.com/channel/UC5ihB7WP6MtZbB3XyV2vj9Q ## Skeptic Feminist
 tubeup --use-download-archive http://youtube.com/channel/UC6e-wMTFtTJo-PPY0ZsfbvQ ## 麗癒ちゃんねる
-tubeup --use-download-archive http://youtube.com/channel/UC7RYl7VNkiUssSr028azf7w 
+tubeup --use-download-archive http://youtube.com/channel/UC7RYl7VNkiUssSr028azf7w ## WWII Girl
 tubeup --use-download-archive http://youtube.com/channel/UCBhnI7_z3NIJmneNe7wjlPw ## Velvet Tube 벨벳튜브
 tubeup --use-download-archive http://youtube.com/channel/UCIqyFzDuFim0B_UaKROeGqw ## Run Girls, Run!公式チャンネル
 tubeup --use-download-archive http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w ## Brittany Venti
@@ -113,10 +114,10 @@ tubeup --use-download-archive http://youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9
 tubeup --use-download-archive http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA ## Muni Bug
 tubeup --use-download-archive http://youtube.com/channel/UCT7BLBDnD-wEXeqZSg24aJw ## Soph
 tubeup --use-download-archive http://youtube.com/channel/UCXvKUavCtDOlA8bT1i2tI3w ## Belle Delphine
-tubeup --use-download-archive http://youtube.com/channel/UCZTTxoM7GT-NVe52xqP0cXw
+tubeup --use-download-archive http://youtube.com/channel/UCZTTxoM7GT-NVe52xqP0cXw ## Ana Isabel
 tubeup --use-download-archive http://youtube.com/channel/UC_1HVMnw-610qx54iEiWk7A ## Aki Dearest
 tubeup --use-download-archive http://youtube.com/channel/UC_BEq1haIVw4p25K95kaS3Q ## emu.cooking
-tubeup --use-download-archive http://youtube.com/channel/UClYQwz4pVcuDnHXFsjXhbAQ 
+tubeup --use-download-archive http://youtube.com/channel/UClYQwz4pVcuDnHXFsjXhbAQ ## Krystallize is Back
 tubeup --use-download-archive http://youtube.com/channel/UCnzq0TEm7vMLUe4wEumA39A ## Spooky Weeb Trash
 tubeup --use-download-archive http://youtube.com/channel/UCoLCf3aVRMSukwetHfn1p1A ## ボートレース戸田
 tubeup --use-download-archive http://youtube.com/channel/UCrfroioyR188GNllgeDV8KA ## チャンネルいにゃ
@@ -124,6 +125,7 @@ tubeup --use-download-archive http://youtube.com/channel/UCrvmV0HaVXnsS6EcN_fdmT
 tubeup --use-download-archive http://youtube.com/channel/UCsIAMpI9bRV9T9gJT9Mbdpw ## さえなるチャンネル
 tubeup --use-download-archive http://youtube.com/channel/UCxB7iKYaPv8AJBMWXTbZQVQ ## Yolo Swag Studios
 tubeup --use-download-archive http://youtube.com/channel/UCxdkQN7XpdzWw9ii2bl91NA ## Qwerticular
+tubeup --use-download-archive http://youtube.com/channel/UCz5Kx6dP6rHRf9yLY1tnelw ## Octavius King
 tubeup --use-download-archive http://youtube.com/user/ClanOfTheGrayWolf
 tubeup --use-download-archive http://youtube.com/user/OtakuVsNotaku
 tubeup --use-download-archive http://youtube.com/user/Shoe0ffHead
