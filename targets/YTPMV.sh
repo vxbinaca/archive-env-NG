@@ -1,724 +1,725 @@
-## tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGMA0oadw2XiglyjhlUDhRA ##Drug Store UTF-8 a constant uploading issue/videos
-## tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpWYzyfnuPYNOA_uOMYn0YQ Strayed from collection subject/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/GL1CTH3R/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/SanekShadow234/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-0nEIC-FugrulWEeAvufHw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-4pcWatasdrqZPpp_vU8Ug/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-9n2fl0tEiELBaeJZaxBMA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-BgXSM1WyyObbx1M69aBRA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-BsK5dZu6E1ZnFk6d06_tg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-GUuiJERTE8Ee3zhGKle4Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-SJ4RoLRldJdAz9m6fGdDw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-UTs9MiEOHUB4syFkaK9aQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-X94lIDJuadQYz7wMZqGQQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-XyJljByGgdg1bXdl7JHRw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-ZyJgoIrPLqNT5gndPupJg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-qi0JTQon0ukNctWUHvb_g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-v6CIsOoLPBHCOEK3Nvoag/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-wK-yP1CpPbF1FOLZeRX4A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-ydlDX4QwcUbC7TUv4gLfA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-zbyF2CLLiwM7IvjWxuBPA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC0-OeqR2mqwOMmVcixIs9lw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC05TLpiuzqvXOWPTa4h8HLw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC060XVDTrztoAVvCRUgdceA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC07k8WG4dUddGP1JdegE7zg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC0D3gekwOD6zz05Gs0B_ngA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC0GjS_-_Qi7in72ekUyeBEw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC0MBHhJtgstrsnt5j7Zr27Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC0hCetNZbwueAtslL0bwx9w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC0z7WQMJBXN1LtSefMmcG0w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC0zRqs3io1OeZF6ztIC5z0Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC1-r3PwvESKZ_WhVTzyja3A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC122UkIATHrdzZNONFzXHSg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC17a2zwuqjeuzUjwBV2BYtg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC1F6zA-WXGVOatwQTlGhdyw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC1Ytn_XPUqWyC4LbAnqD5tw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC1k5l1w0glqlVumI--z7Rdw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC1t9HGyEjyl3FZSqf6zseFA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC1w2vVwi09HKyFpajsAdqfQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC247z1hdq19t1XBuU-a_j5g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2AZNmRdUiZwVaomY2LE_xg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2BHb_xFRWSZf38fPuACnGQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2WQcrYYt_p2OotJuyCSL6w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2Y38zOD87E5pdE1c3GPBzg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2ZHGIqpXL_YXV_RZF1h5KQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2ajfUDw-moOndCqPilteWg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2pCK8UK5_kMw4-NiAZ2WVwe/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2s1cvVh7qGd07GzPnqrj5A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2y-IkIRLm2RguWVb8mC9bQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3C3qzasmf_pD2vYrQzTRIQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3EoehFhMAtI_2jrzihgtZA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3HUaI08TR9ccYXKWA2Fx-w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3VoE90kyt91XjjUiMsn_qg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3_7p6IfdgTVnpjNvAZr9qg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3bDRVah9bTLzy3sDDhW-Yw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3gElT_nBvb87Jchzt8p0Mw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3rfEppAd8qeBfyMF253B6A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3tz8ji7jTd031VVjEFpz_g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3wWUpOohLet5SG5N5rITZQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4ft1MHe2gpFFWVstwfA5Hw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4hSLf2cV_x4JQ9PF8pv56A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4jgFNjjbqJX1GRLP4LL8UQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4lYqNXGDxSRVi36Ra4OC0Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4nZ2v4VY-77TwhL-lVH76w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4pdY20UI2AvfhnypcBGEpg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4qiUT1l4HSFX0_eWNhmrAw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4tcbILwwpz5tWCwU5SklWw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4uTAnx4UuYY898SCs8lUGg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC50Vou-rHB-KGxjEw45_SrA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC58Mfw53Z6JWovoPiyqAU5g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5A3XSKxvvtiLMaDyKg3R2g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5DvrQXnfIqcn2bzfjqM5Uw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5KxR_bz4Z-Rmg0ZTBu2siw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5NqByX_kBz-r-7mB1yqI5Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5QoXcz8sEYvxYCRbrMEwrQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5_x_lCKGotB6hSrMzr60NQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5dj1pFnPO3gWy-KBYWtUPQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5gZqdIbXU8QNaVMAAwZgUg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5zXAuJscN6F71GVvSxjP8w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC6-D6kXl2XWfRoJgwr_4iHw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC6AJ0RREyJu0-spQoqSAP9A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC6FQ1CCsTVdr5DrE4JXOVUA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC6UygvPHxLXOOLuAYrdRE3A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC6WNapr-Fp9SKqrv6_JBUbQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC6ZDG-FH46f-zslm-EA3nrg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC76HQqvG1HlCkePYmoHTh5w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC7R96QzSoEaiWgN16EU1TIA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC7YkmaTew3ZtevVZJsUqzbQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC7cqxFKM7UI0tpY9yAe-mKw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC7fxPVbi32tcLtVppeh_F-A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC7kwfrBt2UUK6TgmOpSCIYA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC7sJVxlAcTwyuSjYaWTtoMg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC7wPDdE7hS-Nu8HAznarFEA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8G33AC5XICbav-9RAUUw0w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8d50sg_nVJx6x7d9AWDBpA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8gMZQNdm3DhGdx_Qo3u3uw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8oZtp8ay0Omfl7VYOqOJFw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8p-oY4Z0pIsIoooC1Qnv9Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8tBGyn-ByzfdhS82vdwcfg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8uq6E-Fim1JqTY2ge5RaeQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8v9oAqXhVKZl_4TCEuqzsg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8wwHFNk8mNzc9VQ70rqLtA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC95J5EfYY705J40RWMpLiOQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC9c8A8TvbesFbS-6UZayvVw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC9e-_k6J25Ze_Kbg2ZUNZfg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC9sk9Hzktup8X7PJEeVIJFQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCA03-ztGibhGqN6Tm_4Buww/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCA9VyO4eDo7ynI4u_PhirUg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCASYk10ohtVzeWKSb0epcrA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCAUfP68r1U6o0SFGt2THRoA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCAhnDYtzdo97ICIpyEmzj-Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCAoxZg10to0Nh8sXlaOSp6g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCApCKyFAxVWyfVZj2n_38cA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCB0HgUlDmyQJHDbdYI5kZB/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCBB4oV4ufACy9SL_epM_r4w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCBD03HQLA3LDYnQ3XMhzBFA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCBRl4XoNQ_zuhIEmuxd7wSQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCBYNYSVcV0WtwtjDLHpOjoQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCB_Ohb91gkkQjcQPmANHDRQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCBdCaezoJipdjufwKz-l2ZA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCBtFPFHOy6kDFfzN_NchJYQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCCHvNr2EkbAmJLpXtOwBrYw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCCIefYYMj9zduN828JLedBA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCCIfezInTsjaTAISsptWxkQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCCd8EbjZ3sLz2ZJVyLvpavg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCCetvOtK2r3jbHNnUnIO4vw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCCffTMK-cPFslmSSqF7kPEA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCCjfUXE45ige09sjt1AsQ7A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCCmxKA1ANKwfxHGnBQh7B3A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCDC4GIuTP7fJ22ZfN1iTTYw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCDEfypDjdmm7LW0JQQVSPMQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCDSEdZBAbLtdO-VKBfPUILw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCDTS3NrYaqxZFlbqir9RrTQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCDVSWzT5lW3OutuIkRrU1Dw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCDWLXYiLEUUptJUvyokoo_w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCDpNc9VyOBUtq4YRzA1f2Cw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCDuVigsqzJd6U6nZFEXJhQg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCE-9fA0ef4mX-9zIm2_Af9A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCE9xHaaiiWO7f8DZFWq6wRg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCEIRkfAn05IaViEx0LTLmXA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCEKAJZpuBv2n4ENsRCi9R4w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCEQU_X293Vd3ppYVx9mY_lA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCEfYGnY0wmqfK5PY4KbMuXA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCEnKDJPuHEL7jRnEZV5DyOQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCEsDsM1brDEIGH4ccEU0ILw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCF73go7qr8ZF_4yrdP3WshQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFC_gSOsUBrRhXvn2MNQWFw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFGkOWN_jnj98mEMXw5npWw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFPYD1vzgKs-7DmozP3v3-A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFWcFAA3aNXRLwlt1XHcAcA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFs4BehOdY5vKudhBopO1cg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFsFMzOTlvdhcDBXKZPtifw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFvm0fN2WlL1M5SHjgNqkMQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFzlwgXg6Hx0VR-6m3wH-1Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFzsyovshrvmjd3tWKXOZ0Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGD5cAhXL6cF0urzeO9sokg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGI0UY5XJZyr8_45YjAdY7w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGMQlMx1T78To4yWGb6hSeQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGQVvk4XGUXKYJHbUKgMZCg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGRg9ICz4qdeyshEsVEOuwA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGW4_g81RJuMB27vaJLPlZQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGcyTUwetI92KNrzlXPZ86A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGdxbJi2w3Wv7yGKjHIUA9Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGe3jAjyjf1EpYAr2q66MFg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGecL_FNZfmUL4EJUnpdCCA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGpWHOEvowXrn6mH1nAH44Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGzBwFYNAOC6Ac9yVDID1EA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCH8QruKx3Qw577yO4U0SmZw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHAS__9zPz5pgwxSBZIGKeQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHB3JbKAMJv0DyqONBYLjGQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHERXa8FInwT37ZgIi_ywtg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHNh2wDPl_m5noHXc8cccOg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHRGZN9cjLc4znZE7eiJoWA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCH_V7rWdW6Eoca3UYwVdxig/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHbqoL7uUbcq1480BPz0Apw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHc76Wt6mN-O7fPdubUo4TA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHood5mmyWqncJ7QMePyPOA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHpFaVlNZ4A_8y6NoMEVq6A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCI5Lgw_3YEuCI78agMXRWEA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCIHiaW0aBQfYc7gOLvHvTdA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCILC1KChj9SAah53gsnpDGA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCIO5qQld-Q6531gN8z0tIhw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCIPPA5Irf8RzaQMUr-XY2mQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCIS5YW_YkNzIP6AjYxtL6jw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCImGHbpwkVNnEu8zo1GIJsw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCImSHdkAJ2yVYbUkyKfw95Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCIsRUGyDjrse3bB29ZBbowQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCIvssBh2DefxhXCq6DtucjA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJCNU2VMN4tbBPLnICH5pqw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJMFJLbFXlx-jbGswJiRV8g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJPI39PkS82XRjavadVHZbw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJTOWJvjDKszRb30Yf37jtg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJWuloSTxzT2gXLa3h-5pWg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJag28OFn69OZiY0LgtIdsg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJcljkJFzhunzIZQKiC2dSg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJgQ0lZVL7uf2PqTPbz4eoA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJnFjWwkdyCh06S_K-KKDhA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJoWq85rCNoFTG97N2K88hg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCK-C8TIJqFP9f72Z22AoSog/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCK-Kd5I0rvdpprAyis9UeSg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCK-ps_sc5rY7Xt7j1hTtXjw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCKR6xz_DSzoxqqRrAsjZ5cw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCKV9-mEj3KNxb94_9WylkYw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCKYEy5Hz39qDsnzUdITDIsw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCKYsgyAfp0fgYzNAEhm5Hhw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCK_3bG34iZxX1t-InqxWlsg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCKcVJ_KHzQak-mJRK9u5jVw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCKjzmLPC9pMD6gsjTiaymgQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCKod3iMutxsKebBnhMwv_sg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCL-l6iMth2dAPDE1Kfs-Zjg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCL1OV1E9RmOzBcxbX-1mpnw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCL2c1M4fo1wXf-S15i9DtgA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCL4RMk2J2VzX6Z3QqAOaUMQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLH1rOT2E1K3WAvLzQgkQXA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLOBIyDIuD1QyS399DY4mdQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLPcfhkGMbybJHLJzGFnn9Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLT7nTMLmXIw-1xYzzkuM5g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLXow7EEeSHwAceeQGFbFSQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCL_nFJ4ItFUd9sXKHERKjCA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLmZeoLfIWF5BKFWRpcPfJg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLp828lp1qqeTWSuA1doCiA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLyZGOMZwvX7pZ1-nHQTY4A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCM-Gzpgx9_bp_-FlDugWfFw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMIRYngQyH5j1P3m8nW1pUA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMKgamdvg7LOD1avcqLjKsg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMRGLDwMCL1M31pv2oBuRhQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMZX0sWMHUOrT2u6KI4CNkA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMcBuuoc91V0GhXE2ujfrXQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMm4dXUvGZV7qIDwms32zgA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMoHS7CqALrSIeMZITW0oRQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMrxeoBuvZpskz03MWs7gIg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCN6O_bVSlyZI51_5cxI8xgw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCN91ZeOvrfcAqkG0vffP73g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCNDSvHe1qyv5fWBosmhP5Uw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCNPxOQqfTpfaIQQ5MRo6hzA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCNVTR24Mzg7_3HrgmX9bUhQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCNXBdymIL_S7snieq74PQGQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCNciaKtaVtvKBhz7vDb-bYg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCNs5Ye9WHXCq14ddJ9XnwqA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCNtp6pUSuXrjPLIkrhIch6A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCNy-xJf6DijgO2IvmU0G-gg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCO1nYiyx8NGJ0KXXhkOXpXg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCO5bkEhs2fzmgK4Oz_FZKug/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCO6q3SvgKraHc2gGAon_KWg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCOC2RxhlaSUcDbFXk-17D1g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCOaNhm4mZNySRCX0oQZFqBg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCOc4dmkZ7zXhLqJj_z5lW-Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCOoKJwAoXSvG3hWCAyUduTg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCPFlid5RrIkcCWWDZ7Ex0Mw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCPRNsUfe6WnToekL7bYxovA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCP_yY__KoMPciEXdZbhvVsw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCPcoNKaJIz7OZnOYY7JmXUw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCPggnglAq6sAco-aINm9Umw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCPi2UwArKRWSUN0BgLC11oQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCPm0ODqnTukZCSdCXUuQOCg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCPta7Gw67_Sk-aF2n8o13VA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCQ--PpwG_Pg7g6u8rZ2A16w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCQ0hDNwxz_orFUAtV6t1EaA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCQCrwy74CggEfmL4Fh3LPxg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCQXBpkU8A0pn71fPJyhgP1Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCQzokBDqRS71ga3KNkznFUw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRFSTgF0DIU_RAQY341nYZw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRG4HP0FoOW1E0szfQlYeeg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRGSpid5qtmaQ_Em8IzEKjg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRHwy92RUSBtR2qwWcom7hA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRLVYgkYPmAGPNQH3Qiiipg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRMBdcHAECv5aWJ852sR2Dw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRNBfPL6nb2WJ7qIWIXw6Zg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRUvT3WvIledLU3nE9G5uew/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRcX_dat7rQLkUvGvSzxiuA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRg8XZ0yRiuvxf2zvFPTvQg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRjSyZRzad9qBfJW54R6UpA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRptX-0DhCeNZvQ14cor-iA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRt3Fyus6zFfBAxkAGHnbgw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRwd3zsU0hwQBSrZaz-qGWA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCS9QCz7R9G60ZLCtlEr3hcg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCSSAnxRvhpVqw8NUFHytn8g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCSSxtXoEETX38CT4SVnbvkQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCST44BA8JPdiGOm-9k4P7Kw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCSTEQtHOdFxD_0mZE8xAMeg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCSeQ9pqKx_KZ6jTSLcBdp6w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCSeueK4bDN2BWoMkJ9Arq0w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCSs-vTniGKX7GGoyEObT7cQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCSsUc8IfTBNze5xJZI6ek6g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCStejeD-B3pe4J5Ou6xp8mQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCTCwMCkx-m-O143djUPzkog/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCTNFXIzQWNyqx3-VyEFMixA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCTc-LXNduQMvvNzwvmb4amA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCTqMIFnuwuOplM6V1-t2l2w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCTrn_hHUY-eVw0RZm7mCCPg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCTuHboJedGnpsJ-Yi3lai5A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCU5WMNYkbQdQFNME6KlxVcA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCUIEIo6gp1a2IfqWlDn6UEA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCUS1y5SVc0a9sfVqMPU4FsA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCUUi1yyN1jz9mujF6Ksk98w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCUaKaHMnEH8ORY6ONc1ADcQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCUdVki_o7TFIGOMfBFFLNWw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCUvYKxrlDn3eeNIqjD-Ib-w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCV3Hm9wji6On7VE5k3VTKPw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCV4PnhXC4rQYBFy2Lsp0LzA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCV4dAV5f9PCAbNVgyBNN6Rw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCV6m0FpvKLcMJRW97G42lYA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCVEYQYZdP304E67VCCSHbaw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCVGBW5nwvRq0BvU6LkhdI8g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCVOQdgtvQxqtLvau809vtFQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCVU3PMivc-5cVVtoGmthA8A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCVkikTLp2msbBI2t6F_c79g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCVpWTtInW_mn05Grw4Zmb7w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCW3tjSyf0PyXLS0OvjDq48w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCW6fV-4LhRcQC7vEF2tXTWQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCWBKCnE3xdfNrlFZmGnIeeA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCWGq1UP8gP4V4nCCeYPKZiQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCWPeEfPX4hrEPXIgkMNwB3A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCWTAOn8H4k_dg9J5EP6eVsw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCWiaC1AUNPZsrf85jngad2g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCWr7les3NMbdlzFRizCOgSQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCWsPduWMFHjDfGQMeKqcotg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCXAPz-1VS3o1d22hU51epGA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCX_nat89MwjUYVCd7k4WtfQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCXa2CG12n2hr5PFWJY_9A2g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCXll-HyATOUtgKCbFuI1z4A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCXlwtXcmL9J6Qfc58bO9M7g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCXwOA3Moxm5PnT3OTjFupDA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCY-67NDg-jcvCQuaWD8QsNQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCY2PYuQLtoJMHHzG_GPOZGw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCY6ejtGi9OlBW3mX3qzKThw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCYCvPNyRcMz_l7AxP3b1OyA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCYhO7XqtAl4-r2wsXgumGzA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCYkQ0NClPW8WgbirhyWw7WA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCYlUCP8jgdt1D7MUbUsjbzA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCYnSww6lXLl-U9fRPM_zYgg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCYzBzh9UaCKw08TNxz91nHQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCZJYfofH2E39VWM3xDxNisg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCZOV52N0NsnJnviU3Uo6a5w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCZPHrzdhFzCVboGxlMNoTVw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCZT61bRGWG3WRfQ70tmKktA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCZUjaZF8z2gP2e7PCM7GJ4g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCZh8J1a9eOoXdtwmbufUM-Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCZhjlqlSxjcImNLyQRlcBYg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCZpUzkY-Id2oReVVlEbd98Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_4HNVJ8jyXudvMIRoBEQdQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_8TtUCe4moQYJej25mWuDg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_9aRSnVcHt2XshM2UHx9cg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_A-PPIOKjltiJC5SNPiIow/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_FbqXQxS3FBMdlzW4oICNQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_Myky_uYdlZCrEMEdRaphw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_NJYdnHXz4eq2k9PZcBrjA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_SdgkD1MFikrp-s0L2GY7w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_YEES0jUsnILUo9Y7kIKIg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_nuIy26G_UK5NwS3jV_WUA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_tw32N5PtFofQXmEoAufmw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_uaMnZ7uuw1K5YImsF7h4A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_welmHirHnI7IqbmYX7fcw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_y-z9sF7wX2-qAmGkgKolg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCa11-LBYKc-PQ-7uvWxfM4Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCaAYS3n0BrmlXi4HgglBURg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCaAxtcx_EweTTk5DH4ywgaw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCaFyyyWdXtWuc-PTBB4W2UQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCaHlKx7E5bcWz1CVMjegO8w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCaZU3Nba71jSyPcgxbdXQXA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCa_D6PSa7zj5arOfEw52jXA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCafRFwStpUhQwIT_I__h0zQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCagP-b7Ih9BcWK0vRmpGSsQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCaiM1AOYon_BJt5TYLtkktQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCapOg6vYOn4WVlwyetUPrMw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCaqn-8Ooqu9p4ojhrSQfs7Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCarchLJYQh7vECX5OH1nCdA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCazlZp9gy2pL8rB5O1-z_dw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCb2ETVgaIBihitw7jZj7dew/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCbFaUqyF7PfZ07W84kmtFcw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCbPd-O1MawOXpIIcqAzDmUA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCbXAFhlBISyQYtSrsPtBGeg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCbrL62RyRbQBlOE0IqBCaWg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCbxcvmmFw0C8pwxlBxCuz7Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCbzKGMuP9_9mJxmCOgIF7aA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCc9BHZhD4tbsg5Np_P9NUsg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCc9OzIdPsj2oDAeX1VYjo3Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCcFoMCwZJmCq-KvsHEg-BOw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCcJLomX3Zg3njnC8Y8zf8eg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCcZd_yqTtCw3WILWq2SWIiw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCcgM-arpHg3MO4jJarPlbIg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCcim0mFybMB9sSzvd5W9NDQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCcppu46V6sWfNzwL_mo0PgA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCd35FWj3moDktQomtrO-ZfQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCd9ubz4JQ-ZkL07QI_mHIKw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCdBJ4vBuyGXEXcqAFaqaLMg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCdCGgpm7a1LbaZHiQbrg2Dw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCdQmufCn2qUDCXL-dZstmNw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCddp6rKiCDOGhR6VJMTGDiA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCdjSWIbPWjPRZfxHE_mMmQw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCdojzXFOWvZlSSRQZ2eQaNw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCe0E42uJbqr0XNXO6LOrmjA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCe1WaUrzpPKdY-HIOhgerag/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCe1nvU8KxLYWjITWEWDLdYA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCe7BkuTxWaiCATOqCtb1sRw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCeChaewc4ntOChDaN9VzkBw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCeCnfHT1hOtExh0NqS2yMHA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCeH-B6aq24q-g3ySKvd-cHQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCeIb3P2yWC_RQlJwJQNELhw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCeLlhnvwBA_2EJu_1jD3Yxg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCeQU_WSD9CiPVFPgNgB1Y7g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCebAPvRTQVqp2Wl5l6Cbc6Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCefuXZeXPVW3gCPIAXCD_4g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCeg9LfP6p-PAplogCSflP7A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCenD4jrg0Uh-3VqJL4pFtsg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCez29sfuTH7dxvrQYgnmNdQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCf1GbLsGBSDGEkAtEly4D7g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCf1JoDsIxI3OKFpblKDMmqQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCf6AComRIFhmNsrNZeNpZxQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCf9QtlBHfIz-tFlbmVFSsAg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCfB9Tr06BLMWyLS77zCNBvQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCfNV21Trg-oSxCvXpUeEosA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCfNWXOWCbhpBElcGnFnMwYw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCf_H_8elPQ9mzm2c_xC1ePA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCfb-MB7dFPOg9GZqQ41z-ag/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCfkSZwC0KcC0MWrZK4_uzMg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCflpeR8t-2pybJ0FusCcoGg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCfoe_9LJlt9PRd-RE-2-IsA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCfw3FZ0FZgF5326FBZfFtPg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCfwyP8a27rXOzqH0XofJkkQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCg2xFYPPhrcJo4HMf--M53w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCg8me6bn2GiDsZIUuOC2-Wg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgKNW6u37ViOOrWVQ9V5b1Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgLkWKcCpn1-S7Gww9rnsPg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgOyer_cIWDvc7fOT_0QdGQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgRJOIaejiHzhu_P3HfV0Mg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgVXl_Ai8UDn9IUgb5fooyA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgWEVHbm98mTdPf7RIXQWbQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgYvXKMClKdlNGnceyRznsg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgjFos1M7BbJFEYAxxLENOg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgqCes-lSF_YUejOyJBfejA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgrGCHaojA_ql9ecaJZzkIg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgtK0-06Io0zBv-Kc38sm8A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UChGAAkuXim6cWC4lacjifjA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UChPKQoZZa9TjrjowGnB0oig/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UChUxY9yEJrbuytQiF4bG2xQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UChYHH1udmMLoClbS6-wtkOg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UChbmselBZ7Y5ZJkKvhqhizw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UChpAoHS4FzcroSlwKVEb85Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UChqlzupeQejOvmVwDq-_aEg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UChr0mvn_ooUjRiWub0Hohig/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCiGSlqsZgLw_hQeajPRJL6w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCiVOXGTpdXe0n72jWH7n67w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCi_zIepNZXm5Qbzfp14vwFg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCiguVccputxZI3p8z29hOTQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCimBvWLwntbNAKxw_7gufBw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCipETtTuH-cGsPtx5Dnl7Tw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCirFwTUr0JjsnP-eq5vjm0w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCitwUOUnTRkm5Eelr1ysCDg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCj-MVOlqG-t6w4YRM2oADIA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCj0JrjSxJ1eEzHH1JqT8XHA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCj6EF6l7yXa4IvuU-Ku8RcQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCjNye467zctuzRnye3LMe8Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCjPogNpopTrICXrJ2LMvtw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCjWnx28d0L0MCaHM7vCQcJg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCjhw99uuMqqRHb0Wc2Vif7Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCjj_hlrzNvvpdY76pS_kZZA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCjtmeQg3P3RQc_NzDLulxig/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCkF2n98d4Ewr198YtI5BPwA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCkTi2_3eOGTOF-xtBBrXnHw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCkXDGtoHMukvnagieKmhqXA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCkaAQFfaaOmaxx_LRAA8Hzg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCkhe7Dn2wAJAz5j0CT7SC-Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCkom0OhRcgvnUPMCOqulT3A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCkxyT2hViZcFANnseuZiMAw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCkztlvjMQesbEyR2D4F5awA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCl0DwjHx8KkY54UdbbmoOwA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UClBOPBxP5XyB3Qc8gs4kCEg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UClD_O6C2isL7X-yt9KdTr7w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UClQXWA7QgpUdPTQpqIQGwQg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCl_deqnGcfkiwO3MKpvVBTw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UClmnVoRPLAVhJSiaJsItgFA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCln8GDs7_Ce-crPrLwev2nw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UClobvUCGR2VUkBlN0ax570g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCluwF-i3XnvLQyXdoaCJvlg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UClzjW7WE8o-ZrJAJ4nIBWcw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCm1TI86e2YapQmrPYT8bAQg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCm4NSg5IC6bhwp0JaE1lCvg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmFdEaoiyb--aTzbON8MMwQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmK6H1bPkK4qNeWTMGsoSfA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmKr4OHhxvNMdXJBQLHjSCw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmTcmx4V9KO0jQuF3tD3d_w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmeSPlvc1Eo_eN2pgOP7S8Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmgU7trZ2a9uMbqvNHZg_dw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmiUMQI7NJ2gpt1OEA6h4Yg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmlSLaJJoMD7V0g21WHvahg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmnSEQ46YtfcUn1fIm5DSiQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmpvGpm3iqh7vvbzzgKeGBA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmqp8iZtJe8LxnfXcKTskmA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmu95586DK3Wc93R7MzyPyA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmxB9gS8qm2IBfPvGeFDS3g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmyJo9sMnOot7S2Uj_e9s0w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmzHLVPWKCGQ0QwPryBdEzg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCn2TGAXAShE7k-F99d2V29g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCn54l_p8qgTRkiu7NTG8j8A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCnIEr3MdWNusJ0cf9rMb5Zg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCnRN3vB3DUmxb-6rz7tlFCw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCnXqv0tyMExUermfiqxLKPw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCn_ZBTPxZkaSFZEDH1410uw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCndWJr0ZZGgPSVoGkJz4f0g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCnnB1wNFUxT9T10vQmHeJBw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCnp8s4I5HD-hM28Ct5TXQ5w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCntMeALHv91irLLkgy2VZ1g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCo3P4eS2fiWTKl-RbuF2uZQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCoB3OLqIr6Xdz1h9EMnZbEw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCoCISZegh0GPgWHiOLabcfw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCoD_uP1ZDpq5WNk7LYmz7-g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCoa-Jkd60bLcXDkTlwkcbRA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCofkDG9ZuX41qXkymYHU_Xg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCok7Fp-eFTc2i5f5XsCZsrg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UConHV3bogSwNmfWx6GZmhBQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCopO37bUcGXOadNNYeQnoGA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCoqCyc91UnN363zodoHMJ6g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCow566rUxbZXLBP_-E1VoSw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCp0Fz2BrojPhR7sJfcuxQ0w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCp1zb5wG3ANSVAg3Yl2qpGA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpCTOtPvRNUBq1c5PJsStPA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpGmIMAzHMdONFV7i59KQGw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpIzDup6yUZhwaHjEgm2dEg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpL5xV3rPwFPvhYtdil24qg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpT46G77geEsEUOKzb49enQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpdtJLTBJqR_gYYDPKkMP-w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpie9Kij6EuF3OhsQBhymWg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpv4yZz6CYUSZfmQGO6lnyA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCq-Qw6uhM2r10Ba8JTSVLFA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCqBowHCt9tp8xinjoqpErdQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCqLjqU4NG78n0yo3IiHz7bg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCqmK5yXxFo1-kpB_ikzp31Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCqpc5NBFzW2rLNfs7SY70bg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCqvtlfU5ZtbN4pz_6pF40Rw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCr0twRvFP3FZ-oUVdAIUZpw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCrBlt_ybdqlUOqwhRJGh4ww/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCrKxemPH--ts6mujFIFfAvQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCrLJzBibSWAAFDpR08U3daQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCrOK5JMXha5ixIbCxrXIj2w/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCrZaquzPflUd_vSZJBkdXkA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCroEcrM3gIrvWNPjywCMoFQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCrpcE3EhN-daw6gslyhyfrg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCs4rfbEULOJrFyxo8ikuvSg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCsFjec9rLLLbQMy06yVP0zQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCsSvtQSrqqvKdNa6fcsywug/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCsViZi-7TL7q-3A2XVEUDKw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCsqUYKuYpo2GkKf3yQxvDUg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCss-hU7ipoHxwIwBb8tHsRw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCsxQgA60KbwOICc5cXkt62Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCtIZt1anWcUdgi5apHn6SIQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCtakRmQp2GugyuxzWmwTaQw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCtwXBLCTT3zyXoNnxRjs6Kw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCuBT3ZZANZ93az4LBUP8aeQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCuYdLPbYq0070zk6mantnYQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCueXnUyjtcTklhI_Sa7tsSQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCukisTxWxTPmQaiNI0jxgcg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCun8RJoj0cGxlpelijFIokQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCv7YEMiudYcbm2dvmS5usDQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCvM_2cYlaDyYYrwr5Y6kUpg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCvTbhTpDODnqkDLJmBh0DcA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCvZZHwxq9uj77wbGlO7Rczw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCvg9sv_Aq_Pp83gpbVHK3LQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCvtvQxfHF8y2sripRL83OPA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCvxmgA4j9Gu3osu0wfnL9bA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCw77dhKT47hnBnVPykmhFAw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCw8tqQrd2tgfa58l7VPRwqw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwGeGdWtk0W6FUbse2zzDVA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwOjhM9u8lxLLYwud7fyOEw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwQg3yNaArCiT7ofpgT5Ivg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwRKoE20US_OyCQlEgfIlmw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwSQ9Yh_ZI5K9q5wDPjpL1g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwTlfuunTicGiireb0jo4OQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwZfg-670olMMl3G14KUTKQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwcBoHZlXjiISDd6AjN09TQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCweBdeoxqj-wBkFh265ICew/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwge5tFhVS0J33FC7P8RF-g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwkboj4LPcaL7ScBVO3pEVg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwt0xQ0mMqInaus3HFlJ2Kg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCx7qTUrwGVJZ1tt7V7PFN5Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCxCST2R1kFxa-LNlUrNljEA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCxIPHpK5aHO-Gc19Mb9iJdQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCxKGSNS824O20Rq9AhI_cYw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCxNajtXnhrFm8CkVgfdOCSA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCxOxU3WvkTiJgpbVw-8Vdtw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCxgsMI_uYmgX9szKxsQCGBw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCxxXvgWpSLLWtKaZpAZO-_A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCy78xxAWZYLqnhZlVPtMc-A/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCyLBRLsDunEp-vaNDonJ9nw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCysd_O2h4wqAh6xy6zdpsrw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCyt2EDvw6kc6KMgYqAEQK_g/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzAAqzM_Zv6bFuE8LSdh2Eg/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzKRVUOv8aJJVQ2WPUx5row/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzLhjXbZcnF8FsoTB3tWRkw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzOOTh4GYVno-IJAn2fMVHA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzWboeg5jWfLY9KUrOx2ePw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzcZNkG1COflpbL_o625j2Q/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCze4qmzhiGXu-biVUPhDorA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzhfypzF9l3VpoblETLHixA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzz1z7yCXVD7yHH8bah30CQ/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/soulstrike2205/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/thehamarejun/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/21nosreprd/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/8Rezon/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/AIuminum/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/ARetaproductions/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Andetalt/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/AppleYTPMVReupload/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Arcoviso32/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/AtomicBaby123/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/BaslesPadReuplaod/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Baycunn/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Bioronic/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Caillard98/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/CreepahWeegie/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/DerpyEnzyme/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/DooLovesAniki/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/DrXoin/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/EKCraftMC/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Ekyugata/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/FinnishBro/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/GLaDOS996/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Gianneko/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Gigapuddingguy/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/GmodRatchet4123/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/GranulatedWinter/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/HispanicGirasol/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/HyperFlame3/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/ImpossibleCarl69/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/JammingMachine/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/JetSkate1/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Jinxuiable/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/JuakakokiReuploads/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/KinkyAlts/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/LeJimNada/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/LeavaTheine/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/LifeWaste1618/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/LolZombiez/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Manlego26/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/MasterBryan01/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Masterhftw/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/MattIsThatMan/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Mowtendoo/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/MrHeavyfaceUK/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/MrSteroids1/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/MyJabmorenoBroke/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Nabenamiku/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Nagadoff/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/NamaCream777/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/NitroPowerMan/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/OHMYItsGodzilla/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/PonySwagify/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Prolyfic8/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/R7729dash44/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/RP1234BITCH/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Rlcemaster3/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/RobGBA/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/RobGBASP/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/SafariBros115/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/StarWarsXM/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Strikerzkman/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/SuperBocky/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TeamNearTree/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheCartoonCharacter/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheEpicROB/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheFirippu/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheHeroOfKoridai/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheJinxuiable/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheMazzasaurusEffect/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheQuelArt/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TwilightSparkle1234/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/UltraRemixer/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/UltraRemixerAlt2/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/VADIM567/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/VanFather/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Veksler96/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Viravaxify/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/YTPMVWolfwoot/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Yibbon133/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/YoungMusic44/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/YourMomFaitDesVideos/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/anotherYTPMVer/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/arghivebeenshot/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/bobywea/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/ceilingpopsicles/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/darkmaster1653/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/derrperson12/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/dkensington13b/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/dpritchsixteen/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/drperson12/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/envision32/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/frannintendo64/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/jjbros9800/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/jojotjuh/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/juakakoki/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/koronx3/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/loquenderabrenda/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/masterzkirby/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/michaelf997/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/mirrorimage98/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/morganhathalt/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/nick97ftGun/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/norio7893/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/norris3942/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/nrdesign1991/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/omniputance/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/oskari14/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/parnas1us/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/plrusek/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/randomTVbox/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/raphaelgoulart/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/reIoadedd/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/reten72/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/ridgeracer92/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/riverrist/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/rozels100/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/semnomepraconta/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/shikitashi/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/soulstrike2205/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/superkaynofuy/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/supersammich123/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/thegias4649/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/thepowerofdiarrhea/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/timothygoodwish/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/wavefuzzalt/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/wthpink/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/xzerostriker/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/yibbonmusic/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/yonpati4/videos
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/xlethxle/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/## tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGMA0oadw2XiglyjhlUDhRA ##Drug Store UTF-8 a constant uploading issue/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/## tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpWYzyfnuPYNOA_uOMYn0YQ Strayed from collection subject/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/GL1CTH3R/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/SanekShadow234/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-0nEIC-FugrulWEeAvufHw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-4pcWatasdrqZPpp_vU8Ug/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-9n2fl0tEiELBaeJZaxBMA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-BgXSM1WyyObbx1M69aBRA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-BsK5dZu6E1ZnFk6d06_tg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-GUuiJERTE8Ee3zhGKle4Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-SJ4RoLRldJdAz9m6fGdDw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-UTs9MiEOHUB4syFkaK9aQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-X94lIDJuadQYz7wMZqGQQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-XyJljByGgdg1bXdl7JHRw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-ZyJgoIrPLqNT5gndPupJg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-qi0JTQon0ukNctWUHvb_g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-v6CIsOoLPBHCOEK3Nvoag/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-wK-yP1CpPbF1FOLZeRX4A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-ydlDX4QwcUbC7TUv4gLfA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC-zbyF2CLLiwM7IvjWxuBPA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC0-OeqR2mqwOMmVcixIs9lw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC05TLpiuzqvXOWPTa4h8HLw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC060XVDTrztoAVvCRUgdceA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC07k8WG4dUddGP1JdegE7zg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC0D3gekwOD6zz05Gs0B_ngA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC0GjS_-_Qi7in72ekUyeBEw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC0MBHhJtgstrsnt5j7Zr27Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC0hCetNZbwueAtslL0bwx9w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC0z7WQMJBXN1LtSefMmcG0w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC0zRqs3io1OeZF6ztIC5z0Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC1-r3PwvESKZ_WhVTzyja3A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC122UkIATHrdzZNONFzXHSg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC17a2zwuqjeuzUjwBV2BYtg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC1F6zA-WXGVOatwQTlGhdyw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC1Ytn_XPUqWyC4LbAnqD5tw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC1k5l1w0glqlVumI--z7Rdw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC1t9HGyEjyl3FZSqf6zseFA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC1w2vVwi09HKyFpajsAdqfQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC247z1hdq19t1XBuU-a_j5g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2AZNmRdUiZwVaomY2LE_xg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2BHb_xFRWSZf38fPuACnGQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2WQcrYYt_p2OotJuyCSL6w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2Y38zOD87E5pdE1c3GPBzg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2ZHGIqpXL_YXV_RZF1h5KQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2ajfUDw-moOndCqPilteWg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2pCK8UK5_kMw4-NiAZ2WVwe/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2s1cvVh7qGd07GzPnqrj5A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC2y-IkIRLm2RguWVb8mC9bQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3C3qzasmf_pD2vYrQzTRIQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3EoehFhMAtI_2jrzihgtZA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3HUaI08TR9ccYXKWA2Fx-w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3VoE90kyt91XjjUiMsn_qg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3_7p6IfdgTVnpjNvAZr9qg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3bDRVah9bTLzy3sDDhW-Yw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3gElT_nBvb87Jchzt8p0Mw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3rfEppAd8qeBfyMF253B6A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3tz8ji7jTd031VVjEFpz_g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC3wWUpOohLet5SG5N5rITZQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4ft1MHe2gpFFWVstwfA5Hw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4hSLf2cV_x4JQ9PF8pv56A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4jgFNjjbqJX1GRLP4LL8UQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4lYqNXGDxSRVi36Ra4OC0Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4nZ2v4VY-77TwhL-lVH76w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4pdY20UI2AvfhnypcBGEpg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4qiUT1l4HSFX0_eWNhmrAw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4tcbILwwpz5tWCwU5SklWw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC4uTAnx4UuYY898SCs8lUGg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC50Vou-rHB-KGxjEw45_SrA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC58Mfw53Z6JWovoPiyqAU5g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5A3XSKxvvtiLMaDyKg3R2g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5DvrQXnfIqcn2bzfjqM5Uw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5KxR_bz4Z-Rmg0ZTBu2siw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5NqByX_kBz-r-7mB1yqI5Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5QoXcz8sEYvxYCRbrMEwrQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5_x_lCKGotB6hSrMzr60NQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5dj1pFnPO3gWy-KBYWtUPQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5gZqdIbXU8QNaVMAAwZgUg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC5zXAuJscN6F71GVvSxjP8w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC6-D6kXl2XWfRoJgwr_4iHw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC6AJ0RREyJu0-spQoqSAP9A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC6FQ1CCsTVdr5DrE4JXOVUA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC6UygvPHxLXOOLuAYrdRE3A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC6WNapr-Fp9SKqrv6_JBUbQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC6ZDG-FH46f-zslm-EA3nrg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC76HQqvG1HlCkePYmoHTh5w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC7R96QzSoEaiWgN16EU1TIA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC7YkmaTew3ZtevVZJsUqzbQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC7cqxFKM7UI0tpY9yAe-mKw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC7fxPVbi32tcLtVppeh_F-A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC7kwfrBt2UUK6TgmOpSCIYA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC7sJVxlAcTwyuSjYaWTtoMg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC7wPDdE7hS-Nu8HAznarFEA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8G33AC5XICbav-9RAUUw0w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8d50sg_nVJx6x7d9AWDBpA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8gMZQNdm3DhGdx_Qo3u3uw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8oZtp8ay0Omfl7VYOqOJFw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8p-oY4Z0pIsIoooC1Qnv9Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8tBGyn-ByzfdhS82vdwcfg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8uq6E-Fim1JqTY2ge5RaeQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8v9oAqXhVKZl_4TCEuqzsg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC8wwHFNk8mNzc9VQ70rqLtA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC95J5EfYY705J40RWMpLiOQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC9c8A8TvbesFbS-6UZayvVw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC9e-_k6J25Ze_Kbg2ZUNZfg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC9sk9Hzktup8X7PJEeVIJFQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCA03-ztGibhGqN6Tm_4Buww/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCA9VyO4eDo7ynI4u_PhirUg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCASYk10ohtVzeWKSb0epcrA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCAUfP68r1U6o0SFGt2THRoA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCAhnDYtzdo97ICIpyEmzj-Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCAoxZg10to0Nh8sXlaOSp6g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCApCKyFAxVWyfVZj2n_38cA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCB0HgUlDmyQJHDbdYI5kZB/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCBB4oV4ufACy9SL_epM_r4w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCBD03HQLA3LDYnQ3XMhzBFA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCBRl4XoNQ_zuhIEmuxd7wSQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCBYNYSVcV0WtwtjDLHpOjoQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCB_Ohb91gkkQjcQPmANHDRQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCBdCaezoJipdjufwKz-l2ZA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCBtFPFHOy6kDFfzN_NchJYQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCCHvNr2EkbAmJLpXtOwBrYw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCCIefYYMj9zduN828JLedBA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCCIfezInTsjaTAISsptWxkQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCCd8EbjZ3sLz2ZJVyLvpavg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCCetvOtK2r3jbHNnUnIO4vw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCCffTMK-cPFslmSSqF7kPEA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCCjfUXE45ige09sjt1AsQ7A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCCmxKA1ANKwfxHGnBQh7B3A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCDC4GIuTP7fJ22ZfN1iTTYw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCDEfypDjdmm7LW0JQQVSPMQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCDSEdZBAbLtdO-VKBfPUILw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCDTS3NrYaqxZFlbqir9RrTQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCDVSWzT5lW3OutuIkRrU1Dw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCDWLXYiLEUUptJUvyokoo_w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCDpNc9VyOBUtq4YRzA1f2Cw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCDuVigsqzJd6U6nZFEXJhQg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCE-9fA0ef4mX-9zIm2_Af9A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCE9xHaaiiWO7f8DZFWq6wRg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCEIRkfAn05IaViEx0LTLmXA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCEKAJZpuBv2n4ENsRCi9R4w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCEQU_X293Vd3ppYVx9mY_lA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCEfYGnY0wmqfK5PY4KbMuXA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCEnKDJPuHEL7jRnEZV5DyOQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCEsDsM1brDEIGH4ccEU0ILw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCF73go7qr8ZF_4yrdP3WshQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFC_gSOsUBrRhXvn2MNQWFw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFGkOWN_jnj98mEMXw5npWw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFPYD1vzgKs-7DmozP3v3-A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFWcFAA3aNXRLwlt1XHcAcA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFs4BehOdY5vKudhBopO1cg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFsFMzOTlvdhcDBXKZPtifw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFvm0fN2WlL1M5SHjgNqkMQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFzlwgXg6Hx0VR-6m3wH-1Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCFzsyovshrvmjd3tWKXOZ0Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGD5cAhXL6cF0urzeO9sokg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGI0UY5XJZyr8_45YjAdY7w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGMQlMx1T78To4yWGb6hSeQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGQVvk4XGUXKYJHbUKgMZCg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGRg9ICz4qdeyshEsVEOuwA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGW4_g81RJuMB27vaJLPlZQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGcyTUwetI92KNrzlXPZ86A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGdxbJi2w3Wv7yGKjHIUA9Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGe3jAjyjf1EpYAr2q66MFg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGecL_FNZfmUL4EJUnpdCCA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGpWHOEvowXrn6mH1nAH44Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCGzBwFYNAOC6Ac9yVDID1EA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCH8QruKx3Qw577yO4U0SmZw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHAS__9zPz5pgwxSBZIGKeQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHB3JbKAMJv0DyqONBYLjGQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHERXa8FInwT37ZgIi_ywtg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHNh2wDPl_m5noHXc8cccOg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHRGZN9cjLc4znZE7eiJoWA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCH_V7rWdW6Eoca3UYwVdxig/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHbqoL7uUbcq1480BPz0Apw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHc76Wt6mN-O7fPdubUo4TA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHood5mmyWqncJ7QMePyPOA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCHpFaVlNZ4A_8y6NoMEVq6A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCI5Lgw_3YEuCI78agMXRWEA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCIHiaW0aBQfYc7gOLvHvTdA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCILC1KChj9SAah53gsnpDGA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCIO5qQld-Q6531gN8z0tIhw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCIPPA5Irf8RzaQMUr-XY2mQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCIS5YW_YkNzIP6AjYxtL6jw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCImGHbpwkVNnEu8zo1GIJsw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCImSHdkAJ2yVYbUkyKfw95Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCIsRUGyDjrse3bB29ZBbowQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCIvssBh2DefxhXCq6DtucjA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJCNU2VMN4tbBPLnICH5pqw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJMFJLbFXlx-jbGswJiRV8g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJPI39PkS82XRjavadVHZbw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJTOWJvjDKszRb30Yf37jtg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJWuloSTxzT2gXLa3h-5pWg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJag28OFn69OZiY0LgtIdsg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJcljkJFzhunzIZQKiC2dSg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJgQ0lZVL7uf2PqTPbz4eoA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJnFjWwkdyCh06S_K-KKDhA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCJoWq85rCNoFTG97N2K88hg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCK-C8TIJqFP9f72Z22AoSog/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCK-Kd5I0rvdpprAyis9UeSg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCK-ps_sc5rY7Xt7j1hTtXjw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCKR6xz_DSzoxqqRrAsjZ5cw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCKV9-mEj3KNxb94_9WylkYw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCKYEy5Hz39qDsnzUdITDIsw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCKYsgyAfp0fgYzNAEhm5Hhw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCK_3bG34iZxX1t-InqxWlsg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCKcVJ_KHzQak-mJRK9u5jVw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCKjzmLPC9pMD6gsjTiaymgQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCKod3iMutxsKebBnhMwv_sg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCL-l6iMth2dAPDE1Kfs-Zjg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCL1OV1E9RmOzBcxbX-1mpnw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCL2c1M4fo1wXf-S15i9DtgA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCL4RMk2J2VzX6Z3QqAOaUMQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLH1rOT2E1K3WAvLzQgkQXA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLOBIyDIuD1QyS399DY4mdQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLPcfhkGMbybJHLJzGFnn9Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLT7nTMLmXIw-1xYzzkuM5g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLXow7EEeSHwAceeQGFbFSQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCL_nFJ4ItFUd9sXKHERKjCA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLmZeoLfIWF5BKFWRpcPfJg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLp828lp1qqeTWSuA1doCiA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCLyZGOMZwvX7pZ1-nHQTY4A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCM-Gzpgx9_bp_-FlDugWfFw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMIRYngQyH5j1P3m8nW1pUA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMKgamdvg7LOD1avcqLjKsg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMRGLDwMCL1M31pv2oBuRhQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMZX0sWMHUOrT2u6KI4CNkA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMcBuuoc91V0GhXE2ujfrXQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMm4dXUvGZV7qIDwms32zgA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMoHS7CqALrSIeMZITW0oRQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCMrxeoBuvZpskz03MWs7gIg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCN6O_bVSlyZI51_5cxI8xgw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCN91ZeOvrfcAqkG0vffP73g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCNDSvHe1qyv5fWBosmhP5Uw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCNPxOQqfTpfaIQQ5MRo6hzA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCNVTR24Mzg7_3HrgmX9bUhQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCNXBdymIL_S7snieq74PQGQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCNciaKtaVtvKBhz7vDb-bYg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCNs5Ye9WHXCq14ddJ9XnwqA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCNtp6pUSuXrjPLIkrhIch6A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCNy-xJf6DijgO2IvmU0G-gg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCO1nYiyx8NGJ0KXXhkOXpXg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCO5bkEhs2fzmgK4Oz_FZKug/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCO6q3SvgKraHc2gGAon_KWg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCOC2RxhlaSUcDbFXk-17D1g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCOaNhm4mZNySRCX0oQZFqBg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCOc4dmkZ7zXhLqJj_z5lW-Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCOoKJwAoXSvG3hWCAyUduTg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCPFlid5RrIkcCWWDZ7Ex0Mw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCPRNsUfe6WnToekL7bYxovA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCP_yY__KoMPciEXdZbhvVsw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCPcoNKaJIz7OZnOYY7JmXUw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCPggnglAq6sAco-aINm9Umw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCPi2UwArKRWSUN0BgLC11oQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCPm0ODqnTukZCSdCXUuQOCg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCPta7Gw67_Sk-aF2n8o13VA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCQ--PpwG_Pg7g6u8rZ2A16w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCQ0hDNwxz_orFUAtV6t1EaA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCQCrwy74CggEfmL4Fh3LPxg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCQXBpkU8A0pn71fPJyhgP1Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCQzokBDqRS71ga3KNkznFUw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRFSTgF0DIU_RAQY341nYZw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRG4HP0FoOW1E0szfQlYeeg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRGSpid5qtmaQ_Em8IzEKjg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRHwy92RUSBtR2qwWcom7hA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRLVYgkYPmAGPNQH3Qiiipg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRMBdcHAECv5aWJ852sR2Dw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRNBfPL6nb2WJ7qIWIXw6Zg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRUvT3WvIledLU3nE9G5uew/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRcX_dat7rQLkUvGvSzxiuA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRg8XZ0yRiuvxf2zvFPTvQg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRjSyZRzad9qBfJW54R6UpA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRptX-0DhCeNZvQ14cor-iA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRt3Fyus6zFfBAxkAGHnbgw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCRwd3zsU0hwQBSrZaz-qGWA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCS9QCz7R9G60ZLCtlEr3hcg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCSSAnxRvhpVqw8NUFHytn8g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCSSxtXoEETX38CT4SVnbvkQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCST44BA8JPdiGOm-9k4P7Kw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCSTEQtHOdFxD_0mZE8xAMeg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCSeQ9pqKx_KZ6jTSLcBdp6w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCSeueK4bDN2BWoMkJ9Arq0w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCSs-vTniGKX7GGoyEObT7cQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCSsUc8IfTBNze5xJZI6ek6g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCStejeD-B3pe4J5Ou6xp8mQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCTCwMCkx-m-O143djUPzkog/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCTNFXIzQWNyqx3-VyEFMixA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCTc-LXNduQMvvNzwvmb4amA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCTqMIFnuwuOplM6V1-t2l2w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCTrn_hHUY-eVw0RZm7mCCPg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCTuHboJedGnpsJ-Yi3lai5A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCU5WMNYkbQdQFNME6KlxVcA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCUIEIo6gp1a2IfqWlDn6UEA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCUS1y5SVc0a9sfVqMPU4FsA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCUUi1yyN1jz9mujF6Ksk98w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCUaKaHMnEH8ORY6ONc1ADcQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCUdVki_o7TFIGOMfBFFLNWw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCUvYKxrlDn3eeNIqjD-Ib-w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCV3Hm9wji6On7VE5k3VTKPw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCV4PnhXC4rQYBFy2Lsp0LzA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCV4dAV5f9PCAbNVgyBNN6Rw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCV6m0FpvKLcMJRW97G42lYA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCVEYQYZdP304E67VCCSHbaw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCVGBW5nwvRq0BvU6LkhdI8g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCVOQdgtvQxqtLvau809vtFQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCVU3PMivc-5cVVtoGmthA8A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCVkikTLp2msbBI2t6F_c79g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCVpWTtInW_mn05Grw4Zmb7w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCW3tjSyf0PyXLS0OvjDq48w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCW6fV-4LhRcQC7vEF2tXTWQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCWBKCnE3xdfNrlFZmGnIeeA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCWGq1UP8gP4V4nCCeYPKZiQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCWPeEfPX4hrEPXIgkMNwB3A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCWTAOn8H4k_dg9J5EP6eVsw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCWiaC1AUNPZsrf85jngad2g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCWr7les3NMbdlzFRizCOgSQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCWsPduWMFHjDfGQMeKqcotg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCXAPz-1VS3o1d22hU51epGA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCX_nat89MwjUYVCd7k4WtfQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCXa2CG12n2hr5PFWJY_9A2g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCXll-HyATOUtgKCbFuI1z4A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCXlwtXcmL9J6Qfc58bO9M7g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCXwOA3Moxm5PnT3OTjFupDA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCY-67NDg-jcvCQuaWD8QsNQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCY2PYuQLtoJMHHzG_GPOZGw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCY6ejtGi9OlBW3mX3qzKThw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCYCvPNyRcMz_l7AxP3b1OyA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCYhO7XqtAl4-r2wsXgumGzA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCYkQ0NClPW8WgbirhyWw7WA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCYlUCP8jgdt1D7MUbUsjbzA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCYnSww6lXLl-U9fRPM_zYgg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCYzBzh9UaCKw08TNxz91nHQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCZJYfofH2E39VWM3xDxNisg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCZOV52N0NsnJnviU3Uo6a5w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCZPHrzdhFzCVboGxlMNoTVw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCZT61bRGWG3WRfQ70tmKktA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCZUjaZF8z2gP2e7PCM7GJ4g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCZh8J1a9eOoXdtwmbufUM-Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCZhjlqlSxjcImNLyQRlcBYg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCZpUzkY-Id2oReVVlEbd98Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_4HNVJ8jyXudvMIRoBEQdQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_8TtUCe4moQYJej25mWuDg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_9aRSnVcHt2XshM2UHx9cg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_A-PPIOKjltiJC5SNPiIow/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_FbqXQxS3FBMdlzW4oICNQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_Myky_uYdlZCrEMEdRaphw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_NJYdnHXz4eq2k9PZcBrjA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_SdgkD1MFikrp-s0L2GY7w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_YEES0jUsnILUo9Y7kIKIg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_nuIy26G_UK5NwS3jV_WUA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_tw32N5PtFofQXmEoAufmw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_uaMnZ7uuw1K5YImsF7h4A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_welmHirHnI7IqbmYX7fcw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UC_y-z9sF7wX2-qAmGkgKolg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCa11-LBYKc-PQ-7uvWxfM4Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCaAYS3n0BrmlXi4HgglBURg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCaAxtcx_EweTTk5DH4ywgaw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCaFyyyWdXtWuc-PTBB4W2UQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCaHlKx7E5bcWz1CVMjegO8w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCaZU3Nba71jSyPcgxbdXQXA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCa_D6PSa7zj5arOfEw52jXA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCafRFwStpUhQwIT_I__h0zQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCagP-b7Ih9BcWK0vRmpGSsQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCaiM1AOYon_BJt5TYLtkktQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCapOg6vYOn4WVlwyetUPrMw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCaqn-8Ooqu9p4ojhrSQfs7Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCarchLJYQh7vECX5OH1nCdA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCazlZp9gy2pL8rB5O1-z_dw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCb2ETVgaIBihitw7jZj7dew/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCbFaUqyF7PfZ07W84kmtFcw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCbPd-O1MawOXpIIcqAzDmUA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCbXAFhlBISyQYtSrsPtBGeg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCbrL62RyRbQBlOE0IqBCaWg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCbxcvmmFw0C8pwxlBxCuz7Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCbzKGMuP9_9mJxmCOgIF7aA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCc9BHZhD4tbsg5Np_P9NUsg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCc9OzIdPsj2oDAeX1VYjo3Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCcFoMCwZJmCq-KvsHEg-BOw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCcJLomX3Zg3njnC8Y8zf8eg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCcZd_yqTtCw3WILWq2SWIiw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCcgM-arpHg3MO4jJarPlbIg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCcim0mFybMB9sSzvd5W9NDQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCcppu46V6sWfNzwL_mo0PgA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCd35FWj3moDktQomtrO-ZfQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCd9ubz4JQ-ZkL07QI_mHIKw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCdBJ4vBuyGXEXcqAFaqaLMg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCdCGgpm7a1LbaZHiQbrg2Dw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCdQmufCn2qUDCXL-dZstmNw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCddp6rKiCDOGhR6VJMTGDiA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCdjSWIbPWjPRZfxHE_mMmQw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCdojzXFOWvZlSSRQZ2eQaNw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCe0E42uJbqr0XNXO6LOrmjA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCe1WaUrzpPKdY-HIOhgerag/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCe1nvU8KxLYWjITWEWDLdYA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCe7BkuTxWaiCATOqCtb1sRw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCeChaewc4ntOChDaN9VzkBw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCeCnfHT1hOtExh0NqS2yMHA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCeH-B6aq24q-g3ySKvd-cHQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCeIb3P2yWC_RQlJwJQNELhw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCeLlhnvwBA_2EJu_1jD3Yxg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCeQU_WSD9CiPVFPgNgB1Y7g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCebAPvRTQVqp2Wl5l6Cbc6Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCefuXZeXPVW3gCPIAXCD_4g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCeg9LfP6p-PAplogCSflP7A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCenD4jrg0Uh-3VqJL4pFtsg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCez29sfuTH7dxvrQYgnmNdQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCf1GbLsGBSDGEkAtEly4D7g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCf1JoDsIxI3OKFpblKDMmqQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCf6AComRIFhmNsrNZeNpZxQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCf9QtlBHfIz-tFlbmVFSsAg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCfB9Tr06BLMWyLS77zCNBvQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCfNV21Trg-oSxCvXpUeEosA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCfNWXOWCbhpBElcGnFnMwYw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCf_H_8elPQ9mzm2c_xC1ePA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCfb-MB7dFPOg9GZqQ41z-ag/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCfkSZwC0KcC0MWrZK4_uzMg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCflpeR8t-2pybJ0FusCcoGg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCfoe_9LJlt9PRd-RE-2-IsA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCfw3FZ0FZgF5326FBZfFtPg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCfwyP8a27rXOzqH0XofJkkQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCg2xFYPPhrcJo4HMf--M53w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCg8me6bn2GiDsZIUuOC2-Wg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgKNW6u37ViOOrWVQ9V5b1Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgLkWKcCpn1-S7Gww9rnsPg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgOyer_cIWDvc7fOT_0QdGQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgRJOIaejiHzhu_P3HfV0Mg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgVXl_Ai8UDn9IUgb5fooyA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgWEVHbm98mTdPf7RIXQWbQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgYvXKMClKdlNGnceyRznsg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgjFos1M7BbJFEYAxxLENOg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgqCes-lSF_YUejOyJBfejA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgrGCHaojA_ql9ecaJZzkIg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCgtK0-06Io0zBv-Kc38sm8A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UChGAAkuXim6cWC4lacjifjA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UChPKQoZZa9TjrjowGnB0oig/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UChUxY9yEJrbuytQiF4bG2xQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UChYHH1udmMLoClbS6-wtkOg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UChbmselBZ7Y5ZJkKvhqhizw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UChpAoHS4FzcroSlwKVEb85Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UChqlzupeQejOvmVwDq-_aEg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UChr0mvn_ooUjRiWub0Hohig/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCiGSlqsZgLw_hQeajPRJL6w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCiVOXGTpdXe0n72jWH7n67w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCi_zIepNZXm5Qbzfp14vwFg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCiguVccputxZI3p8z29hOTQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCimBvWLwntbNAKxw_7gufBw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCipETtTuH-cGsPtx5Dnl7Tw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCirFwTUr0JjsnP-eq5vjm0w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCitwUOUnTRkm5Eelr1ysCDg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCj-MVOlqG-t6w4YRM2oADIA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCj0JrjSxJ1eEzHH1JqT8XHA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCj6EF6l7yXa4IvuU-Ku8RcQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCjNye467zctuzRnye3LMe8Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCjPogNpopTrICXrJ2LMvtw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCjWnx28d0L0MCaHM7vCQcJg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCjhw99uuMqqRHb0Wc2Vif7Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCjj_hlrzNvvpdY76pS_kZZA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCjtmeQg3P3RQc_NzDLulxig/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCkF2n98d4Ewr198YtI5BPwA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCkTi2_3eOGTOF-xtBBrXnHw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCkXDGtoHMukvnagieKmhqXA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCkaAQFfaaOmaxx_LRAA8Hzg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCkhe7Dn2wAJAz5j0CT7SC-Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCkom0OhRcgvnUPMCOqulT3A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCkxyT2hViZcFANnseuZiMAw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCkztlvjMQesbEyR2D4F5awA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCl0DwjHx8KkY54UdbbmoOwA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UClBOPBxP5XyB3Qc8gs4kCEg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UClD_O6C2isL7X-yt9KdTr7w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UClQXWA7QgpUdPTQpqIQGwQg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCl_deqnGcfkiwO3MKpvVBTw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UClmnVoRPLAVhJSiaJsItgFA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCln8GDs7_Ce-crPrLwev2nw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UClobvUCGR2VUkBlN0ax570g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCluwF-i3XnvLQyXdoaCJvlg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UClzjW7WE8o-ZrJAJ4nIBWcw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCm1TI86e2YapQmrPYT8bAQg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCm4NSg5IC6bhwp0JaE1lCvg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmFdEaoiyb--aTzbON8MMwQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmK6H1bPkK4qNeWTMGsoSfA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmKr4OHhxvNMdXJBQLHjSCw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmTcmx4V9KO0jQuF3tD3d_w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmeSPlvc1Eo_eN2pgOP7S8Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmgU7trZ2a9uMbqvNHZg_dw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmiUMQI7NJ2gpt1OEA6h4Yg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmlSLaJJoMD7V0g21WHvahg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmnSEQ46YtfcUn1fIm5DSiQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmpvGpm3iqh7vvbzzgKeGBA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmqp8iZtJe8LxnfXcKTskmA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmu95586DK3Wc93R7MzyPyA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmxB9gS8qm2IBfPvGeFDS3g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmyJo9sMnOot7S2Uj_e9s0w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCmzHLVPWKCGQ0QwPryBdEzg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCn2TGAXAShE7k-F99d2V29g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCn54l_p8qgTRkiu7NTG8j8A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCnIEr3MdWNusJ0cf9rMb5Zg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCnRN3vB3DUmxb-6rz7tlFCw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCnXqv0tyMExUermfiqxLKPw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCn_ZBTPxZkaSFZEDH1410uw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCndWJr0ZZGgPSVoGkJz4f0g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCnnB1wNFUxT9T10vQmHeJBw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCnp8s4I5HD-hM28Ct5TXQ5w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCntMeALHv91irLLkgy2VZ1g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCo3P4eS2fiWTKl-RbuF2uZQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCoB3OLqIr6Xdz1h9EMnZbEw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCoCISZegh0GPgWHiOLabcfw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCoD_uP1ZDpq5WNk7LYmz7-g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCoa-Jkd60bLcXDkTlwkcbRA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCofkDG9ZuX41qXkymYHU_Xg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCok7Fp-eFTc2i5f5XsCZsrg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UConHV3bogSwNmfWx6GZmhBQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCopO37bUcGXOadNNYeQnoGA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCoqCyc91UnN363zodoHMJ6g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCow566rUxbZXLBP_-E1VoSw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCp0Fz2BrojPhR7sJfcuxQ0w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCp1zb5wG3ANSVAg3Yl2qpGA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpCTOtPvRNUBq1c5PJsStPA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpGmIMAzHMdONFV7i59KQGw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpIzDup6yUZhwaHjEgm2dEg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpL5xV3rPwFPvhYtdil24qg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpT46G77geEsEUOKzb49enQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpdtJLTBJqR_gYYDPKkMP-w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpie9Kij6EuF3OhsQBhymWg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCpv4yZz6CYUSZfmQGO6lnyA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCq-Qw6uhM2r10Ba8JTSVLFA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCqBowHCt9tp8xinjoqpErdQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCqLjqU4NG78n0yo3IiHz7bg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCqmK5yXxFo1-kpB_ikzp31Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCqpc5NBFzW2rLNfs7SY70bg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCqvtlfU5ZtbN4pz_6pF40Rw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCr0twRvFP3FZ-oUVdAIUZpw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCrBlt_ybdqlUOqwhRJGh4ww/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCrKxemPH--ts6mujFIFfAvQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCrLJzBibSWAAFDpR08U3daQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCrOK5JMXha5ixIbCxrXIj2w/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCrZaquzPflUd_vSZJBkdXkA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCroEcrM3gIrvWNPjywCMoFQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCrpcE3EhN-daw6gslyhyfrg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCs4rfbEULOJrFyxo8ikuvSg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCsFjec9rLLLbQMy06yVP0zQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCsSvtQSrqqvKdNa6fcsywug/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCsViZi-7TL7q-3A2XVEUDKw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCsqUYKuYpo2GkKf3yQxvDUg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCss-hU7ipoHxwIwBb8tHsRw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCsxQgA60KbwOICc5cXkt62Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCtIZt1anWcUdgi5apHn6SIQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCtakRmQp2GugyuxzWmwTaQw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCtwXBLCTT3zyXoNnxRjs6Kw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCuBT3ZZANZ93az4LBUP8aeQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCuYdLPbYq0070zk6mantnYQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCueXnUyjtcTklhI_Sa7tsSQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCukisTxWxTPmQaiNI0jxgcg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCun8RJoj0cGxlpelijFIokQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCv7YEMiudYcbm2dvmS5usDQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCvM_2cYlaDyYYrwr5Y6kUpg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCvTbhTpDODnqkDLJmBh0DcA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCvZZHwxq9uj77wbGlO7Rczw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCvg9sv_Aq_Pp83gpbVHK3LQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCvtvQxfHF8y2sripRL83OPA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCvxmgA4j9Gu3osu0wfnL9bA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCw77dhKT47hnBnVPykmhFAw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCw8tqQrd2tgfa58l7VPRwqw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwGeGdWtk0W6FUbse2zzDVA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwOjhM9u8lxLLYwud7fyOEw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwQg3yNaArCiT7ofpgT5Ivg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwRKoE20US_OyCQlEgfIlmw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwSQ9Yh_ZI5K9q5wDPjpL1g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwTlfuunTicGiireb0jo4OQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwZfg-670olMMl3G14KUTKQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwcBoHZlXjiISDd6AjN09TQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCweBdeoxqj-wBkFh265ICew/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwge5tFhVS0J33FC7P8RF-g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwkboj4LPcaL7ScBVO3pEVg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCwt0xQ0mMqInaus3HFlJ2Kg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCx7qTUrwGVJZ1tt7V7PFN5Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCxCST2R1kFxa-LNlUrNljEA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCxIPHpK5aHO-Gc19Mb9iJdQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCxKGSNS824O20Rq9AhI_cYw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCxNajtXnhrFm8CkVgfdOCSA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCxOxU3WvkTiJgpbVw-8Vdtw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCxgsMI_uYmgX9szKxsQCGBw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCxxXvgWpSLLWtKaZpAZO-_A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCy78xxAWZYLqnhZlVPtMc-A/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCyLBRLsDunEp-vaNDonJ9nw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCysd_O2h4wqAh6xy6zdpsrw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCyt2EDvw6kc6KMgYqAEQK_g/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzAAqzM_Zv6bFuE8LSdh2Eg/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzKRVUOv8aJJVQ2WPUx5row/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzLhjXbZcnF8FsoTB3tWRkw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzOOTh4GYVno-IJAn2fMVHA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzWboeg5jWfLY9KUrOx2ePw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzcZNkG1COflpbL_o625j2Q/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCze4qmzhiGXu-biVUPhDorA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzhfypzF9l3VpoblETLHixA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UCzz1z7yCXVD7yHH8bah30CQ/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/soulstrike2205/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/thehamarejun/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/21nosreprd/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/8Rezon/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/AIuminum/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/ARetaproductions/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Andetalt/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/AppleYTPMVReupload/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Arcoviso32/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/AtomicBaby123/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/BaslesPadReuplaod/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Baycunn/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Bioronic/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Caillard98/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/CreepahWeegie/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/DerpyEnzyme/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/DooLovesAniki/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/DrXoin/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/EKCraftMC/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Ekyugata/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/FinnishBro/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/GLaDOS996/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Gianneko/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Gigapuddingguy/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/GmodRatchet4123/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/GranulatedWinter/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/HispanicGirasol/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/HyperFlame3/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/ImpossibleCarl69/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/JammingMachine/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/JetSkate1/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Jinxuiable/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/JuakakokiReuploads/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/KinkyAlts/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/LeJimNada/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/LeavaTheine/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/LifeWaste1618/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/LolZombiez/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Manlego26/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/MasterBryan01/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Masterhftw/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/MattIsThatMan/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Mowtendoo/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/MrHeavyfaceUK/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/MrSteroids1/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/MyJabmorenoBroke/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Nabenamiku/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Nagadoff/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/NamaCream777/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/NitroPowerMan/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/OHMYItsGodzilla/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/PonySwagify/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Prolyfic8/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/R7729dash44/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/RP1234BITCH/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Rlcemaster3/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/RobGBA/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/RobGBASP/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/SafariBros115/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/StarWarsXM/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Strikerzkman/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/SuperBocky/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TeamNearTree/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheCartoonCharacter/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheEpicROB/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheFirippu/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheHeroOfKoridai/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheJinxuiable/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheMazzasaurusEffect/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TheQuelArt/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/TwilightSparkle1234/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/UltraRemixer/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/UltraRemixerAlt2/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/VADIM567/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/VanFather/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Veksler96/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Viravaxify/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/YTPMVWolfwoot/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Yibbon133/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/YoungMusic44/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/YourMomFaitDesVideos/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/anotherYTPMVer/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/arghivebeenshot/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/bobywea/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/ceilingpopsicles/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/darkmaster1653/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/derrperson12/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/dkensington13b/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/dpritchsixteen/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/drperson12/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/envision32/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/frannintendo64/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/jjbros9800/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/jojotjuh/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/juakakoki/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/koronx3/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/loquenderabrenda/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/masterzkirby/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/michaelf997/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/mirrorimage98/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/morganhathalt/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/nick97ftGun/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/norio7893/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/norris3942/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/nrdesign1991/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/omniputance/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/oskari14/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/parnas1us/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/plrusek/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/randomTVbox/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/raphaelgoulart/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/reIoadedd/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/reten72/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/ridgeracer92/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/riverrist/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/rozels100/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/semnomepraconta/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/shikitashi/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/soulstrike2205/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/superkaynofuy/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/supersammich123/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/thegias4649/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/thepowerofdiarrhea/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/timothygoodwish/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/wavefuzzalt/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/wthpink/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/xzerostriker/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/yibbonmusic/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/yonpati4/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/xlethxle/videos
+python3.9 -m tubeup --metadata=collection:twitchstreams http://twitch.tv/videos/tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/channel/UChqlzupeQejOvmVwDq-_aEg/videos
