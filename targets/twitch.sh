@@ -1,5 +1,6 @@
 python3.9 -m tubeup --use-download-archive --metadata=collection:healthyaddictvideos "http://twitch.tv/healthyaddict/videos?filter=archives&sort=time"
 python3.9 -m tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/Djhyena/videos?filter=archives&sort=time"
+python3.9 -m tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/ImSquishy__/videos?filter=archives&sort=time"
 python3.9 -m tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/RestrictedEntertainment/videos?filter=archives&sort=time"
 python3.9 -m tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/SashaHippie/videos?filter=archives&sort=time"
 python3.9 -m tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/afoxinspaceshow/videos?filter=archives&sort=time"
