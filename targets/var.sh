@@ -96,6 +96,7 @@
 # tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/user/ejmillennium ##NJ nerds
 # tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/user/gotenks6 ##NJ nerds
 # tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/user/katTcritic ##NJ nerds
+tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/c/Lewdcast/videos 
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/videos ## The Donkey Show
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC2wmC89IGdayr9a7EJhxf6w/videos 
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC4unV5BVmWubfAF0Al_AVdw/videos ## SyrianGirlpartisan
@@ -133,6 +134,5 @@ tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube
 tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/videos ## Anita Sarkeesian channel/collection
 tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw ## えむゆみカップル Emuyumi Couple
 tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse/videos
-tubeup --use-download-archive http://youtube.com/c/Lewdcast/videos 
 tubeup --use-download-archive http://youtube.com/c/Octav1usExtra/videos 
 tubeup --use-download-archive http://youtube.com/c/senzawa/videos 
