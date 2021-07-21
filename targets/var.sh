@@ -1,16 +1,3 @@
-# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCB5Yw6r20bTrkZZDS_EnNvg ## DEAD
-# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCG5ZWGfgDXk40t9Og02F5yA ## TERMINATED
-# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCKH9HfYY_GEcyltl2mbD5lA ##NJ nerds
-# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCNEo4Lb14UTkcqBZ9nKwyTg ## DOES NOT EXIST
-# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCS6F1cpcSoJkztme19_KIzw ## DOES NOY EXIST
-# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCZZFrPKyH-Le2uoPGnn5jyg ## TERMINATED
-# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC_-9rxe8VZI-tUQJWEig4mA ##NJ nerds
-# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCdpkbiiCFHVPZrSYEEWyDdw ## TERMINATED
-# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCnbUeHmpeHAX3xED4fRXKeg ## Vaporwave
-# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/user/ejmillennium ##NJ nerds
-# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/user/gotenks6 ##NJ nerds
-# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/user/katTcritic ##NJ nerds
-tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/videos ## Anita Sarkeesian channel/collection
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/c/MoLupo21/videos # Wos X
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC-zgHpR-_niRxow6vS6nSGQ/videos ## Mellyboo
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC1fSp9Qpp8tT982OumLS5Hg/videos ## Tactical Bacon Patches
@@ -97,10 +84,18 @@ tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://yout
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/user/shachiNT/videos 
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/user/stevieryan/videos 
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/user/veradevera /videos 
-tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse/videos
-tubeup --use-download-archive http://youtube.com/c/Lewdcast/videos 
-tubeup --use-download-archive http://youtube.com/c/Octav1usExtra/videos 
-tubeup --use-download-archive http://youtube.com/c/senzawa/videos 
+# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCB5Yw6r20bTrkZZDS_EnNvg ## DEAD
+# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCG5ZWGfgDXk40t9Og02F5yA ## TERMINATED
+# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCKH9HfYY_GEcyltl2mbD5lA ##NJ nerds
+# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCNEo4Lb14UTkcqBZ9nKwyTg ## DOES NOT EXIST
+# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCS6F1cpcSoJkztme19_KIzw ## DOES NOY EXIST
+# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCZZFrPKyH-Le2uoPGnn5jyg ## TERMINATED
+# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC_-9rxe8VZI-tUQJWEig4mA ##NJ nerds
+# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCdpkbiiCFHVPZrSYEEWyDdw ## TERMINATED
+# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCnbUeHmpeHAX3xED4fRXKeg ## Vaporwave
+# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/user/ejmillennium ##NJ nerds
+# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/user/gotenks6 ##NJ nerds
+# tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/user/katTcritic ##NJ nerds
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/videos ## The Donkey Show
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC2wmC89IGdayr9a7EJhxf6w/videos 
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC4unV5BVmWubfAF0Al_AVdw/videos ## SyrianGirlpartisan
@@ -134,4 +129,10 @@ tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/user/ayananishinaga/videos ## 西永彩奈ちゃんねる
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/user/smiletone/videos ## Gazi Kodzo
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/user/sydsnap/videos 
-tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/user/sydsnapva/videos 
+tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/user/sydsnapva/videos
+tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/videos ## Anita Sarkeesian channel/collection
+tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw ## えむゆみカップル Emuyumi Couple
+tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse/videos
+tubeup --use-download-archive http://youtube.com/c/Lewdcast/videos 
+tubeup --use-download-archive http://youtube.com/c/Octav1usExtra/videos 
+tubeup --use-download-archive http://youtube.com/c/senzawa/videos 
