@@ -7,6 +7,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC9k2WzcJ1kUMl4KIwNQwrFA/videos ## creator:"Bloke on the Range"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCCdeHKahyMAlPV6SQGx8psg/videos ## creator:"80 Percent Arms"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCClIfWXtn4rA-1jDHAVPYmg/videos ## creator:"akbuilderDOTcom"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCDbC57dQ41p_-xHBZrhltgw ## creator:"cokeman2423"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCEC4sjDdhve0jBey4lL_RKg/videos ## creator:"Rifle Dynamics"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCG5jZJriesapPb-igAfoQWw/videos ## creator:"AMTAC Suppressors"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCHdVwKz3nA_gaYXL9cEME0A/videos ## creator:"ioscribe"
