@@ -96,19 +96,25 @@
 # tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/user/ejmillennium ##NJ nerds
 # tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/user/gotenks6 ##NJ nerds
 # tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/user/katTcritic ##NJ nerds
+tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/c/DimitriMonroeStreams/videos
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/c/Lewdcast/videos 
+tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/c/loserlexii/videos
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/videos ## The Donkey Show
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC2wmC89IGdayr9a7EJhxf6w/videos 
+tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC4q2dwWldl6dlYTXZqi7yaQ/videos
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC4unV5BVmWubfAF0Al_AVdw/videos ## SyrianGirlpartisan
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC5ihB7WP6MtZbB3XyV2vj9Q/videos ## Skeptic Feminist
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC6e-wMTFtTJo-PPY0ZsfbvQ/videos ## 麗癒ちゃんねる
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC7RYl7VNkiUssSr028azf7w/videos ## WWII Girl
+tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCAG1ABZP-c7wuNt0fziHtsA/videos
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCBhnI7_z3NIJmneNe7wjlPw/videos ## Velvet Tube 벨벳튜브
+tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCEQ3pEklukS8Wp6FygeM89Q/videos 
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCIqyFzDuFim0B_UaKROeGqw/videos ## Run Girls, Run!公式チャンネル
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w/videos ## Brittany Venti
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q/videos ## Jordan Peterson
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA/videos ## Muni Bug
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCT7BLBDnD-wEXeqZSg24aJw/videos ## Soph
+tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCTfzSx9QCk0LJ_-x6XveeMw/videos
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCXvKUavCtDOlA8bT1i2tI3w/videos ## Belle Delphine
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCZTTxoM7GT-NVe52xqP0cXw/videos ## Ana Isabel
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC_1HVMnw-610qx54iEiWk7A/videos ## Aki Dearest
@@ -135,4 +141,4 @@ tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://yout
 tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw ## えむゆみカップル Emuyumi Couple
 tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse/videos
 tubeup --use-download-archive http://youtube.com/c/Octav1usExtra/videos 
-tubeup --use-download-archive http://youtube.com/c/senzawa/videos 
+tubeup --use-download-archive http://youtube.com/c/senzawa/videos
