@@ -34,6 +34,18 @@ Optional software (nice to have and my prefered setup):
 ### Getting started
 
 - Configure Tubeup [per it's instructions](http://github.com/bibanon/tubeup)
+
+- Create a python virtualenv
+ `python3 -m venv myenvdir`
+ 
+ Add the sources
+ `source myenvdir/bin/activate`
+ 
+ Install the software needed:
+ `pip3 install --user -U tubeup youtube-dl jsonpointer jsonpatch docopt six total-ordering tqdm certifi idna chardet urllib3 requests contextlib2 schema backports.csv internetarchive tubeup pip`
+ 
+ ### SSH setup
+
 - You'll need to enerate a ECDSA key if you're working with a new machine
 
   `ssh-keygen -t ed25519 ; cat ~/.ssh/id_ed25519.pub`
