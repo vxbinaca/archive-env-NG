@@ -42,7 +42,9 @@ Optional software (nice to have and my prefered setup):
  `source myenvdir/bin/activate`
  
  Install the software needed:
- `pip3 install --user -U tubeup youtube-dl jsonpointer jsonpatch docopt six total-ordering tqdm certifi idna chardet urllib3 requests contextlib2 schema backports.csv internetarchive tubeup pip`
+ `pip3 install -U tubeup youtube-dl jsonpointer jsonpatch docopt six total-ordering tqdm certifi idna chardet urllib3 requests contextlib2 schema backports.csv internetarchive tubeup pip`
+
+Any future command issues not being found should call for a source re-activate.
  
  ### SSH setup
 
