@@ -36,10 +36,12 @@ Optional software (nice to have and my prefered setup):
 - Configure Tubeup [per it's instructions](http://github.com/bibanon/tubeup)
 
 - Create a python virtualenv
+ 
  `python3 -m venv myenvdir`
  
- Add the sources
- `source myenvdir/bin/activate`
+ Add the sources / add to ZSHRC
+ 
+ `source myenvdir/bin/activate ; cat "~/source myenvdir/bin/activate" >> ~/.zshrc`
  
  Install the software needed:
  `pip3 install -U tubeup youtube-dl jsonpointer jsonpatch docopt six total-ordering tqdm certifi idna chardet urllib3 requests contextlib2 schema backports.csv internetarchive tubeup pip`
