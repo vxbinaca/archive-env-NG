@@ -127,3 +127,5 @@ tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/yuninja8/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/zeldacw/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/zonesama/videos?filter=archives&sort=time"
+tubeup --use-download-archive --metadata=collection:twitchstreams "https://www.twitch.tv/streamingincubus/videos\?filter\=all\&sort\=time"
+tubeup --use-download-archive --metadata=collection:twitchstreams "https://www.twitch.tv/trappychan/videos?filter=archives&sort=time"
