@@ -142,3 +142,4 @@ tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.c
 tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse/videos
 tubeup --use-download-archive http://youtube.com/c/Octav1usExtra/videos 
 tubeup --use-download-archive http://youtube.com/c/senzawa/videos
+tubeup --use-download-archive https://www.youtube.com/channel/UCVlN6QBfwoply9RhxmbBryw/videos
