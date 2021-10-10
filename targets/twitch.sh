@@ -96,6 +96,7 @@ tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/shyphoebe/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/sifyro/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/simmykenz/videos?filter=all&sort=time"
+tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/sinau_/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/smonroeshow/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/softmoe/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/spoonee/videos?filter=archives&sort=time"
