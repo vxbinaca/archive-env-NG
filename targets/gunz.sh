@@ -2,6 +2,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3zqcDInk4fMcnmbSV_q4dg/videos ## creator:"Royal Nonesuch"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5Q0zboe3LqI0Ht6Qt022FQ/videos ## creator:"BoogerEater"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC6cqbWCSh9LaqPoQprQUoaw/videos ## creator:"Atlas Arms"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC8n7AzIQ0OLsWjmEdnahmeQ ## creator:"AGcast"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC8q6FZliLdeiMbyFVgOdgfw/videos ## creator:"5D Tactical"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC9YRbzs-eK68tcrSAK4bj2g/videos ## creator:"Ivan The Troll"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC9k2WzcJ1kUMl4KIwNQwrFA/videos ## creator:"Bloke on the Range"
