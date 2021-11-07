@@ -121,6 +121,7 @@ tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/sweet_anita/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/sweetcheekstvr/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/sydsnap/videos?filter=archives&sort=time"
+tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/tabletopgirl/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/tamaslastlife/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/tamaslastlife/videos\?filter\=archives\&sort\=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/textfilesdotcom/videos?filter=archives&sort=time"
