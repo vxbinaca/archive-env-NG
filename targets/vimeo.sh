@@ -50,4 +50,5 @@ tubeup --use-download-archive --metadata=collection:weedtubers http://vimeo.com/
 tubeup --use-download-archive --metadata=collection:weedtubers http://vimeo.com/growpotcheaply
 tubeup --use-download-archive --metadata=collection:weedtubers http://vimeo.com/linxvapor
 tubeup --use-download-archive --metadata=collection:weedtubers http://vimeo.com/user62199285
+tubeup --use-download-archive --metadata=collection:weedtubers http://vimeo.com/user82268008
 tubeup --use-download-archive --metadata=collection:weedtubers http://vimeo.com/user85745696
