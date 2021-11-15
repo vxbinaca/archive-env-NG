@@ -1,4 +1,5 @@
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/IvanPrintsGuns/videos ## creator:"IvanPrintsGuns"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/OrdnanceLab/videos ## creator:"Ordnance Lab"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3te5ROBgvDuuJOio-ZlXZQ/videos ## creator:"esstac"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3zqcDInk4fMcnmbSV_q4dg/videos ## creator:"Royal Nonesuch"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5Q0zboe3LqI0Ht6Qt022FQ/videos ## creator:"BoogerEater"
