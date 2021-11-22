@@ -15,6 +15,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCG5jZJriesapPb-igAfoQWw/videos ## creator:"AMTAC Suppressors"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCH73VCNIkYR6Eh6idYtpjqQ/videos ## creator:"CtrlPew"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCHdVwKz3nA_gaYXL9cEME0A/videos ## creator:"ioscribe"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCKp6m5XlXZp4cxmprybkFBw/videos ## creator:"Print Shoot Repeat"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCLmv_cs3QJNDEnc3HYaQ2iA/videos ## creator:"Eric Dienno"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCU1u934KGakuZMiNsGvljJA/videos ## creator:"208307"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCW0V8XgHkmT5nsWdw1Z0LFw/videos ## creator:"Venom Defense"
