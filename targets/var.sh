@@ -121,7 +121,7 @@ tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC_BEq1haIVw4p25K95kaS3Q/videos ## emu.cooking
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UClYQwz4pVcuDnHXFsjXhbAQ/videos ## Krystallize is Back
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCnzq0TEm7vMLUe4wEumA39A/videos ## Spooky Weeb Trash
-tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCoLCf3aVRMSukwetHfn1p1A/videos ## ボートレース戸田
+## tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCoLCf3aVRMSukwetHfn1p1A/videos ## ボートレース戸田 ## Having rip issues
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCrfroioyR188GNllgeDV8KA/videos ## チャンネルいにゃ
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCrvmV0HaVXnsS6EcN_fdmTg/videos ## Cami Carr
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCsIAMpI9bRV9T9gJT9Mbdpw/videos ## さえなるチャンネル
@@ -143,3 +143,7 @@ tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse/videos
 tubeup --use-download-archive http://youtube.com/c/Octav1usExtra/videos 
 tubeup --use-download-archive http://youtube.com/c/senzawa/videos
 tubeup --use-download-archive https://www.youtube.com/channel/UCVlN6QBfwoply9RhxmbBryw/videos
+tubeup --use-download-archive https://www.youtube.com/channel/UCo6hJKM6MvohbS8CNNsxHzg/videos
+tubeup --use-download-archive https://www.youtube.com/channel/UCSRfRHYTw9eeZ-65dX1s_nQ/videos
+tubeup --use-download-archive https://www.youtube.com/c/JamesBear420_lol/videos
+tubeup --use-download-archive https://www.youtube.com/c/Izzzyzzz/videos
