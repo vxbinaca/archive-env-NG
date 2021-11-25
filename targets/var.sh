@@ -142,8 +142,9 @@ tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.c
 tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse/videos
 tubeup --use-download-archive http://youtube.com/c/Octav1usExtra/videos 
 tubeup --use-download-archive http://youtube.com/c/senzawa/videos
-tubeup --use-download-archive https://www.youtube.com/channel/UCVlN6QBfwoply9RhxmbBryw/videos
-tubeup --use-download-archive https://www.youtube.com/channel/UCo6hJKM6MvohbS8CNNsxHzg/videos
-tubeup --use-download-archive https://www.youtube.com/channel/UCSRfRHYTw9eeZ-65dX1s_nQ/videos
-tubeup --use-download-archive https://www.youtube.com/c/JamesBear420_lol/videos
-tubeup --use-download-archive https://www.youtube.com/c/Izzzyzzz/videos
+tubeup --use-download-archive http://youtube.com/channel/UCVlN6QBfwoply9RhxmbBryw/videos
+tubeup --use-download-archive http://youtube.com/channel/UCo6hJKM6MvohbS8CNNsxHzg/videos
+tubeup --use-download-archive http://youtube.com/channel/UCSRfRHYTw9eeZ-65dX1s_nQ/videos
+tubeup --use-download-archive http://youtube.com/c/JamesBear420_lol/videos
+tubeup --use-download-archive http://youtube.com/c/Izzzyzzz/videos
+tubeup --use-download-archive http://youtube.com/channel/UCfHJ5Y3akQ7LA0PQmSYlYmQ/videos ## Paralellni Polis
