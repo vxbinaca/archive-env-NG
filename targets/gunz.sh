@@ -3,6 +3,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3te5ROBgvDuuJOio-ZlXZQ/videos ## creator:"esstac"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3zqcDInk4fMcnmbSV_q4dg/videos ## creator:"Royal Nonesuch"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5Q0zboe3LqI0Ht6Qt022FQ/videos ## creator:"BoogerEater"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC6ZFh0ZS8668IKDwHWG7rvw/videos ## creator:"Polymer 80"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC6cqbWCSh9LaqPoQprQUoaw/videos ## creator:"Atlas Arms"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC8n7AzIQ0OLsWjmEdnahmeQ/videos ## creator:"AGcast"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC8q6FZliLdeiMbyFVgOdgfw/videos ## creator:"5D Tactical"
