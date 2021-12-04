@@ -22,6 +22,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCLmv_cs3QJNDEnc3HYaQ2iA/videos ## creator:"Eric Dienno"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCU1u934KGakuZMiNsGvljJA/videos ## creator:"208307"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCW0V8XgHkmT5nsWdw1Z0LFw/videos ## creator:"Venom Defense"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCW3ojI1BVSj45leq-e2QIzQ/videos ## creator:"Klaviermeister"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC_Dsj3dmIpm1BuzO6MQMmMQ/videos ## creator:"Jigsore Rephon"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCci79_hMFw1CahtThZJ53yA/videos ## creator:"Jeff Rodriguez"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCdSKY3mXy9LhYWiY8zvRuxQ/videos ## creator:"Open Source Ordnance"
