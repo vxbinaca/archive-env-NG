@@ -56,3 +56,5 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/royalnonesuchshow/videos ## creator:"Royal Nonesuch"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/saunixcomp/videos ## creator:"NYC CNC"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/tnoutdoors9/videos ## creator:"tnoutdoors9"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCBiOiGOqaJ2cR7zlzWqRAzg ## "creator:Noveske Rifleworks"
+
