@@ -58,3 +58,4 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/tnoutdoors9/videos ## creator:"tnoutdoors9"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCBiOiGOqaJ2cR7zlzWqRAzg/videos ## creator:"Noveske Rifleworks"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5FXp9rTUrbilfyg3t1qVEQ/videos ## creator:"Silencer Stundent"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/AreWeCoolYet-/videos ## creator:"Are We cool Yet?"
