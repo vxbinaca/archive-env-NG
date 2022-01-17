@@ -59,3 +59,10 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCBiOiGOqaJ2cR7zlzWqRAzg/videos ## creator:"Noveske Rifleworks"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5FXp9rTUrbilfyg3t1qVEQ/videos ## creator:"Silencer Stundent"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/AreWeCoolYet-/videos ## creator:"Are We cool Yet?"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/YoungandTactical/videos ## creator:"Young and Tactical"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCy3hxYX5lAYlpJHuewur0mQ/videos ## creator:"Plastik Gatz"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/QueerArmorer/videos ## creator:"Queer Armorer"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/MrSnowMakes/videos ## creator:"Mr Snow Makes"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/RobPincus ## creator:"Rob Pincus"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/FuddBusters/videos ## creator:"Fudd Busters"
+
