@@ -1,2 +1,3 @@
-tubeup --use-download-archive https://www.tiktok.com/@wish_rathod
-tubeup --use-download-archive https://www.tiktok.com/@emipexu
+tubeup --use-download-archive http://tiktok.com/@wish_rathod
+tubeup --use-download-archive http://tiktok.com/@emipexu
+tubeup --use-download-archive http://tiktok.com/@evaaviolett
