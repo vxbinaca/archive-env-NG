@@ -2,7 +2,7 @@
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC-zgHpR-_niRxow6vS6nSGQ/videos ## Mellyboo
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC1fSp9Qpp8tT982OumLS5Hg/videos ## Tactical Bacon Patches
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC27m3R6W5sP7-QLfMTEso2w/videos ## 全てあなたの所為です。
- tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC3Sm9GeLi1wDRToAuXLJ0dQ/videos ## Spicy Rice gaming
+## tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC3Sm9GeLi1wDRToAuXLJ0dQ/videos ## Spicy Rice gaming
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC48YM-rBdkGCHs2fWpuY7hg/videos ## Female teacher practicing cooking
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC4QFrwuzxJ2eC7Q2iDrlJFg/videos ## dosgatosmuertos
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC4kWnf_8zo0KX5oYHRaozDw/videos ## Piper CoCoScope
