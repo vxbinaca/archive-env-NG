@@ -419,3 +419,20 @@ tubeup --metadata=collection:metasocialmedia https://www.youtube.com/watch?v=ZZP
 7061241773275843845
 7062275555655208197
 7062372072047086854
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=3vFsXYdSZH8
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=fYU2Xtlj6Hs
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=Sk8OzcQ-WHY
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=vwWej8GWqQI
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=3vFsXYdSZH8
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=fYU2Xtlj6Hs
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=Sk8OzcQ-WHY
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=vwWej8GWqQI
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=3vFsXYdSZH8
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=3vFsXYdSZH8
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=fYU2Xtlj6Hs
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=fYU2Xtlj6Hs
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=Sk8OzcQ-WHY
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=Sk8OzcQ-WHY
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=vwWej8GWqQI
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=vwWej8GWqQI
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=wWkJtCUP8ec
