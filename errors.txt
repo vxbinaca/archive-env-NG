@@ -505,3 +505,9 @@ tubeup --metadata=collection:louislevauvideos https://www.youtube.com/watch?v=YZ
 tubeup --metadata=collection:louislevauvideos https://www.youtube.com/watch?v=Z6SuBI-9O6g
 tubeup --metadata=collection:louislevauvideos https://www.youtube.com/watch?v=Zg_JFdGuGug
 tubeup --metadata=collection:louislevauvideos https://www.youtube.com/watch?v=zp4bioGz0GA
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=3vFsXYdSZH8
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=L9i4njAYPTg
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=MH19iavV984
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=Sk8OzcQ-WHY
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=fYU2Xtlj6Hs
+tubeup --metadata=collection:tubeup https://www.youtube.com/watch?v=vwWej8GWqQI
