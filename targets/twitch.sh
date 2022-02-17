@@ -41,6 +41,7 @@ tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/femboyviking/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/gamecatt/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/ghostgrls/videos?filter=archives&sort=time"
+tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/glacier_clear/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/gothichyena/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/grandifloru/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/gunsarefun911/videos?filter=archives&sort=time"
