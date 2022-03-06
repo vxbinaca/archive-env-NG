@@ -150,3 +150,4 @@ tubeup --use-download-archive http://youtube.com/channel/UCSRfRHYTw9eeZ-65dX1s_n
 tubeup --use-download-archive http://youtube.com/channel/UCVlN6QBfwoply9RhxmbBryw/videos
 tubeup --use-download-archive http://youtube.com/channel/UCfHJ5Y3akQ7LA0PQmSYlYmQ/videos ## Paralellni Polis
 tubeup --use-download-archive http://youtube.com/channel/UCo6hJKM6MvohbS8CNNsxHzg/videos
+tubeup --use-download-archive https://www.youtube.com/c/bcflyers2016/videos ## BCflyers
