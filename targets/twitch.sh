@@ -162,3 +162,4 @@ tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/zeldacw/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/zonesama/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "https://www.twitch.tv/asagi_t/videos\?filter\=all"
+tubeup --use-download-archive --metadata=collection:twitchstreams "https://www.twitch.tv/paymoneywubby/videos\?filter\=all"
