@@ -135,7 +135,7 @@ tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/user/ThePopeB4G/videos 
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/user/ayananishinaga/videos ## 西永彩奈ちゃんねる
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/user/smiletone/videos ## Gazi Kodzo
-tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/user/sydsnap/videos 
+tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCWH4JkQWioU3vTAritHDnAA/videos 
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/user/sydsnapva/videos
 tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/videos ## Anita Sarkeesian channel/collection
 tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw ## えむゆみカップル Emuyumi Couple
@@ -150,4 +150,4 @@ tubeup --use-download-archive http://youtube.com/channel/UCSRfRHYTw9eeZ-65dX1s_n
 tubeup --use-download-archive http://youtube.com/channel/UCVlN6QBfwoply9RhxmbBryw/videos
 tubeup --use-download-archive http://youtube.com/channel/UCfHJ5Y3akQ7LA0PQmSYlYmQ/videos ## Paralellni Polis
 tubeup --use-download-archive http://youtube.com/channel/UCo6hJKM6MvohbS8CNNsxHzg/videos
-tubeup --use-download-archive https://www.youtube.com/c/bcflyers2016/videos ## BCflyers
+tubeup --use-download-archive http://youtube.com/c/bcflyers2016/videos ## BCflyers
