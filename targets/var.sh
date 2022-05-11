@@ -151,3 +151,4 @@ tubeup --use-download-archive http://youtube.com/channel/UCVlN6QBfwoply9RhxmbBry
 tubeup --use-download-archive http://youtube.com/channel/UCfHJ5Y3akQ7LA0PQmSYlYmQ/videos ## Paralellni Polis
 tubeup --use-download-archive http://youtube.com/channel/UCo6hJKM6MvohbS8CNNsxHzg/videos
 tubeup --use-download-archive http://youtube.com/c/bcflyers2016/videos ## BCflyers
+tubeup --use-download-archive http://youtube.com/channel/UCcZWQSE5AedwUs-qAJXTaPA ## Normalizing Nudity
