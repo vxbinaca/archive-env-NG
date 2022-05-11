@@ -2,7 +2,6 @@
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC-zgHpR-_niRxow6vS6nSGQ/videos ## Mellyboo
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC1fSp9Qpp8tT982OumLS5Hg/videos ## Tactical Bacon Patches
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC27m3R6W5sP7-QLfMTEso2w/videos ## 全てあなたの所為です。
-## tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC3Sm9GeLi1wDRToAuXLJ0dQ/videos ## Spicy Rice gaming
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC48YM-rBdkGCHs2fWpuY7hg/videos ## Female teacher practicing cooking
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC4QFrwuzxJ2eC7Q2iDrlJFg/videos ## dosgatosmuertos
  tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC4kWnf_8zo0KX5oYHRaozDw/videos ## Piper CoCoScope
@@ -97,6 +96,7 @@
 # tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/user/gotenks6 ##NJ nerds
 # tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/user/katTcritic ##NJ nerds
 ## tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCoLCf3aVRMSukwetHfn1p1A/videos ## ボートレース戸田 ## Having rip issues
+## tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC3Sm9GeLi1wDRToAuXLJ0dQ/videos ## Spicy Rice gaming
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/c/DimitriMonroeStreams/videos
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/c/Lewdcast/videos 
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/c/loserlexii/videos
@@ -116,6 +116,7 @@ tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA/videos ## Muni Bug
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCT7BLBDnD-wEXeqZSg24aJw/videos ## Soph
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCTfzSx9QCk0LJ_-x6XveeMw/videos
+tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCWH4JkQWioU3vTAritHDnAA/videos 
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCXvKUavCtDOlA8bT1i2tI3w/videos ## Belle Delphine
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCZTTxoM7GT-NVe52xqP0cXw/videos ## Ana Isabel
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UC_1HVMnw-610qx54iEiWk7A/videos ## Aki Dearest
@@ -135,20 +136,22 @@ tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/user/ThePopeB4G/videos 
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/user/ayananishinaga/videos ## 西永彩奈ちゃんねる
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/user/smiletone/videos ## Gazi Kodzo
-tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UCWH4JkQWioU3vTAritHDnAA/videos 
 tubeup --use-download-archive --cookies ~/youtube.com_cookies.txt http://youtube.com/user/sydsnapva/videos
 tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/videos ## Anita Sarkeesian channel/collection
 tubeup --use-download-archive --metadata=collection:tubeup --cookies ~/youtube.com_cookies.txt http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw ## えむゆみカップル Emuyumi Couple
 tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse/videos
 tubeup --use-download-archive http://youtube.com/c/Izzzyzzz/videos
 tubeup --use-download-archive http://youtube.com/c/JamesBear420_lol/videos
+tubeup --use-download-archive http://youtube.com/c/NakedWanderings/videos ## Nick & Lins
 tubeup --use-download-archive http://youtube.com/c/Octav1usExtra/videos 
+tubeup --use-download-archive http://youtube.com/c/TheAdventuresOfAlaska ## Alaska Zade
+tubeup --use-download-archive http://youtube.com/c/bcflyers2016/videos ## BCflyers
 tubeup --use-download-archive http://youtube.com/c/senzawa/videos
 tubeup --use-download-archive http://youtube.com/channel/UCIE1-AjN5_Kf0naxI94qmzQ/videos
 tubeup --use-download-archive http://youtube.com/channel/UCOh33eMeb5Ids_nteQkp_2w/videos
 tubeup --use-download-archive http://youtube.com/channel/UCSRfRHYTw9eeZ-65dX1s_nQ/videos
 tubeup --use-download-archive http://youtube.com/channel/UCVlN6QBfwoply9RhxmbBryw/videos
+tubeup --use-download-archive http://youtube.com/channel/UCcZWQSE5AedwUs-qAJXTaPA ## Normalizing Nudity
 tubeup --use-download-archive http://youtube.com/channel/UCfHJ5Y3akQ7LA0PQmSYlYmQ/videos ## Paralellni Polis
 tubeup --use-download-archive http://youtube.com/channel/UCo6hJKM6MvohbS8CNNsxHzg/videos
-tubeup --use-download-archive http://youtube.com/c/bcflyers2016/videos ## BCflyers
-tubeup --use-download-archive http://youtube.com/channel/UCcZWQSE5AedwUs-qAJXTaPA ## Normalizing Nudity
+tubeup --use-download-archive http://youtube.com/channel/UCy-tM_x3EJETWlqOPRNHeaA/videos ## Naked Gardener
