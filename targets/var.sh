@@ -152,6 +152,7 @@ tubeup --use-download-archive http://youtube.com/channel/UCOh33eMeb5Ids_nteQkp_2
 tubeup --use-download-archive http://youtube.com/channel/UCSRfRHYTw9eeZ-65dX1s_nQ/videos
 tubeup --use-download-archive http://youtube.com/channel/UCVlN6QBfwoply9RhxmbBryw/videos
 tubeup --use-download-archive http://youtube.com/channel/UCcZWQSE5AedwUs-qAJXTaPA ## Normalizing Nudity
+tubeup --use-download-archive http://youtube.com/channel/UCekXK9WdaAbA5YhHX04TPmA/videos ## Anastasie Vaskevich
 tubeup --use-download-archive http://youtube.com/channel/UCfHJ5Y3akQ7LA0PQmSYlYmQ/videos ## Paralellni Polis
 tubeup --use-download-archive http://youtube.com/channel/UCo6hJKM6MvohbS8CNNsxHzg/videos
 tubeup --use-download-archive http://youtube.com/channel/UCy-tM_x3EJETWlqOPRNHeaA/videos ## Naked Gardener
