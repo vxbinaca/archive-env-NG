@@ -156,3 +156,4 @@ tubeup --use-download-archive http://youtube.com/channel/UCekXK9WdaAbA5YhHX04TPm
 tubeup --use-download-archive http://youtube.com/channel/UCfHJ5Y3akQ7LA0PQmSYlYmQ/videos ## Paralellni Polis
 tubeup --use-download-archive http://youtube.com/channel/UCo6hJKM6MvohbS8CNNsxHzg/videos
 tubeup --use-download-archive http://youtube.com/channel/UCy-tM_x3EJETWlqOPRNHeaA/videos ## Naked Gardener
+tubeup --use-download-archive https://www.youtube.com/channel/UCJil534CSR8m5BeQVPkTx4Q/videos
