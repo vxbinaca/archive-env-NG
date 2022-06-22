@@ -14,6 +14,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC0eH_--2Li9n8euYkioF-pg ## creator:"P80 Ralph"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3te5ROBgvDuuJOio-ZlXZQ/videos ## creator:"esstac"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3zqcDInk4fMcnmbSV_q4dg/videos ## creator:"Royal Nonesuch"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5FXp9rTUrbilfyg3t1qVEQ/videos ## creator:"Silencer Student"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5FXp9rTUrbilfyg3t1qVEQ/videos ## creator:"Silencer Stundent"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5Q0zboe3LqI0Ht6Qt022FQ/videos ## creator:"BoogerEater"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC6ZFh0ZS8668IKDwHWG7rvw/videos ## creator:"Polymer 80"
