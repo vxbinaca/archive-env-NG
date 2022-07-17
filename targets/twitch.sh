@@ -1,6 +1,7 @@
 tubeup --use-download-archive --metadata=collection:healthyaddictvideos "http://twitch.tv/healthyaddict/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/Djhyena/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/ImSquishy__/videos?filter=archives&sort=time"
+tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/KoalaPuffsLive/videos\?filter\=all\&sort\=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/Lukey1028/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/PrincessBerpl/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/PrincessHelayna/videos?filter=archives&sort=time"
