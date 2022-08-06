@@ -96,7 +96,7 @@
 # tubeup --metadata=collection:tubeup http://youtube.com/user/gotenks6 ##NJ nerds
 # tubeup --metadata=collection:tubeup http://youtube.com/user/katTcritic ##NJ nerds
 ## tubeup --metadata=collection:tubeup http://youtube.com/channel/UC3Sm9GeLi1wDRToAuXLJ0dQ/videos ## Spicy Rice gaming
-## tubeup http://youtube.com/channel/UCoLCf3aVRMSukwetHfn1p1A/videos ## ボートレース戸田 ## Having rip issues
+tubeup http://youtube.com/channel/UCoLCf3aVRMSukwetHfn1p1A/videos ## ボートレース戸田 ## Having rip issues
 tubeup --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/videos ## Anita Sarkeesian channel/collection
 tubeup --metadata=collection:tubeup http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw ## えむゆみカップル Emuyumi Couple
 tubeup http://youtube.com/c/ChapoTrapHouse/videos
@@ -120,6 +120,7 @@ tubeup http://youtube.com/channel/UC5o8__B2BXoqFf0Et1fMSrQ/videos ## June Lovejo
 tubeup http://youtube.com/channel/UC6e-wMTFtTJo-PPY0ZsfbvQ/videos ## 麗癒ちゃんねる
 tubeup http://youtube.com/channel/UC7RYl7VNkiUssSr028azf7w/videos ## WWII Girl
 tubeup http://youtube.com/channel/UCAG1ABZP-c7wuNt0fziHtsA/videos
+tubeup http://youtube.com/channel/UCB3v0wy8_PkvQKhNZ8QSWoA ## Forest Mommy
 tubeup http://youtube.com/channel/UCBhnI7_z3NIJmneNe7wjlPw/videos ## Velvet Tube 벨벳튜브
 tubeup http://youtube.com/channel/UCEQ3pEklukS8Wp6FygeM89Q/videos 
 tubeup http://youtube.com/channel/UCIE1-AjN5_Kf0naxI94qmzQ/videos
@@ -148,6 +149,7 @@ tubeup http://youtube.com/channel/UCo6hJKM6MvohbS8CNNsxHzg/videos
 tubeup http://youtube.com/channel/UCrfroioyR188GNllgeDV8KA/videos ## チャンネルいにゃ
 tubeup http://youtube.com/channel/UCrvmV0HaVXnsS6EcN_fdmTg/videos ## Cami Carr
 tubeup http://youtube.com/channel/UCsIAMpI9bRV9T9gJT9Mbdpw/videos ## さえなるチャンネル
+tubeup http://youtube.com/channel/UCvPHJP6EnHEjyMi9Rf1jYMw/videos ## Hyperkin
 tubeup http://youtube.com/channel/UCxB7iKYaPv8AJBMWXTbZQVQ/videos ## Yolo Swag Studios
 tubeup http://youtube.com/channel/UCxdkQN7XpdzWw9ii2bl91NA/videos ## Qwerticular
 tubeup http://youtube.com/channel/UCy-tM_x3EJETWlqOPRNHeaA/videos ## Naked Gardener
@@ -160,5 +162,3 @@ tubeup http://youtube.com/user/ThePopeB4G/videos
 tubeup http://youtube.com/user/ayananishinaga/videos ## 西永彩奈ちゃんねる
 tubeup http://youtube.com/user/smiletone/videos ## Gazi Kodzo
 tubeup http://youtube.com/user/sydsnapva/videos
-tubeup http://youtube.com/channel/UCvPHJP6EnHEjyMi9Rf1jYMw/videos ## Hyperkin
-
