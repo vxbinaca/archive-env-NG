@@ -2,7 +2,7 @@
 ## http://flickr.com/photos/greg_tsai/ ## very very big
 ## http://flickr.com/photos/peterchankai ## massive
 ## http://flickr.com/photos/xymon/ ## massive
-gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/115221477@N06/
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/groups/14672223@N20/ 
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/100070727@N02/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/101458697@N02/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/109343209@N03/
@@ -42,6 +42,7 @@ gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRI
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/137405883@N03/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/137569112@N05/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/138190121@N03
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/138493386@N07/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/138573642@N03/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/138581121@N04/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/139395229@N02/
@@ -60,6 +61,7 @@ gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRI
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/147006084@N05/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/148124519@N04/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/148424284@N02/
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/148809991@N05/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/148958168@N08/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/149100303@N08/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/150297764@N06/
@@ -73,6 +75,7 @@ gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRI
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/153297696@N07/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/153873624@N08/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/154713559@N02/
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/155097883/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/155135965@N03/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/156961124@N02/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/157147904@N06/
@@ -99,14 +102,19 @@ gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRI
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/184781939@N08/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/184842258@N07/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/18509117@N04/
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/185135550@N08
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/185135550@N08/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/185215505@N04/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/185446564@N02/
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/185682865@N03/
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/185682865@N03/ 
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/185731232@N03/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/186358358@N07/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/187105604@N08/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/187430176@N08/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/187933283@N06/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/187949706@N02
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/188031517@N03/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/188041122@N03/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/188698855@N06/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/189100125@N08/
@@ -119,6 +127,7 @@ gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRI
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/190805922@N03/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/191310871@N02/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/191389872@N07/
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/191555261@N07/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/192099800@N04/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/192208484@N02/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/193003888@N05/
@@ -129,6 +138,7 @@ gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRI
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/195177067@N04/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/195257213@N05
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/195496722@N04/
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/196078451@N02/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/21202408@N07/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/21734180@N06/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/21913673@N05/
@@ -188,6 +198,7 @@ gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRI
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/56586622@N02/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/56783147@N06/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/59098716@N06/
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/59238414@N02/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/65246831@N07/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/65820399@N08/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/66135314@N08/
@@ -250,6 +261,7 @@ gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRI
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/dejan-photo/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/digital1mpressions/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/eflutter/
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/elementsofthisworld/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/eroticcouple69/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/ethenelin/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/everlastvlad/
@@ -267,6 +279,7 @@ gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRI
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/frozenperfection/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/funcpl80/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/georgenmissy/
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/georgenmissyxxx
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/gh_party_pics2/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/goddesskiki/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/gzla/
@@ -281,6 +294,8 @@ gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRI
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/jandspics/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/jayway28/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/jevanc/
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/john__cindy/
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/john__cindy/ 
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/josephlee1001/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/jwpurdy/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/jwtphoto/
@@ -292,6 +307,7 @@ gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRI
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/liseysweet/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/livelaughlove11/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/loanbui/
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/loanbui/ 
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/lobbiaz/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/m_fantasy-fest/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/magandadtg/
@@ -323,6 +339,7 @@ gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRI
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/secret_affair/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/secretplaywife/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/seethroughlover/
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/sexy_janet_from_hull/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/skylinestudiofirenze/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/smiley69/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/sojin2/
@@ -336,8 +353,8 @@ gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRI
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/thirteenlucky1313/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/tmruff/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/tomcat1980/
+gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/trevsimages/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/verdelux/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/vicky_69/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/vietusa74/
 gallery-dl --write-metadata --write-info-json --download-archive /media/sf_G_DRIVE/flickr-DA.sqlite http://flickr.com/photos/zapzapzap/
-
