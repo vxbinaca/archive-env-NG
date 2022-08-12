@@ -96,7 +96,6 @@
 # tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/gotenks6 ##NJ nerds
 # tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/katTcritic ##NJ nerds
 ## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3Sm9GeLi1wDRToAuXLJ0dQ/videos ## Spicy Rice gaming
-tubeup --use-download-archive http://youtube.com/channel/UCoLCf3aVRMSukwetHfn1p1A/videos ## ボートレース戸田 ## Having rip issues
 tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/videos ## Anita Sarkeesian channel/collection
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw ## えむゆみカップル Emuyumi Couple
 tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse/videos
@@ -107,8 +106,10 @@ tubeup --use-download-archive http://youtube.com/c/Lewdcast/videos
 tubeup --use-download-archive http://youtube.com/c/MichelleAKJx ## 米雪MichelleAKJ
 tubeup --use-download-archive http://youtube.com/c/NakedWanderings/videos ## Nick & Lins
 tubeup --use-download-archive http://youtube.com/c/Octav1usExtra/videos 
+tubeup --use-download-archive http://youtube.com/c/OverlordGaming/videos
 tubeup --use-download-archive http://youtube.com/c/TheAdventuresOfAlaska ## Alaska Zade
 tubeup --use-download-archive http://youtube.com/c/bcflyers2016/videos ## BCflyers
+tubeup --use-download-archive http://youtube.com/c/dannphan29online/videos
 tubeup --use-download-archive http://youtube.com/c/loserlexii/videos
 tubeup --use-download-archive http://youtube.com/c/senzawa/videos
 tubeup --use-download-archive http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/videos ## The Donkey Show
@@ -146,6 +147,7 @@ tubeup --use-download-archive http://youtube.com/channel/UCfHJ5Y3akQ7LA0PQmSYlYm
 tubeup --use-download-archive http://youtube.com/channel/UClYQwz4pVcuDnHXFsjXhbAQ/videos ## Krystallize is Back
 tubeup --use-download-archive http://youtube.com/channel/UCnzq0TEm7vMLUe4wEumA39A/videos ## Spooky Weeb Trash
 tubeup --use-download-archive http://youtube.com/channel/UCo6hJKM6MvohbS8CNNsxHzg/videos
+tubeup --use-download-archive http://youtube.com/channel/UCoLCf3aVRMSukwetHfn1p1A/videos ## ボートレース戸田 ## Having rip issues
 tubeup --use-download-archive http://youtube.com/channel/UCrfroioyR188GNllgeDV8KA/videos ## チャンネルいにゃ
 tubeup --use-download-archive http://youtube.com/channel/UCrvmV0HaVXnsS6EcN_fdmTg/videos ## Cami Carr
 tubeup --use-download-archive http://youtube.com/channel/UCsIAMpI9bRV9T9gJT9Mbdpw/videos ## さえなるチャンネル
