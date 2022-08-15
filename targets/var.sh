@@ -144,6 +144,7 @@ tubeup --use-download-archive http://youtube.com/channel/UC_BEq1haIVw4p25K95kaS3
 tubeup --use-download-archive http://youtube.com/channel/UCcZWQSE5AedwUs-qAJXTaPA ## Normalizing Nudity
 tubeup --use-download-archive http://youtube.com/channel/UCekXK9WdaAbA5YhHX04TPmA/videos ## Anastasie Vaskevich
 tubeup --use-download-archive http://youtube.com/channel/UCfHJ5Y3akQ7LA0PQmSYlYmQ/videos ## Paralellni Polis
+tubeup --use-download-archive http://youtube.com/channel/UCjeGB0SaIRYJhKY3Vc4A3pQ/videos ## GamerGirlRoxy
 tubeup --use-download-archive http://youtube.com/channel/UClYQwz4pVcuDnHXFsjXhbAQ/videos ## Krystallize is Back
 tubeup --use-download-archive http://youtube.com/channel/UCnzq0TEm7vMLUe4wEumA39A/videos ## Spooky Weeb Trash
 tubeup --use-download-archive http://youtube.com/channel/UCo6hJKM6MvohbS8CNNsxHzg/videos
