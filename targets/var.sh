@@ -124,6 +124,7 @@ tubeup --use-download-archive http://youtube.com/channel/UCAG1ABZP-c7wuNt0fziHts
 tubeup --use-download-archive http://youtube.com/channel/UCB3v0wy8_PkvQKhNZ8QSWoA ## Forest Mommy
 tubeup --use-download-archive http://youtube.com/channel/UCBhnI7_z3NIJmneNe7wjlPw/videos ## Velvet Tube 벨벳튜브
 tubeup --use-download-archive http://youtube.com/channel/UCEQ3pEklukS8Wp6FygeM89Q/videos 
+tubeup --use-download-archive http://youtube.com/channel/UCHRdn2I1BI4Q_yLw-QVbkVQ/videos
 tubeup --use-download-archive http://youtube.com/channel/UCIE1-AjN5_Kf0naxI94qmzQ/videos
 tubeup --use-download-archive http://youtube.com/channel/UCIqyFzDuFim0B_UaKROeGqw/videos ## Run Girls, Run!公式チャンネル
 tubeup --use-download-archive http://youtube.com/channel/UCJil534CSR8m5BeQVPkTx4Q/videos
@@ -149,6 +150,7 @@ tubeup --use-download-archive http://youtube.com/channel/UClYQwz4pVcuDnHXFsjXhbA
 tubeup --use-download-archive http://youtube.com/channel/UCnzq0TEm7vMLUe4wEumA39A/videos ## Spooky Weeb Trash
 tubeup --use-download-archive http://youtube.com/channel/UCo6hJKM6MvohbS8CNNsxHzg/videos
 tubeup --use-download-archive http://youtube.com/channel/UCoLCf3aVRMSukwetHfn1p1A/videos ## ボートレース戸田 ## Having rip issues
+tubeup --use-download-archive http://youtube.com/channel/UCobGjlohg1Mtev0uQXflmKQ/videos 
 tubeup --use-download-archive http://youtube.com/channel/UCrfroioyR188GNllgeDV8KA/videos ## チャンネルいにゃ
 tubeup --use-download-archive http://youtube.com/channel/UCrvmV0HaVXnsS6EcN_fdmTg/videos ## Cami Carr
 tubeup --use-download-archive http://youtube.com/channel/UCsIAMpI9bRV9T9gJT9Mbdpw/videos ## さえなるチャンネル
