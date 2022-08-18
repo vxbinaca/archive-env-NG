@@ -13,6 +13,7 @@ tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/asagi_t/videos?filter=all"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/ashelylovecraft/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/aymeebrown/videos?filter=all&sort=time"
+tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/bayesianash/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/bcflyers2016/videos?filter=all"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/bdubandblue/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/bluefalconactual/videos?filter=all&sort=time"
