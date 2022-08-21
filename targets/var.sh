@@ -120,6 +120,7 @@ tubeup --use-download-archive http://youtube.com/channel/UC4q2dwWldl6dlYTXZqi7ya
 tubeup --use-download-archive http://youtube.com/channel/UC4unV5BVmWubfAF0Al_AVdw/videos ## SyrianGirlpartisan
 tubeup --use-download-archive http://youtube.com/channel/UC5ihB7WP6MtZbB3XyV2vj9Q/videos ## Skeptic Feminist
 tubeup --use-download-archive http://youtube.com/channel/UC5o8__B2BXoqFf0Et1fMSrQ/videos ## June Lovejoy
+tubeup --use-download-archive http://youtube.com/channel/UC6HYWYbzjDOO4ZWsdUHUmyw/videos ## Gutknot VODs
 tubeup --use-download-archive http://youtube.com/channel/UC6e-wMTFtTJo-PPY0ZsfbvQ/videos ## 麗癒ちゃんねる
 tubeup --use-download-archive http://youtube.com/channel/UC7RYl7VNkiUssSr028azf7w/videos ## WWII Girl
 tubeup --use-download-archive http://youtube.com/channel/UCAG1ABZP-c7wuNt0fziHtsA/videos
