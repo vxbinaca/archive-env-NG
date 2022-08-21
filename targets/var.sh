@@ -98,6 +98,7 @@
 ## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3Sm9GeLi1wDRToAuXLJ0dQ/videos ## Spicy Rice gaming
 tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/videos ## Anita Sarkeesian channel/collection
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw ## えむゆみカップル Emuyumi Couple
+tubeup --use-download-archive http://youtube.com/c/BayesiaNash/videos
 tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse/videos
 tubeup --use-download-archive http://youtube.com/c/DimitriMonroeStreams/videos
 tubeup --use-download-archive http://youtube.com/c/Izzzyzzz/videos
@@ -107,6 +108,7 @@ tubeup --use-download-archive http://youtube.com/c/MichelleAKJx ## 米雪Michell
 tubeup --use-download-archive http://youtube.com/c/NakedWanderings/videos ## Nick & Lins
 tubeup --use-download-archive http://youtube.com/c/Octav1usExtra/videos 
 tubeup --use-download-archive http://youtube.com/c/OverlordGaming/videos
+tubeup --use-download-archive http://youtube.com/c/RayMona/videos ## RayMona / Bobdunga
 tubeup --use-download-archive http://youtube.com/c/TheAdventuresOfAlaska ## Alaska Zade
 tubeup --use-download-archive http://youtube.com/c/bcflyers2016/videos ## BCflyers
 tubeup --use-download-archive http://youtube.com/c/dannphan29online/videos
