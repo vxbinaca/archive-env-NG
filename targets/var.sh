@@ -98,27 +98,36 @@
 ## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3Sm9GeLi1wDRToAuXLJ0dQ/videos ## Spicy Rice gaming
 tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/videos ## Anita Sarkeesian channel/collection
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw ## えむゆみカップル Emuyumi Couple
+tubeup --use-download-archive http://youtube.com/c/AsagisLifeNoBSJapan/videos
 tubeup --use-download-archive http://youtube.com/c/BayesiaNash/videos
 tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse/videos
 tubeup --use-download-archive http://youtube.com/c/DimitriMonroeStreams/videos
+tubeup --use-download-archive http://youtube.com/c/ForestMommy/videos/videos
+tubeup --use-download-archive http://youtube.com/c/GRIFTROCKET/videos
 tubeup --use-download-archive http://youtube.com/c/Izzzyzzz/videos
 tubeup --use-download-archive http://youtube.com/c/JamesBear420_lol/videos
 tubeup --use-download-archive http://youtube.com/c/Lewdcast/videos 
+tubeup --use-download-archive http://youtube.com/c/LittleBeeBecca/videos
 tubeup --use-download-archive http://youtube.com/c/MichelleAKJx ## 米雪MichelleAKJ
 tubeup --use-download-archive http://youtube.com/c/NakedWanderings/videos ## Nick & Lins
 tubeup --use-download-archive http://youtube.com/c/Octav1usExtra/videos 
 tubeup --use-download-archive http://youtube.com/c/OverlordGaming/videos
 tubeup --use-download-archive http://youtube.com/c/RayMona/videos ## RayMona / Bobdunga
+tubeup --use-download-archive http://youtube.com/c/TENNINE/videos
+tubeup --use-download-archive http://youtube.com/c/TeamSea3on/videos
 tubeup --use-download-archive http://youtube.com/c/TheAdventuresOfAlaska ## Alaska Zade
+tubeup --use-download-archive http://youtube.com/c/TrashTaste/videos 
 tubeup --use-download-archive http://youtube.com/c/bcflyers2016/videos ## BCflyers
 tubeup --use-download-archive http://youtube.com/c/dannphan29online/videos
 tubeup --use-download-archive http://youtube.com/c/loserlexii/videos
 tubeup --use-download-archive http://youtube.com/c/senzawa/videos
+tubeup --use-download-archive http://youtube.com/c/xPinkFlamingosx87/videos
 tubeup --use-download-archive http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/videos ## The Donkey Show
 tubeup --use-download-archive http://youtube.com/channel/UC2wmC89IGdayr9a7EJhxf6w/videos 
 tubeup --use-download-archive http://youtube.com/channel/UC4q2dwWldl6dlYTXZqi7yaQ/videos
 tubeup --use-download-archive http://youtube.com/channel/UC4unV5BVmWubfAF0Al_AVdw/videos ## SyrianGirlpartisan
 tubeup --use-download-archive http://youtube.com/channel/UC5ihB7WP6MtZbB3XyV2vj9Q/videos ## Skeptic Feminist
+tubeup --use-download-archive http://youtube.com/channel/UC5o8__B2BXoqFf0Et1fMSrQ/videos 
 tubeup --use-download-archive http://youtube.com/channel/UC5o8__B2BXoqFf0Et1fMSrQ/videos ## June Lovejoy
 tubeup --use-download-archive http://youtube.com/channel/UC6HYWYbzjDOO4ZWsdUHUmyw/videos ## Gutknot VODs
 tubeup --use-download-archive http://youtube.com/channel/UC6e-wMTFtTJo-PPY0ZsfbvQ/videos ## 麗癒ちゃんねる
@@ -128,9 +137,11 @@ tubeup --use-download-archive http://youtube.com/channel/UCB3v0wy8_PkvQKhNZ8QSWo
 tubeup --use-download-archive http://youtube.com/channel/UCBhnI7_z3NIJmneNe7wjlPw/videos ## Velvet Tube 벨벳튜브
 tubeup --use-download-archive http://youtube.com/channel/UCEQ3pEklukS8Wp6FygeM89Q/videos 
 tubeup --use-download-archive http://youtube.com/channel/UCHRdn2I1BI4Q_yLw-QVbkVQ/videos
+tubeup --use-download-archive http://youtube.com/channel/UCHRdn2I1BI4Q_yLw-QVbkVQ/videos 
 tubeup --use-download-archive http://youtube.com/channel/UCIE1-AjN5_Kf0naxI94qmzQ/videos
 tubeup --use-download-archive http://youtube.com/channel/UCIqyFzDuFim0B_UaKROeGqw/videos ## Run Girls, Run!公式チャンネル
 tubeup --use-download-archive http://youtube.com/channel/UCJil534CSR8m5BeQVPkTx4Q/videos
+tubeup --use-download-archive http://youtube.com/channel/UCJil534CSR8m5BeQVPkTx4Q/videos 
 tubeup --use-download-archive http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w/videos ## Brittany Venti
 tubeup --use-download-archive http://youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q/videos ## Jordan Peterson
 tubeup --use-download-archive http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA/videos ## Muni Bug
@@ -146,6 +157,7 @@ tubeup --use-download-archive http://youtube.com/channel/UCZTTxoM7GT-NVe52xqP0cX
 tubeup --use-download-archive http://youtube.com/channel/UC_1HVMnw-610qx54iEiWk7A/videos ## Aki Dearest
 tubeup --use-download-archive http://youtube.com/channel/UC_BEq1haIVw4p25K95kaS3Q/videos ## emu.cooking
 tubeup --use-download-archive http://youtube.com/channel/UCcZWQSE5AedwUs-qAJXTaPA ## Normalizing Nudity
+tubeup --use-download-archive http://youtube.com/channel/UCekXK9WdaAbA5YhHX04TPmA/videos
 tubeup --use-download-archive http://youtube.com/channel/UCekXK9WdaAbA5YhHX04TPmA/videos ## Anastasie Vaskevich
 tubeup --use-download-archive http://youtube.com/channel/UCfHJ5Y3akQ7LA0PQmSYlYmQ/videos ## Paralellni Polis
 tubeup --use-download-archive http://youtube.com/channel/UCjeGB0SaIRYJhKY3Vc4A3pQ/videos ## GamerGirlRoxy
@@ -168,5 +180,6 @@ tubeup --use-download-archive http://youtube.com/user/Shoe0ffHead/videos
 tubeup --use-download-archive http://youtube.com/user/Shoe0nHead/videos 
 tubeup --use-download-archive http://youtube.com/user/ThePopeB4G/videos 
 tubeup --use-download-archive http://youtube.com/user/ayananishinaga/videos ## 西永彩奈ちゃんねる
+tubeup --use-download-archive http://youtube.com/user/hotforwords/videos
 tubeup --use-download-archive http://youtube.com/user/smiletone/videos ## Gazi Kodzo
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/videos
