@@ -106,6 +106,7 @@ tubeup --use-download-archive http://youtube.com/c/ForestMommy/videos/videos
 tubeup --use-download-archive http://youtube.com/c/GRIFTROCKET/videos
 tubeup --use-download-archive http://youtube.com/c/Izzzyzzz/videos
 tubeup --use-download-archive http://youtube.com/c/JamesBear420_lol/videos
+tubeup --use-download-archive http://youtube.com/c/KristyJessica/videos
 tubeup --use-download-archive http://youtube.com/c/Lewdcast/videos 
 tubeup --use-download-archive http://youtube.com/c/LittleBeeBecca/videos
 tubeup --use-download-archive http://youtube.com/c/MichelleAKJx ## 米雪MichelleAKJ
@@ -124,11 +125,13 @@ tubeup --use-download-archive http://youtube.com/c/senzawa/videos
 tubeup --use-download-archive http://youtube.com/c/xPinkFlamingosx87/videos
 tubeup --use-download-archive http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/videos ## The Donkey Show
 tubeup --use-download-archive http://youtube.com/channel/UC2wmC89IGdayr9a7EJhxf6w/videos 
+tubeup --use-download-archive http://youtube.com/channel/UC4KeFiaYB7APL8Wuf6jGi9Q/videos
 tubeup --use-download-archive http://youtube.com/channel/UC4q2dwWldl6dlYTXZqi7yaQ/videos
 tubeup --use-download-archive http://youtube.com/channel/UC4unV5BVmWubfAF0Al_AVdw/videos ## SyrianGirlpartisan
 tubeup --use-download-archive http://youtube.com/channel/UC5ihB7WP6MtZbB3XyV2vj9Q/videos ## Skeptic Feminist
 tubeup --use-download-archive http://youtube.com/channel/UC5o8__B2BXoqFf0Et1fMSrQ/videos 
 tubeup --use-download-archive http://youtube.com/channel/UC5o8__B2BXoqFf0Et1fMSrQ/videos ## June Lovejoy
+tubeup --use-download-archive http://youtube.com/channel/UC69wFk6NfF8cFKjkje6W06Q/videos
 tubeup --use-download-archive http://youtube.com/channel/UC6HYWYbzjDOO4ZWsdUHUmyw/videos ## Gutknot VODs
 tubeup --use-download-archive http://youtube.com/channel/UC6e-wMTFtTJo-PPY0ZsfbvQ/videos ## 麗癒ちゃんねる
 tubeup --use-download-archive http://youtube.com/channel/UC7RYl7VNkiUssSr028azf7w/videos ## WWII Girl
@@ -183,5 +186,3 @@ tubeup --use-download-archive http://youtube.com/user/ayananishinaga/videos ## �
 tubeup --use-download-archive http://youtube.com/user/hotforwords/videos
 tubeup --use-download-archive http://youtube.com/user/smiletone/videos ## Gazi Kodzo
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/videos
-tubeup --use-download-archive https://www.youtube.com/c/KristyJessica/videos
-tubeup --use-download-archive https://www.youtube.com/channel/UC4KeFiaYB7APL8Wuf6jGi9Q/videos
