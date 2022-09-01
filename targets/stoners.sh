@@ -1,6 +1,7 @@
 ## tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/c/Erikandoit ## DEAD/videos
 ## tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/KSGLIFESTYLE ## DEAD/videos
 ## tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UC-j0wSx5QfgXuKXyaroo8cg ## TERMINATED/videos
+##tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCw0LH_ED5hUWpu-pcim-Ngw ## NEEDS VERY SLOW RIP/videos
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UC-AJcHTjclNm7wM3RHYt3QQ/videos
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UC0SZFJIz6JCn1LxYKF4duQw/videos
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UC0oTSlrC4BrNoOim9omIyUw/videos
@@ -133,7 +134,6 @@ tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.co
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCvqseFXp5C-8KHUaDwCJy5A/videos
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCvsLK-VBnXRVRE90eVgm9yA/videos
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCvsRvJ0B2hqdlhb9tZokdXA/videos
-##tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCw0LH_ED5hUWpu-pcim-Ngw ## NEEDS VERY SLOW RIP/videos
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCw0tip00OjryaSEw2_LD2-g/videos
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCw7jRVy3RWZWNXTTwYwrVxA/videos
 tubeup --use-download-archive --metadata=collection:weedtubers http://youtube.com/channel/UCxRqSUclO2n5BHzV_Bc3GYQ/videos
