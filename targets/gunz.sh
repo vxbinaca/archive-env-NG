@@ -17,6 +17,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5FXp9rTUrbilfyg3t1qVEQ/videos ## creator:"Silencer Student"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5FXp9rTUrbilfyg3t1qVEQ/videos ## creator:"Silencer Stundent"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5Q0zboe3LqI0Ht6Qt022FQ/videos ## creator:"BoogerEater"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5ey6mN1Ckb_UxRM_yrNTHQ/videos ## creator:"ChicagoGhostManufacturer"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC6ZFh0ZS8668IKDwHWG7rvw/videos ## creator:"Polymer 80"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC6cqbWCSh9LaqPoQprQUoaw/videos ## creator:"Atlas Arms"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC8n7AzIQ0OLsWjmEdnahmeQ/videos ## creator:"AGcast"
