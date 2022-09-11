@@ -1,8 +1,7 @@
-tubeup --metadata=collection:weedtubers 
-tubeup --metadata=collection:weedtubers ## http://youtube.com/c/Erikandoit ## DEAD/videos
-tubeup --metadata=collection:weedtubers ## http://youtube.com/channel/KSGLIFESTYLE ## DEAD/videos
-tubeup --metadata=collection:weedtubers ## http://youtube.com/channel/UC-j0wSx5QfgXuKXyaroo8cg ## TERMINATED/videos
-tubeup --metadata=collection:weedtubers ##http://youtube.com/channel/UCw0LH_ED5hUWpu-pcim-Ngw ## NEEDS VERY SLOW RIP/videos
+tubeup --metadata=collection:weedtubers ## http://youtube.com/c/Erikandoit ## DEAD
+tubeup --metadata=collection:weedtubers ## http://youtube.com/channel/KSGLIFESTYLE ## DEAD
+tubeup --metadata=collection:weedtubers ## http://youtube.com/channel/UC-j0wSx5QfgXuKXyaroo8cg ## TERMINATED
+tubeup --metadata=collection:weedtubers ##http://youtube.com/channel/UCw0LH_ED5hUWpu-pcim-Ngw ## NEEDS VERY SLOW RIP
 tubeup --metadata=collection:weedtubers http://youtube.com/c/420stealthmicrogrow 
 tubeup --metadata=collection:weedtubers http://youtube.com/c/CannaBeardGrows 
 tubeup --metadata=collection:weedtubers http://youtube.com/c/CannabisLifestyleTV 
@@ -28,7 +27,7 @@ tubeup --metadata=collection:weedtubers http://youtube.com/c/TheDudegrows
 tubeup --metadata=collection:weedtubers http://youtube.com/c/TopGrows 
 tubeup --metadata=collection:weedtubers http://youtube.com/c/UrbanGuerillaGrowing 
 tubeup --metadata=collection:weedtubers http://youtube.com/c/VaderOG 
-tubeup --metadata=collection:weedtubers http://youtube.com/channel/UC-AJcHTjclNm7wM3RHYt3QQ/videos
+tubeup --metadata=collection:weedtubers http://youtube.com/channel/UC-AJcHTjclNm7wM3RHYt3QQ
 tubeup --metadata=collection:weedtubers http://youtube.com/channel/UC0SZFJIz6JCn1LxYKF4duQw/videos
 tubeup --metadata=collection:weedtubers http://youtube.com/channel/UC0oTSlrC4BrNoOim9omIyUw/videos
 tubeup --metadata=collection:weedtubers http://youtube.com/channel/UC1YMFT03cUjU-0xc19M9HBA/videos
@@ -231,4 +230,3 @@ tubeup --metadata=collection:weedtubers http://youtube.com/user/urbanremo/videos
 tubeup --metadata=collection:weedtubers http://youtube.com/user/vandra420/videos
 tubeup --metadata=collection:weedtubers http://youtube.com/user/wootcrisp 
 tubeup --metadata=collection:weedtubers http://youtube.com/user/x0chi3ww/videos
-tubeup --metadata=collection:weedtubers http://youtube.com/watch\?v\=gkTpC0HJj6A 
