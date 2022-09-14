@@ -101,6 +101,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive http://youtube.com/c/AsagisLifeNoBSJapan/videos
 tubeup --use-download-archive http://youtube.com/c/BayesiaNash/videos
 tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse/videos
+tubeup --use-download-archive http://youtube.com/c/DimaSakharov
 tubeup --use-download-archive http://youtube.com/c/DimitriMonroeStreams/videos
 tubeup --use-download-archive http://youtube.com/c/ForestMommy/videos/videos
 tubeup --use-download-archive http://youtube.com/c/GRIFTROCKET/videos
@@ -135,6 +136,7 @@ tubeup --use-download-archive http://youtube.com/channel/UC69wFk6NfF8cFKjkje6W06
 tubeup --use-download-archive http://youtube.com/channel/UC6HYWYbzjDOO4ZWsdUHUmyw/videos ## Gutknot VODs
 tubeup --use-download-archive http://youtube.com/channel/UC6e-wMTFtTJo-PPY0ZsfbvQ/videos ## 麗癒ちゃんねる
 tubeup --use-download-archive http://youtube.com/channel/UC7RYl7VNkiUssSr028azf7w/videos ## WWII Girl
+tubeup --use-download-archive http://youtube.com/channel/UC7UiChjgT_LDKcr_8NEEbMA 
 tubeup --use-download-archive http://youtube.com/channel/UCAG1ABZP-c7wuNt0fziHtsA/videos
 tubeup --use-download-archive http://youtube.com/channel/UCB3v0wy8_PkvQKhNZ8QSWoA ## Forest Mommy
 tubeup --use-download-archive http://youtube.com/channel/UCBhnI7_z3NIJmneNe7wjlPw/videos ## Velvet Tube 벨벳튜브
@@ -177,6 +179,7 @@ tubeup --use-download-archive http://youtube.com/channel/UCxB7iKYaPv8AJBMWXTbZQV
 tubeup --use-download-archive http://youtube.com/channel/UCxdkQN7XpdzWw9ii2bl91NA/videos ## Qwerticular
 tubeup --use-download-archive http://youtube.com/channel/UCy-tM_x3EJETWlqOPRNHeaA/videos ## Naked Gardener
 tubeup --use-download-archive http://youtube.com/channel/UCz5Kx6dP6rHRf9yLY1tnelw/videos ## Octavius King
+tubeup --use-download-archive http://youtube.com/playlist\?list\=PLQtVfJZT3ELarvlwiyCOdvD7Fa1scAY_4
 tubeup --use-download-archive http://youtube.com/user/ClanOfTheGrayWolf/videos 
 tubeup --use-download-archive http://youtube.com/user/OtakuVsNotaku/videos 
 tubeup --use-download-archive http://youtube.com/user/Shoe0ffHead/videos 
@@ -186,4 +189,3 @@ tubeup --use-download-archive http://youtube.com/user/ayananishinaga/videos ## �
 tubeup --use-download-archive http://youtube.com/user/hotforwords/videos
 tubeup --use-download-archive http://youtube.com/user/smiletone/videos ## Gazi Kodzo
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/videos
-tubeup --use-download-archive https://www.youtube.com/c/DimaSakharov
