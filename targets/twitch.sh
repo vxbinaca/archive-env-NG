@@ -73,6 +73,7 @@ tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/jumayumin/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/kajin_man/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/kate_gray/videos?filter=all&sort=time"
+tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/keffals/videos\?filter\=all"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/khg777/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/kimimoons/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/kimochisensei/videos?filter=all&sort=time"
