@@ -1,7 +1,7 @@
-tubeup --metadata=collection:weedtubers ## http://youtube.com/c/Erikandoit ## DEAD
-tubeup --metadata=collection:weedtubers ## http://youtube.com/channel/KSGLIFESTYLE ## DEAD
-tubeup --metadata=collection:weedtubers ## http://youtube.com/channel/UC-j0wSx5QfgXuKXyaroo8cg ## TERMINATED
-tubeup --metadata=collection:weedtubers ##http://youtube.com/channel/UCw0LH_ED5hUWpu-pcim-Ngw ## NEEDS VERY SLOW RIP
+tubeup --metadata=collection:weedtubers http://youtube.com/c/Erikandoit ## DEAD
+tubeup --metadata=collection:weedtubers http://youtube.com/channel/KSGLIFESTYLE ## DEAD
+tubeup --metadata=collection:weedtubers http://youtube.com/channel/UC-j0wSx5QfgXuKXyaroo8cg ## TERMINATED
+tubeup --metadata=collection:weedtubers http://youtube.com/channel/UCw0LH_ED5hUWpu-pcim-Ngw ## NEEDS VERY SLOW RIP
 tubeup --metadata=collection:weedtubers http://youtube.com/c/420stealthmicrogrow 
 tubeup --metadata=collection:weedtubers http://youtube.com/c/CannaBeardGrows 
 tubeup --metadata=collection:weedtubers http://youtube.com/c/CannabisLifestyleTV 
