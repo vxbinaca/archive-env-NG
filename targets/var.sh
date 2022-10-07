@@ -101,7 +101,7 @@ tubeup --cookies ~/cookies.txt --use-download-archive --metadata=collection:tube
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/AsagisLifeNoBSJapan
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/BayesiaNash
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/ChapoTrapHouse
-tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/DimaSakharov
+## tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/DimaSakharov ## SCRIPT KILLER
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/DimitriMonroeStreams
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/ForestMommy
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/GRIFTROCKET
