@@ -114,6 +114,7 @@ tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/Miche
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/NakedWanderings ## Nick & Lins
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/Octav1usExtra 
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/OverlordGaming
+tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/PsychedSubstanceChannel
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/RayMona ## RayMona / Bobdunga
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/TENNINE
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/TeamSea3on
@@ -126,6 +127,7 @@ tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/senza
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/xPinkFlamingosx87
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ ## The Donkey Show
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/channel/UC2wmC89IGdayr9a7EJhxf6w 
+tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/channel/UC3pQjXcJTX76E6JbdihMrwQ
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/channel/UC4KeFiaYB7APL8Wuf6jGi9Q
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/channel/UC4q2dwWldl6dlYTXZqi7yaQ
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/channel/UC4unV5BVmWubfAF0Al_AVdw ## SyrianGirlpartisan
