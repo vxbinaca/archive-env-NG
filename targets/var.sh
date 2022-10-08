@@ -96,12 +96,12 @@
 # tubeup --cookies ~/cookies.txt --use-download-archive --metadata=collection:tubeup http://youtube.com/user/gotenks6 ##NJ nerds
 # tubeup --cookies ~/cookies.txt --use-download-archive --metadata=collection:tubeup http://youtube.com/user/katTcritic ##NJ nerds
 ## tubeup --cookies ~/cookies.txt --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3Sm9GeLi1wDRToAuXLJ0dQ ## Spicy Rice gaming
+## tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/DimaSakharov ## SCRIPT KILLER
 tubeup --cookies ~/cookies.txt --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency ## Anita Sarkeesian channel/collection
 tubeup --cookies ~/cookies.txt --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw ## えむゆみカップル Emuyumi Couple
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/AsagisLifeNoBSJapan
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/BayesiaNash
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/ChapoTrapHouse
-## tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/DimaSakharov ## SCRIPT KILLER
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/DimitriMonroeStreams
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/ForestMommy
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/GRIFTROCKET
@@ -148,6 +148,7 @@ tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/channel
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/channel/UCJil534CSR8m5BeQVPkTx4Q
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/channel/UCJil534CSR8m5BeQVPkTx4Q 
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w ## Brittany Venti
+tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/channel/UCLTaIg3ZYGypdn0k2DZzF7A ## TrueCrime
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q ## Jordan Peterson
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA ## Muni Bug
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/channel/UCOh33eMeb5Ids_nteQkp_2w
