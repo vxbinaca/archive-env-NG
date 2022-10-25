@@ -1,0 +1,13 @@
+tubeup --use-download-archive http://youtube.com/c/EvieLupine/videos
+tubeup --use-download-archive http://youtube.com/channel/UCwx8uy7nxohWLwnaPocLsyg/videos
+tubeup --use-download-archive http://youtube.com/user/hannahgirasol/videos
+tubeup --use-download-archive http://youtube.com/channel/UC4NPjds6j5lJEel1wwtgwEg/videos
+tubeup --use-download-archive http://youtube.com/user/jkeenanatstanford/videos
+tubeup --use-download-archive http://youtube.com/channel/UCxFDRtDhukxyQ_9t-Xfo2-w/videos
+tubeup --use-download-archive http://youtube.com/c/CaitlinV/videos
+tubeup --use-download-archive http://youtube.com/c/RHRPaige/videos
+tubeup --use-download-archive http://youtube.com/channel/UCOQf-gwtokF6v3_3qeTD7fA/videos
+tubeup --use-download-archive http://youtube.com/channel/UCp6wCkdu2h3jXtbywif54eQ/videos
+tubeup --use-download-archive http://youtube.com/c/TheNaturalLifestyles/videos
+tubeup --use-download-archive http://youtube.com/channel/UCrQoNInYwa-lWCrSU4Nym4A/videos
+tubeup --use-download-archive http://youtube.com/channel/UCD7LsW7G1-99u0MABMV0oPQ/videos
