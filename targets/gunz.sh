@@ -20,6 +20,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5ey6mN1Ckb_UxRM_yrNTHQ/videos ## creator:"ChicagoGhostManufacturer"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC6ZFh0ZS8668IKDwHWG7rvw/videos ## creator:"Polymer 80"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC6cqbWCSh9LaqPoQprQUoaw/videos ## creator:"Atlas Arms"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC82Q70u6QC_8LvRmLSVmKHQ/videos ## creator:"Out of Battery Live"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC8n7AzIQ0OLsWjmEdnahmeQ/videos ## creator:"AGcast"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC8q6FZliLdeiMbyFVgOdgfw/videos ## creator:"5D Tactical"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC8zcrfzoOawl-RLUJcjzfwQ/videos ## creator:"TECH GUNZ"
