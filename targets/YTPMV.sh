@@ -641,7 +641,6 @@ tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Nabenamiku/
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Nagadoff/
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/NamaCream777/
-tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/NitroPowerMan/
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/OHMYItsGodzilla/
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/PonySwagify/
 tubeup --use-download-archive --metadata=collection:ytpmv-mad http://youtube.com/user/Prolyfic8/
