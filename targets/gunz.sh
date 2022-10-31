@@ -62,6 +62,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/RobPincus ## creator:"Rob Pincus"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/Silencerco/videos ## creator:"SilencerCo"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/StealthArms/videos ## creator:"Stealth Arms"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/Stray03/videos ## creator:"Stray03"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/TweezerAddict/videos ## creator:"The Unknown Cat"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/VuurwapenBlog/videos ## creator:"VuurwapenBlog"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/aardvarkfarts/videos ## creator:"gunthreadadapters.com"
