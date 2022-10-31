@@ -193,3 +193,4 @@ tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/user/ho
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/user/smiletone ## Gazi Kodzo
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/user/sydsnapva
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/RingwayManchester/videos
+tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/Derpixon/videos
