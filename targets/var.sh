@@ -194,3 +194,4 @@ tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/user/sm
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/user/sydsnapva
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/RingwayManchester/videos
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/Derpixon/videos
+tubeup --use-download-archive https://www.youtube.com/c/TheLibertyMovement
