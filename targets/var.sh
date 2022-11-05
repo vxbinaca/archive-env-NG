@@ -197,3 +197,4 @@ tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/user/sy
 tubeup --use-download-archive http://youtube.com/c/Revsaysdesu/videos
 tubeup --use-download-archive http://youtube.com/c/SexPositiveGaming/videos
 tubeup --use-download-archive http://youtube.com/c/TheLibertyMovement
+tubeup --use-download-archive http://youtube.com/c/sgoodz/videos
