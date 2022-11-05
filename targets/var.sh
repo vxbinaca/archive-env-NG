@@ -102,6 +102,7 @@ tubeup --cookies ~/cookies.txt --use-download-archive --metadata=collection:tube
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/AsagisLifeNoBSJapan
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/BayesiaNash
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/ChapoTrapHouse
+tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/Derpixon/videos
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/DimitriMonroeStreams
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/ForestMommy
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/GRIFTROCKET
@@ -116,6 +117,7 @@ tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/Octav
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/OverlordGaming
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/PsychedSubstanceChannel
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/RayMona ## RayMona / Bobdunga
+tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/RingwayManchester/videos
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/TENNINE
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/TeamSea3on
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/TheAdventuresOfAlaska ## Alaska Zade
@@ -192,7 +194,6 @@ tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/user/ay
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/user/hotforwords
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/user/smiletone ## Gazi Kodzo
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/user/sydsnapva
-tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/RingwayManchester/videos
-tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/Derpixon/videos
-tubeup --use-download-archive https://www.youtube.com/c/TheLibertyMovement
-tubeup --use-download-archive https://www.youtube.com/c/SexPositiveGaming/videos
+tubeup --use-download-archive http://youtube.com/c/Revsaysdesu/videos
+tubeup --use-download-archive http://youtube.com/c/SexPositiveGaming/videos
+tubeup --use-download-archive http://youtube.com/c/TheLibertyMovement
