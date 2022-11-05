@@ -195,3 +195,4 @@ tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/user/sy
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/RingwayManchester/videos
 tubeup --cookies ~/cookies.txt --use-download-archive http://youtube.com/c/Derpixon/videos
 tubeup --use-download-archive https://www.youtube.com/c/TheLibertyMovement
+tubeup --use-download-archive https://www.youtube.com/c/SexPositiveGaming/videos
