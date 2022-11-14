@@ -30,6 +30,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCClIfWXtn4rA-1jDHAVPYmg/videos ## creator:"akbuilderDOTcom"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCDbC57dQ41p_-xHBZrhltgw/videos ## creator:"cokeman2423"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCEC4sjDdhve0jBey4lL_RKg/videos ## creator:"Rifle Dynamics"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCFUyP_nNYjQ-iTrvG-GqluQ/videos ## creator:"Yeezy Prints"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCF_kaaUjNS3s4S-TbtQofKw/videos ## creator:"The 3D Pew General"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCG5jZJriesapPb-igAfoQWw/videos ## creator:"AMTAC Suppressors"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCH73VCNIkYR6Eh6idYtpjqQ/videos ## creator:"CtrlPew"
