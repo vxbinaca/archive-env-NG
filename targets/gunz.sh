@@ -1,5 +1,6 @@
 ## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC9YRbzs-eK68tcrSAK4bj2g/videos ## creator:"Ivan The Troll"
 ## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/booligan1985 ## creator"Booglian Shooting Sports"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/@marina.haines2109/videos ## creator:"Marina.Haines"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/AreWeCoolYet-/videos ## creator:"Are We cool Yet?"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/FuddBusters/videos ## creator:"Fudd Busters"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/GunnyMcGunsmith/videos ## creator:"Gunny McGunsmith"
