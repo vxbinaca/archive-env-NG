@@ -79,4 +79,4 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/tnoutdoors9/videos ## creator:"tnoutdoors9"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC82Q70u6QC_8LvRmLSVmKHQ/streams ## creator:"Out of Battery Live"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCF_kaaUjNS3s4S-TbtQofKw/streams ## creator:"The 3D Pew General"
-
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/@Cromecrucifix/shorts ## creator:"ChromeCrucifix"
