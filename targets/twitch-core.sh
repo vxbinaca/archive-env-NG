@@ -113,3 +113,4 @@ tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/yakirisu/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/yifanlu/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/zonesama/videos?filter=all&sort=time"
+tubeup --use-download-archive --metadata=collection:twitchstreams "http://www.twitch.tv/canadiankaseyk/videos?filter=all&sort=time"
