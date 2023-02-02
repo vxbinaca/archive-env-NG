@@ -171,8 +171,16 @@ tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://yout
 tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/videos ## Anita Sarkeesian channel/collection
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw/shorts ## えむゆみカップル Emuyumi Couple
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw/videos ## えむゆみカップル Emuyumi Couple
+tubeup --use-download-archive http://youtube.com/@ProjektMelody/videos
 tubeup --use-download-archive http://youtube.com/@TeenyGinger/shorts
 tubeup --use-download-archive http://youtube.com/@TeenyGinger/videos
+tubeup --use-download-archive http://youtube.com/@ThePiperBlushRadioShow/streams
+tubeup --use-download-archive http://youtube.com/@ThePiperBlushRadioShow/videos
+tubeup --use-download-archive http://youtube.com/@TrashTaste/videos
+tubeup --use-download-archive http://youtube.com/@amyleigh7624
+tubeup --use-download-archive http://youtube.com/@five-meo.education/videos
+tubeup --use-download-archive http://youtube.com/@minus_855/shorts
+tubeup --use-download-archive http://youtube.com/@minus_855/videos
 tubeup --use-download-archive http://youtube.com/c/AsagisLifeNoBSJapan/shorts
 tubeup --use-download-archive http://youtube.com/c/AsagisLifeNoBSJapan/videos
 tubeup --use-download-archive http://youtube.com/c/BayesiaNash/shorts
@@ -354,5 +362,3 @@ tubeup --use-download-archive http://youtube.com/user/hotforwords/videos
 tubeup --use-download-archive http://youtube.com/user/smiletone ## Gazi Kodzo
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/shorts
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/videos
-tubeup --use-download-archive http://youtube.com/@five-meo.education/videos
-tubeup --use-download-archive http://youtube.com/@amyleigh7624
