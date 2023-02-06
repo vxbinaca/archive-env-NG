@@ -362,3 +362,8 @@ tubeup --use-download-archive http://youtube.com/user/hotforwords/videos
 tubeup --use-download-archive http://youtube.com/user/smiletone ## Gazi Kodzo
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/shorts
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/videos
+tubeup --use-download-archive http://youtube.com/@ur2dwaifu/videos
+tubeup --use-download-archive http://youtube.com/@ur2dwaifu/shorts
+tubeup --use-download-archive http://youtube.com/@ur2dfruity/videos
+tubeup --use-download-archive http://youtube.com/@ur2dfruity/shorts
+tubeup --use-download-archive http://youtube.com/@EvieLupine/videos
