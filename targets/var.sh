@@ -370,6 +370,10 @@ tubeup --use-download-archive http://youtube.com/user/ayananishinaga/shorts ## �
 tubeup --use-download-archive http://youtube.com/user/ayananishinaga/videos ## 西永彩奈ちゃんねる
 tubeup --use-download-archive http://youtube.com/user/hotforwords/shorts
 tubeup --use-download-archive http://youtube.com/user/hotforwords/videos
-tubeup --use-download-archive http://youtube.com/user/smiletone ## Gazi Kodzo
+tubeup --use-download-archive http://youtube.com/user/smiletone/videos ## Gazi Kodzo
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/shorts
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/videos
+tubeup --use-download-archive http://youtube.com/@junelovejoyofficial/streams http://youtube.com/c/PositiveSmash420/streams http://youtube.com/@junelovejoyofficial/videos http://youtube.com/@junelovejoyofficial/videos
+tubeup --use-download-archive http://youtube.com/@valgear5525/videos
+tubeup --use-download-archive http://youtube.com/@valgear5525/shorts
+tubeup --use-download-archive http://youtube.com/@valgear5525/streams
