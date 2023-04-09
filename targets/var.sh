@@ -171,6 +171,10 @@ tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://yout
 tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/videos ## Anita Sarkeesian channel/collection
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw/shorts ## えむゆみカップル Emuyumi Couple
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw/videos ## えむゆみカップル Emuyumi Couple
+tubeup --use-download-archive http://www.youtube.com/@supervsalt/shorts
+tubeup --use-download-archive http://www.youtube.com/@supervsalt/streams 
+tubeup --use-download-archive http://www.youtube.com/@supervsalt/videos 
+tubeup --use-download-archive http://www.youtube.com/@xPinkFlamingosx87/streams
 tubeup --use-download-archive http://youtube.com/@ColdCutsPod/videos
 tubeup --use-download-archive http://youtube.com/@EvieLupine/videos
 tubeup --use-download-archive http://youtube.com/@Japanexplorer1/streams
