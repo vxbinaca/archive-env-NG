@@ -171,25 +171,31 @@ tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://yout
 tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/videos ## Anita Sarkeesian channel/collection
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw/shorts ## えむゆみカップル Emuyumi Couple
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw/videos ## えむゆみカップル Emuyumi Couple
-tubeup --use-download-archive http://www.youtube.com/@supervsalt/shorts
-tubeup --use-download-archive http://www.youtube.com/@supervsalt/streams 
-tubeup --use-download-archive http://www.youtube.com/@supervsalt/videos 
-tubeup --use-download-archive http://www.youtube.com/@xPinkFlamingosx87/streams
 tubeup --use-download-archive http://youtube.com/@ColdCutsPod/videos
 tubeup --use-download-archive http://youtube.com/@EvieLupine/videos
 tubeup --use-download-archive http://youtube.com/@Japanexplorer1/streams
 tubeup --use-download-archive http://youtube.com/@Japanexplorer1/videos
 tubeup --use-download-archive http://youtube.com/@ProjektMelody/videos
+tubeup --use-download-archive http://youtube.com/@SierraRhodes_/shorts
+tubeup --use-download-archive http://youtube.com/@TantusInc/videos 
 tubeup --use-download-archive http://youtube.com/@TeenyGinger/shorts
 tubeup --use-download-archive http://youtube.com/@TeenyGinger/videos
 tubeup --use-download-archive http://youtube.com/@ThePiperBlushRadioShow/streams
 tubeup --use-download-archive http://youtube.com/@ThePiperBlushRadioShow/videos
 tubeup --use-download-archive http://youtube.com/@TrashTaste/videos
 tubeup --use-download-archive http://youtube.com/@amyleigh7624
+tubeup --use-download-archive http://youtube.com/@artbybluefox/videos 
 tubeup --use-download-archive http://youtube.com/@five-meo.education/videos
 tubeup --use-download-archive http://youtube.com/@junelovejoyofficial/streams http://youtube.com/c/PositiveSmash420/streams http://youtube.com/@junelovejoyofficial/videos http://youtube.com/@junelovejoyofficial/videos
+tubeup --use-download-archive http://youtube.com/@loserlex/shorts 
+tubeup --use-download-archive http://youtube.com/@loserlex/streams
+tubeup --use-download-archive http://youtube.com/@loserlex/videos 
+tubeup --use-download-archive http://youtube.com/@marismoodswings/videos 
 tubeup --use-download-archive http://youtube.com/@minus_855/shorts
 tubeup --use-download-archive http://youtube.com/@minus_855/videos
+tubeup --use-download-archive http://youtube.com/@supervsalt/shorts
+tubeup --use-download-archive http://youtube.com/@supervsalt/streams 
+tubeup --use-download-archive http://youtube.com/@supervsalt/videos 
 tubeup --use-download-archive http://youtube.com/@ur2dfruity/shorts
 tubeup --use-download-archive http://youtube.com/@ur2dfruity/videos
 tubeup --use-download-archive http://youtube.com/@ur2dwaifu/shorts
@@ -198,6 +204,7 @@ tubeup --use-download-archive http://youtube.com/@valgear5525/shorts
 tubeup --use-download-archive http://youtube.com/@valgear5525/streams
 tubeup --use-download-archive http://youtube.com/@valgear5525/videos
 tubeup --use-download-archive http://youtube.com/@venusohara/videos
+tubeup --use-download-archive http://youtube.com/@xPinkFlamingosx87/streams
 tubeup --use-download-archive http://youtube.com/c/AsagisLifeNoBSJapan/shorts
 tubeup --use-download-archive http://youtube.com/c/AsagisLifeNoBSJapan/videos
 tubeup --use-download-archive http://youtube.com/c/BayesiaNash/shorts
