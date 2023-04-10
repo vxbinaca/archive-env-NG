@@ -2,14 +2,14 @@
 ## http://flickr.com/photos/greg_tsai/ ## very very big
 ## http://flickr.com/photos/peterchankai ## massive
 ## http://flickr.com/photos/xymon/ ## massive
-figlet Flickr-rip
 echo flickr archival in progress, please wait for the script to return to prompt....
-gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/11017984@N07/
-gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/83438154@N02/
+figlet Flickr-rip
+gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite 
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/groups/14672223@N20/ 
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/100070727@N02/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/101458697@N02/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/109343209@N03/
+gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/11017984@N07/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/110883283@N05/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/110912127@N06/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/112494159@N03/
@@ -30,6 +30,7 @@ gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/129173481@N02/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/129526926@N05/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/129664667@N02/
+gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/130008097@N03/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/130411732@N06/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/13093152@N08
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/132006304@N04/
@@ -145,7 +146,9 @@ gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/195156925@N03/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/195177067@N04/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/195257213@N05
+gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/195297775@N06/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/195496722@N04/
+gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/195712456@N03/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/196078451@N02/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/196229897@N06/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/21202408@N07/
@@ -228,13 +231,16 @@ gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/78358424@N04/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/7882629@N08/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/82252142@N03/
+gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/83438154@N02/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/87131359@N08/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/89094276@N03/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/89236901@N08/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/8935091@N03/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/90223205@N02/
+gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/90694473@N00/ 
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/93325651@N07/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/94317798@N06/
+gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/9509374@N02/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/95112698@N00/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/96717912@N04/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/97903918@N00/
@@ -265,6 +271,7 @@ gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/buffcuties/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/camilaybandido/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/chrisandmei/
+gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/clickr88/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/cosmemadini/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/daveemma/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/david_epstein_photography/
@@ -371,4 +378,3 @@ gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/vicky_69/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/vietusa74/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/zapzapzap/
-gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/9509374@N02/
