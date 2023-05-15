@@ -6,3 +6,4 @@ tubeup --metadata=collection:tubeup http://youtube.com/channel/UC_xUE642R1lXtSGu
 tubeup --metadata=collection:tubeup http://youtube.com/channel/UCmyiBfu_idd4fdSQuA6yjew/videos
 tubeup --metadata=collection:tubeup http://youtube.com/user/COBMetalHead/videos
 tubeup --metadata=collection:tubeup http://youtube.com/user/tf2thewinglet/videos
+tubeup --metadata=collection:tubeup http://youtube.com/@ForceBallFx/videos
