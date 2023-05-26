@@ -207,6 +207,7 @@ tubeup --use-download-archive http://youtube.com/@venusohara/videos
 tubeup --use-download-archive http://youtube.com/@xPinkFlamingosx87/streams
 tubeup --use-download-archive http://youtube.com/c/AsagisLifeNoBSJapan/shorts
 tubeup --use-download-archive http://youtube.com/c/AsagisLifeNoBSJapan/videos
+tubeup --use-download-archive http://youtube.com/@AsagisLifeNoBSJapan/streams
 tubeup --use-download-archive http://youtube.com/c/BayesiaNash/shorts
 tubeup --use-download-archive http://youtube.com/c/BayesiaNash/videos
 tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse/shorts
@@ -386,4 +387,4 @@ tubeup --use-download-archive http://youtube.com/user/hotforwords/videos
 tubeup --use-download-archive http://youtube.com/user/smiletone/videos ## Gazi Kodzo
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/shorts
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/videos
-tubeup --use-download-archive https://www.youtube.com/@Ensemble_GAP/videos
+tubeup --use-download-archive http://youtube.com/@Ensemble_GAP/videos
