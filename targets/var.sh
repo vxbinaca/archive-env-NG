@@ -388,3 +388,4 @@ tubeup --use-download-archive http://youtube.com/user/smiletone/videos ## Gazi K
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/shorts
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/videos
 tubeup --use-download-archive http://youtube.com/@Ensemble_GAP/videos
+tubeup --use-download-archive http://www.youtube.com/@SecurityGuy42/videos
