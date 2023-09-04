@@ -29,7 +29,7 @@ Optional software (nice to have and my prefered setup):
 - zsh + [OhMyZSH](http://github.com/robbyrussell/oh-my-zsh) + [powerlevel10k theme](https://github.com/romkatv/powerlevel10k) since it's just more powerful, has key-press saving features like fantastic tab completion and pl10k has git integration.
 - "most" for dealing with long output from ls or the like. It's in most distros
  accept centOS (ahem, centos repo people).
-- *On your own machine*: `fonts-powerline` or powerline fonts to properly render powerlevel9k theme.
+- *On your own machine*: `fonts-powerline nerd fonts` or powerline fonts to properly render powerlevel9k theme.
 
 ### Getting started
 
@@ -38,7 +38,7 @@ Optional software (nice to have and my prefered setup):
   `pip3 install pipx`
  
  Install the software needed:
- `pipx install tubeup youtube-dl jsonpointer jsonpatch docopt six total-ordering tqdm certifi idna chardet urllib3 requests contextlib2 schema backports.csv internetarchive tubeup pip`
+ `pipx install tubeup --include-deps --force`
 
 - Set up NVChad
   ` git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim`
