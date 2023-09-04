@@ -22,6 +22,7 @@ Software:
 - `ffmpeg`
 - `neovim`
 - `zsh`
+- `most`
 - A terminal multiplexer (`tmux` + `byobu`)
 
 Optional software (nice to have and my prefered setup):
@@ -82,7 +83,7 @@ The main scripts will handle many tasks that might cause snags automatically:
   `pip3 install -U pipx ; pipx upgrade-all`
   
 - Update NVChad with:
-  `Lazy sync`
+  `:Lazy sync`
   
 -Update OMZ / Powerlevel10k:
 `omz update ; cd ~/.oh-my-zsh/custom/themes/powerlevel10k ; git pull ; cd ~/git/archive-env-NG `
