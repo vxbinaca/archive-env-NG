@@ -40,7 +40,13 @@ Optional software (nice to have and my prefered setup):
  Install the software needed:
  `pipx install tubeup youtube-dl jsonpointer jsonpatch docopt six total-ordering tqdm certifi idna chardet urllib3 requests contextlib2 schema backports.csv internetarchive tubeup pip`
 
-Any future command issues not being found should call for a source re-activate.
+- Set up NVChad
+  ` git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim`
+
+  Choose N, then let NVchad update. Now let's install python syntax support:
+  `:TSInstall python`
+
+  Set the theme with SPACE T H.
  
  ### SSH setup
 
@@ -74,5 +80,12 @@ The main scripts will handle many tasks that might cause snags automatically:
 
 - Keep the python instance up to date, so site compatability is at a maximum because fixes are quickly gotten.
   `pip3 install -U pipx ; pipx upgrade-all`
+  
+- Update NVChad with:
+  `Lazy sync`
+  
+-Update OMZ / Powerlevel10k:
+`omz update ; cd ~/.oh-my-zsh/custom/themes/powerlevel10k ; git pull ; cd ~/git/archive-env-NG `
+
 - Clear youtube-dls cache to prevent problems.
 - Push/pull new changes to the archive file to this repo automatically, which will then be pulled by any other new servers.
