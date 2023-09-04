@@ -20,12 +20,12 @@ Software:
 - `git` (obviously)
 - `python3-pip`
 - `ffmpeg`
-- `vim`
+- `neovim`
+- `zsh`
 - A terminal multiplexer (`tmux` + `byobu`)
 
 Optional software (nice to have and my prefered setup):
 
-- NeoVIM/nvim aliased over vim/nano etc.
 - zsh + [OhMyZSH](http://github.com/robbyrussell/oh-my-zsh) + [powerlevel10k theme](https://github.com/romkatv/powerlevel10k) since it's just more powerful, has key-press saving features like fantastic tab completion and pl10k has git integration.
 - "most" for dealing with long output from ls or the like. It's in most distros
  accept centOS (ahem, centos repo people).
@@ -33,18 +33,12 @@ Optional software (nice to have and my prefered setup):
 
 ### Getting started
 
-- Configure Tubeup [per it's instructions](http://github.com/bibanon/tubeup)
+- Install `pipx` via `pip`, then use it to install all the needed dependencies. Pipx created a virtual environment for you easily.
 
-- Create a python virtualenv
- 
- `python3 -m venv myenvdir`
- 
- Add the sources / add to ZSHRC
- 
- `source myenvdir/bin/activate ; cat "~/source myenvdir/bin/activate" >> ~/.zshrc`
+  `pip3 install pipx`
  
  Install the software needed:
- `pip3 install -U tubeup youtube-dl jsonpointer jsonpatch docopt six total-ordering tqdm certifi idna chardet urllib3 requests contextlib2 schema backports.csv internetarchive tubeup pip`
+ `pipx install tubeup youtube-dl jsonpointer jsonpatch docopt six total-ordering tqdm certifi idna chardet urllib3 requests contextlib2 schema backports.csv internetarchive tubeup pip`
 
 Any future command issues not being found should call for a source re-activate.
  
@@ -79,5 +73,6 @@ Paste the contents of `crontab.lst` into your crontabs and save. The rest is don
 The main scripts will handle many tasks that might cause snags automatically:
 
 - Keep the python instance up to date, so site compatability is at a maximum because fixes are quickly gotten.
+  `pip3 install -U pipx ; pipx upgrade-all`
 - Clear youtube-dls cache to prevent problems.
 - Push/pull new changes to the archive file to this repo automatically, which will then be pulled by any other new servers.
