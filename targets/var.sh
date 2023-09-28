@@ -169,9 +169,42 @@
 ## tubeup --use-download-archive http://youtube.com/c/DimaSakharov/videos ## SCRIPT KILLER
 tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/shorts ## Anita Sarkeesian channel/collection
 tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/videos ## Anita Sarkeesian channel/collection
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/RileyReidx3/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC0_TARSGSOrKtjSeyKIM6wA/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5Bwuy_YTOB7YbOPrkb9vVg/videos ## Fetties
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCLLi4qLYWPD2mYb-niJLy5w/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCOOIibe-CCdC0VWlvCjf0qw/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCPcTxQpqGT6JQxZ0zVnZ13w/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCS5jTl5mDs2XY3eR9XkpUtQ/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCTulpxDN56BLbhqiyqQgFHg/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCVyohBi1KHjyUooB_8nXhDg/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCWMPmKJ8GmmUvI5ZC0V2VsA/videos ## Mercedes Carrera
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCXjkPQN193ToX487P6Bcc0A/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCXvKUavCtDOlA8bT1i2tI3w/videos ## Belle Delphine
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC_j65wgy_u3mycNCn_7D2Fw/videos ## Indigo White
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCe-R3nqJVdW-xWV5rfcbK7A/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCgqXdQDUUynay5zG3pmLWTw/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw/shorts ## えむゆみカップル Emuyumi Couple
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw/videos ## えむゆみカップル Emuyumi Couple
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCoRmKIwJAUn_qz1sbS4R94Q/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCxxzUlLH11Q99yBH-w0v5oQ/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCyWnfUZHcgVxBS3wAUGA15A/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCypv3gnAf-Ww4-iJ6fYc0cg/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/FileNotFoundStudios/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/VinceManciniComedy /videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/WoodRocketTV/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/altexclusive/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/cnieratko/videos/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/emmnetwork/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/misssashagrey/videos/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/modelmayhemofficial/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/officialbreeolson9/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/xoClaireRobbins/videos
+tubeup --use-download-archive http://www.youtube.com/@SecurityGuy42/videos
+tubeup --use-download-archive http://youtube.com/@AsagisLifeNoBSJapan/streams
 tubeup --use-download-archive http://youtube.com/@ColdCutsPod/videos
+tubeup --use-download-archive http://youtube.com/@Ensemble_GAP/videos
 tubeup --use-download-archive http://youtube.com/@EvieLupine/videos
 tubeup --use-download-archive http://youtube.com/@Japanexplorer1/streams
 tubeup --use-download-archive http://youtube.com/@Japanexplorer1/videos
@@ -207,15 +240,16 @@ tubeup --use-download-archive http://youtube.com/@venusohara/videos
 tubeup --use-download-archive http://youtube.com/@xPinkFlamingosx87/streams
 tubeup --use-download-archive http://youtube.com/c/AsagisLifeNoBSJapan/shorts
 tubeup --use-download-archive http://youtube.com/c/AsagisLifeNoBSJapan/videos
-tubeup --use-download-archive http://youtube.com/@AsagisLifeNoBSJapan/streams
 tubeup --use-download-archive http://youtube.com/c/BayesiaNash/shorts
 tubeup --use-download-archive http://youtube.com/c/BayesiaNash/videos
+tubeup --use-download-archive http://youtube.com/c/CaitlinV/videos
 tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse/shorts
 tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse/videos
 tubeup --use-download-archive http://youtube.com/c/Derpixon/shorts/shorts
 tubeup --use-download-archive http://youtube.com/c/Derpixon/videos/videos
 tubeup --use-download-archive http://youtube.com/c/DimitriMonroeStreams/shorts
 tubeup --use-download-archive http://youtube.com/c/DimitriMonroeStreams/videos
+tubeup --use-download-archive http://youtube.com/c/EvieLupine/videos
 tubeup --use-download-archive http://youtube.com/c/ForestMommy/shorts
 tubeup --use-download-archive http://youtube.com/c/ForestMommy/videos
 tubeup --use-download-archive http://youtube.com/c/GRIFTROCKET/shorts
@@ -240,6 +274,7 @@ tubeup --use-download-archive http://youtube.com/c/OverlordGaming/shorts
 tubeup --use-download-archive http://youtube.com/c/OverlordGaming/videos
 tubeup --use-download-archive http://youtube.com/c/PsychedSubstanceChannel/shorts
 tubeup --use-download-archive http://youtube.com/c/PsychedSubstanceChannel/videos
+tubeup --use-download-archive http://youtube.com/c/RHRPaige/videos
 tubeup --use-download-archive http://youtube.com/c/Revsaysdesu/shorts
 tubeup --use-download-archive http://youtube.com/c/Revsaysdesu/videos
 tubeup --use-download-archive http://youtube.com/c/RingwayManchester/shorts/shorts
@@ -253,6 +288,7 @@ tubeup --use-download-archive http://youtube.com/c/TeamSea3on/videos
 tubeup --use-download-archive http://youtube.com/c/TheAdventuresOfAlaska/shorts ## Alaska Zade
 tubeup --use-download-archive http://youtube.com/c/TheAdventuresOfAlaska/videos ## Alaska Zade
 tubeup --use-download-archive http://youtube.com/c/TheLibertyMovement
+tubeup --use-download-archive http://youtube.com/c/TheNaturalLifestyles/videos
 tubeup --use-download-archive http://youtube.com/c/TrashTaste/shorts 
 tubeup --use-download-archive http://youtube.com/c/TrashTaste/videos 
 tubeup --use-download-archive http://youtube.com/c/bcflyers2016/shorts ## BCflyers
@@ -275,6 +311,7 @@ tubeup --use-download-archive http://youtube.com/channel/UC3pQjXcJTX76E6JbdihMrw
 tubeup --use-download-archive http://youtube.com/channel/UC3pQjXcJTX76E6JbdihMrwQ/videos
 tubeup --use-download-archive http://youtube.com/channel/UC4KeFiaYB7APL8Wuf6jGi9Q/shorts
 tubeup --use-download-archive http://youtube.com/channel/UC4KeFiaYB7APL8Wuf6jGi9Q/videos
+tubeup --use-download-archive http://youtube.com/channel/UC4NPjds6j5lJEel1wwtgwEg/videos
 tubeup --use-download-archive http://youtube.com/channel/UC4q2dwWldl6dlYTXZqi7yaQ/shorts
 tubeup --use-download-archive http://youtube.com/channel/UC4q2dwWldl6dlYTXZqi7yaQ/videos
 tubeup --use-download-archive http://youtube.com/channel/UC4unV5BVmWubfAF0Al_AVdw/shorts ## SyrianGirlpartisan
@@ -299,6 +336,7 @@ tubeup --use-download-archive http://youtube.com/channel/UCB3v0wy8_PkvQKhNZ8QSWo
 tubeup --use-download-archive http://youtube.com/channel/UCB3v0wy8_PkvQKhNZ8QSWoA/videos ## Forest Mommy
 tubeup --use-download-archive http://youtube.com/channel/UCBhnI7_z3NIJmneNe7wjlPw/shorts ## Velvet Tube 벨벳튜브
 tubeup --use-download-archive http://youtube.com/channel/UCBhnI7_z3NIJmneNe7wjlPw/videos ## Velvet Tube 벨벳튜브
+tubeup --use-download-archive http://youtube.com/channel/UCD7LsW7G1-99u0MABMV0oPQ/videos
 tubeup --use-download-archive http://youtube.com/channel/UCEQ3pEklukS8Wp6FygeM89Q/shorts
 tubeup --use-download-archive http://youtube.com/channel/UCEQ3pEklukS8Wp6FygeM89Q/videos
 tubeup --use-download-archive http://youtube.com/channel/UCHRdn2I1BI4Q_yLw-QVbkVQ/shorts
@@ -316,6 +354,7 @@ tubeup --use-download-archive http://youtube.com/channel/UCLTaIg3ZYGypdn0k2DZzF7
 tubeup --use-download-archive http://youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q ## Jordan Peterson
 tubeup --use-download-archive http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA/shorts ## Muni Bug
 tubeup --use-download-archive http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA/videos ## Muni Bug
+tubeup --use-download-archive http://youtube.com/channel/UCOQf-gwtokF6v3_3qeTD7fA/videos
 tubeup --use-download-archive http://youtube.com/channel/UCOh33eMeb5Ids_nteQkp_2w/shorts ## Modelo Julinha
 tubeup --use-download-archive http://youtube.com/channel/UCOh33eMeb5Ids_nteQkp_2w/videos ## Modelo Julinha
 tubeup --use-download-archive http://youtube.com/channel/UCSRfRHYTw9eeZ-65dX1s_nQ/shorts
@@ -353,6 +392,8 @@ tubeup --use-download-archive http://youtube.com/channel/UCoLCf3aVRMSukwetHfn1p1
 tubeup --use-download-archive http://youtube.com/channel/UCoLCf3aVRMSukwetHfn1p1A/videos ## ボートレース戸田 ## Having rip issues
 tubeup --use-download-archive http://youtube.com/channel/UCobGjlohg1Mtev0uQXflmKQ/shorts
 tubeup --use-download-archive http://youtube.com/channel/UCobGjlohg1Mtev0uQXflmKQ/videos
+tubeup --use-download-archive http://youtube.com/channel/UCp6wCkdu2h3jXtbywif54eQ/videos
+tubeup --use-download-archive http://youtube.com/channel/UCrQoNInYwa-lWCrSU4Nym4A/videos
 tubeup --use-download-archive http://youtube.com/channel/UCrfroioyR188GNllgeDV8KA/shorts ## チャンネルいにゃ
 tubeup --use-download-archive http://youtube.com/channel/UCrfroioyR188GNllgeDV8KA/videos ## チャンネルいにゃ
 tubeup --use-download-archive http://youtube.com/channel/UCrvmV0HaVXnsS6EcN_fdmTg/shorts ## Cami Carr
@@ -361,8 +402,10 @@ tubeup --use-download-archive http://youtube.com/channel/UCsIAMpI9bRV9T9gJT9Mbdp
 tubeup --use-download-archive http://youtube.com/channel/UCsIAMpI9bRV9T9gJT9Mbdpw/videos ## さえなるチャンネル
 tubeup --use-download-archive http://youtube.com/channel/UCvPHJP6EnHEjyMi9Rf1jYMw/shorts ## Hyperkin
 tubeup --use-download-archive http://youtube.com/channel/UCvPHJP6EnHEjyMi9Rf1jYMw/videos ## Hyperkin
+tubeup --use-download-archive http://youtube.com/channel/UCwx8uy7nxohWLwnaPocLsyg/videos
 tubeup --use-download-archive http://youtube.com/channel/UCxB7iKYaPv8AJBMWXTbZQVQ/shorts ## Yolo Swag Studios
 tubeup --use-download-archive http://youtube.com/channel/UCxB7iKYaPv8AJBMWXTbZQVQ/videos ## Yolo Swag Studios
+tubeup --use-download-archive http://youtube.com/channel/UCxFDRtDhukxyQ_9t-Xfo2-w/videos
 tubeup --use-download-archive http://youtube.com/channel/UCxdkQN7XpdzWw9ii2bl91NA/shorts ## Qwerticular
 tubeup --use-download-archive http://youtube.com/channel/UCxdkQN7XpdzWw9ii2bl91NA/videos ## Qwerticular
 tubeup --use-download-archive http://youtube.com/channel/UCy-tM_x3EJETWlqOPRNHeaA/shorts ## Naked Gardener
@@ -382,10 +425,10 @@ tubeup --use-download-archive http://youtube.com/user/ThePopeB4G/shorts
 tubeup --use-download-archive http://youtube.com/user/ThePopeB4G/videos
 tubeup --use-download-archive http://youtube.com/user/ayananishinaga/shorts ## 西永彩奈ちゃんねる
 tubeup --use-download-archive http://youtube.com/user/ayananishinaga/videos ## 西永彩奈ちゃんねる
+tubeup --use-download-archive http://youtube.com/user/hannahgirasol/videos
 tubeup --use-download-archive http://youtube.com/user/hotforwords/shorts
 tubeup --use-download-archive http://youtube.com/user/hotforwords/videos
+tubeup --use-download-archive http://youtube.com/user/jkeenanatstanford/videos
 tubeup --use-download-archive http://youtube.com/user/smiletone/videos ## Gazi Kodzo
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/shorts
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/videos
-tubeup --use-download-archive http://youtube.com/@Ensemble_GAP/videos
-tubeup --use-download-archive http://www.youtube.com/@SecurityGuy42/videos
