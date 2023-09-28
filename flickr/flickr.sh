@@ -4,7 +4,6 @@
 ## http://flickr.com/photos/xymon/ ## massive
 echo flickr archival in progress, please wait for the script to return to prompt....
 figlet Flickr-rip
-gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite 
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/groups/14672223@N20/ 
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/100070727@N02/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/101458697@N02/
@@ -378,3 +377,4 @@ gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/vicky_69/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/vietusa74/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/zapzapzap/
+gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://www.flickr.com/photos/m1cupple/
