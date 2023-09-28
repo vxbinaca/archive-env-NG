@@ -440,3 +440,7 @@ tubeup --use-download-archive http://youtube.com/channel/UCu61LciL70ZpMruNLzIJUC
 tubeup --use-download-archive --metadata=collection:veevideos http://www.youtube.com/user/veemonro/videos
 tubeup --use-download-archive --metadata=collection:veevideos http://www.youtube.com/channel/UCPOtvnTOJVuqf6U0x5DKWcA/videos
 
+## --metadata=licenseurl:http://creativecommons.org/licenses/by-sa/4.0/ 
+tubeup --use-download-archive --metadata=collection:naomiwuarchive --metadata=licenseurl:http://creativecommons.org/licenses/by-sa/4.0/ http://www.youtube.com/channel/UCh_ugKacslKhsGGdXP0cRRA/videos
+tubeup --use-download-archive --metadata=collection:randytaylor69archive http://www.youtube.com/user/randytaylor69/videos
+tubeup --use-download-archive --metadata=collection:randytaylor69archive http://www.youtube.com/user/roseplaysgames/videos
