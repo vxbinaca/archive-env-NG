@@ -437,3 +437,6 @@ tubeup --use-download-archive http://youtube.com/user/michaelfromberg/videos
 tubeup --use-download-archive http://youtube.com/user/rockinbonesvideo/videos
 tubeup --use-download-archive http://youtube.com/user/VirtuallyNadine/videos
 tubeup --use-download-archive http://youtube.com/channel/UCu61LciL70ZpMruNLzIJUCg/videos
+tubeup --use-download-archive --metadata=collection:veevideos http://www.youtube.com/user/veemonro/videos
+tubeup --use-download-archive --metadata=collection:veevideos http://www.youtube.com/channel/UCPOtvnTOJVuqf6U0x5DKWcA/videos
+
