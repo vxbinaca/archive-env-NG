@@ -167,6 +167,9 @@
 ## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3Sm9GeLi1wDRToAuXLJ0dQ/videos ## Spicy Rice gaming
 ## tubeup --use-download-archive http://youtube.com/c/DimaSakharov/shorts ## SCRIPT KILLER
 ## tubeup --use-download-archive http://youtube.com/c/DimaSakharov/videos ## SCRIPT KILLER
+tubeup --use-download-archive --metadata=collection:naomiwuarchive --metadata=licenseurl:http://creativecommons.org/licenses/by-sa/4.0/ http://www.youtube.com/channel/UCh_ugKacslKhsGGdXP0cRRA/videos
+tubeup --use-download-archive --metadata=collection:randytaylor69archive http://www.youtube.com/user/randytaylor69/videos
+tubeup --use-download-archive --metadata=collection:randytaylor69archive http://www.youtube.com/user/roseplaysgames/videos
 tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/shorts ## Anita Sarkeesian channel/collection
 tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/videos ## Anita Sarkeesian channel/collection
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/RileyReidx3/videos
@@ -201,7 +204,12 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/modelmayhemofficial/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/officialbreeolson9/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/xoClaireRobbins/videos
+tubeup --use-download-archive --metadata=collection:veevideos http://www.youtube.com/channel/UCPOtvnTOJVuqf6U0x5DKWcA/videos
+tubeup --use-download-archive --metadata=collection:veevideos http://www.youtube.com/user/veemonro/videos
+tubeup --use-download-archive http://www.youtube.com/@LASTCALLPodcastCC/videos
 tubeup --use-download-archive http://www.youtube.com/@SecurityGuy42/videos
+tubeup --use-download-archive http://www.youtube.com/@greendoorpodcast8393/videos
+tubeup --use-download-archive http://www.youtube.com/@peacockprotestations/videos
 tubeup --use-download-archive http://youtube.com/@AsagisLifeNoBSJapan/streams
 tubeup --use-download-archive http://youtube.com/@ColdCutsPod/videos
 tubeup --use-download-archive http://youtube.com/@Ensemble_GAP/videos
@@ -400,6 +408,7 @@ tubeup --use-download-archive http://youtube.com/channel/UCrvmV0HaVXnsS6EcN_fdmT
 tubeup --use-download-archive http://youtube.com/channel/UCrvmV0HaVXnsS6EcN_fdmTg/videos ## Cami Carr
 tubeup --use-download-archive http://youtube.com/channel/UCsIAMpI9bRV9T9gJT9Mbdpw/shorts ## さえなるチャンネル
 tubeup --use-download-archive http://youtube.com/channel/UCsIAMpI9bRV9T9gJT9Mbdpw/videos ## さえなるチャンネル
+tubeup --use-download-archive http://youtube.com/channel/UCu61LciL70ZpMruNLzIJUCg/videos
 tubeup --use-download-archive http://youtube.com/channel/UCvPHJP6EnHEjyMi9Rf1jYMw/shorts ## Hyperkin
 tubeup --use-download-archive http://youtube.com/channel/UCvPHJP6EnHEjyMi9Rf1jYMw/videos ## Hyperkin
 tubeup --use-download-archive http://youtube.com/channel/UCwx8uy7nxohWLwnaPocLsyg/videos
@@ -415,6 +424,7 @@ tubeup --use-download-archive http://youtube.com/channel/UCz5Kx6dP6rHRf9yLY1tnel
 tubeup --use-download-archive http://youtube.com/playlist\?list\=PLQtVfJZT3ELarvlwiyCOdvD7Fa1scAY_4
 tubeup --use-download-archive http://youtube.com/user/ClanOfTheGrayWolf/shorts
 tubeup --use-download-archive http://youtube.com/user/ClanOfTheGrayWolf/videos
+tubeup --use-download-archive http://youtube.com/user/MissJennyDoll/videos
 tubeup --use-download-archive http://youtube.com/user/OtakuVsNotaku/shorts 
 tubeup --use-download-archive http://youtube.com/user/OtakuVsNotaku/videos 
 tubeup --use-download-archive http://youtube.com/user/Shoe0ffHead/shorts
@@ -423,24 +433,15 @@ tubeup --use-download-archive http://youtube.com/user/Shoe0nHead/shorts
 tubeup --use-download-archive http://youtube.com/user/Shoe0nHead/videos
 tubeup --use-download-archive http://youtube.com/user/ThePopeB4G/shorts
 tubeup --use-download-archive http://youtube.com/user/ThePopeB4G/videos
+tubeup --use-download-archive http://youtube.com/user/VirtuallyNadine/videos
 tubeup --use-download-archive http://youtube.com/user/ayananishinaga/shorts ## 西永彩奈ちゃんねる
 tubeup --use-download-archive http://youtube.com/user/ayananishinaga/videos ## 西永彩奈ちゃんねる
 tubeup --use-download-archive http://youtube.com/user/hannahgirasol/videos
 tubeup --use-download-archive http://youtube.com/user/hotforwords/shorts
 tubeup --use-download-archive http://youtube.com/user/hotforwords/videos
 tubeup --use-download-archive http://youtube.com/user/jkeenanatstanford/videos
+tubeup --use-download-archive http://youtube.com/user/michaelfromberg/videos
+tubeup --use-download-archive http://youtube.com/user/rockinbonesvideo/videos
 tubeup --use-download-archive http://youtube.com/user/smiletone/videos ## Gazi Kodzo
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/shorts
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/videos
-tubeup --use-download-archive http://youtube.com/user/MissJennyDoll/videos
-tubeup --use-download-archive http://youtube.com/user/michaelfromberg/videos
-tubeup --use-download-archive http://youtube.com/user/rockinbonesvideo/videos
-tubeup --use-download-archive http://youtube.com/user/VirtuallyNadine/videos
-tubeup --use-download-archive http://youtube.com/channel/UCu61LciL70ZpMruNLzIJUCg/videos
-tubeup --use-download-archive --metadata=collection:veevideos http://www.youtube.com/user/veemonro/videos
-tubeup --use-download-archive --metadata=collection:veevideos http://www.youtube.com/channel/UCPOtvnTOJVuqf6U0x5DKWcA/videos
-
-## --metadata=licenseurl:http://creativecommons.org/licenses/by-sa/4.0/ 
-tubeup --use-download-archive --metadata=collection:naomiwuarchive --metadata=licenseurl:http://creativecommons.org/licenses/by-sa/4.0/ http://www.youtube.com/channel/UCh_ugKacslKhsGGdXP0cRRA/videos
-tubeup --use-download-archive --metadata=collection:randytaylor69archive http://www.youtube.com/user/randytaylor69/videos
-tubeup --use-download-archive --metadata=collection:randytaylor69archive http://www.youtube.com/user/roseplaysgames/videos
