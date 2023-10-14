@@ -1,4 +1,5 @@
  tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/MoLupo21 # Wos X
+ tubeup --use-download-archive https://www.youtube.com/@davidturecamo/videos
  tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC-zgHpR-_niRxow6vS6nSGQ/shorts ## Mellyboo
  tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC-zgHpR-_niRxow6vS6nSGQ/videos ## Mellyboo
  tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC1fSp9Qpp8tT982OumLS5Hg/shorts ## Tactical Bacon Patches
