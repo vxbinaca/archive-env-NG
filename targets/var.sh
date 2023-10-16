@@ -1,5 +1,4 @@
  tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/MoLupo21 # Wos X
- tubeup --use-download-archive https://www.youtube.com/@davidturecamo/videos
  tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC-zgHpR-_niRxow6vS6nSGQ/shorts ## Mellyboo
  tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC-zgHpR-_niRxow6vS6nSGQ/videos ## Mellyboo
  tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC1fSp9Qpp8tT982OumLS5Hg/shorts ## Tactical Bacon Patches
@@ -140,6 +139,7 @@
  tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/shachiNT 
  tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/stevieryan 
  tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/veradevera  
+ tubeup --use-download-archive http://www.youtube.com/@davidturecamo/videos
 # tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCB5Yw6r20bTrkZZDS_EnNvg/shorts ## DEAD
 # tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCB5Yw6r20bTrkZZDS_EnNvg/videos ## DEAD
 # tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCG5ZWGfgDXk40t9Og02F5yA/shorts ## TERMINATED
@@ -211,6 +211,8 @@ tubeup --use-download-archive http://www.youtube.com/@LASTCALLPodcastCC/videos
 tubeup --use-download-archive http://www.youtube.com/@SecurityGuy42/videos
 tubeup --use-download-archive http://www.youtube.com/@greendoorpodcast8393/videos
 tubeup --use-download-archive http://www.youtube.com/@peacockprotestations/videos
+tubeup --use-download-archive http://www.youtube.com/@thecorncorner/streams
+tubeup --use-download-archive http://www.youtube.com/@thecorncorner/videos
 tubeup --use-download-archive http://youtube.com/@AsagisLifeNoBSJapan/streams
 tubeup --use-download-archive http://youtube.com/@ColdCutsPod/videos
 tubeup --use-download-archive http://youtube.com/@Ensemble_GAP/videos
