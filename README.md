@@ -80,13 +80,13 @@ Paste the contents of `crontab.lst` into your crontabs and save. The rest is don
 The main scripts will handle many tasks that might cause snags automatically:
 
 - Keep the python instance up to date, so site compatability is at a maximum because fixes are quickly gotten.
-  `pip3 install -U pipx ; pipx upgrade-all`
+  ` omz update ; cd ~/.oh-my-zsh/custom/themes/powerlevel10k ; git pull ; cd ~/git/archive-env-NG ; pip3 install -U pipx pip ; pipx upgrade-all`
   
 - Update NVChad with:
   `:Lazy sync`
   
 -Update OMZ / Powerlevel10k:
-`omz update ; cd ~/.oh-my-zsh/custom/themes/powerlevel10k ; git pull ; cd ~/git/archive-env-NG `
+`sudo apt update ; sudo apt upgrade`
 
 - Clear youtube-dls cache to prevent problems.
 - Push/pull new changes to the archive file to this repo automatically, which will then be pulled by any other new servers.
