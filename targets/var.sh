@@ -304,8 +304,9 @@ tubeup --use-download-archive http://youtube.com/c/TrashTaste/shorts
 tubeup --use-download-archive http://youtube.com/c/TrashTaste/videos 
 tubeup --use-download-archive http://youtube.com/c/bcflyers2016/shorts ## BCflyers
 tubeup --use-download-archive http://youtube.com/c/bcflyers2016/videos ## BCflyers
-tubeup --use-download-archive http://youtube.com/c/dannphan29online/shorts
-tubeup --use-download-archive http://youtube.com/c/dannphan29online/videos
+tubeup --use-download-archive http://youtube.com/@dannphan/shorts
+tubeup --use-download-archive http://youtube.com/@dannphan/videos
+tubeup --use-download-archive http://youtube.com/@dannphan/streams
 tubeup --use-download-archive http://youtube.com/c/loserlexii/shorts
 tubeup --use-download-archive http://youtube.com/c/loserlexii/videos
 tubeup --use-download-archive http://youtube.com/c/senzawa/shorts
