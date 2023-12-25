@@ -455,3 +455,4 @@ tubeup --use-download-archive http://youtube.com/user/rockinbonesvideo/videos
 tubeup --use-download-archive http://youtube.com/user/smiletone/videos ## Gazi Kodzo
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/shorts
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/videos
+tubeup --ignore-exisitng-item http://www.youtube.com/channel/UC-zgHpR-_niRxow6vS6nSGQ
