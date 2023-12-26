@@ -219,6 +219,8 @@ tubeup --use-download-archive http://youtube.com/@LASTCALLPodcastCC/videos
 tubeup --use-download-archive http://youtube.com/@ProjektMelody/videos
 tubeup --use-download-archive http://youtube.com/@SecurityGuy42/videos
 tubeup --use-download-archive http://youtube.com/@SierraRhodes_/shorts
+tubeup --use-download-archive http://youtube.com/@Sofilein/streams
+tubeup --use-download-archive http://youtube.com/@Sofilein/videos
 tubeup --use-download-archive http://youtube.com/@Strawbeariemilkk69/videos
 tubeup --use-download-archive http://youtube.com/@TantusInc/videos 
 tubeup --use-download-archive http://youtube.com/@TeenyGinger/shorts
@@ -321,6 +323,7 @@ tubeup --use-download-archive http://youtube.com/c/sgoodz/shorts
 tubeup --use-download-archive http://youtube.com/c/sgoodz/videos
 tubeup --use-download-archive http://youtube.com/c/xPinkFlamingosx87/shorts
 tubeup --use-download-archive http://youtube.com/c/xPinkFlamingosx87/videos
+tubeup --use-download-archive http://youtube.com/channel/UC-zgHpR-_niRxow6vS6nSGQ
 tubeup --use-download-archive http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/shorts ## The Donkey Show
 tubeup --use-download-archive http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/videos ## The Donkey Show
 tubeup --use-download-archive http://youtube.com/channel/UC2wmC89IGdayr9a7EJhxf6w/shorts
@@ -455,4 +458,3 @@ tubeup --use-download-archive http://youtube.com/user/rockinbonesvideo/videos
 tubeup --use-download-archive http://youtube.com/user/smiletone/videos ## Gazi Kodzo
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/shorts
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/videos
-tubeup --ignore-exisitng-item http://www.youtube.com/channel/UC-zgHpR-_niRxow6vS6nSGQ
