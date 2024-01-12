@@ -195,13 +195,14 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCxxzUlLH11Q99yBH-w0v5oQ/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCyWnfUZHcgVxBS3wAUGA15A/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCypv3gnAf-Ww4-iJ6fYc0cg/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/@sashagrey/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/@sashagrey/streams
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/FileNotFoundStudios/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/VinceManciniComedy /videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/WoodRocketTV/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/altexclusive/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/cnieratko/videos/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/emmnetwork/videos
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/misssashagrey/videos/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/modelmayhemofficial/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/officialbreeolson9/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/xoClaireRobbins/videos
@@ -245,6 +246,7 @@ tubeup --use-download-archive http://youtube.com/@minus_855/shorts
 tubeup --use-download-archive http://youtube.com/@minus_855/videos
 tubeup --use-download-archive http://youtube.com/@mummelade3072/videos 
 tubeup --use-download-archive http://youtube.com/@peacockprotestations/videos
+tubeup --use-download-archive http://youtube.com/@sashagrey/streams
 tubeup --use-download-archive http://youtube.com/@supervsalt/shorts
 tubeup --use-download-archive http://youtube.com/@supervsalt/streams 
 tubeup --use-download-archive http://youtube.com/@supervsalt/videos 
