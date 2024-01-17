@@ -22,6 +22,7 @@ tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/creativeganjaqween/videos\?filter\=all\&sort\=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/cursedarachnid/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/cybershell13/videos?filter=all&sort=time"
+tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/desiiniicolee/videos?filter=all"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/dimitrimonroe/videos?filter=all&sort=time"      
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/erikatirpitzgangl/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/f1nn5ter/videos?filter=all&sort=time"
@@ -124,4 +125,4 @@ tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/xychelsea87/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/yakirisu/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/yifanlu/videos?filter=all&sort=time"
-tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/zonesama/videos?filter=all&sort=time"
+tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/zonesama/videos?filter=all"
