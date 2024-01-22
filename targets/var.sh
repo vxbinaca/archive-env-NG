@@ -195,8 +195,8 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCxxzUlLH11Q99yBH-w0v5oQ/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCyWnfUZHcgVxBS3wAUGA15A/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCypv3gnAf-Ww4-iJ6fYc0cg/videos
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/@sashagrey/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/@sashagrey/streams
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/@sashagrey/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/FileNotFoundStudios/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/VinceManciniComedy /videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/WoodRocketTV/videos
@@ -235,6 +235,8 @@ tubeup --use-download-archive http://youtube.com/@dannphan/shorts
 tubeup --use-download-archive http://youtube.com/@dannphan/streams
 tubeup --use-download-archive http://youtube.com/@dannphan/videos
 tubeup --use-download-archive http://youtube.com/@five-meo.education/videos
+tubeup --use-download-archive http://youtube.com/@foslerfer/streams 
+tubeup --use-download-archive http://youtube.com/@foslerfer/videos 
 tubeup --use-download-archive http://youtube.com/@greendoorpodcast8393/videos
 tubeup --use-download-archive http://youtube.com/@junelovejoyofficial/streams http://youtube.com/c/PositiveSmash420/streams http://youtube.com/@junelovejoyofficial/videos http://youtube.com/@junelovejoyofficial/videos
 tubeup --use-download-archive http://youtube.com/@lelabodemichel5162/videos
@@ -244,9 +246,14 @@ tubeup --use-download-archive http://youtube.com/@loserlex/videos
 tubeup --use-download-archive http://youtube.com/@marismoodswings/videos 
 tubeup --use-download-archive http://youtube.com/@minus_855/shorts
 tubeup --use-download-archive http://youtube.com/@minus_855/videos
+tubeup --use-download-archive http://youtube.com/@moxifloxi
 tubeup --use-download-archive http://youtube.com/@mummelade3072/videos 
+tubeup --use-download-archive http://youtube.com/@onlysamsof/shorts 
+tubeup --use-download-archive http://youtube.com/@onlysamsof/videos 
 tubeup --use-download-archive http://youtube.com/@peacockprotestations/videos
+tubeup --use-download-archive http://youtube.com/@peepoextras/videos 
 tubeup --use-download-archive http://youtube.com/@sashagrey/streams
+tubeup --use-download-archive http://youtube.com/@speedoru 
 tubeup --use-download-archive http://youtube.com/@supervsalt/shorts
 tubeup --use-download-archive http://youtube.com/@supervsalt/streams 
 tubeup --use-download-archive http://youtube.com/@supervsalt/videos 
