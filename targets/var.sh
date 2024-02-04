@@ -168,7 +168,7 @@
 ## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3Sm9GeLi1wDRToAuXLJ0dQ/videos ## Spicy Rice gaming
 ## tubeup --use-download-archive http://youtube.com/c/DimaSakharov/shorts ## SCRIPT KILLER
 ## tubeup --use-download-archive http://youtube.com/c/DimaSakharov/videos ## SCRIPT KILLER
-tubeup --use-download-archive --metadata=collection:naomiwuarchive --metadata=licenseurl:http://creativecommons.org/licenses/by-sa/4.0/ http://youtube.com/channel/UCh_ugKacslKhsGGdXP0cRRA/videos
+tubeup --use-download-archive --metadata=collection:naomiwuarchive --metadata=licenseurl:http://creativecommons.org/licenses/by-sa/4.0/ https://www.youtube.com/@Naomi-Wu 
 tubeup --use-download-archive --metadata=collection:randytaylor69archive http://youtube.com/user/randytaylor69/videos
 tubeup --use-download-archive --metadata=collection:randytaylor69archive http://youtube.com/user/roseplaysgames/videos
 tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/shorts ## Anita Sarkeesian channel/collection
