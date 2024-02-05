@@ -476,3 +476,4 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/ch
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/COBMetalHead/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/tf2thewinglet/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/@ForceBallFx/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://www.youtube.com/user/komori841/videos
