@@ -166,45 +166,61 @@
 # tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/katTcritic/videos ##NJ nerds
 ## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3Sm9GeLi1wDRToAuXLJ0dQ/shorts ## Spicy Rice gaming
 ## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3Sm9GeLi1wDRToAuXLJ0dQ/videos ## Spicy Rice gaming
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/HypotheDragon ### Terminated
 ## tubeup --use-download-archive http://youtube.com/c/DimaSakharov/shorts ## SCRIPT KILLER
 ## tubeup --use-download-archive http://youtube.com/c/DimaSakharov/videos ## SCRIPT KILLER
-tubeup --use-download-archive --metadata=collection:naomiwuarchive --metadata=licenseurl:http://creativecommons.org/licenses/by-sa/4.0/ https://www.youtube.com/@Naomi-Wu 
+tubeup --use-download-archive --metadata=collection:louislevauvideos http://youtube.com/channel/UC4k3HO5n3aSq_bayF-UHiGg/videos
+tubeup --use-download-archive --metadata=collection:louislevauvideos http://youtube.com/channel/UCeMjvwNw3vvsY_nJUG1amFg
+tubeup --use-download-archive --metadata=collection:naomiwuarchive --metadata=licenseurl:http://creativecommons.org/licenses/by-sa/4.0/ http://youtube.com/@Naomi-Wu 
 tubeup --use-download-archive --metadata=collection:randytaylor69archive http://youtube.com/user/randytaylor69/videos
 tubeup --use-download-archive --metadata=collection:randytaylor69archive http://youtube.com/user/roseplaysgames/videos
 tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/shorts ## Anita Sarkeesian channel/collection
 tubeup --use-download-archive --metadata=collection:sarkeesianvideos http://youtube.com/user/feministfrequency/videos ## Anita Sarkeesian channel/collection
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/@ForceBallFx/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/RileyReidx3/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC071DPKFZzOf-GkGZ7-zbGQ/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC0PRAmDHDdcfPLlEVUoNs0w/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC0_TARSGSOrKtjSeyKIM6wA/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC5Bwuy_YTOB7YbOPrkb9vVg/videos ## Fetties
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCA9azGE1WiIZAG9PCD5JaYQ/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCLLi4qLYWPD2mYb-niJLy5w/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCOFp1Y8QmsDXREfK8NZag1g/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCOOIibe-CCdC0VWlvCjf0qw/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCPcTxQpqGT6JQxZ0zVnZ13w/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCS5jTl5mDs2XY3eR9XkpUtQ/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCTulpxDN56BLbhqiyqQgFHg/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCUnMAR2VCFgT7uK62979CsQ/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCVyohBi1KHjyUooB_8nXhDg/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCWMPmKJ8GmmUvI5ZC0V2VsA/videos ## Mercedes Carrera
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCWkdWGNQIYfqgdfhU-59Wng/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCXjkPQN193ToX487P6Bcc0A/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCXvKUavCtDOlA8bT1i2tI3w/videos ## Belle Delphine
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC_j65wgy_u3mycNCn_7D2Fw/videos ## Indigo White
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC_waCFCtUJpkkUxftNCbOBA/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC_xUE642R1lXtSGuIPhg6gg/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCe-R3nqJVdW-xWV5rfcbK7A/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCgqXdQDUUynay5zG3pmLWTw/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw/shorts ## えむゆみカップル Emuyumi Couple
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UClvrch6lhUO4bDH3ARSdLXw/videos ## えむゆみカップル Emuyumi Couple
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCmyiBfu_idd4fdSQuA6yjew/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCoRmKIwJAUn_qz1sbS4R94Q/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCxxzUlLH11Q99yBH-w0v5oQ/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCyWnfUZHcgVxBS3wAUGA15A/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCypv3gnAf-Ww4-iJ6fYc0cg/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/@sashagrey/streams
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/@sashagrey/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/COBMetalHead/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/FileNotFoundStudios/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/VinceManciniComedy /videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/WoodRocketTV/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/altexclusive/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/cnieratko/videos/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/emmnetwork/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/komori841/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/modelmayhemofficial/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/officialbreeolson9/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/r0pav/videos
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/tf2thewinglet/videos
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/xoClaireRobbins/videos
 tubeup --use-download-archive --metadata=collection:veevideos http://youtube.com/channel/UCPOtvnTOJVuqf6U0x5DKWcA/videos
 tubeup --use-download-archive --metadata=collection:veevideos http://youtube.com/user/veemonro/videos
@@ -228,6 +244,7 @@ tubeup --use-download-archive http://youtube.com/@TeenyGinger/shorts
 tubeup --use-download-archive http://youtube.com/@TeenyGinger/videos
 tubeup --use-download-archive http://youtube.com/@ThePiperBlushRadioShow/streams
 tubeup --use-download-archive http://youtube.com/@ThePiperBlushRadioShow/videos
+tubeup --use-download-archive http://youtube.com/@The_Smuggler_
 tubeup --use-download-archive http://youtube.com/@TrashTaste/videos
 tubeup --use-download-archive http://youtube.com/@amyleigh7624
 tubeup --use-download-archive http://youtube.com/@artbybluefox/videos 
@@ -467,19 +484,3 @@ tubeup --use-download-archive http://youtube.com/user/rockinbonesvideo/videos
 tubeup --use-download-archive http://youtube.com/user/smiletone/videos ## Gazi Kodzo
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/shorts
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/videos
-## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/HypotheDragon ### Terminated
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC0PRAmDHDdcfPLlEVUoNs0w/videos
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCOFp1Y8QmsDXREfK8NZag1g/videos
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCUnMAR2VCFgT7uK62979CsQ/videos
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC_xUE642R1lXtSGuIPhg6gg/videos
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCmyiBfu_idd4fdSQuA6yjew/videos
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/COBMetalHead/videos
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/tf2thewinglet/videos
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/@ForceBallFx/videos
-tubeup --use-download-archive --metadata=collection:tubeup http://www.youtube.com/user/komori841/videos
-tubeup --use-download-archive --metadata=collection:louislevauvideos http://www.youtube.com/channel/UC4k3HO5n3aSq_bayF-UHiGg/videos
-tubeup --use-download-archive --metadata=collection:louislevauvideos http://www.youtube.com/channel/UCeMjvwNw3vvsY_nJUG1amFg
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/r0pav/videos
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCA9azGE1WiIZAG9PCD5JaYQ/videos
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCWkdWGNQIYfqgdfhU-59Wng/videos
-tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC_waCFCtUJpkkUxftNCbOBA/videos
