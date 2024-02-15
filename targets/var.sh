@@ -246,6 +246,7 @@ tubeup --use-download-archive http://youtube.com/@ThePiperBlushRadioShow/streams
 tubeup --use-download-archive http://youtube.com/@ThePiperBlushRadioShow/videos
 tubeup --use-download-archive http://youtube.com/@The_Smuggler_
 tubeup --use-download-archive http://youtube.com/@TrashTaste/videos
+tubeup --use-download-archive http://youtube.com/@alexandrawett969/videos
 tubeup --use-download-archive http://youtube.com/@amyleigh7624
 tubeup --use-download-archive http://youtube.com/@artbybluefox/videos 
 tubeup --use-download-archive http://youtube.com/@dannphan/shorts
