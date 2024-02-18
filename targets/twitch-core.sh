@@ -35,6 +35,7 @@ tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/ivyleegaming/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/jadevow/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/jellykin/videos?filter=all&sort=time"
+tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/jocelynonline/videos?filter=all"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/kajin_man/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/keffals/videos\?filter\=all"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/kimimoons/videos?filter=all&sort=time"
