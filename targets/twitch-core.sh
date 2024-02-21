@@ -17,6 +17,7 @@ tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/canadiankaseyk/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/caroline_konstnar/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/catboiaoi/videos?filter=all&sort=time"
+tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/chancocat/videos?filter=archives&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/charlscarroll/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/chubbykittengaming/videos?filter=all&sort=time"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/creativeganjaqween/videos\?filter\=all\&sort\=time"
