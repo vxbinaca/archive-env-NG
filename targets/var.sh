@@ -236,6 +236,7 @@ tubeup --use-download-archive http://youtube.com/@LASTCALLPodcastCC/videos
 tubeup --use-download-archive http://youtube.com/@ProjektMelody/videos
 tubeup --use-download-archive http://youtube.com/@SecurityGuy42/videos
 tubeup --use-download-archive http://youtube.com/@SierraRhodes_/shorts
+tubeup --use-download-archive http://youtube.com/@SierraRhodes_/videos
 tubeup --use-download-archive http://youtube.com/@Sofilein/streams
 tubeup --use-download-archive http://youtube.com/@Sofilein/videos
 tubeup --use-download-archive http://youtube.com/@Strawbeariemilkk69/videos
