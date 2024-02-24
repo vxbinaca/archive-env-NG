@@ -4,6 +4,7 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/@H
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/@HoffmanTactical/videos ## creator:"Hoffman Tactical"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/@ProtoFirearms/videos ## creator:"Protofirearms"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/@marina.haines2109/videos ## creator:"Marina.Haines"
+tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/@nopel6137 ## creator:"nopel6137"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/AreWeCoolYet-/videos ## creator:"Are We cool Yet?"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/FuddBusters/videos ## creator:"Fudd Busters"
 tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/c/GunnyMcGunsmith/videos ## creator:"Gunny McGunsmith"
