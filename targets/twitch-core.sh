@@ -130,6 +130,7 @@ tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch
 tubeup --use-download-archive --metadata=collection:twitchstreams "https://www.twitch.tv/dani3ll3live/videos?filter=all"
 tubeup --use-download-archive --metadata=collection:twitchstreams "https://www.twitch.tv/growpotcheaply/videos?filter=all"
 tubeup --use-download-archive --metadata=collection:twitchstreams "https://www.twitch.tv/highigan/videos?filter=all"
+tubeup --use-download-archive --metadata=collection:twitchstreams "https://www.twitch.tv/its_bunnii/videos?filter=all"
 tubeup --use-download-archive --metadata=collection:twitchstreams "https://www.twitch.tv/kunvrsingh/videos?filter=all"
 tubeup --use-download-archive --metadata=collection:twitchstreams "https://www.twitch.tv/pigeons420/videos?filter=all"
 tubeup --use-download-archive --metadata=collection:twitchstreams "https://www.twitch.tv/therawog/videos?filter=all"
