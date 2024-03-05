@@ -55,7 +55,7 @@ tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/kushbushcrits/all/videos?filter=all"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/kyleeasakura/videos?filter=all"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/lanabeetwitch/videos?filter=all"
-tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/lanabeetwitch/videos?filter=all""
+tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/lanabeetwitch/videos?filter=all"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/lanarainofficial/videos?filter=all"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/laurensouthernlive/videos?filter=all"
 tubeup --use-download-archive --metadata=collection:twitchstreams "http://twitch.tv/lifeasmiyuki/videos?filter=all"
