@@ -57,3 +57,11 @@ iagitup http://github.com/voat/voat
 iagitup http://github.com/wifiphisher/wifiphisher
 iagitup http://github.com/xenia-canary/xenia-canary
 iagitup http://github.com/yt-dlp/yt-dlp
+iagitup http://github.com/V10lator/NUSspli 
+iagitup http://github.com/Pokes303/WUPDownloader
+iagitup http://github.com/GaryOderNichts/Bloopair
+iagitup http://github.com/GaryOderNichts/StadiaController
+iagitup http://github.com/GaryOderNichts/recovery_menu
+iagitup http://github.com/GaryOderNichts/udpih
+iagitup http://github.com/GaryOderNichts/DNSpresso
+iagitup http://github.com/GaryOderNichts/bluubomb
