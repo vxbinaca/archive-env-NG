@@ -85,6 +85,10 @@ iagitup http://github.com/qarmin/czkawka
 iagitup http://github.com/qbittorrent/qBittorrent 
 iagitup http://github.com/qntm/base65536
 iagitup http://github.com/rdanbrook/nestopia
+iagitup http://github.com/redolution/Devkitpro-installer
+iagitup http://github.com/redolution/cubane
+iagitup http://github.com/redolution/gc-linux
+iagitup http://github.com/redolution/iplboot
 iagitup http://github.com/reswitched/CageTheUnicorn
 iagitup http://github.com/rg3/youtube-dl
 iagitup http://github.com/snes9xgit/snes9x 
