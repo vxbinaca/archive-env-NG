@@ -491,4 +491,6 @@ tubeup --use-download-archive http://youtube.com/@LanaBee/videos
 tubeup --use-download-archive http://youtube.com/@BiancaExciana/streams 
 tubeup --use-download-archive http://youtube.com/@BiancaExciana/videos
 tubeup --use-download-archive http://youtube.com/@BiancaExciana/shorts
-
+tubeup --use-download-archive http://youtube.com/@lustfulgeeks/videos 
+tubeup --use-download-archive http://youtube.com/@lustfulgeeks/streams 
+tubeup --use-download-archive http://youtube.com/@lustfulgeeks/shorts
