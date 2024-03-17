@@ -225,14 +225,17 @@ tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/us
 tubeup --use-download-archive --metadata=collection:veevideos http://youtube.com/channel/UCPOtvnTOJVuqf6U0x5DKWcA/videos
 tubeup --use-download-archive --metadata=collection:veevideos http://youtube.com/user/veemonro/videos
 tubeup --use-download-archive http://youtube.com/@AsagisLifeNoBSJapan/streams
+tubeup --use-download-archive http://youtube.com/@BiancaExciana/streams http://youtube.com/@BiancaExciana/videos http://youtube.com/@BiancaExciana/shorts
 tubeup --use-download-archive http://youtube.com/@ColdCutsPod/videos
 tubeup --use-download-archive http://youtube.com/@DuggyComic-sg4cz/videos 
 tubeup --use-download-archive http://youtube.com/@Ensemble_GAP/videos
 tubeup --use-download-archive http://youtube.com/@EvieLupine/videos
+tubeup --use-download-archive http://youtube.com/@ForestMommy/streams http://youtube.com/@ForestMommy/videos
 tubeup --use-download-archive http://youtube.com/@GirlsonPrn/videos
 tubeup --use-download-archive http://youtube.com/@Japanexplorer1/streams
 tubeup --use-download-archive http://youtube.com/@Japanexplorer1/videos
 tubeup --use-download-archive http://youtube.com/@LASTCALLPodcastCC/videos
+tubeup --use-download-archive http://youtube.com/@LanaBee/streams http://youtube.com/@LanaBee/videos
 tubeup --use-download-archive http://youtube.com/@ProjektMelody/videos
 tubeup --use-download-archive http://youtube.com/@SecurityGuy42/videos
 tubeup --use-download-archive http://youtube.com/@SierraRhodes_/shorts
@@ -256,12 +259,14 @@ tubeup --use-download-archive http://youtube.com/@dannphan/videos
 tubeup --use-download-archive http://youtube.com/@five-meo.education/videos
 tubeup --use-download-archive http://youtube.com/@foslerfer/streams 
 tubeup --use-download-archive http://youtube.com/@foslerfer/videos 
+tubeup --use-download-archive http://youtube.com/@garagechem/videos http://youtube.com/@garagechem/streams  
 tubeup --use-download-archive http://youtube.com/@greendoorpodcast8393/videos
 tubeup --use-download-archive http://youtube.com/@junelovejoyofficial/streams http://youtube.com/c/PositiveSmash420/streams http://youtube.com/@junelovejoyofficial/videos http://youtube.com/@junelovejoyofficial/videos
 tubeup --use-download-archive http://youtube.com/@lelabodemichel5162/videos
 tubeup --use-download-archive http://youtube.com/@loserlex/shorts 
 tubeup --use-download-archive http://youtube.com/@loserlex/streams
 tubeup --use-download-archive http://youtube.com/@loserlex/videos 
+tubeup --use-download-archive http://youtube.com/@lustfulgeeks/videos http://youtube.com/@lustfulgeeks/streams http://youtube.com/@lustfulgeeks/shorts
 tubeup --use-download-archive http://youtube.com/@marismoodswings/videos 
 tubeup --use-download-archive http://youtube.com/@minus_855/shorts
 tubeup --use-download-archive http://youtube.com/@minus_855/videos
@@ -476,7 +481,3 @@ tubeup --use-download-archive http://youtube.com/user/michaelfromberg/videos
 tubeup --use-download-archive http://youtube.com/user/rockinbonesvideo/videos
 tubeup --use-download-archive http://youtube.com/user/smiletone/videos ## Gazi Kodzo
 tubeup --use-download-archive http://youtube.com/user/sydsnapva/shorts http://youtube.com/user/sydsnapva/videos
-tubeup --use-download-archive http://youtube.com/@LanaBee/streams http://youtube.com/@LanaBee/videos
-tubeup --use-download-archive http://youtube.com/@BiancaExciana/streams http://youtube.com/@BiancaExciana/videos http://youtube.com/@BiancaExciana/shorts
-tubeup --use-download-archive http://youtube.com/@lustfulgeeks/videos http://youtube.com/@lustfulgeeks/streams http://youtube.com/@lustfulgeeks/shorts
-tubeup --use-download-archive http://youtube.com/@ForestMommy/streams http://youtube.com/@ForestMommy/videos 
