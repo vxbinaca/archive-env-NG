@@ -140,35 +140,35 @@
  tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/stevieryan 
  tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/veradevera  
  tubeup --use-download-archive http://youtube.com/@davidturecamo/videos
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCB5Yw6r20bTrkZZDS_EnNvg/shorts ## DEAD
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCB5Yw6r20bTrkZZDS_EnNvg/videos ## DEAD
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCG5ZWGfgDXk40t9Og02F5yA/shorts ## TERMINATED
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCG5ZWGfgDXk40t9Og02F5yA/videos ## TERMINATED
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCKH9HfYY_GEcyltl2mbD5lA/shorts ##NJ nerds
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCKH9HfYY_GEcyltl2mbD5lA/videos ##NJ nerds
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCNEo4Lb14UTkcqBZ9nKwyTg/shorts ## DOES NOT EXIST
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCNEo4Lb14UTkcqBZ9nKwyTg/videos ## DOES NOT EXIST
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCS6F1cpcSoJkztme19_KIzw/shorts ## DOES NOY EXIST
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCS6F1cpcSoJkztme19_KIzw/videos ## DOES NOY EXIST
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCZZFrPKyH-Le2uoPGnn5jyg/shorts ## TERMINATED
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCZZFrPKyH-Le2uoPGnn5jyg/videos ## TERMINATED
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC_-9rxe8VZI-tUQJWEig4mA/shorts ##NJ nerds
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC_-9rxe8VZI-tUQJWEig4mA/videos ##NJ nerds
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCdpkbiiCFHVPZrSYEEWyDdw/shorts ## TERMINATED
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCdpkbiiCFHVPZrSYEEWyDdw/videos ## TERMINATED
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCnbUeHmpeHAX3xED4fRXKeg/shorts ## Vaporwave
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCnbUeHmpeHAX3xED4fRXKeg/videos ## Vaporwave
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/ejmillennium/shorts ##NJ nerds
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/ejmillennium/videos ##NJ nerds
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/gotenks6/shorts ##NJ nerds
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/gotenks6/videos ##NJ nerds
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/katTcritic/shorts ##NJ nerds
-# tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/katTcritic/videos ##NJ nerds
 ## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3Sm9GeLi1wDRToAuXLJ0dQ/shorts ## Spicy Rice gaming
 ## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC3Sm9GeLi1wDRToAuXLJ0dQ/videos ## Spicy Rice gaming
-## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/HypotheDragon ### Terminated
-## tubeup --use-download-archive http://youtube.com/c/DimaSakharov/shorts ## SCRIPT KILLER
-## tubeup --use-download-archive http://youtube.com/c/DimaSakharov/videos ## SCRIPT KILLER
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCB5Yw6r20bTrkZZDS_EnNvg/shorts ## DEAD
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCB5Yw6r20bTrkZZDS_EnNvg/videos ## DEAD
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCG5ZWGfgDXk40t9Og02F5yA/shorts ## TERMINATED
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCG5ZWGfgDXk40t9Og02F5yA/videos ## TERMINATED
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCKH9HfYY_GEcyltl2mbD5lA/shorts ## NJ nerds
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCKH9HfYY_GEcyltl2mbD5lA/videos ## NJ nerds
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCNEo4Lb14UTkcqBZ9nKwyTg/shorts ## DOES NOT EXIST
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCNEo4Lb14UTkcqBZ9nKwyTg/videos ## DOES NOT EXIST
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCS6F1cpcSoJkztme19_KIzw/shorts ## DOES NOY EXIST
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCS6F1cpcSoJkztme19_KIzw/videos ## DOES NOY EXIST
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCZZFrPKyH-Le2uoPGnn5jyg/shorts ## TERMINATED
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCZZFrPKyH-Le2uoPGnn5jyg/videos ## TERMINATED
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC_-9rxe8VZI-tUQJWEig4mA/shorts ##NJ nerds
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UC_-9rxe8VZI-tUQJWEig4mA/videos ##NJ nerds
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCdpkbiiCFHVPZrSYEEWyDdw/shorts ## TERMINATED
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCdpkbiiCFHVPZrSYEEWyDdw/videos ## TERMINATED
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCnbUeHmpeHAX3xED4fRXKeg/shorts ## Vaporwave
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/channel/UCnbUeHmpeHAX3xED4fRXKeg/videos ## Vaporwave
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/HypotheDragon ## Terminated
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/ejmillennium/shorts ## NJ nerds
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/ejmillennium/videos ## NJ nerds
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/gotenks6/shorts ## NJ nerds
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/gotenks6/videos ## NJ nerds
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/katTcritic/shorts ## NJ nerds
+## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/katTcritic/videos ## NJ nerds
+tubeup --use-download-archive http://youtube.com/c/DimaSakharov/shorts ## SCRIPT KILLER
+tubeup --use-download-archive http://youtube.com/c/DimaSakharov/videos ## SCRIPT KILLER
 tubeup --use-download-archive --metadata=collection:louislevauvideos http://youtube.com/channel/UC4k3HO5n3aSq_bayF-UHiGg/videos
 tubeup --use-download-archive --metadata=collection:louislevauvideos http://youtube.com/channel/UCeMjvwNw3vvsY_nJUG1amFg
 tubeup --use-download-archive --metadata=collection:naomiwuarchive --metadata=licenseurl:http://creativecommons.org/licenses/by-sa/4.0/ http://youtube.com/@Naomi-Wu 
@@ -399,13 +399,17 @@ tubeup --use-download-archive http://youtube.com/channel/UCIE1-AjN5_Kf0naxI94qmz
 tubeup --use-download-archive http://youtube.com/channel/UCIE1-AjN5_Kf0naxI94qmzQ/videos
 tubeup --use-download-archive http://youtube.com/channel/UCIqyFzDuFim0B_UaKROeGqw/shorts ## Run Girls, Run!公式チャンネル
 tubeup --use-download-archive http://youtube.com/channel/UCIqyFzDuFim0B_UaKROeGqw/videos ## Run Girls, Run!公式チャンネル
-tubeup --use-download-archive http://youtube.com/channel/UCJil534CSR8m5BeQVPkTx4Q/shorts http://youtube.com/channel/UCJil534CSR8m5BeQVPkTx4Q/videos
-tubeup --use-download-archive http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w/shorts http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w/videos ## Brittany Venti
-tubeup --use-download-archive http://youtube.com/channel/UCLTaIg3ZYGypdn0k2DZzF7A/shorts http://youtube.com/channel/UCLTaIg3ZYGypdn0k2DZzF7A/videos ## TrueCrime
+tubeup --use-download-archive http://youtube.com/channel/UCJil534CSR8m5BeQVPkTx4Q/shorts 
+tubeup --use-download-archive http://youtube.com/channel/UCJil534CSR8m5BeQVPkTx4Q/videos
+tubeup --use-download-archive http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w/shortstubeup --use-download-archive http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w/videos
+tubeup --use-download-archive http://youtube.com/channel/UCLTaIg3ZYGypdn0k2DZzF7A/shorts 
+tubeup --use-download-archive http://youtube.com/channel/UCLTaIg3ZYGypdn0k2DZzF7A/videos ## TrueCrime
 tubeup --use-download-archive http://youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q ## Jordan Peterson
-tubeup --use-download-archive http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA/shorts http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA/videos ## Muni Bug
+tubeup --use-download-archive http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA/shorts 
+tubeup --use-download-archive http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA/videos ## Muni Bug
 tubeup --use-download-archive http://youtube.com/channel/UCOQf-gwtokF6v3_3qeTD7fA/videos
-tubeup --use-download-archive http://youtube.com/channel/UCOh33eMeb5Ids_nteQkp_2w/shorts http://youtube.com/channel/UCOh33eMeb5Ids_nteQkp_2w/videos ## Modelo Julinha
+tubeup --use-download-archive http://youtube.com/channel/UCOh33eMeb5Ids_nteQkp_2w/shorts 
+tubeup --use-download-archive http://youtube.com/channel/UCOh33eMeb5Ids_nteQkp_2w/videos ## Modelo Julinha
 tubeup --use-download-archive http://youtube.com/channel/UCSRfRHYTw9eeZ-65dX1s_nQ/shorts
 tubeup --use-download-archive http://youtube.com/channel/UCSRfRHYTw9eeZ-65dX1s_nQ/videos
 tubeup --use-download-archive http://youtube.com/channel/UCT7BLBDnD-wEXeqZSg24aJw ## Soph
