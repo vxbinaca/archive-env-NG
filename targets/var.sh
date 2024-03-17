@@ -167,8 +167,6 @@
 ## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/gotenks6/videos ## NJ nerds
 ## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/katTcritic/shorts ## NJ nerds
 ## tubeup --use-download-archive --metadata=collection:tubeup http://youtube.com/user/katTcritic/videos ## NJ nerds
-tubeup --use-download-archive http://youtube.com/c/DimaSakharov/shorts ## SCRIPT KILLER
-tubeup --use-download-archive http://youtube.com/c/DimaSakharov/videos ## SCRIPT KILLER
 tubeup --use-download-archive --metadata=collection:louislevauvideos http://youtube.com/channel/UC4k3HO5n3aSq_bayF-UHiGg/videos
 tubeup --use-download-archive --metadata=collection:louislevauvideos http://youtube.com/channel/UCeMjvwNw3vvsY_nJUG1amFg
 tubeup --use-download-archive --metadata=collection:naomiwuarchive --metadata=licenseurl:http://creativecommons.org/licenses/by-sa/4.0/ http://youtube.com/@Naomi-Wu 
@@ -259,14 +257,18 @@ tubeup --use-download-archive http://youtube.com/@dannphan/videos
 tubeup --use-download-archive http://youtube.com/@five-meo.education/videos
 tubeup --use-download-archive http://youtube.com/@foslerfer/streams 
 tubeup --use-download-archive http://youtube.com/@foslerfer/videos 
-tubeup --use-download-archive http://youtube.com/@garagechem/videos http://youtube.com/@garagechem/streams  
+tubeup --use-download-archive http://youtube.com/@garagechem/shorts 
+tubeup --use-download-archive http://youtube.com/@garagechem/videos 
 tubeup --use-download-archive http://youtube.com/@greendoorpodcast8393/videos
-tubeup --use-download-archive http://youtube.com/@junelovejoyofficial/streams http://youtube.com/c/PositiveSmash420/streams http://youtube.com/@junelovejoyofficial/videos http://youtube.com/@junelovejoyofficial/videos
+tubeup --use-download-archive http://youtube.com/@junelovejoyofficial/streams 
+tubeup --use-download-archive http://youtube.com/@junelovejoyofficial/videos 
 tubeup --use-download-archive http://youtube.com/@lelabodemichel5162/videos
 tubeup --use-download-archive http://youtube.com/@loserlex/shorts 
 tubeup --use-download-archive http://youtube.com/@loserlex/streams
 tubeup --use-download-archive http://youtube.com/@loserlex/videos 
-tubeup --use-download-archive http://youtube.com/@lustfulgeeks/videos http://youtube.com/@lustfulgeeks/streams http://youtube.com/@lustfulgeeks/shorts
+tubeup --use-download-archive http://youtube.com/@lustfulgeeks/shorts
+tubeup --use-download-archive http://youtube.com/@lustfulgeeks/streams 
+tubeup --use-download-archive http://youtube.com/@lustfulgeeks/videos 
 tubeup --use-download-archive http://youtube.com/@marismoodswings/videos 
 tubeup --use-download-archive http://youtube.com/@minus_855/shorts
 tubeup --use-download-archive http://youtube.com/@minus_855/videos
@@ -302,6 +304,8 @@ tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse/shorts
 tubeup --use-download-archive http://youtube.com/c/ChapoTrapHouse/videos
 tubeup --use-download-archive http://youtube.com/c/Derpixon/shorts/shorts
 tubeup --use-download-archive http://youtube.com/c/Derpixon/videos/videos
+tubeup --use-download-archive http://youtube.com/c/DimaSakharov/shorts ## SCRIPT KILLER
+tubeup --use-download-archive http://youtube.com/c/DimaSakharov/videos ## SCRIPT KILLER
 tubeup --use-download-archive http://youtube.com/c/DimitriMonroeStreams/shorts
 tubeup --use-download-archive http://youtube.com/c/DimitriMonroeStreams/videos
 tubeup --use-download-archive http://youtube.com/c/EvieLupine/videos
@@ -467,11 +471,15 @@ tubeup --use-download-archive http://youtube.com/channel/UCy-tM_x3EJETWlqOPRNHea
 tubeup --use-download-archive http://youtube.com/channel/UCz5Kx6dP6rHRf9yLY1tnelw/shorts ## Octavius King
 tubeup --use-download-archive http://youtube.com/channel/UCz5Kx6dP6rHRf9yLY1tnelw/videos ## Octavius King
 tubeup --use-download-archive http://youtube.com/playlist\?list\=PLQtVfJZT3ELarvlwiyCOdvD7Fa1scAY_4
-tubeup --use-download-archive http://youtube.com/user/ClanOfTheGrayWolf/shorts http://youtube.com/user/ClanOfTheGrayWolf/videos
+tubeup --use-download-archive http://youtube.com/user/ClanOfTheGrayWolf/shorts 
+tubeup --use-download-archive http://youtube.com/user/ClanOfTheGrayWolf/videos
 tubeup --use-download-archive http://youtube.com/user/MissJennyDoll/videos
-tubeup --use-download-archive http://youtube.com/user/OtakuVsNotaku/shorts http://youtube.com/user/OtakuVsNotaku/videos 
-tubeup --use-download-archive http://youtube.com/user/Shoe0ffHead/shorts http://youtube.com/user/Shoe0ffHead/videos
-tubeup --use-download-archive http://youtube.com/user/Shoe0nHead/shorts http://youtube.com/user/Shoe0nHead/videos
+tubeup --use-download-archive http://youtube.com/user/OtakuVsNotaku/shorts 
+tubeup --use-download-archive http://youtube.com/user/OtakuVsNotaku/videos 
+tubeup --use-download-archive http://youtube.com/user/Shoe0ffHead/shorts 
+tubeup --use-download-archive http://youtube.com/user/Shoe0ffHead/videos
+tubeup --use-download-archive http://youtube.com/user/Shoe0nHead/shorts 
+tubeup --use-download-archive http://youtube.com/user/Shoe0nHead/videos
 tubeup --use-download-archive http://youtube.com/user/ThePopeB4G/shorts
 tubeup --use-download-archive http://youtube.com/user/ThePopeB4G/videos
 tubeup --use-download-archive http://youtube.com/user/VirtuallyNadine/videos
@@ -484,4 +492,5 @@ tubeup --use-download-archive http://youtube.com/user/jkeenanatstanford/videos
 tubeup --use-download-archive http://youtube.com/user/michaelfromberg/videos
 tubeup --use-download-archive http://youtube.com/user/rockinbonesvideo/videos
 tubeup --use-download-archive http://youtube.com/user/smiletone/videos ## Gazi Kodzo
-tubeup --use-download-archive http://youtube.com/user/sydsnapva/shorts http://youtube.com/user/sydsnapva/videos
+tubeup --use-download-archive http://youtube.com/user/sydsnapva/shorts 
+tubeup --use-download-archive http://youtube.com/user/sydsnapva/videos
