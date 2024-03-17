@@ -46,6 +46,7 @@ iagitup http://github.com/ares-emulator/ares
 iagitup http://github.com/asciimoo/drawille
 iagitup http://github.com/cat-milk/Anime-Girls-Holding-Programming-Books
 iagitup http://github.com/cemu-project/Cemu 
+iagitup http://github.com/cemu-project/cemu_graphic_packs
 iagitup http://github.com/christopherpow/nes-test-roms
 iagitup http://github.com/cjb/GitTorrent
 iagitup http://github.com/corna/me_cleaner
