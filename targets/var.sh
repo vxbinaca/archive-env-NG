@@ -394,18 +394,13 @@ tubeup --use-download-archive http://youtube.com/channel/UCIE1-AjN5_Kf0naxI94qmz
 tubeup --use-download-archive http://youtube.com/channel/UCIE1-AjN5_Kf0naxI94qmzQ/videos
 tubeup --use-download-archive http://youtube.com/channel/UCIqyFzDuFim0B_UaKROeGqw/shorts ## Run Girls, Run!公式チャンネル
 tubeup --use-download-archive http://youtube.com/channel/UCIqyFzDuFim0B_UaKROeGqw/videos ## Run Girls, Run!公式チャンネル
-tubeup --use-download-archive http://youtube.com/channel/UCJil534CSR8m5BeQVPkTx4Q/shorts
-tubeup --use-download-archive http://youtube.com/channel/UCJil534CSR8m5BeQVPkTx4Q/videos
-tubeup --use-download-archive http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w/shorts ## Brittany Venti
-tubeup --use-download-archive http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w/videos ## Brittany Venti
-tubeup --use-download-archive http://youtube.com/channel/UCLTaIg3ZYGypdn0k2DZzF7A/shorts ## TrueCrime
-tubeup --use-download-archive http://youtube.com/channel/UCLTaIg3ZYGypdn0k2DZzF7A/videos ## TrueCrime
+tubeup --use-download-archive http://youtube.com/channel/UCJil534CSR8m5BeQVPkTx4Q/shorts http://youtube.com/channel/UCJil534CSR8m5BeQVPkTx4Q/videos
+tubeup --use-download-archive http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w/shorts http://youtube.com/channel/UCLGRZ0xSaBMIUmtn8wkPP3w/videos ## Brittany Venti
+tubeup --use-download-archive http://youtube.com/channel/UCLTaIg3ZYGypdn0k2DZzF7A/shorts http://youtube.com/channel/UCLTaIg3ZYGypdn0k2DZzF7A/videos ## TrueCrime
 tubeup --use-download-archive http://youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q ## Jordan Peterson
-tubeup --use-download-archive http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA/shorts ## Muni Bug
-tubeup --use-download-archive http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA/videos ## Muni Bug
+tubeup --use-download-archive http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA/shorts http://youtube.com/channel/UCOBFhDxo5JKjaTzGotRntdA/videos ## Muni Bug
 tubeup --use-download-archive http://youtube.com/channel/UCOQf-gwtokF6v3_3qeTD7fA/videos
-tubeup --use-download-archive http://youtube.com/channel/UCOh33eMeb5Ids_nteQkp_2w/shorts ## Modelo Julinha
-tubeup --use-download-archive http://youtube.com/channel/UCOh33eMeb5Ids_nteQkp_2w/videos ## Modelo Julinha
+tubeup --use-download-archive http://youtube.com/channel/UCOh33eMeb5Ids_nteQkp_2w/shorts http://youtube.com/channel/UCOh33eMeb5Ids_nteQkp_2w/videos ## Modelo Julinha
 tubeup --use-download-archive http://youtube.com/channel/UCSRfRHYTw9eeZ-65dX1s_nQ/shorts
 tubeup --use-download-archive http://youtube.com/channel/UCSRfRHYTw9eeZ-65dX1s_nQ/videos
 tubeup --use-download-archive http://youtube.com/channel/UCT7BLBDnD-wEXeqZSg24aJw ## Soph
@@ -463,15 +458,11 @@ tubeup --use-download-archive http://youtube.com/channel/UCy-tM_x3EJETWlqOPRNHea
 tubeup --use-download-archive http://youtube.com/channel/UCz5Kx6dP6rHRf9yLY1tnelw/shorts ## Octavius King
 tubeup --use-download-archive http://youtube.com/channel/UCz5Kx6dP6rHRf9yLY1tnelw/videos ## Octavius King
 tubeup --use-download-archive http://youtube.com/playlist\?list\=PLQtVfJZT3ELarvlwiyCOdvD7Fa1scAY_4
-tubeup --use-download-archive http://youtube.com/user/ClanOfTheGrayWolf/shorts
-tubeup --use-download-archive http://youtube.com/user/ClanOfTheGrayWolf/videos
+tubeup --use-download-archive http://youtube.com/user/ClanOfTheGrayWolf/shorts http://youtube.com/user/ClanOfTheGrayWolf/videos
 tubeup --use-download-archive http://youtube.com/user/MissJennyDoll/videos
-tubeup --use-download-archive http://youtube.com/user/OtakuVsNotaku/shorts 
-tubeup --use-download-archive http://youtube.com/user/OtakuVsNotaku/videos 
-tubeup --use-download-archive http://youtube.com/user/Shoe0ffHead/shorts
-tubeup --use-download-archive http://youtube.com/user/Shoe0ffHead/videos
-tubeup --use-download-archive http://youtube.com/user/Shoe0nHead/shorts
-tubeup --use-download-archive http://youtube.com/user/Shoe0nHead/videos
+tubeup --use-download-archive http://youtube.com/user/OtakuVsNotaku/shorts http://youtube.com/user/OtakuVsNotaku/videos 
+tubeup --use-download-archive http://youtube.com/user/Shoe0ffHead/shorts http://youtube.com/user/Shoe0ffHead/videos
+tubeup --use-download-archive http://youtube.com/user/Shoe0nHead/shorts http://youtube.com/user/Shoe0nHead/videos
 tubeup --use-download-archive http://youtube.com/user/ThePopeB4G/shorts
 tubeup --use-download-archive http://youtube.com/user/ThePopeB4G/videos
 tubeup --use-download-archive http://youtube.com/user/VirtuallyNadine/videos
@@ -484,13 +475,8 @@ tubeup --use-download-archive http://youtube.com/user/jkeenanatstanford/videos
 tubeup --use-download-archive http://youtube.com/user/michaelfromberg/videos
 tubeup --use-download-archive http://youtube.com/user/rockinbonesvideo/videos
 tubeup --use-download-archive http://youtube.com/user/smiletone/videos ## Gazi Kodzo
-tubeup --use-download-archive http://youtube.com/user/sydsnapva/shorts
-tubeup --use-download-archive http://youtube.com/user/sydsnapva/videos
-tubeup --use-download-archive http://youtube.com/@LanaBee/streams
-tubeup --use-download-archive http://youtube.com/@LanaBee/videos
-tubeup --use-download-archive http://youtube.com/@BiancaExciana/streams 
-tubeup --use-download-archive http://youtube.com/@BiancaExciana/videos
-tubeup --use-download-archive http://youtube.com/@BiancaExciana/shorts
-tubeup --use-download-archive http://youtube.com/@lustfulgeeks/videos 
-tubeup --use-download-archive http://youtube.com/@lustfulgeeks/streams 
-tubeup --use-download-archive http://youtube.com/@lustfulgeeks/shorts
+tubeup --use-download-archive http://youtube.com/user/sydsnapva/shorts http://youtube.com/user/sydsnapva/videos
+tubeup --use-download-archive http://youtube.com/@LanaBee/streams http://youtube.com/@LanaBee/videos
+tubeup --use-download-archive http://youtube.com/@BiancaExciana/streams http://youtube.com/@BiancaExciana/videos http://youtube.com/@BiancaExciana/shorts
+tubeup --use-download-archive http://youtube.com/@lustfulgeeks/videos http://youtube.com/@lustfulgeeks/streams http://youtube.com/@lustfulgeeks/shorts
+tubeup --use-download-archive http://youtube.com/@ForestMommy/streams http://youtube.com/@ForestMommy/videos 
