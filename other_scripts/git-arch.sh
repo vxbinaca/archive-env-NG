@@ -32,6 +32,11 @@ iagitup http://github.com/OffBroadway/cubeboot
 iagitup http://github.com/OffBroadway/flippydrive
 iagitup http://github.com/PCSX2/pcsx2 
 iagitup http://github.com/Pokes303/WUPDownloader
+iagitup http://github.com/PretendoNetwork/Grove
+iagitup http://github.com/PretendoNetwork/Pretendo 
+iagitup http://github.com/PretendoNetwork/account
+iagitup http://github.com/PretendoNetwork/miiverse-api
+iagitup http://github.com/PretendoNetwork/nex
 iagitup http://github.com/RPCS3/rpcs3 
 iagitup http://github.com/Ralim/IronOS
 iagitup http://github.com/Rinnegatamante/rinCheat
@@ -95,12 +100,15 @@ iagitup http://github.com/rg3/youtube-dl
 iagitup http://github.com/snes9xgit/snes9x 
 iagitup http://github.com/soimort/you-get
 iagitup http://github.com/stenzek/duckstation
+iagitup http://github.com/suyu-emu/suyu
 iagitup http://github.com/torvalds/linux
 iagitup http://github.com/visible-cx/databroker_remover
 iagitup http://github.com/voat/voat
+iagitup http://github.com/weihuoya/citra
 iagitup http://github.com/wifiphisher/wifiphisher
 iagitup http://github.com/wipeout-phantom-edition/wipeout-phantom-edition
 iagitup http://github.com/xenia-canary/xenia-canary
 iagitup http://github.com/xenia-project/xenia-canary
 iagitup http://github.com/yt-dlp/yt-dlp
 iagitup http://github.com/zoogie/unSAFE_MODE
+iagitup http://gitlab.com/suyu-emu/suyu
