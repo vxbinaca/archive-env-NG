@@ -102,6 +102,7 @@ iagitup http://github.com/soimort/you-get
 iagitup http://github.com/stenzek/duckstation
 iagitup http://github.com/suyu-emu/suyu
 iagitup http://github.com/torvalds/linux
+iagitup http://github.com/tpunix/SAROO
 iagitup http://github.com/visible-cx/databroker_remover
 iagitup http://github.com/voat/voat
 iagitup http://github.com/weihuoya/citra
