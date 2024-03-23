@@ -324,7 +324,6 @@ gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/liseysweet/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/livelaughlove11/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/loanbui/
-gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/loanbui/ 
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/lobbiaz/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/m_fantasy-fest/
 gallery-dl --quiet --write-metadata --write-info-json --download-archive /media/sf_D_DRIVE/gallery-dl-DA.sqlite http://flickr.com/photos/magandadtg/
