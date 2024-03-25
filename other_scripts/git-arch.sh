@@ -29,6 +29,10 @@ iagitup http://github.com/ITotalJustice/sigpatch-updater
 iagitup http://github.com/Kudayasu/Artifice
 iagitup http://github.com/MechaResearch/MechaPwn
 iagitup http://github.com/Mefiresu/RSDKv5-Decompilation
+iagitup http://github.com/MiB64/MiB64
+iagitup http://github.com/MiSTer-devel/Downloader_MiSTer
+iagitup http://github.com/MiSTer-devel/Hardware_MiSTer
+iagitup http://github.com/MiSTer-devel/Main_MiSTer
 iagitup http://github.com/OffBroadway/cubeboot
 iagitup http://github.com/OffBroadway/flippydrive
 iagitup http://github.com/PCSX2/pcsx2 
@@ -61,6 +65,7 @@ iagitup http://github.com/cryptocat/crypt
 iagitup http://github.com/darthcloud/BlueRetro
 iagitup http://github.com/davebaol/d2x-cios
 iagitup http://github.com/dolphin-emu/dolphin 
+iagitup http://github.com/drojaazu/megadev
 iagitup http://github.com/dscrts/gay.pl
 iagitup http://github.com/ekeeke/Genesis-Plus-GX 
 iagitup http://github.com/emukidid/swiss-gc
@@ -87,6 +92,7 @@ iagitup http://github.com/offensive-security/cryptsetup-nuke-keys
 iagitup http://github.com/ogamespec/psxrev
 iagitup http://github.com/onionshare/onionshare
 iagitup http://github.com/phoboslab/wipeout-rewrite
+iagitup http://github.com/pj64team/Project64-Legacy
 iagitup http://github.com/ps2homebrew/Open-PS2-Loader
 iagitup http://github.com/qarmin/czkawka
 iagitup http://github.com/qbittorrent/qBittorrent 
@@ -98,6 +104,7 @@ iagitup http://github.com/redolution/gc-linux
 iagitup http://github.com/redolution/iplboot
 iagitup http://github.com/reswitched/CageTheUnicorn
 iagitup http://github.com/rg3/youtube-dl
+iagitup http://github.com/skyfloogle/red-viper
 iagitup http://github.com/snes9xgit/snes9x 
 iagitup http://github.com/soimort/you-get
 iagitup http://github.com/stenzek/duckstation
